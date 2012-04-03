@@ -1,0 +1,10 @@
+/* Styles for IE7 only */
+
+h1,h2{margin:7px 0px 5px 0px;letter-spacing:.1em;color:#067ea9}
+
+#quote h2{padding:10px 0px;}
+
+#footer{
+text-align:left;
+padding:2px 0px 7px 0px;
+}
