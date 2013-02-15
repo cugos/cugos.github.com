@@ -1,0 +1,20 @@
+---
+layout: default
+title: Archive
+---
+<div id="post">
+	<h2>Archive</h2>
+
+    <div class="entry">
+        <table>
+            {% for post in site.posts %}
+            <tr>
+                <td>&bull; &nbsp;<span class="date">{{ post.date | date_to_string }}</span></td>  
+                <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+                <td><span class="category"><small>{{post.categories | category_links}}</small></span></td>
+            </tr>
+    	{% endfor %}
+        </table>
+    </div>
+
+</div>

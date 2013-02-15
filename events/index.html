@@ -1,0 +1,19 @@
+---
+layout: default
+title: Events
+weight: 1
+---
+
+     <h2>Events</h2>
+{% for event in site.categories.event %}
+      <div class="row">
+        <div class="span12">
+          <div class="event">
+            <h3><a href={{ event.url }}>{{ event.title }}</a></h3>
+            <span class="date">{{ event.date | date_to_string }}</span>
+            <div class="entry">{{ event.content }}</div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+

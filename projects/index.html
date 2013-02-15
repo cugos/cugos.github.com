@@ -1,0 +1,19 @@
+---
+layout: default
+title: Projects
+weight: 4
+---
+
+     <h2>Projects</h2>
+{% for project in site.categories.project %}
+      <div class="row">
+        <div class="span12">
+          <div class="project">
+            <h3><a href={{ project.url }}>{{ project.title }}</a></h3>
+            <span class="date">{{ project.date | date_to_string }}</span>
+            <div class="entry">{{ project.content }}</div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+

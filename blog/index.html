@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog
+weight: 3
+---
+
+     <h2>Blog</h2>
+{% for blog in site.categories.blog %}
+      <div class="row">
+        <div class="span12">
+          <div class="blog">
+            <h3><a href={{ blog.url }}>{{ blog.title }}</a></h3>
+            <span class="date">{{ blog.date | date_to_string }}</span>
+            <div class="entry">{{ blog.content }}</div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+

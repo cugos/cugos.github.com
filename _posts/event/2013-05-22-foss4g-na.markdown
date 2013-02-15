@@ -1,0 +1,10 @@
+---
+layout: post
+title: Foss4g NA 2013
+category: event
+
+excerpt: Great Foss4g NA event for 2013
+---
+ 
+[Foss4g-na](http://foss4g-na.org/)
+
