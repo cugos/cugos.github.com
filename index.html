@@ -5,7 +5,7 @@ title: Home
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>CUGOS in Action</h1>
+        <h2 style="color:white;">CUGOS in Action</h2>
       </div>
 
       <!-- Example row of columns -->
@@ -14,10 +14,9 @@ title: Home
           <h2>Upcoming Events</h2>
 {% for event in site.categories.event limit: 2  %}
           <div class="event">
-            <h4>{{ event.title }}</h4>
+            <h4><a href={{ event.url }}>{{ event.title }}</a></h4>
             <span class="date">{{ event.date | date_to_string }}</span>
             <div class="entry">{{ event.excerpt }}</div>
-            <a class="btn" href="{{site.baseurl}}{{ event.url }}">Read More</a>
           </div>
 {% endfor %}
         </div>
@@ -25,10 +24,9 @@ title: Home
           <h2>Latest Blogs</h2>
 {% for blog in site.categories.blog limit: 2  %}
           <div class="blog">
-            <h4>{{ blog.title }}</h4>
+            <h4><a href={{ blog.url }}>{{ blog.title }}</a></h4>
             <span class="date">{{ blog.date | date_to_string }}</span>
             <div class="entry">{{ blog.excerpt }}</div>
-            <a class="btn" href="{{site.baseurl}}{{ blog.url }}">Read More</a>
           </div>
 {% endfor %}
        </div>
@@ -36,10 +34,9 @@ title: Home
           <h2>Latest Projects</h2>
 {% for project in site.categories.project limit: 2  %}
           <div class="project">
-            <h4>{{ project.title }}</h4>
+            <h4><a href={{ project.url }}>{{ project.title }}</a></h4>
             <span class="date">{{ project.date | date_to_string }}</span>
             <div class="entry">{{ project.excerpt }}</div>
-            <a class="btn" href="{{site.baseurl}}{{ project.url }}">Read More</a>
           </div>
 {% endfor %}
         </div>

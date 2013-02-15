@@ -2284,7 +2284,7 @@ table th[class*="span"],
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../img/glyphicons-halflings.png");
+  background-image: url("../image/glyphicons-halflings.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
 }
@@ -2308,7 +2308,7 @@ table th[class*="span"],
 .dropdown-submenu:focus > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"],
 .dropdown-submenu:focus > a > [class*=" icon-"] {
-  background-image: url("../img/glyphicons-halflings-white.png");
+  background-image: url("../image/glyphicons-halflings-white.png");
 }
 
 .icon-glass {
@@ -6118,6 +6118,8 @@ a.badge:focus {
   line-height: 31.5px;
   color: inherit;
   background-color: #eeeeee;
+  background-image: url(../image/opensource_final.png);
+  background-repeat: no-repeat;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
