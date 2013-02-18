@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-weight: 5
+weight: 6
 ---
 
 About

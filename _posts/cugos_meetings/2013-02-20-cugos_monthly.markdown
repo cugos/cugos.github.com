@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Feb Monthly Meeting 2013
-category: event
+title: Feb 20th 2013 - LizardTech
+category: cugos_meetings
 
 excerpt: Feb 2013 CUGOS Monthly Meeting at LizardTech (6pm)
 ---

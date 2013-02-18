@@ -1,0 +1,18 @@
+---
+layout: default
+title: People
+weight: 5
+---
+
+     <h2>People</h2>
+{% for person in site.categories.people %}
+      <div class="row">
+        <div class="span12">
+          <div class="person">
+            <h3><a href={{ person.url }}>{{ person.title }}</a></h3>
+            <div class="entry">{{ person.excerpt }}</div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+

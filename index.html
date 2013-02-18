@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+{% for meeting in site.categories.cugos_meetings limit: 1  %}
+      <div class="alert alert-info">
+        <h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4>
+      </div>
+{% endfor %}
+
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
         <h2 style="color:white;">CUGOS in Action</h2>
