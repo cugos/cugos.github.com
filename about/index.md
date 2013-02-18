@@ -1,7 +1,8 @@
 ---
 layout: default
 title: About
-weight: 6
+weight: 7
+permalink: /
 ---
 
 About

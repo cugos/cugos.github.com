@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Projects
-weight: 4
+weight: 5
+permalink: /
 ---
 
      <h2>Projects</h2>
-{% for project in site.categories.project %}
+{% for project in site.categories.projects %}
       <div class="row">
         <div class="span12">
           <div class="project">
             <h3><a href={{ project.url }}>{{ project.title }}</a></h3>
-            <span class="date">{{ project.date | date_to_string }}</span>
-            <div class="entry">{{ project.content }}</div>
+            <div class="entry">{{ project.excerpt }}</div>
           </div>
         </div>
       </div>

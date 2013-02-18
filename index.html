@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% for meeting in site.categories.cugos_meetings limit: 1  %}
+{% for meeting in site.categories.meetings limit: 1  %}
       <div class="alert alert-info">
         <h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4>
       </div>
@@ -18,7 +18,7 @@ title: Home
       <div class="row">
         <div class="span4">
           <h2>Upcoming Events</h2>
-{% for event in site.categories.event limit: 2  %}
+{% for event in site.categories.events limit: 2  %}
           <div class="event">
             <h4><a href={{ event.url }}>{{ event.title }}</a></h4>
             <span class="date">{{ event.date | date_to_string }}</span>
@@ -38,10 +38,9 @@ title: Home
        </div>
         <div class="span4">
           <h2>Latest Projects</h2>
-{% for project in site.categories.project limit: 2  %}
+{% for project in site.categories.projects limit: 2  %}
           <div class="project">
             <h4><a href={{ project.url }}>{{ project.title }}</a></h4>
-            <span class="date">{{ project.date | date_to_string }}</span>
             <div class="entry">{{ project.excerpt }}</div>
           </div>
 {% endfor %}

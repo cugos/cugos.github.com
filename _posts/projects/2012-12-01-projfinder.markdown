@@ -1,8 +1,9 @@
 ---
 layout: post
 title: ProjFinder
-category: project
+category: projects
 
+permalink: /projects/projfinder
 excerpt: Projection Finder project used for code sprints with CUGOS
 ---
  

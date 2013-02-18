@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentation1
-category: presentation
+category: presentations
 
 excerpt: Short text about presentation
 ---

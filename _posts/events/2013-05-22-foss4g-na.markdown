@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foss4g NA 2013
-category: event
+category: events
 
 excerpt: Great Foss4g NA event for 2013
 ---

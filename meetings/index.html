@@ -1,0 +1,20 @@
+---
+layout: default
+title: Meetings
+weight: 1
+permalink: /
+---
+
+     <h2>CUGOS Meetings</h2>
+{% for meeting in site.categories.meetings %}
+      <div class="row">
+        <div class="span12">
+          <div class="event">
+            <h3><a href={{ meeting.url }}>{{ meeting.title }}</a></h3>
+            <span class="date">{{ meeting.date | date_to_string }}</span>
+            <div class="entry">{{ meeting.content }}</div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+
