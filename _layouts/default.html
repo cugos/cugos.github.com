@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/">CUGOS</a>
+          <a class="brand" href="/" style="color:black;"><img src="{{site.baseurl}}/image/cugos_logo.png">  CUGOS</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
 {% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}              <li {% if p.url == page.url %}class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
