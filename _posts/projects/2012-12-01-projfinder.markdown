@@ -21,3 +21,6 @@ Via Standard Markdown
     def something():
         foo = 1
         return foo
+
+Via gist
+<script src="https://gist.github.com/aaronr/4983726.js"></script>
