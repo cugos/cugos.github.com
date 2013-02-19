@@ -23,11 +23,11 @@
         <script src="../assets/js/html5shiv.js"></script>
         <![endif]-->         
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/image/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/image/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/image/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/image/ico/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="{{site.baseurl}}/image/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/image/base/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/image/base/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/image/base/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/image/base/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="{{site.baseurl}}/image/base/favicon.ico">
   </head>
 
   <body>
@@ -41,7 +41,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/" style="color:black;"><img src="{{site.baseurl}}/image/cugos_logo.png">  CUGOS</a>
+          <a class="brand" href="/" style="color:black;"><img src="{{site.baseurl}}/image/base/cugos_logo.png">  CUGOS</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
 {% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}              <li {% if p.url == page.url %}class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
