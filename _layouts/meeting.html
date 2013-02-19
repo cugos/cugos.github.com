@@ -9,11 +9,12 @@ layout: default
     <span class="date">{{ page.date | date_to_string }}</span><br>
 
     <span class="category">Category: {{ page.categories | category_links }}</span>
-
+    <br><br>
 	<div class="entry">{{ content }}</div>
         {% if page.image != null %}
         <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
         {% endif %}
+    <br>
     <span class="meta"><small>By {{ site.author }} &copy; {{page.date | date: "%Y"}}</small></span>
 
 </div>
