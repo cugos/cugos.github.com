@@ -1,4 +1,4 @@
-zekyll
-======
+cugos.github.com
+================
 
-Hacking on some structure with Jekyll
+CUGOS website hosted on GitHub via Jekyll and GitPages
