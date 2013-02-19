@@ -24,6 +24,8 @@ url: http://cugos.org/
 # If you don't have it install it via gem install rdiscount
 markdown: rdiscount
 
+pygments: true
+
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 auto: false
 

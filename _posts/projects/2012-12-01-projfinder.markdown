@@ -9,3 +9,15 @@ excerpt: Projection Finder project used for code sprints with CUGOS
  
 Currently [here](https://github.com/aaronr/projfinder.com) on GitHub
 
+Via Jekyll and Pygments
+{% highlight python linenos %}
+def something():
+    foo = 1
+    return foo
+{% endhighlight %}
+
+Via Standard Markdown
+
+    def something():
+        foo = 1
+        return foo
