@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: person
 title: Aaron Racicot
 category: people
 

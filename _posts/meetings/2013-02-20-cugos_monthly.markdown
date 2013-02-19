@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meeting
 title: Feb 20th 2013 - LizardTech
 category: meetings
 

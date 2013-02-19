@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: Foss4g NA 2013
 category: events
 
