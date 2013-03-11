@@ -17,4 +17,4 @@ __Loose agenda:__
 __Possible but not confirmed:__
 
 * We hope [@ndimiduk](https://github.com/ndimiduk) can make it and demo his Hadoop/Mapnik rendering worfklow ( kaboom! )
-* A foret-hoarding-cell-phone-wielding [@jamie](https://groups.google.com/forum/?fromgroups=#!topic/cugos/JyUQ0pLFGMw) might show up to propose an interesting project conundrum ( UW represent! )
+* A forest-hoarding-cell-phone-wielding [@jamie](https://groups.google.com/forum/?fromgroups=#!topic/cugos/JyUQ0pLFGMw) might show up to propose an interesting project conundrum ( UW represent! )
