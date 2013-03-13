@@ -1,9 +1,9 @@
 ---
 layout: meeting
-title: March 20th 2013 - Location: LizardTech 1008 Western Ave, Seattle, WA 98104
+title: March 20th 2013 - Location: LizardTech
 category: meetings
 
-excerpt: March 2013 CUGOS Monthly Meeting at (Location LizardTech) (6pm)
+excerpt: March 2013 CUGOS Monthly Meeting at LizardTech 1008 Western Ave, Seattle, WA 98104 (6pm)
 ---
  
 __Really looking forward to seeing everyone on March 20th at 6pm__
