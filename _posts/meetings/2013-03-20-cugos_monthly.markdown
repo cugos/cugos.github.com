@@ -10,6 +10,8 @@ __Really looking forward to seeing everyone on March 20th at 6pm__
 
 __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__ 
 
+> Doors are locked after hours. Enter through doors to the south east lobby off Post Alley. A phone number will be posted on that door to call for entry.
+
 __Loose agenda:__
 
 * [@aaronr](https://github.com/aaronr) has created mapfarts.com which makes it easy to drop geobombs with curl and vsistdout ( ...and more! )
