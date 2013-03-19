@@ -18,7 +18,7 @@ __Loose agenda:__
 * [@idbill](https://github.com/idbill) will talk about his experience cutting the world into 200 million gameboard polygons for the [Quadstreaker iOS app](https://itunes.apple.com/us/app/quadstreaker/id594669001?mt=8). Hopefully [@mattstevenson](http://coregis.net) can come and give feedback about his experience on the project too ( Siberia...you matter to us! )
 * [@ndimiduk](https://github.com/ndimiduk) will speak about his experience porting [Census Dotmap](http://bmander.com/dotmap/index.html) to generate tiles using [Hadoop](http://hadoop.apache.org/).
 * [@jeff*DaMan*meyer](https://github.com/GWHAThistory) will give an update on the [St. Paddy's Day OSM JOSM training](http://www.meetup.com/OpenStreetMap-Seattle/events/107558542/) and a quicky preso on a historical map he did of the [1912 Real Estate Atlas of Surveys for Seattle](http://tiles.mapbox.com/jeffme/map/seattlebaist1912#14.00/47.6068/-122.3305) ( ...We love history!...but wait, there's more )
-* [@springmeyer](https://github.com/springmeyer) will bring cake
+* [@springmeyer](https://github.com/springmeyer) will bring cake and a hot demo of the new [MapBox.com satellite imagery tinting](http://f.cl.ly/items/472t3O1Q3V3K2f3u0w1H/Untitled%20map%20%7C%20MapBox-7.png)
 
 __Possible but not confirmed:__
 
