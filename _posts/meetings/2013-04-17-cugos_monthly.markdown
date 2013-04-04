@@ -13,6 +13,7 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 __Loose agenda:__
 
 * [@aaronr](https://github.com/aaronr) will give updates on ProjFinder as we prep to share it at Foss4g-NA (talk accepted)
+* [@chronomex](https://github.com/chronomex) will investigate the [iD Map Editor](http://mapbox.com/blog/id-for-openstreetmap-reaches-beta-1/) and report back
 
 __Possible but not confirmed:__
 
