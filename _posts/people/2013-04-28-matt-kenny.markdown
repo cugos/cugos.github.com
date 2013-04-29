@@ -10,7 +10,7 @@ excerpt: mattmakesmaps
 
 Matt Kenny
 
-* **Web:** [mattmakesmaps](mattmakesmaps.com)
+* **Web:** [mattmakesmaps](http://mattmakesmaps.com)
 * **Work:** [Ridolfi Inc](http://www.ridolfi.com)
 
 Testing page creation using [http://prose.io/](http://prose.io/)...
