@@ -3,7 +3,7 @@ layout: person
 title: Greg ( BangBang ) Corradini
 category: people
 
-image: /people/image/mustacheman.svg
+image: /people/image/greg_corradini.jpg
 permalink: /people/greg_corradini
 excerpt: Plumber
 ---
