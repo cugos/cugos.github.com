@@ -12,8 +12,6 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 
 __Loose agenda:__
 
-* [@aaronr](https://github.com/aaronr) will give a recap of the FOSS4G-NA conference
-
 __Possible but not confirmed:__
 
 
