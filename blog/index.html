@@ -10,11 +10,13 @@ permalink: /
       <div class="row">
         <div class="span12">
           <div class="blog">
-            <h3><a href={{ blog.url }}>{{ blog.title }}</a></h3>
+            <h2><a href={{ blog.url }}>{{ blog.title }}</a></h2>
             <span class="date">{{ blog.date | date_to_string }}</span>
-            <div class="entry">{{ blog.content }}</div>
+            <div class="entry">{{ blog.content | truncatewords:100 }}</div>
+            <h3><a href={{ blog.url }}>...more</a></h3>
           </div>
         </div>
       </div>
+      <hr>
 {% endfor %}
 
