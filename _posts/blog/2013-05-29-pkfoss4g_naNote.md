@@ -1,3 +1,11 @@
+---
+layout: post
+title: FOSS4G-NA notes from PeterK
+category: blog
+
+excerpt: Raw notes from Peters trip to FOSS4G-NA
+---
+
 ##FOSS4G-NA, May 22- 24, 2013##
 **Topics and Highlights from Minneapolis, MN**
 by Peter Keum
