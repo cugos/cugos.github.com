@@ -12,6 +12,10 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 
 __Loose agenda:__
 
+- Fall Fling 2013 at UW for Sept or Oct
+- SeattleImport Update for OSM
+- FOSS4G-NA brief summary by Peter Keum, Jared Erickson and Nick Dimiduk
+
 __Possible but not confirmed:__
 
 
