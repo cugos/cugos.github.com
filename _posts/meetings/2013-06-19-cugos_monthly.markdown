@@ -15,6 +15,7 @@ __Loose agenda:__
 - Fall Fling 2013 at UW for Sept or Oct
 - SeattleImport Update for OSM
 - FOSS4G-NA brief summary by Peter Keum, Jared Erickson and Nick Dimiduk
+- Should CUGOS help take over www.spatialreference.org into the future?
 
 __Possible but not confirmed:__
 
