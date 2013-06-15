@@ -16,6 +16,7 @@ __Loose agenda:__
 - SeattleImport Update for OSM
 - FOSS4G-NA brief summary by Peter Keum, Jared Erickson and Nick Dimiduk
 - Should CUGOS help take over www.spatialreference.org into the future?
+- Python OGR/GDAL Cookbook by Cort Daniel, Jared Erickson, and Michael Payne
 
 __Possible but not confirmed:__
 
