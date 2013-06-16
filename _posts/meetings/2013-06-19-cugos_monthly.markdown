@@ -17,7 +17,8 @@ and [@ndimiduk](https://github.com/ndimiduk)
 - Hoping that [@ndimiduk](https://github.com/ndimiduk) can also show some of his updated FOSS4G presentation on Hadoop rendering
 - [@jeffmeyer](https://github.com/GWHAThistory),  [@keum](https://github.com/keum) 
 and [@foundatron](https://github.com/foundatron) will talk about what they learned at 
-Civic Hack Day. [@jeffmeyer](https://github.com/GWHAThistory) will drop the specifics
+Civic Hack Day. 
+- [@jeffmeyer](https://github.com/GWHAThistory) will drop the specifics
 on the SeattleImport update for OSM
 - Any SOTM 2013 attendees can talk about the coolness that we all missed in SFO
 - Python OGR/GDAL Cookbook by Cort Daniel, Jared Erickson, and Michael Payne
