@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CUGOS Meeting, May June 19, 2013
+title: CUGOS Meeting, June 19, 2013
 category: blog
 
 excerpt: Notes from Michael Rosen from June 19th 2013 CUGOS meeting
