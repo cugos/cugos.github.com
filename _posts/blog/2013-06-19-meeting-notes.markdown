@@ -1,5 +1,4 @@
 ##CUGOS Meeting, May June 19, 2013##
-**Topics and Highlights from Minneapolis, MN**
 by Michael Rosen
 
 Stats: About 30 attended. At capacity of room but LizardTech loves hosting
@@ -10,7 +9,8 @@ Stats: About 30 attended. At capacity of room but LizardTech loves hosting
 - Nick Dimiduk, talked about his talk about doing a massive Vector -> Raster job on Amazon’s cloud.   http://www.n10k.com/blog/hbase-for-architects/
 - The guys from Pierce County GIS talked about their work doing a “Python cookbook for GDAL” … the idea is that Python is the lingua franca of GIS and much of what people use Python and ArcGIS for (the Python interpreter is baked into the Desktop app) can be done easily using Python and GDAL.  Their work is open source (git hub) was done with the approval of their management at Pierce County.
 - And follow-up from Matt Kenny on https://groups.google.com/forum/#!forum/cugos:
--- In case you were looking for a link to the Pierce County cookbook that Cort and Jared presented on Wednesday, you can find it here: https://github.com/pcjericks/py-gdalogr-cookbook
--- 
--- Learn, fork, and submit your pull requests!
+  
+  In case you were looking for a link to the Pierce County cookbook that Cort and Jared presented on Wednesday, you can find it here: https://github.com/pcjericks/py-gdalogr-cookbook
+   
+  Learn, fork, and submit your pull requests!
 
