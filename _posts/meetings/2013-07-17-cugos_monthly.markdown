@@ -12,7 +12,7 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 
 __Loose agenda:__
 
-- Seattle Times Hackers [@deanOhYeah](https://github.com/deanohyeah) and [laurenmichell](https://github.com/laurenmichell) will talk about their web maps and tooling  
+- Seattle Times Hackers [@deanOhYeah](https://github.com/deanohyeah) and [@laurenmichell](https://github.com/laurenmichell) will talk about their web maps and tooling  
 
 - Renegade Cartographer and Designer [@mapsam](https://github.com/svmatthews) will be talking about D3, map projections and possibly other neat stuffs
 
