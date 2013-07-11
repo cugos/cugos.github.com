@@ -18,8 +18,12 @@ __Loose agenda:__
 
 __Possible but not confirmed:__
 
-- Hopefully crazy smart David Shean [@dshean](https://github.com/dshean)  will show up to talk about his research or he might be galavanting in the woods
+- The Godfather returns -- [@aaronr](https://github.com/aaronr) will present something magical and awe inspiring
 
-- Hopefully the [Empower Engine](http://empowerengine.com) creators will be able to join us and present something about their company vision and toolchain. Boom!
+__Pushed to August 2013 Meeting:__
+
+- Crazy smart David Shean [@dshean](https://github.com/dshean) will return from his adventures to give us a show-and-tell on his timeseries of 2 m/px DEMs for this region [teaser here](http://oi42.tinypic.com/xn54yu.jpg)
+
+- The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
 
 
