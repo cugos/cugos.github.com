@@ -12,9 +12,11 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 
 __Loose agenda:__
 
-- Seattle Times Hackers [@deanOhYeah](https://github.com/deanohyeah) and [@laurenmichell](https://github.com/laurenmichell) will talk about their web maps and tooling  
+- Seattle Times hackers [@deanOhYeah](https://github.com/deanohyeah) and [@laurenmichell](https://github.com/laurenmichell) will talk about their web maps and tooling  
 
-- Renegade Cartographer and Designer [@mapsam](https://github.com/svmatthews) will be talking about D3, map projections and possibly other neat stuffs
+- Renegade cartographer and designer [@mapsam](https://github.com/svmatthews) will be talking about D3, map projections and possibly other neat stuffs
+
+- Jared Erickson [@jericks](https://github.com/jericks) is back with more cool projects -- Boom!. He'll be showing off his (GeoServer-shell project)[https://github.com/jericks/geoserver-shell]
 
 __Possible but not confirmed:__
 
