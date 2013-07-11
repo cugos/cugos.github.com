@@ -16,7 +16,7 @@ __Loose agenda:__
 
 - Renegade cartographer and designer [@mapsam](https://github.com/svmatthews) will be talking about D3, map projections and possibly other neat stuffs
 
-- Jared Erickson [@jericks](https://github.com/jericks) is back with more cool projects -- Boom!. He'll be showing off his (GeoServer-shell project)[https://github.com/jericks/geoserver-shell]
+- Jared Erickson [@jericks](https://github.com/jericks) is back with more cool projects -- Boom! He'll be showing off the [geoserver-shell](https://github.com/jericks/geoserver-shell)
 
 __Possible but not confirmed:__
 
