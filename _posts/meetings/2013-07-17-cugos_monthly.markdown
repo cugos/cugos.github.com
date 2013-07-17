@@ -18,6 +18,8 @@ __Loose agenda:__
 
 - Jared Erickson [@jericks](https://github.com/jericks) is back with more cool projects -- Boom! He'll be showing off the [geoserver-shell](https://github.com/jericks/geoserver-shell)
 
+- mpg [citation needed] will provide a brief update from OSGeo HQ
+
 __Possible but not confirmed:__
 
 - The Godfather returns -- [@aaronr](https://github.com/aaronr) will present something magical and awe inspiring
