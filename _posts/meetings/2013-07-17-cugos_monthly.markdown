@@ -14,7 +14,7 @@ __Loose agenda:__
 
 - Seattle Times hackers [@deanOhYeah](https://github.com/deanohyeah) and [@laurenmichell](https://github.com/laurenmichell) will talk about their web maps and tooling  
 
-- Renegade cartographer and designer [@mapsam](https://github.com/svmatthews) will be talking about D3, map projections and possibly other neat stuffs
+- Renegade Cartographer and Designer [@mapsam](https://github.com/svmatthews) will be talking about d3.geo, [mapshaper.org](http://mapshaper.org/), and share the [GISCollective](http://giscollective.org) with the world
 
 - Jared Erickson [@jericks](https://github.com/jericks) is back with more cool projects -- Boom! He'll be showing off the [geoserver-shell](https://github.com/jericks/geoserver-shell)
 
