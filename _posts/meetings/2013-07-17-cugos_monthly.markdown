@@ -20,9 +20,10 @@ __Loose agenda:__
 
 - mpg [citation needed] will provide a brief update from OSGeo HQ
 
+- [@aaronr](https://github.com/aaronr) will present something magical and awe inspiring (time permitting)
+
 __Possible but not confirmed:__
 
-- The Godfather returns -- [@aaronr](https://github.com/aaronr) will present something magical and awe inspiring
 
 __Pushed to August 2013 Meeting:__
 
