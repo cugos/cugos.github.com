@@ -32,3 +32,48 @@ __Pushed to August 2013 Meeting:__
 - The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
 
 
+__Notes:__
+
+* 29 people
+
+* New space might be in order in the future... 
+
+* OneOcean to host in Sept!
+
+* Fall Bling (new name needed?) in Oct 16th (ish)
+
+* Seattle Times
+  - Started making maps in May
+  - Editors need something simple for editing
+  - Went with CloudMade for tiles
+  - Mapbox for the js and map
+  - Google spreadsheet (with google form) for the data behind
+  - Also used Flickr
+  - "Table Top" javascript lib integration to google spreadsheet
+  - Turn it into GeoJSON
+  - There is a caching layer to make sure data is not dropped
+  - First project was parks
+  - Next was the Skagit Bridge collapse (up in 12 hours)
+  - They are using Handlebars for templates
+  - Third one was 4th of July Events (Intern in a couple hours)
+  - Filters in the spreadsheet are just a column
+
+* Ideas for Seattle Times
+  - Leaflet clustering for points
+
+* Map Sam
+  - D3... lots of interest from the group
+  - Ben shows off a nice D3 map as well
+  - Idea to have a D3 showdown 
+
+* Jared (GeoServer Shell)
+  - GeoServer Shell
+  - GIS Job open at Pierce County
+  - Great talk on the why and how of Geoserver Shell
+  - Wrapper around GeoServer REST API (creates data, hits URL, presents response
+  - Possible integration with MapFart? ;-)
+
+* MPG
+  - OSGeo update
+
+
