@@ -5,6 +5,7 @@ category: meetings
 
 excerpt: Feb 2013 CUGOS Monthly Meeting at LizardTech (6pm)
 ---
+ Hi
  
 __Really looking forward to seeing everyone on Feb 20th at 6pm__
 
