@@ -33,4 +33,4 @@ auto: false
 permalink: pretty
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: README.md
+exclude: [README.md]
