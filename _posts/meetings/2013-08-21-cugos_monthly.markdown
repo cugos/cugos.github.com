@@ -18,6 +18,8 @@ __Loose agenda:__
 
 - Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) will introduce [Project Linework](https://github.com/svmatthews/project-linework), a work in progress.
 
+- [@powersa](https://github.com/powersa) will discuss recent attempts to optimize [Canny Edge Detection](http://en.wikipedia.org/wiki/Canny_edge_detector) for geographic analysis with GDAL and SciPy.
+
 __Possible but not confirmed:__
 
 
