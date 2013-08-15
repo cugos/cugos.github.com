@@ -16,6 +16,8 @@ __Loose agenda:__
 
 - The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
 
+- Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) will introduce [Project Linework](https://github.com/svmatthews/project-linework), a work in progress.
+
 __Possible but not confirmed:__
 
 
