@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: August 21st 2013 - LizardTech
+title: August 21st 2013, 6pm - LizardTech
 category: meetings
 
 excerpt: August 2013 CUGOS Monthly Meeting at LizardTech (6pm)
