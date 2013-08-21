@@ -16,7 +16,7 @@ __Loose agenda:__
 
 - [@powersa](https://github.com/powersa) will discuss recent attempts to optimize [Canny Edge Detection](http://en.wikipedia.org/wiki/Canny_edge_detector) for geographic analysis with GDAL and SciPy.
 
-__Possible but not confirmed:__
+__Pushed to September Meeting:__
 
 - Crazy smart David Shean [@dshean](https://github.com/dshean) will return from his adventures to give us a show-and-tell on his timeseries of 2 m/px DEMs for this region [teaser here](http://oi42.tinypic.com/xn54yu.jpg)
 
