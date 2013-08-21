@@ -12,15 +12,15 @@ __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__
 
 __Loose agenda:__
 
-- Crazy smart David Shean [@dshean](https://github.com/dshean) will return from his adventures to give us a show-and-tell on his timeseries of 2 m/px DEMs for this region [teaser here](http://oi42.tinypic.com/xn54yu.jpg)
-
-- The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
-
 - Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) will introduce [Project Linework](https://github.com/svmatthews/project-linework), a work in progress.
 
 - [@powersa](https://github.com/powersa) will discuss recent attempts to optimize [Canny Edge Detection](http://en.wikipedia.org/wiki/Canny_edge_detector) for geographic analysis with GDAL and SciPy.
 
 __Possible but not confirmed:__
+
+- Crazy smart David Shean [@dshean](https://github.com/dshean) will return from his adventures to give us a show-and-tell on his timeseries of 2 m/px DEMs for this region [teaser here](http://oi42.tinypic.com/xn54yu.jpg)
+
+- The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
 
 
 
