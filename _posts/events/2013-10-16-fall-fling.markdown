@@ -103,7 +103,8 @@ closely. But the presenters will have demo material up for you to follow along a
 
 Overflow and GeoBeers (3:00pm to 5:00pm)
 ----------------------------------------
-Things will probably run long. So we have some flex time here. When 
+Things will probably run long. So we have some flex time here. When things come to an end
+and everything is cleaned up...we go out and celebrate with beer.
 
 
 -----------------------------------------
