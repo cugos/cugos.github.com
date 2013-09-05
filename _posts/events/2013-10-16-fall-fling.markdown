@@ -86,11 +86,20 @@ This is perfect place to get answers to your questions such as:
 * What types of OpenSource GIS tools are there for the Desktop and what do you recommend?
 * How do I do everything I once did with ArcGIS with OpenSource tools?
 
-Mid-Afternoon HowTo Demos (1pm to 3:00pm)
+Mid-Afternoon HowTo Demos (1:30pm to 3:00pm)
 ----------------------------------------
-These are not workshops! The purpose of this section is to have an experienced presentor
+These are not workshops! The purpose of this section is to have an experienced presenter
 walk through a workflow, software demo or cookbook. People are encouraged to follow along
-closely. But the presenters will have enough 
+closely. But the presenters will have demo material up for you to follow along afterward also.
+
+**HowTo Demos** 3 slots open ( flexible timeslots, but go long ):
+
+1. Your Name Here
+
+2. Your Name Here
+
+3. Your Name Here
+
 
 Overflow and GeoBeers (3:00pm to 5:00pm)
 ----------------------------------------
