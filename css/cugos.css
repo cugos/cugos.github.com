@@ -1,0 +1,17 @@
+div.container div.event.fall-fling {
+    width: 875px;
+}
+
+div.container div.event.fall-fling p {
+    line-height: 1.47;
+}
+
+div.warning {
+    background-color: #fbfb99;
+    border-radius: 16px;
+    border: 1px solid #D3D3D3;
+    padding: 15px 40px;
+    width: 611px;
+}
+
+
