@@ -34,7 +34,9 @@ the length of the talk to <a href="mailto:gregcorradini@gmail.com">Greg Corradin
 On Wednesday October 16, 2013, CUGOS will be holding a special all-day "Fall Fling Bling" event at University of Washington Seattle Campus in place of our regular monthly meeting.
 
 ###Sponsors
-Insert your company here! 
+<div>
+<img src="/image/base/header-lizardtech-logo.png"></img>
+</div>
 
 ###Sponsor Opportunities
 Sponsorship funds go help reduce the cost of the event, including food and drinks for the participants, and to fund the activities of the CUGOS organization throughout the year. We are offering two sponsorship levels: Silver ($100) and Gold ($200). Sponsors will get their logos displayed on this wiki page and at the event, with the Gold sponsors' names/logos being somewhat more prominent. If you are interested in becoming a sponsor, please contact [aaronr@z-pulley.com](#)
