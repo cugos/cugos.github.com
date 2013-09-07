@@ -14,4 +14,9 @@ div.warning {
     width: 611px;
 }
 
+.entry div#detail {
+    color: #8A8A8A;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
 

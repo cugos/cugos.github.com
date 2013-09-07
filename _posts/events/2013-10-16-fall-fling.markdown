@@ -74,15 +74,15 @@ Detailed
 **Intro** (5 minutes) - Aaron
 
 **Keynote** (20 minutes):
-We would like to hear a keynote talk about how a team/person integrated opensource geospatial
+<div id="detail">We would like to hear a keynote talk about how a team/person integrated opensource geospatial
 tools into their organization where there was nothing opensource before. If you have sweet
 talk about opensource geospatial stuff that does not cover this topic, then ping us anyway. We are
-open to other ideas.
+open to other ideas.</div>
 
 **Short Talks** 4 slots open (15-20 min):
-We want to hear how academics, students and hackers are doing research or making cool tools
+<div id="detail">We want to hear how academics, students and hackers are doing research or making cool tools
 that help solve problems. See some of the talks from [last year's Spring Fling](http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling)
-to get the general idea.
+to get the general idea.</div>
 
 1. Your Name Here
 
@@ -95,9 +95,9 @@ to get the general idea.
 **Break** ( 5 min )
 
 **Lightning Talks** 6 slots open (5-10 min):
-We are looking for short talks about the cool-new-hot-geo-techy stuff, tips-and-tricks or problems you
+<div id="detail">We are looking for short talks about the cool-new-hot-geo-techy stuff, tips-and-tricks or problems you
 solved with opensource. We have an open mind for crazy ideas. See some of the talks from [last year's Spring Fling](http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling)
-to get the general idea.
+to get the general idea.</div>
 
 1. Your Name Here
 
@@ -140,11 +140,12 @@ to assist with downlaods, installs and general tech hurdles. But we will not be
 making sure everyone is on the same page. Presenters will have a very
 detailed and public instruction manual so people following along can walk through it later on their own.
 
-**HowTo Demos** 3 slots open ( flexible timeslots, but go long ): Do you use Qgis to make
-really nice looking static maps? Do you know the ins-and-outs of OGR Python bindings? Are you
+**HowTo Demos** 3 slots open ( flexible timeslots, but go long ): 
+
+<div id="detail">Do you use Qgis to make really nice looking static maps? Do you know the ins-and-outs of OGR Python bindings? Are you
 a MapBox map-making whizkid? Then show others your workflow! We want to see talks that 
 elaborate *how* things are done with demo. Ideally, your presentation would have a very
-detailed and public instruction manual so people following along can walk through it later on their own.
+detailed and public instruction manual so people following along can walk through it later on their own.</div>
 
 1. Your Name Here
 
