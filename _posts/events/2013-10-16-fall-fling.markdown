@@ -4,7 +4,7 @@ title: CUGOS 2013 Fall Fling
 category: events
 history: Last year's 2012 Spring Fling event info can be found [here](http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling)
 
-excerpt: A new take on the Spring Fling -- do it in the Fall and call it the Fall and add the word 'Bling'
+excerpt: A new take on the Spring Fling -- do it in the Fall and add the word 'Bling'
 ---
 
 -----------------------------------------
