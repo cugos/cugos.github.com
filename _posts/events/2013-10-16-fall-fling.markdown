@@ -81,7 +81,7 @@ open to other ideas.</div>
 
 **Short Talks** 4 slots open (15-20 min):
 <div id="detail">We want to hear how academics, students and hackers are doing research or making cool tools
-that help solve problems. See some of the talks from [last year's Spring Fling](http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling)
+that help solve problems. See some of the talks from <a href="http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling">last year's Spring Fling</a>
 to get the general idea.</div>
 
 1. Your Name Here
@@ -96,7 +96,8 @@ to get the general idea.</div>
 
 **Lightning Talks** 6 slots open (5-10 min):
 <div id="detail">We are looking for short talks about the cool-new-hot-geo-techy stuff, tips-and-tricks or problems you
-solved with opensource. We have an open mind for crazy ideas. See some of the talks from [last year's Spring Fling](http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling)
+solved with opensource. We have an open mind for crazy ideas. See some of the talks from <a href="http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling">last year's Spring Fling</a>
+
 to get the general idea.</div>
 
 1. Your Name Here
