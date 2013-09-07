@@ -15,12 +15,13 @@ div.warning {
 }
 
 .entry div#detail {
+    background-color: #F9FCEB;
+    border: 1px solid #151515;
+    border-radius: 16px 16px 16px 16px;
     color: #8A8A8A;
     font-size: 11px;
-    background-color: #D3FAD3;
-    border-radius: 16px;
-    border: 1px solid #D3D3D3;
-    padding: 15px 15px;
+    line-height: 16px;
+    padding: 10px;
     width: 750px;
 }
 
