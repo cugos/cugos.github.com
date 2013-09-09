@@ -10,9 +10,8 @@ __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 9812
 
 __Loose agenda:__
 
-- Crazy smart David Shean [@dshean](https://github.com/dshean) will return from his adventures to give us a show-and-tell on his timeseries of 2 m/px DEMs for this region [teaser here](http://oi42.tinypic.com/xn54yu.jpg)
+- Let's talk about the structure and speakers for the [Fall Fling Bling](http://cugos.org/events/2013/10/16/fall-fling/)
 
-- The [Empower Engine](http://empowerengine.com) creators will join us and present something about their company vision and toolchain. Boom!
-
+- We have no speakers this month, put your stuff here to talk about
 
 __Notes:__
