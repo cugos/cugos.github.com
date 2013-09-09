@@ -71,7 +71,7 @@ Overview
 Detailed
 ----------
 
-<h3 id="morning_sesh">Morning Session: Talks (9am to 12pm)</h3>
+<h3 id="morning_sesh">Morning Session: Talks (9am to 12:20pm)</h3>
 
 **Intro** (5 minutes) - Aaron
 
@@ -81,25 +81,26 @@ tools into their organization where there was nothing opensource before. If you 
 talk about opensource geospatial stuff that does not cover this topic, then ping us anyway. We are
 open to other ideas.</div>
 
-**Short Talks** 4 slots open (15-20 min):
+**Short Talks** 5 slots open (15-20 min):
 <div id="detail">We want to hear how academics, students and hackers are doing research or making cool tools
 that help solve problems. See some of the talks from <a href="http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling">last year's Spring Fling</a>
 to get the general idea.</div>
 
-1. Your Name Here
+1. Touring the GINA Zoo -- Big Data, Web Apps, Lions ( [Will Fisher](https://github.com/teknofire) from [GINA Alaska](http://www.gina.alaska.edu/) )
 
-2. Your Name Here
+2. Big Data Worship -- Aerial Structure from Motion Surveys *and* Antarctica/Greenland DEM  ( [David Shean](https://github.com/dshean) from [University of Washington](Department of Earth and Space Sciences) )
 
 3. Your Name Here
 
 4. Your Name Here
 
+5. Your Name Here
+
 **Break** ( 5 min )
 
-**Lightning Talks** 6 slots open (5-10 min):
+**Lightning Talks** 5 slots open (5-10 min):
 <div id="detail">We are looking for short talks about the cool-new-hot-geo-techy stuff, tips-and-tricks or problems you
-solved with opensource. We have an open mind for crazy ideas. See some of the talks from <a href="http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling">last year's Spring Fling</a>
-
+solved with opensource. We have an open mind for crazy ideas. See some of the talks from <a href="http://wiki.osgeo.org/wiki/CUGOS_2012_Spring_Fling">last year's Spring Fling</a> 
 to get the general idea.</div>
 
 1. Your Name Here
@@ -112,9 +113,8 @@ to get the general idea.</div>
 
 5. Your Name Here
 
-6. Your Name Here
 
-###Lunch Session: Lunch (12pm to 1:30pm)
+###Lunch Session: Lunch (12:20pm to 1:30pm)
 Stop by the Open-Source GIS Doctor's Office while gorging on pizza.
 This is perfect place to get answers to your questions such as:
 
