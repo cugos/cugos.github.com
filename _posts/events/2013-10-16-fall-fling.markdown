@@ -88,7 +88,7 @@ to get the general idea.</div>
 
 1. Touring the GINA Zoo -- Big Data, Web Apps, Lions ( [Will Fisher](https://github.com/teknofire) from [GINA Alaska](http://www.gina.alaska.edu/) )
 
-2. Big Data Worship -- Aerial Structure from Motion Surveys *and* Antarctica/Greenland DEM  ( [David Shean](https://github.com/dshean) from [University of Washington](Department of Earth and Space Sciences) )
+2. Big Data Worship -- Aerial Structure from Motion Surveys *and* Antarctica/Greenland DEM  ( [David Shean](https://github.com/dshean) from [UW Department of Earth and Space Sciences](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Fpsc.apl.washington.edu%2Fwordpress%2Fpeople%2Fstudents%2Fdavid-shean%2F&ei=EjsuUsn6Le33igL774GoAg&usg=AFQjCNHYtpIV9Qcn6YNPDaPFOYFobRKtTw&sig2=Fx9JZVubOn76hssVYgUAew&bvm=bv.51773540,d.cGE) )
 
 3. Your Name Here
 
