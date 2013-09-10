@@ -12,6 +12,7 @@ __Loose agenda:__
 
 - [@thebigspoon](https://github.com/thebigspoon) Let's talk about the structure and speakers for the [Fall Fling Bling](http://cugos.org/events/2013/10/16/fall-fling/)
 - [@aaronr](https://github.com/aaronr) will go over all the recent progress to get CUGOS paperwork in order (i.e. 501c6 status)
+- [@keum](https://github.com/keum) will lead us through a discussion on where to hold meetings in the future as we are starting to out grow the LT space (this is a good problem to have!)
 
 __Maybe:__
 
