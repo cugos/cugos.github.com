@@ -10,8 +10,13 @@ __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 9812
 
 __Loose agenda:__
 
-- Let's talk about the structure and speakers for the [Fall Fling Bling](http://cugos.org/events/2013/10/16/fall-fling/)
+- [@thebigspoon](https://github.com/thebigspoon) Let's talk about the structure and speakers for the [Fall Fling Bling](http://cugos.org/events/2013/10/16/fall-fling/)
+- [@aaronr](https://github.com/aaronr) will go over all the recent progress to get CUGOS paperwork in order (i.e. 501c6 status)
 
-- We have no speakers this month, put your stuff here to talk about
+__Maybe:__
+
+- [@mattmakesmaps](https://github.com/mattmakesmaps) maybe talks about geojson.io and all the coolness!
+- Someone from OneOceanCorp (where we are meeting this month) will talk about what they are working on (Ocean Big Data)
+- [@mapsam](https://github.com/svmatthews) - Maybe give us a rundown on http://giscollective.org/ and some of the cool new stuff making the news there.
 
 __Notes:__
