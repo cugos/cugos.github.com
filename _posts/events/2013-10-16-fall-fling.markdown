@@ -34,8 +34,20 @@ the length of the talk to <a href="mailto:gregcorradini@gmail.com">Greg Corradin
 On Wednesday October 16, 2013, CUGOS will be holding a special all-day "Fall Fling Bling" event at University of Washington Seattle Campus in place of our regular monthly meeting.
 
 ###Sponsors
-<div>
-<img src="/image/base/header-lizardtech-logo.png"></img>
+<div id="sponsors">
+<!-- gold -->
+<ul>
+    <li class="sponsor-label" style="background-color:#ffd700;">Gold</li>
+    <li><a href="http://www.lizardtech.com/"><img src="/image/base/ff-logo-lizardtech.png"></img></a></li>
+    <li><a href="http://www.spatialdev.com/"><img src="/image/base/ff-logo-spatialdev.png"></img></a><br></li>
+</ul>
+<!-- silver -->
+<ul>
+    <li class="sponsor-label" style="background-color:#cccccc">Silver</li>
+    <li><a href="http://www.terragis.net/"><img src="/image/base/ff-logo-terragis.png"></img></a></li>
+    <li><a href="http://www.situatedlaboratories.com/"><img src="/image/base/ff-logo-situatedlabs.png"></img></a></li>
+</ul>
+<!-- bronze? -->
 </div>
 
 ###Sponsor Opportunities
