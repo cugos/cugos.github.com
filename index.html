@@ -5,8 +5,9 @@ title: Home
 
 
 {% for meeting in site.categories.meetings limit: 1  %}
-      <div class="alert alert-info">
-        <h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4>
+      <div class="alert alert-info" style="min-height:75px;">
+        <!--h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4-->
+        <h3>Fall Fling... Don't miss it: <a style="color:black;" href="http://cugos.org/events/2013/10/16/fall-fling/">October 16th - 9am - University of Washington</a></h3>
       </div>
 {% endfor %}
 
