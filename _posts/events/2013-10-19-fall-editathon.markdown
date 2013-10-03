@@ -1,6 +1,6 @@
 ---
 layout: event
-title: OSM Fall #Editathon
+title: OSM Fall Editathon
 category: events
 
 excerpt: Let's clean up Tigers
