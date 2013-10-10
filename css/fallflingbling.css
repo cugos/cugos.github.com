@@ -61,7 +61,7 @@ auto;padding-bottom:2px;color:#fff;font-size:24px;font-weight:600;line-height:48
 li{margin-bottom:24px}div.basic-content
 h2{font-size:24px;line-height:24px}div.basic-content
 h3{margin-bottom:0;font-size:18px;line-height:24px;text-transform:uppercase}div.basic-content
-ul{list-style-type:disc}.slide-show{position:relative;width:100%;max-width:1188px;height:360px;margin-bottom:89px;margin-right:auto;margin-left:auto;background:url(/image/base/bg-testimonial.gif);border-radius:7px;text-align:center;-webkit-backface-visibility:hidden}.ie .slide-show,
+ul{list-style-type:disc}.slide-show{position:relative;width:100%;max-width:1188px;height:360px;margin-bottom:89px;margin-right:auto;margin-left:auto;border-radius:7px;text-align:center;-webkit-backface-visibility:hidden}.ie .slide-show,
 html[data-useragent*='MSIE'] .slide-show{background:rgba(0,0,0,.6)}.no-js .complex-page:before{content:attr(data-title);display:block;width:100%;margin-bottom:31px;font-size:36px;font-weight:600;text-align:center;text-shadow:1px 1px 0 rgb(255,255,255);line-height:42px}.no-js .complex-page .da-big-one{display:none}@media only screen and (min-width: 1188px){.slide-show,.slide-hero,.hero-image,.photo-header{border-radius:4px}}.no-js .slide-show,
 .lt-ie9 .slide-show{display:none}.lt-ie9 .slide-show.solo{display:block}.no-js .slide-show:after,
 .lt-ie9 .slide-show:after{display:none}.hero-holder{opacity:1;background:rgba(0,0,0,.6);-webkit-transition:opacity 1s ease-in;-moz-transition:opacity 1s ease-in;-o-transition:opacity 1s ease-in;-ms-transition:opacity 1s ease-in;transition:opacity 1s ease-in}.slide-show.no-heroes .solo-hero,
@@ -169,7 +169,7 @@ li{*zoom:1}.side-nav li:before,.side-nav li:after{content:"";display:table}.side
 li{font-weight:normal;line-height:18px}.related-content li:last-child{font-weight:600}.profile .side-nav
 li{font-weight:normal;line-height:14px}.side-nav a:after{content:"\203A";padding-left:3px}.sub-side-nav
 li{margin-bottom:0;font-weight:normal}.sub-side-nav a:after{content:"";content:none}blockquote.testimonial{position:relative;margin-bottom:55px;padding:12px
-18px 12px;background:url(http://assets.aneventapart.com/_/img/bg-testimonial.gif);white-space:nowrap;text-rendering:auto;-webkit-hyphens:none}blockquote.testimonial
+18px 12px;white-space:nowrap;text-rendering:auto;-webkit-hyphens:none}blockquote.testimonial
 p{position:relative;display:inline-block;vertical-align:middle;width:74%;margin:0
 58px 0 0;padding:18px;background:#fff;border:2px
 solid #b9b8b5;border-radius:13px;text-align:center;white-space:normal}blockquote.testimonial p:after{content:"";position:absolute;left:100%;top:50%;display:block;width:12px;margin-top:-1px;border-top:2px solid #b9b8b5}blockquote.testimonial
@@ -200,7 +200,7 @@ time{padding:0
 .global-footer h1,
 .global-footer
 b{color:#fff}.partnerLogos{position:relative;z-index:100;float:right;margin-top:-20px}.partnerLogos
-a{display:inline-block}p.copyright{position:relative;text-align:left;margin-left:61px}p.copyright:before{content:"";position:absolute;left:-61px;top:-22px;display:block;width:51px;height:56px;background:url(http://assets.aneventapart.com/_/svg/laurel_white.svg) no-repeat}.no-svg p.copyright:before{background:url(http://assets.aneventapart.com/_/img/laurel_white.png) no-repeat}.footer-section{display:inline-block;width:216px;vertical-align:top;margin-bottom:35px;margin-right:24px}.footer-section.far-right{margin-right:0}.credits{display:inline}.image-credits{opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;-ms-transition:opacity .6s;transition:opacity .6s}.image-credits.finished{opacity:1}.credits li,
+a{display:inline-block}p.copyright{position:relative;text-align:left;margin-left:61px}p.copyright:before{content:"";position:absolute;left:-61px;top:-22px;display:block;width:51px;height:56px;background:url(http://cugos.org/image/base/cugos_logo.svg) no-repeat}.no-svg p.copyright:before{background:url(http://cugos.org/image/base/cugos_logo.png) no-repeat}.footer-section{display:inline-block;width:216px;vertical-align:top;margin-bottom:35px;margin-right:24px}.footer-section.far-right{margin-right:0}.credits{display:inline}.image-credits{opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;-ms-transition:opacity .6s;transition:opacity .6s}.image-credits.finished{opacity:1}.credits li,
 .footer-section
 h2{display:inline;font-weight:normal}.credits li:after{content:", "}.credits li:last-child:after{content:""}.footer-section
 hr{height:0;margin:0
