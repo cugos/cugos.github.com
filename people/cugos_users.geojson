@@ -18,21 +18,6 @@
           48.027475820552326
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "First": "Test",
-        "Last": "Person",
-        "IRC": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.36400604248047,
-          47.977742280760076
-        ]
-      }
     }
   ]
 }
