@@ -18,6 +18,24 @@
           48.027475820552326
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Greg",
+        "Last": "Corradini",
+        "IRC": "sudobangbang",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35233306884764,
+          47.656831742126535
+        ]
+      }
     }
   ]
 }
