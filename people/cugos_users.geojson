@@ -1,1 +1,38 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"First":"Aaron","Last":"Racicot","IRC":"racicot","City":"Langley","State":"WA","ZIP":98260},"geometry":{"type":"Point","coordinates":[-122.44211196899414,48.027475820552326]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Aaron",
+        "Last": "Racicot",
+        "IRC": "racicot",
+        "City": "Langley",
+        "State": "WA",
+        "ZIP": 98260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44211196899414,
+          48.027475820552326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Test",
+        "Last": "Person",
+        "IRC": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36400604248047,
+          47.977742280760076
+        ]
+      }
+    }
+  ]
+}
