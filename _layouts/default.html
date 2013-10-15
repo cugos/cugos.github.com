@@ -24,6 +24,18 @@
         <script src="../assets/js/html5shiv.js"></script>
         <![endif]-->         
     <!-- Fav and touch icons -->
+{% for css_name in page.extra_css %}
+    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
+{% endfor %}
+
+    <script src="{{site.baseurl}}/js/jquery-1.9.1.js"></script>
+    <script src="{{site.baseurl}}/js/bootstrap-transition.js"></script>
+    <script src="{{site.baseurl}}/js/bootstrap-collapse.js"></script>
+
+{% for js_name in page.extra_js %}
+    <script src="{{site.baseurl}}/{{ js_name }}"></script>
+{% endfor %}
+
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/image/base/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/image/base/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/image/base/apple-touch-icon-72-precomposed.png">
@@ -63,9 +75,6 @@
         <p>&copy; CUGOS 2013</p>
       </footer>
     </div>    
-    <script src="{{site.baseurl}}/js/jquery-1.9.1.js"></script>
-    <script src="{{site.baseurl}}/js/bootstrap-transition.js"></script>
-    <script src="{{site.baseurl}}/js/bootstrap-collapse.js"></script>
 
     <script type="text/javascript">
     

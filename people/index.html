@@ -3,7 +3,23 @@ layout: default
 title: People
 weight: 6
 permalink: /
+extra_css:
+  - css/maps/leaflet.css
+  - css/maps/mapbox.standalone.css
+  - css/maps/markercluster.css
+  - css/maps/markerclusterdefault.css
+extra_js:
+  - js/maps/leaflet.js
+  - js/maps/mapbox.standalone.js
+  - js/maps/markercluster.js
+  - js/maps/cugos_usermap.js
 ---
+
+    <div class="row">
+    <div class="span12">
+    <div id='map' class='dark' style='width:800px;height:400px'></div>
+    </div>
+    </div>
 
      <h2>People</h2>
 {% for person in site.categories.people %}
