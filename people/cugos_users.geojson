@@ -40,6 +40,24 @@
     {
       "type": "Feature",
       "properties": {
+        "First": "Sam",
+        "Last": "Matthews",
+        "IRC": "svmatthews",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330407,
+          47.661587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "First": "Jacob",
         "Last": "Lesser",
         "IRC": "jlesser",
