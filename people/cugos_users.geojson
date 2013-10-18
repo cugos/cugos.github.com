@@ -72,6 +72,24 @@
           48.733831
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Andrew",
+        "Last": "Powers",
+        "IRC": "powersa",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332722,
+          47.621134
+        ]
+      }
+    },
   ]
 }
