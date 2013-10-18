@@ -36,6 +36,24 @@
           47.656831742126535
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Jacob",
+        "Last": "Lesser",
+        "IRC": "jlesser",
+        "City": "Bellingham",
+        "State": "WA",
+        "ZIP": 98225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485714,
+          48.733831
+        ]
+      }
     }
   ]
 }
