@@ -11,7 +11,7 @@ Event Details
 
 * Saturday, October 19th 1-4PM and Sunday, October 20th 1-4PM
 * Tableau Software
-* 837 34th Avenue North, Seattle, WA
+* 837 North 34th Street, 2nd floor Seattle, WA
 
 RSVP [Meetup.com](http://meetup.com/OpenStreetMap-Seattle/events/137406102/)
 ---------------------------------
