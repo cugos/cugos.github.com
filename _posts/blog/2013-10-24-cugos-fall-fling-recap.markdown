@@ -11,7 +11,7 @@ by Jared Dominguez
 
 The [CUGOS 2013 Fall Fling](http://cugos.org/events/2013/10/16/fall-fling/) was a hit! (And I'm not just saying that because I got pizza and beer.) Thank you to everyone who presented, attended, and kept things running smoothly. 
 
-![Approximately 60 GIS users attended the CUGOS 2013 Fall Fling. Image courtesy of Aaron Racicot.](/images/CUGOS_Attendees.jpg)
+![Approximately 60 GIS users attended the CUGOS 2013 Fall Fling. Image courtesy of Aaron Racicot.](/blog/images/fallfling2013/CUGOS_Attendees.jpg)
 
 Rather than bore you with my lengthy set of notes, I compiled a partial list of the open source projects that we discussed along with some of their applications.
 
@@ -41,4 +41,4 @@ Rather than bore you with my lengthy set of notes, I compiled a partial list of 
 
 Impressed? You should be. CUGOS is a great way to learn about the GIS world. I'll be back next year for more open source goodness...and more treats.
 
-![TREATS! Image courtesy of Aaron Racicot.](/images/CUGOS_Treats.jpg)
+![TREATS! Image courtesy of Aaron Racicot.](/blog/images/fallfling2013/CUGOS_Treats.jpg)
