@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: CUGOS Fall Fling Recap
 category: blog
