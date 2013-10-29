@@ -1,5 +1,5 @@
 ---
-layout: fall_fling_bling
+layout: default
 title: Events
 weight: 2
 permalink: /
@@ -11,8 +11,9 @@ permalink: /
         <div class="span12">
           <div class="event">
             <h3><a href={{ event.url }}>{{ event.title }}</a></h3>
+            <h4>{{ event.excerpt }}</h4>
             <span class="date">{{ event.date | date_to_string }}</span>
-            <div class="entry">{{ event.content }}</div>
+            <hr>
           </div>
         </div>
       </div>
