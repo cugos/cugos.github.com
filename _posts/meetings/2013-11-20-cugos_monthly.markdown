@@ -10,6 +10,7 @@ __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 9812
 
 __Loose agenda:__
 
+- [@aaronr](https://github.com/aaronr) - Lets talk about [http://bboxfinder.com/](http://bboxfinder.com/)
 - [@githubuser](https://yoururl.com/) description to come...
 
 __Maybe:__
