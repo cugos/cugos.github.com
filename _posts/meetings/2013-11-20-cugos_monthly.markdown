@@ -10,7 +10,9 @@ __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 9812
 
 __Loose agenda:__
 
-- [@aaronr](https://github.com/aaronr) - Lets talk about [http://bboxfinder.com/](http://bboxfinder.com/)
+- Aaron Racicot ([@aaronr](https://github.com/aaronr)) - Lets talk about [http://bboxfinder.com/](http://bboxfinder.com/)
+- Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) -  Sam will run through using some cool stuff with [Projectlinework.org](http://projectlinework.org)
+
 - [@githubuser](https://yoururl.com/) description to come...
 
 __Maybe:__
