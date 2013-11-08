@@ -12,6 +12,7 @@ __Loose agenda:__
 
 - Aaron Racicot ([@aaronr](https://github.com/aaronr)) - Lets talk about [http://bboxfinder.com/](http://bboxfinder.com/)
 - Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) -  Sam will run through using some cool stuff with [Projectlinework.org](http://projectlinework.org)
+- Roger Andre ([@lagerratrobe](https://dl.dropboxusercontent.com/u/26575408/index.html)) - Quick update on the OSM Editathon that took place at Tableau in October
 
 - [@githubuser](https://yoururl.com/) description to come...
 
