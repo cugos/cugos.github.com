@@ -12,7 +12,7 @@ __Loose agenda:__
 
 - Ben Joldersma ([@bennidhamma](https://github.com/bennidhamma)) - A former member of the Google Maps Street View team, Ben will give a high-level history of Street View and how WebGL and HTML5 canvas play a role in it today.
 - Aaron Racicot ([@aaronr](https://github.com/aaronr)) - Lets talk about [http://bboxfinder.com/](http://bboxfinder.com/)
-- Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) -  Sam will run through using some cool stuff with [Projectlinework.org](http://projectlinework.org)
+- Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) -  Sam will run through using some cool stuff with [Projectlinework.org](http://projectlinework.org) and wants to contemplate the adventures of client-side API Key security and build a service that makes it manageable (or possible!).
 - Roger Andre ([@lagerratrobe](https://dl.dropboxusercontent.com/u/26575408/index.html)) - Quick update on the OSM Editathon that took place at Tableau in October
 - Greg Corradini ([@thebigspoon](https://github.com/thebigspoon/bboxfinder.com)) -  More Cookbooks, Less Foraging: the QGIS community has no resources, tutorials or cookbooks on building C++ plugins. Let's make one ourselves
 - Debbie Bull and Paul McCombs - Talk about King County's address data and update process
