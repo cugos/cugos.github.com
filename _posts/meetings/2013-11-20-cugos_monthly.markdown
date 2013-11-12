@@ -15,6 +15,7 @@ __Loose agenda:__
 - Sam Matthews ([@vancematthews](https://twitter.com/vancematthews)) -  Sam will run through using some cool stuff with [Projectlinework.org](http://projectlinework.org)
 - Roger Andre ([@lagerratrobe](https://dl.dropboxusercontent.com/u/26575408/index.html)) - Quick update on the OSM Editathon that took place at Tableau in October
 - Greg Corradini ([@thebigspoon](https://github.com/thebigspoon/bboxfinder.com)) -  More Cookbooks, Less Foraging: the QGIS community has no resources, tutorials or cookbooks on building C++ plugins. Let's make one ourselves
+- Debbie Bull and Paul McCombs - Talk about King County's address data and update process
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 - [@githubuser](https://yoururl.com/) description to come...
