@@ -16,6 +16,7 @@ __Loose agenda:__
 - Roger Andre ([@lagerratrobe](https://dl.dropboxusercontent.com/u/26575408/index.html)) - Quick update on the OSM Editathon that took place at Tableau in October
 - Greg Corradini ([@thebigspoon](https://github.com/thebigspoon)) - `More Cookbooks, Less Foraging`: The QGIS community has no current tutorials on building C++ plugins. Let's build one! and `Leaflet WAT?`: Mapping WTF(s)
 - Debbie Bull and Paul McCombs - Talk about King County's address data and update process
+- Mike Rosen - Seattle Tunnel Project is a world-class engineering effort in our own backyard.  I'm arranging a tour for the Puget Sound Chapter of ASPRS.  Any CUGOSians want to come along?  http://www.wsdot.wa.gov/Projects/Viaduct/About/FollowBertha
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 - [@githubuser](https://yoururl.com/) description to come...
