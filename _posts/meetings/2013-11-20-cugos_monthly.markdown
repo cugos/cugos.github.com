@@ -6,7 +6,9 @@ category: meetings
 excerpt: November 2013 CUGOS Monthly Meeting at OneOceanCorp (6pm)
 ---
 
-__Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __ 
+__Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __
+
+If the front doors are locked, call Ryan Small @ 206-395-5541 .
 
 __Loose agenda:__
 
