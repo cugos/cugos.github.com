@@ -12,7 +12,7 @@ If the front doors are locked, call Ryan Small @ 206-395-5541 .
 
 __Loose agenda:__
 
-- (@lyzidiamond)[https://github.com/lyzidiamond], that rascally mobile hacker, will be talking about her GeoJSON parsing JavaScript framework that geocodes Tumblr stuffs.
+- [@lyzidiamond](https://github.com/lyzidiamond), that rascally mobile hacker, will be talking about her GeoJSON parsing JavaScript framework that geocodes Tumblr stuffs.
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 - [@githubuser](https://yoururl.com/) description to come...
