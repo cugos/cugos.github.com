@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Decemeber 18th 2013, 6pm - OneOceanCorp
+title: December 18th 2013, 6pm - OneOceanCorp
 category: meetings
 
 excerpt: December 2013 CUGOS Monthly Meeting at OneOceanCorp (6pm)
