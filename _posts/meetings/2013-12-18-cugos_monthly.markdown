@@ -18,6 +18,7 @@ __Loose agenda:__
 - [@svmatthews](https://github.com/svmatthews) - New Atlas of Design website and various tidbits of geo-goodness
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
+Special guest [@lyzidiamond](https://github.com/lyzidiamond), new [Code for America Fellow!](http://www.codeforamerica.org/fellows/2014-fellows/)
 
 - [@githubuser](https://yoururl.com/) description to come...
 
