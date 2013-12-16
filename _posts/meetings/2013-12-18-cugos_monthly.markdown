@@ -19,6 +19,7 @@ __Loose agenda:__
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 Special guest [@lyzidiamond](https://github.com/lyzidiamond), new [Code for America Fellow!](http://www.codeforamerica.org/fellows/2014-fellows/)
+Special guest [@hallahan](https://github.com/hallahan), a new graduate of OSU and all-around badass will hopefully talk about his Leaflet plugins
 
 - [@githubuser](https://yoururl.com/) description to come...
 
