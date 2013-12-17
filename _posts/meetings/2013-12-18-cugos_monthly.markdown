@@ -18,6 +18,7 @@ __Loose agenda:__
 - [@svmatthews](https://github.com/svmatthews) - New Atlas of Design website and various tidbits of geo-goodness
 - [@foundatron](https://github.com/foundatron) - Jenkins, continuous integration, and you!
 - [@dshean](https://github.com/dshean) - First results from a 2008-2013 timeseries of 57 high-res DEMs for Greenland's biggest, baddest glacier
+- [@powersa](https://github.com/powersa) graphs with d3, learn how you can too
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 Special guest [@lyzidiamond](https://github.com/lyzidiamond), new [Code for America Fellow!](http://www.codeforamerica.org/fellows/2014-fellows/)
