@@ -17,10 +17,10 @@ __Loose agenda:__
 
 - [@githubuser](https://yoururl.com/) description to come...
 - [@cliffordsnow](https://github.com/cliffordsnow) Importing the rest of King County Addresses into OSM using HOTs Tasking Manager. With a short demo.
+- [@pkeum](https://github.com/keum) - Talk about potential idea of CUGOS presence (group workshop/presentations) at WAURISA conf may 12-14, 2014
+- Brian Dorsey and [Benson Kalahar](http://www.youtube.com/user/bensonk42/videos)  - They will talk to us about experience of using RC planes and quadcopters and generating mapping data.   
 
 __Maybe:__
-
-- @pkeum - Talk about potential CUGOS presence (group workshop/presentations) at WAURISA conf may 12-14, 2014
 
 - [@githubuser](https://yoururl.com/) description to come...
 
