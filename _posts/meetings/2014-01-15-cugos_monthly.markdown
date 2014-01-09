@@ -16,6 +16,7 @@ __Loose agenda:__
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 
 - [@githubuser](https://yoururl.com/) description to come...
+- [@cliffordsnow](https://github.com/cliffordsnow) Importing the rest of King County Addresses into OSM using HOTs Tasking Manager. With a short demo.
 
 __Maybe:__
 
