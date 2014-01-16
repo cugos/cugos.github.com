@@ -1,12 +1,12 @@
 ---
 layout: meeting
-title: January 15th 2014, 6pm - OneOceanCorp
+title: January 15th 2014, 6pm - ClipCard
 category: meetings
 
-excerpt: January 15th CUGOS Monthly Meeting at OneOceanCorp (6pm)
+excerpt: January 15th CUGOS Monthly Meeting at ClipCard (6pm)
 ---
 
-__Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __
+__Location -  ClipCard (formerly OneOcean), 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __
 
 If the front doors are locked, call Ryan Small @ 206-395-5541 .
 
