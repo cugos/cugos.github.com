@@ -16,7 +16,7 @@ __Loose agenda:__
 - [@cliffordsnow](https://github.com/cliffordsnow) Update on importing the rest of King County Addresses into OSM using HOTs Tasking Manager.
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and how we can help and what presentations people might do
 - [@githubuser](https://yoururl.com/) add your item and description here...
-
+- [@mrosen] just got back from two weeks in Guatemala check up on some humanitarian projects with which he's involved..  Among other things, he mapped a rural water system supply line using a GPS and Google Earth.  He'll talk about his trip.
 __Maybe:__
 
 - [@githubuser](https://yoururl.com/) add your item and description here...
