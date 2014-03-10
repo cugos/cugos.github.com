@@ -16,6 +16,7 @@ __Loose agenda:__
 - [@svmatthews](https://github.com/svmatthews) will talk about connecting Wordpress and pretty maps (i.e. leaflet & mapbox)
 - [@cliffordsnow](https://github.com/cliffordsnow) OSM Seattle update
 - [@mpgerlek](https://www.example.com/) Clipcard update!
+- [@powersa](https://github.com/powersa) takes revenge on daylight savings by making a map of daylight over time
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and WAURISA
 
 __Maybe:__
