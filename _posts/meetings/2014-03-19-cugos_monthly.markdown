@@ -14,6 +14,7 @@ __Loose agenda:__
 
 - [@aaronr](https://github.com/aaronr) will ...
 - [@svmatthews](https://github.com/svmatthews) will talk about connecting Wordpress and pretty maps (i.e. leaflet & mapbox)
+- [@jdomingu](https://github.com/jdomingu) will talk about doing fun but not very useful things with [ThreeJS](http://threejs.org/).
 - [@cliffordsnow](https://github.com/cliffordsnow) OSM Seattle update
 - [@mpgerlek](https://www.example.com/) Clipcard update!
 - [@powersa](https://github.com/powersa) takes revenge on daylight savings by making a map of daylight over time
