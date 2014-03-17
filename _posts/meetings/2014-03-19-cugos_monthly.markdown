@@ -6,9 +6,9 @@ category: meetings
 excerpt: March 19th CUGOS Monthly Meeting at ClipCard (6pm)
 ---
 
-__Location -  ClipCard (formerly OneOcean), New office location to be filled in soon!
+**Location** -  ClipCard (formerly OneOcean), **New office address**: 720 Olive Street
 
-If the front doors are locked, call Ryan Small @ 206-395-5541 .
+The main entrance is on Olive, between 7th and 8th Streets. There will be the usual signage out front. Call 206-595-2567 to be let in to the building and escorted up to the right floor.
 
 __Loose agenda:__
 
