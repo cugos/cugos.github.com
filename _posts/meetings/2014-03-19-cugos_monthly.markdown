@@ -18,6 +18,7 @@ __Loose agenda:__
 - [@cliffordsnow](https://github.com/cliffordsnow) OSM Seattle update
 - [@mpgerlek](https://www.example.com/) Clipcard update!
 - [@powersa](https://github.com/powersa) takes revenge on daylight savings by making a map of daylight over time
+- [@pkeum](https://github.com/keum) Brief showing of realtime data display using GitHub
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and WAURISA
 
 __Maybe:__
