@@ -6,7 +6,7 @@ category: meetings
 excerpt: March 19th CUGOS Monthly Meeting at ClipCard (6pm)
 ---
 
-**Location** -  ClipCard (formerly OneOcean), **New office address**: 720 Olive Street
+**Location** -  ClipCard (formerly OneOcean), **New office address**: 720 Olive *Way* ([map](http://www.openstreetmap.org/#map=15/47.6140/-122.3398))
 
 The main entrance is on Olive, between 7th and 8th Streets. There will be the usual signage out front. Call 206-595-2567 to be let in to the building and escorted up to the right floor.
 
