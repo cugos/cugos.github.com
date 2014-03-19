@@ -20,7 +20,7 @@ __Loose agenda:__
 - [@mpgerlek](https://www.example.com/) Clipcard update!
 - [@powersa](https://github.com/powersa) takes revenge on daylight savings by making a map of daylight over time
 - [@pkeum](https://github.com/keum) Brief showing of realtime data display using GitHub
-- [@mrosen] will provide a few updates from the ESRI Dev Summit last week including (in case he forgets) including how they use GitHub, who the Key note speaker was and something about GDAL.
+- [@mrosen](https://github.com/mrosen) will provide a few updates from the ESRI Dev Summit last week including (in case he forgets) including how they use GitHub, who the Key note speaker was and something about GDAL.
 - Everyone ([@cugos](https://github.com/cugos)) - Let's talk about FOSS4G 2014 in PDX and WAURISA
 
 __Maybe:__
