@@ -46,7 +46,7 @@ Thanks for the free pizza from ClipCard!
 
 - [@cybersea](https://github.com/cybersea) and [@sudobangbang](https://github.com/thebigspoon) - Washington Marine Vegetation Atlas - DNR - ESRI database + Javascript.  Step forward for DNR.  Marine vegetation provides important habitat.  Cool demo.  Lots of cool lessons learned about the hard times using some of the ESRI cloud solutions.  In order to get around many of the shortfalls forced to push much of the business logic to the client.  Leads to some slow behavior.
 
-  - Demo of the app at http://mva.apphb.com/index.html
+  - Demo of the app at [http://mva.apphb.com/index.html](http://mva.apphb.com/index.html)
 
 - [@cliffordsnow](https://github.com/cliffordsnow) - Mapping party NE branch of Seattle library on Saturday 1pm!!!
 Agenda will be to go out and map, discuss where the next one will be, and talk about gender diversity, and talk about addressing.  Ukraine issues are being discussed.  Wait until June 1st to change the map.  OSM is da bomb.  Notes - People are adding lots of notes in the different parts of Seattle... go check them out.  Craigslist is adding notes... very cool.
