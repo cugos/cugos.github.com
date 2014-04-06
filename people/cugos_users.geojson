@@ -90,6 +90,24 @@
           47.621134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "First": "Dane",
+        "Last": "Springmeyer",
+        "IRC": "springmeyer",
+        "City": "Winthrop",
+        "State": "WA",
+        "ZIP": 98862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.18608,
+          48.47810
+        ]
+      }
     }
   ]
 }
