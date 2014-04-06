@@ -28,3 +28,5 @@ Finally, run Jekyll's built-in server:
     jekyll serve
 
 Now, open `http://localhost:4000` in your web browser and you should see a local version of the CUGOS site.
+
+To learn how to add pages to the site see [the wiki](https://github.com/cugos/cugos.github.com/wiki/Adding-New-Posts)
