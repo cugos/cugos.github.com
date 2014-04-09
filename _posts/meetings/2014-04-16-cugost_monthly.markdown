@@ -16,8 +16,8 @@ __Loose agenda:__
 - [@sharierickson](http://www.apogeemapping.com), owner of Apogee Mapping, and her skilled "consultant" will be in town talking about her non-traditional tooling for creating [beautiful static cartographic products](http://www.apogeemapping.com/Products/index.htm) ( also known as paper maps ). In her own words and a preview of the fun to come:
 
 > I am obsessed with maps and have always been enamored with the USGS topos due to their high level of detail, but got frustrated that they were so out-of-date and neglected.  I also grew tired of seeing most other map providers constantly regurgitating the same old USGS rasters and calling them "new" or "unique" which is what inspired me to start the amTopo line of truly original 7.5 Minute topos I started using MapServer in 2011 when amTopo was launched, and it has been amazing.  My developer wrote custom code (I think in C++) that fetches base DEM data and processes it for generation of contours and hillshading, and the same code also creates the navigational collars and legend info that appears on each map.
-        
-- The team from <http://broadstreetmaps.com/our-team/> are going to talk about their visualization work, international travels, and open source tools (more details TBD - @springmeyer is in touch).
+
+- The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team) will talk about their start-up company, which makes maps for public health organizations and social enterprises working in development. They’ll be introducing their visualization work, and seeking feedback on products, tools, and strategy!
 
 - [@svmatthews](https://github.com/svmatthews) has been jammin with [@lyzidiamond](https://github.com/lyzidiamond) on a new project about mapper groups and meetups. He wants to make the project more collaborative and start pushing in more functionality by getting the good people at CUGOS to fork and help out.
 
