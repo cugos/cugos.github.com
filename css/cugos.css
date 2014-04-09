@@ -43,3 +43,9 @@ div.warning {
     width: 750px;
 }
 
+blockquote p {
+    font-size:15px;
+    color:#c0c0c0;
+    line-height:1.5;
+}
+
