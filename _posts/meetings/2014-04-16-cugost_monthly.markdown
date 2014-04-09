@@ -23,5 +23,5 @@ __Loose agenda:__
         I started using MapServer in 2011 when amTopo was launched, and it has been amazing.  My developer wrote custom code
         (I think in C++) that fetches base DEM data and processes it for generation of contours and hillshading, and the
         same code also creates the navigational collars and legend info that appears on each map.
-
+- The team from <http://broadstreetmaps.com/our-team/> are going to talk about their visualization work, international travels, and open source tools (more details TBD - @springmeyer is in touch).
 - your talk here
