@@ -23,3 +23,4 @@ __Loose agenda:__
 
 - [@jradavenport](https://github.com/jradavenport) from UW who has created [24hrs of King County Metro](http://vimeo.com/88172380) will talk about how he created this data visualization video to display metro bus movement. 
 
+- [@dshean](https://github.com/dshean) will share some large prints (and likely some slides) of annual 2 m/px WorldView Stereo DEM mosaics for West Antarctica's "weak underbelly" - an area roughly the size of New Mexico.
