@@ -6,9 +6,9 @@ category: meetings
 excerpt: April 16th CUGOS Monthly Meeting at ClipCard (6pm)
 ---
 
-**Location** -  ClipCard (formerly OneOcean), **New office address**: 14th Floor, 720 Olive *Way* ([map](http://www.openstreetmap.org/?mlat=47.6141&mlon=-122.3349#map=16/47.6141/-122.3349))
+**Location** -  ClipCard, **New office address**: 14th Floor, 720 Olive *Way*  ([map](http://www.openstreetmap.org/?mlat=47.6141&mlon=-122.3349#map=16/47.6141/-122.3349)) 
 
-The main entrance is on Olive, between 7th and 8th Streets. There will be the usual signage out front. Call 206-595-2567 to be let in to the building and escorted up to the right floor.
+The main entrance is on Olive, between 7th and 8th Street. Just take the elevators up to the 14th Floor. Call 206-595-2567 or 206-395-5541 if you get lost.
 
 __Loose agenda:__
 
