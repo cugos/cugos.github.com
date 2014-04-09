@@ -21,5 +21,5 @@ __Loose agenda:__
 
 - [@svmatthews](https://github.com/svmatthews) has been jammin with [@lyzidiamond](https://github.com/lyzidiamond) on a new project about mapper groups and meetups. He wants to make the project more collaborative and start pushing in more functionality by getting the good people at CUGOS to fork and help out.
 
-- [@jradavenport](http://www.ifweassume.com/) from UW who has created [24hrs of King County Metro] (http://vimeo.com/88172380) will talk about how he created this data visualization video to display metro bus movement. 
+- [@jradavenport](https://github.com/jradavenport) from UW who has created [24hrs of King County Metro] (http://vimeo.com/88172380) will talk about how he created this data visualization video to display metro bus movement. 
 
