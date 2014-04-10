@@ -17,7 +17,7 @@ title: Home
 
       <!-- Example row of columns -->
       <div class="row">
-        <div class="span4">
+        <div class="col-md-4">
           <h2>Upcoming Events</h2>
 {% for event in site.categories.events limit: 2  %}
           <div class="event">
@@ -27,7 +27,7 @@ title: Home
           </div>
 {% endfor %}
         </div>
-        <div class="span4">
+        <div class="col-md-4">
           <h2>Latest Blogs</h2>
 {% for blog in site.categories.blog limit: 2  %}
           <div class="blog">
@@ -37,7 +37,7 @@ title: Home
           </div>
 {% endfor %}
        </div>
-        <div class="span4">
+        <div class="col-md-4">
           <h2>Latest Projects</h2>
 {% for project in site.categories.projects limit: 2  %}
           <div class="project">

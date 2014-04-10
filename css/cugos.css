@@ -1,4 +1,11 @@
-div.container div.event.fall-fling {
+body {
+    margin-top:70px;
+}
+
+
+
+/* OLD STUFF */
+/*div.container div.event.fall-fling {
     width: 875px;
 }
 
@@ -49,3 +56,4 @@ blockquote p {
     line-height:1.5;
 }
 
+*/
