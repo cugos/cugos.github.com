@@ -25,11 +25,11 @@ Boomsauce. Fork and be happy.
 
 ### TODO
 
-* [x] Add newest version of bootstrap 3.1.1
-* [ ] Remove uncessary scripts and styles that are most likely @sudobangbang hacks :)
-* [ ] Branding
-* [ ] Content architecture - mostly the same, but highlight active and show innactive (i.e. meetings vs. projects)
-* [ ] Use github API to show recent projects from members
-* [ ] Update 'people' page
-* [ ] Showcase upcoming meeting more prominently
-* [ ] develop meeting notes space a bit more systematically
+* -Add newest version of bootstrap 3.1.1-
+* Remove uncessary scripts and styles that are most likely @sudobangbang hacks :)
+* Branding
+* Content architecture - mostly the same, but highlight active and show innactive (i.e. meetings vs. projects)
+* Use github API to show recent projects from members
+* Update 'people' page
+* Showcase upcoming meeting more prominently
+* develop meeting notes space a bit more systematically
