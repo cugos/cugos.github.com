@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-weight: 7
+weight: 11
 permalink: /
 ---
 

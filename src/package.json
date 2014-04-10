@@ -1,0 +1,22 @@
+{
+  "name": "cugos development",
+  "version": "0.0.1",
+  "description": "mostly using LESS and uglify for building and deploying",
+  "homepage": "https://cugos.org",
+  "bugs": "https://github.com/cugos/cugos.github.com/issues",
+  "main": "src/main.js",
+  "dependencies": {
+    "less": "1.5.x"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-jshint": "0.7.0",
+    "grunt-browserify": "1.2.x",
+    "grunt-contrib-uglify": "0.2.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-contrib-less": "0.8.x",
+    "browserify": "2.35.4"
+  }
+}

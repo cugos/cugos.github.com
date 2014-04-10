@@ -1,32 +1,35 @@
-cugos.github.com
-================
+cugos.github.com version 2.0
+============================
 
-The CUGOS website hosted on GitHub via Jekyll and GitPages
+This is the development version of the to-be CUGOS updated site. If you are looking for the current, live version of the site you can take a look at the [master branch](https://github.com/cugos/cugos.github.com/tree/master).
 
-### Adding content
+If you would like to contribute to the development of the new site, you'll have to do a few things:
 
-Check out [the wiki](https://github.com/cugos/cugos.github.com/wiki/Editing-The-Website) for details on how the website works and how to edit or add content.
+### Clone locally
 
-### Running locally
+`cd` to your working directory and `git clone https://github.com/svmatthews/gruntless-starter.git`
 
-The site can be run and previewed locally.
+Move into that directory via `cd cugos.github.com`
 
-First cloning the repo using git:
+### Install necessary npm packages
 
-    git clone git@github.com:cugos/cugos.github.com.git cugos_website
+If you cloned the website and it came with the `src/node_modules` directory full of stuff, you're probably good, but you may need to `npm install` within the `src` directory to get them all up and running. Takes a couple minutes.
 
-Then move into the newly created directory:
+These packages will allow you to develop in the LESScss environment via the `*.less` files within the `src/less` directory. In order to compile any changes you can either run `grunt`, `grunt build-css`, or set a watcher to look for changes via `grunt watcher`
 
-    cd cugos_website
+### Serve jekyll to view site
 
-You need `jekyll` and `rdiscount` installed to launch the site:
+Within the `cugos.github.com` directory you can `jekyll serve` to view the compiled site at `localhost:4000` - you can also run `jekyll serve --watch` to make changes to files on the fly. If you add a new file you need ot re-run jekyll serve in order to recompile.
 
-    sudo gem install jekyll rdiscount
+Boomsauce. Fork and be happy.
 
-Finally, run Jekyll's built-in server:
+### TODO
 
-    jekyll serve
-
-Now, open `http://localhost:4000` in your web browser and you should see a local version of the CUGOS site.
-
-To learn how to add pages to the site see [the wiki](https://github.com/cugos/cugos.github.com/wiki/Adding-New-Posts)
+* [x] Add newest version of bootstrap 3.1.1
+* [ ] Remove uncessary scripts and styles that are most likely @sudobangbang hacks :)
+* [ ] Branding
+* [ ] Content architecture - mostly the same, but highlight active and show innactive (i.e. meetings vs. projects)
+* [ ] Use github API to show recent projects from members
+* [ ] Update 'people' page
+* [ ] Showcase upcoming meeting more prominently
+* [ ] develop meeting notes space a bit more systematically
