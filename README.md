@@ -25,7 +25,7 @@ Boomsauce. Fork and be happy.
 
 ### TODO
 
-* -Add newest version of bootstrap 3.1.1-
+* ~~Add newest version of bootstrap 3.1.1~~
 * Remove uncessary scripts and styles that are most likely @sudobangbang hacks :)
 * Branding
 * Content architecture - mostly the same, but highlight active and show innactive (i.e. meetings vs. projects)
