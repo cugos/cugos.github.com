@@ -13,7 +13,7 @@ Move into that directory via `cd cugos.github.com`
 
 ### Install necessary npm packages
 
-If you cloned the website and it came with the `src/node_modules` directory full of stuff, you're probably good, but you may need to `npm install` within the `src` directory to get them all up and running. Takes a couple minutes.
+Once you clone the site, you'll have to install the necessary npm package dependencies. Change to the `src` directory and run `npm install`, which will create the needed `node_modules` directory.
 
 These packages will allow you to develop in the LESScss environment via the `*.less` files within the `src/less` directory. In order to compile any changes you can either run `grunt`, `grunt build-css`, or set a watcher to look for changes via `grunt watcher`
 
