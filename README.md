@@ -7,7 +7,7 @@ If you would like to contribute to the development of the new site, you'll have 
 
 ### Clone locally
 
-`cd` to your working directory and `git clone https://github.com/svmatthews/gruntless-starter.git`
+`cd` to your working directory and `git clone -b cugos2.0 git@github.com:cugos/cugos.github.com.git`. This will clone the `cugos2.0` branch specifically!
 
 Move into that directory via `cd cugos.github.com`
 
