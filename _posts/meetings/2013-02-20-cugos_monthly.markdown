@@ -5,8 +5,8 @@ location: Lizard Tech
 address: 1008 Western Avenue Suite #200 - Seattle, WA 98104 USA
 time: 6:00pm
 excerpt: Feb 2013 CUGOS Monthly Meeting at LizardTech (6pm)
-lat: 47.6097
-lng: -122.3331
+lat: 47.604096
+lng: -122.336667
 category: meetings
 ---
  
