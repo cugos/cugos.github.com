@@ -1,14 +1,19 @@
 ---
 layout: meeting
 title: August 21st 2013, 6pm - LizardTech
-category: meetings
-
+location: Lizard Tech
+address: 1008 Western Avenue Suite #200 - Seattle, WA 98104 USA
+time: 6:00pm
 excerpt: August 2013 CUGOS Monthly Meeting at LizardTech (6pm)
+lat: 47.604096
+lng: -122.336667
+category: meetings
+notes: Doors are locked after hours. Enter through doors to the south east lobby off Post Alley. A phone number will be posted on that door to call for entry.
 ---
 
 __Location - LizardTech at 1008 Western Ave, Seattle, WA 98104__ 
 
-> Doors are locked after hours. Enter through doors to the south east lobby off Post Alley. A phone number will be posted on that door to call for entry.
+> 
 
 __Loose agenda:__
 

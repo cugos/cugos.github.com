@@ -1,14 +1,19 @@
 ---
 layout: meeting
 title: December 18th 2013, 6pm - OneOceanCorp
-category: meetings
-
+location: OneOceanCorp
+address: 2201 Sixth Avenue, Suite 1102, Seattle WA 98121
+time: 6:00pm
 excerpt: December 2013 CUGOS Monthly Meeting at OneOceanCorp (6pm)
+lat: 47.616105
+lng: -122.341777
+category: meetings
+notes: If the front doors are locked, call Ryan Small @ 206-395-5541
 ---
+
 
 __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __
 
-If the front doors are locked, call Ryan Small @ 206-395-5541 .
 
 __Loose agenda:__
 

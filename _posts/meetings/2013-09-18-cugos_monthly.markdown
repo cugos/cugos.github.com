@@ -1,9 +1,14 @@
 ---
 layout: meeting
 title: September 18th 2013, 6pm - OneOceanCorp
-category: meetings
-
+location: OneOceanCorp
+address: 2201 Sixth Avenue, Suite 1102, Seattle WA 98121
+time: 6:00pm
 excerpt: September 2013 CUGOS Monthly Meeting at OneOceanCorp (6pm)
+lat: 47.616105
+lng: -122.341777
+category: meetings
+notes: 
 ---
 
 __Location -  OneOcean Corporation 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __ 
