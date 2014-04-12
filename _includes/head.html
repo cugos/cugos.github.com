@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Dosis:300,700' rel='stylesheet' type='text/css'>
+    
+    <!-- Le styles -->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/css/main.css" />
+
+    <!-- link href="../assets/css/bootstrap-responsive.css" rel="stylesheet" --!>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="../assets/js/html5shiv.js"></script>
+        <![endif]-->         
+    <!-- Fav and touch icons -->
+{% for css_name in page.extra_css %}
+    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
+{% endfor %}
+
+    <script src="{{site.baseurl}}/js/jquery-1.9.1.js"></script>
+    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+
+{% for js_name in page.extra_js %}
+    <script src="{{site.baseurl}}/{{ js_name }}"></script>
+{% endfor %}
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/image/base/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/image/base/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/image/base/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/image/base/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="{{site.baseurl}}/image/base/favicon.ico">
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-fixed-top" role="navigation">
+      <a id="brand-logo" href="/">{% include cugos-svg-logo.html %}</a>
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            {% for weight in (1..10) %}
+              {% for p in site.pages %}
+                {% if p.weight == weight %}              
+                  <li {% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            {% for weight in (11..20) %}
+              {% for p in site.pages %}
+                {% if p.weight == weight %}              
+                  <li {% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </nav>
