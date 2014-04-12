@@ -7,17 +7,35 @@ layout: default
 	<script>
 		var lat = {{ page.lat }};
 		var lng = {{ page.lng }};
+		var geojson = {};
+		geojson['type'] = 'FeatureCollection';
+		geojson['features'] = [];
+		var newFeature = {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [{{ page.lng }}, {{ page.lat }}]
+			},
+			"properties": {
+				"title": "{{ page.location }}",
+				"description": "{{ page.address }}",
+				"marker-size": "large",
+				"marker-color": "#ba4a00",
+				"marker-symbol": "commercial"
+			}
+		}
+		
 	</script>
 
 	<div class="row">
-		<div class="col-md-8">
+		<div class="col-md-6">
 	    	<h2>{{ page.title }}</h2>
 		    <span class="date">{{ page.date | date_to_string }}</span><br>
 
 		    <span class="category">Category: {{ page.categories | category_links }}</span>
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-md-6">
 			<div id="map"></div>
 		</div>
 	</div>
