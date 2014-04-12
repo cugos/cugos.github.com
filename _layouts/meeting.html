@@ -4,17 +4,26 @@ layout: default
 
 <div class="meeting">
 
-    <h2>{{ page.title }}</h2>
+	<script>
+		var lat = {{ page.lat }};
+		var lng = {{ page.lng }};
+	</script>
 
-    <span class="date">{{ page.date | date_to_string }}</span><br>
+	<div class="col-md-8">
+    	<h2>{{ page.title }}</h2>
+	    <span class="date">{{ page.date | date_to_string }}</span><br>
 
-    <span class="category">Category: {{ page.categories | category_links }}</span>
-    <br><br>
-	<div class="entry">{{ content }}</div>
-        {% if page.image != null %}
-        <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
-        {% endif %}
-    <br>
+	    <span class="category">Category: {{ page.categories | category_links }}</span>
+	    <br><br>
+		<div class="entry">{{ content }}</div>
+	        {% if page.image != null %}
+	        <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
+	        {% endif %}
+	    <br>
+	</div>
+
+	<div class="col-md-4">
+		<div id="map"></div>
+	</div>
 
 </div>
-

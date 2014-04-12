@@ -2,8 +2,9 @@
 layout: meeting
 title: Feb 20th 2013 - LizardTech
 category: meetings
-
 excerpt: Feb 2013 CUGOS Monthly Meeting at LizardTech (6pm)
+lat: '16.235'
+lng: '14.234256'
 ---
  
 __Really looking forward to seeing everyone on Feb 20th at 6pm__
