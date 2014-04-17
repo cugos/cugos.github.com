@@ -28,30 +28,44 @@ layout: default
 	</script>
 
 	<div class="row">
-		<div class="col-sm-1"></div>
-		<div class="col-sm-4">
-	    	<h2>CUGOS Meeting</h2>
-	    	<h4 class="date">{{ page.date | date_to_string }} | <strong>{{ page.time }}</strong></h4>
-	    	<p class="location">Host: {{ page.location }}</p>
-	    	<p class="address">{{ page.address }}</p>
-			<p class="notes">{{ page.notes }}</p>
+		<div class="col-sm-3 hide-sm">
+			<ul class="meeting-sidebar">
+			{% for meeting in site.categories.meetings %}
+				{% if page.url == meeting.url %}
+				<li><a class="active" href={{ meeting.url }}>{{ meeting.title }}</a></li>
+				{% else %}
+				<li><a href={{ meeting.url }}>{{ meeting.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+			</ul>
 		</div>
 
-		<div class="col-sm-6">
-			<div id="map"></div>
-			<p class="coords">{{ page.lat }}, {{ page.lng }}</p>
+		<div class="col-sm-9">
+
+			<div class="row">
+				<div class="col-sm-5">
+			    	<h2>CUGOS Meeting</h2>
+			    	<h4 class="date">{{ page.date | date_to_string }} | <strong>{{ page.time }}</strong></h4>
+			    	<p class="location">Host: {{ page.location }}</p>
+			    	<p class="address">{{ page.address }}</p>
+					<p class="notes">{{ page.notes }}</p>
+				</div>
+
+				<div class="col-sm-7">
+					<div id="map"></div>
+					<p class="coords">{{ page.lat }}, {{ page.lng }}</p>
+				</div>
+				<div class="col-sm-1"></div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="entry">{{ content }}</div>
+			        {% if page.image != null %}
+			        	<img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
+			        {% endif %}
+				</div>
+			</div>
 		</div>
-		<div class="col-sm-1"></div>
-	</div>
-	<div class="row">
-		<div class="col-sm-1"></div>
-		<div class="col-sm-10">
-			<div class="entry">{{ content }}</div>
-	        {% if page.image != null %}
-	        	<img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
-	        {% endif %}
-		</div>
-		<div class="col-sm-1"></div>
 	</div>
 
 </div>
