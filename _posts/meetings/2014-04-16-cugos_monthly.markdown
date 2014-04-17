@@ -80,7 +80,7 @@ The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
 
 [@svmatthews](https://github.com/svmatthews) 
 
-- [The project!!](lyzidiamond.com/mapgroups)
+- [The project!!](http://lyzidiamond.com/mapgroups)
 - on github (lyzi's github account)
 - Baby steps... just starting out... but looking for help
 - Sam is re-branding the site - BOOM!!!!
