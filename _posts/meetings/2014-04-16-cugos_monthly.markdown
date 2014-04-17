@@ -30,7 +30,7 @@ __Loose agenda:__
 
 NOTES::
 
-Lots of new faces.  50+ at the meeting.
+Lots of new faces.  50+ (53 to be exact) at the meeting.
 
 ![Room full of people](/image/base/april_2014_meeting.jpg)
 
@@ -44,15 +44,37 @@ Lots of new faces.  50+ at the meeting.
 - [The vector tile spec](https://github.com/mapbox/vector-tile-spec)
 - Gave a peak at TM2
 
-![Room full of people](/image/base/april_2014_meeting_dane.jpg)
+![Dane](/image/base/april_2014_meeting_dane.jpg)
 
 ---
 
 [@sharierickson](http://www.apogeemapping.com)
 
+- High quality maps with MapServer
+- Ian Erickson (in place of Sharie)
+- Came from a background of MapInfo
+- MapServer, GDAL/OGR, Hillshade, PROJ4 to base the workflow on
+- NAIP, DEMs, GNIS, TIGER, USFS, USGS, BLM, NPS
+- QuadProcessor
+- Lots of time to get labels on "Straightest Segments"
+- Based on re-usable mapserver templates... needs to be repeatable
+- Makes PDF's (sells them on Amazon)... 
+
 ---
 
 The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
+
+- Name based on [Dr. John Snow's cholera map](http://www.broadstreetmaps.org/broad-street1/)
+- Mapping for public health
+- Been in Seattle for 6 weeks... StartUp!!!!
+- All came from middlebury college
+- [Check out the team](http://broadstreetmaps.com/our-team)
+- Lots of international work (Rwanda and Peru)
+- May 7th pitch at the HUB
+- Fledge organization at Seattle's impactHUB
+- Base work is quickly making maps, but looking toward the future at products
+
+![Broadstreet Maps](/image/base/april_2014_meeting_broadstreet.jpg)
 
 ---
 
