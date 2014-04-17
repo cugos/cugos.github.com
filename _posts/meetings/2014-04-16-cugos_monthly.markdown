@@ -30,32 +30,43 @@ __Loose agenda:__
 
 NOTES::
 
-Lots of new faces.  40+ at the meeting.
+Lots of new faces.  50+ at the meeting.
 
 ![Room full of people](/image/base/april_2014_meeting.jpg)
 
-[@springmeyer](https://github.com/springmeyer) 
-==============================================
+---
+
+**[@springmeyer](https://github.com/springmeyer)**
+
 - Vector tiles!!!!
 - Works for Mapbox
 - Same talk as from State of the Map [Talk and Video from SOTM](http://stateofthemap.us/session/processing-openstreetmap-into-vector-tiles/)
+- [The vector tile spec](https://github.com/mapbox/vector-tile-spec)
+- Gave a peak at TM2
 
 ![Room full of people](/image/base/april_2014_meeting_dane.jpg)
 
-[@sharierickson](http://www.apogeemapping.com), owner of Apogee Mapping
-=======================================================================
+---
+
+[@sharierickson](http://www.apogeemapping.com)
+
+---
 
 The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
-=====================================================================
+
+---
 
 [@svmatthews](https://github.com/svmatthews) 
-============================================
+
+---
 
 [@jradavenport](https://github.com/jradavenport) 
-================================================
+
+---
 
 [@dshean](https://github.com/dshean) 
-====================================
+
+---
 
 [@foundatron](https://github.com/foundatron) 
-============================================
+
