@@ -130,3 +130,5 @@ The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
 
 [@foundatron](https://github.com/foundatron) 
 
+- Should we stream these meetings?
+- YES!!!
