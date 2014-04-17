@@ -97,12 +97,34 @@ The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
 - Astro Phyisics - Star hunter
 - "If We Assume" - A blog to do things not related to work
 - Mapping projects based on curiousity
+- 32% of people live at Starbucks (you had to be there to get the joke)
+- King County Metro - Funding Shortfall
+- Google Transit files where available... time to play
+- Just looking at bus stop locations was VERY interesting
+- Great "non gis" data vis using his tools used in his physics work
+- IDL and python and ffmpeg
+- Check out the [Bus Vis](http://vimeo.com/88172380)... it is KILLER
 
 ![James](/image/base/april_2014_meeting_james.jpg)
 
 ---
 
 [@dshean](https://github.com/dshean) 
+
+- ICE MAN!!!!!
+- Digital Globe Images
+- Watching 40 meter drops in glacier hight
+- Ames Stereo Pipeline
+- Use DG, GeoEye, Astrium data
+- 5m accuracy (horiz/vert)
+- 1m accuracy after correction
+- "The Weak Underbelly" - thinning and velocity increasing 
+- Able to derive 2m/px which is MUCH better than anything before for these areas
+- Basically replacing LiDAR... very exciting
+
+![David](/image/base/april_2014_meeting_david2.jpg)
+
+![David](/image/base/april_2014_meeting_david.jpg)
 
 ---
 
