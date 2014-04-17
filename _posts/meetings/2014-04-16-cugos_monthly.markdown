@@ -34,13 +34,28 @@ Lots of new faces.  40+ at the meeting.
 
 ![Room full of people](/image/base/april_2014_meeting.jpg)
 
-- [@springmeyer](https://github.com/springmeyer) 
+[@springmeyer](https://github.com/springmeyer) 
+==============================================
+- Vector tiles!!!!
+- Works for Mapbox
+- Same talk as from State of the Map [Talk and Video from SOTM](http://stateofthemap.us/session/processing-openstreetmap-into-vector-tiles/)
 
 ![Room full of people](/image/base/april_2014_meeting_dane.jpg)
 
-- [@sharierickson](http://www.apogeemapping.com), owner of Apogee Mapping
-- The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
-- [@svmatthews](https://github.com/svmatthews) 
-- [@jradavenport](https://github.com/jradavenport) 
-- [@dshean](https://github.com/dshean) 
-- [@foundatron](https://github.com/foundatron) 
+[@sharierickson](http://www.apogeemapping.com), owner of Apogee Mapping
+=======================================================================
+
+The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
+=====================================================================
+
+[@svmatthews](https://github.com/svmatthews) 
+============================================
+
+[@jradavenport](https://github.com/jradavenport) 
+================================================
+
+[@dshean](https://github.com/dshean) 
+====================================
+
+[@foundatron](https://github.com/foundatron) 
+============================================
