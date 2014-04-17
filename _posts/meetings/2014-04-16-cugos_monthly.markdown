@@ -80,9 +80,25 @@ The team from [@broadstreetmaps](http://broadstreetmaps.com/our-team)
 
 [@svmatthews](https://github.com/svmatthews) 
 
+- [The project!!](lyzidiamond.com/mapgroups)
+- on github (lyzi's github account)
+- Baby steps... just starting out... but looking for help
+- Sam is re-branding the site - BOOM!!!!
+- On the 2.0 branch and it is looking great
+- Sam did the FOSS4G website as well... DOUBLE BOOM TIME!!!!
+
+![Sam](/image/base/april_2014_meeting_sam.jpg)
+
 ---
 
 [@jradavenport](https://github.com/jradavenport) 
+
+- James Davenport
+- Astro Phyisics - Star hunter
+- "If We Assume" - A blog to do things not related to work
+- Mapping projects based on curiousity
+
+![James](/image/base/april_2014_meeting_james.jpg)
 
 ---
 
