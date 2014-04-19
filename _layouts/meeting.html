@@ -28,19 +28,15 @@ layout: default
 	</script>
 
 	<div class="row">
-		<div class="col-sm-3 hide-sm">
+		<div class="col-md-2 hidden-sm hidden-xs">
 			<ul class="meeting-sidebar">
 			{% for meeting in site.categories.meetings %}
-				{% if page.url == meeting.url %}
-				<li><a class="active" href={{ meeting.url }}>{{ meeting.title }}</a></li>
-				{% else %}
-				<li><a href={{ meeting.url }}>{{ meeting.title }}</a></li>
-				{% endif %}
+				<li><a {% if page.url == meeting.url %}class="active"{% endif %} href={{ meeting.url }}>{{ meeting.date | date: "%m/%d/%Y" }}</a></li>
 			{% endfor %}
 			</ul>
 		</div>
 
-		<div class="col-sm-9">
+		<div class="col-md-9">
 
 			<div class="row">
 				<div class="col-sm-5">

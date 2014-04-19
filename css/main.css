@@ -51,3 +51,23 @@ nav {
   color: #999;
   text-align: right;
 }
+.meeting-sidebar {
+  margin-top: 40px;
+  list-style-type: none;
+}
+.meeting-sidebar li a {
+  float: left;
+  display: block;
+  padding: 4px 8px;
+  margin-bottom: 3px;
+  border-radius: 2px;
+  color: #888888;
+}
+.meeting-sidebar li a:hover {
+  background-color: #e5e5e5;
+  text-decoration: none;
+}
+.meeting-sidebar li a.active {
+  background-color: #2a6496;
+  color: #e5e5e5;
+}
