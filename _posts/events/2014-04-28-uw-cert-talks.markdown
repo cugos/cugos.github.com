@@ -21,6 +21,7 @@ __Tentative Schedule:__
 
 - (5 mins) PeterK - intros
 - (10 minutes) [@aaronr](https://github.com/aaronr) will talk about working with NOAA and how small teams using Open Source tools are making a big difference in disaster response within NOAA.
+- (10 minutese [@mattmakesmaps](https://github.com/mattmakesmaps) will talk about the OpenStreetMap project, how people are using the data, and how to contribute.
 - (xxx minutes) [@mygithubuser](https://github.com/mygithubuser) will talk about ...
 - (until end of session) [@mpgerlek](https://github.com/mpgerlek) (moderator) Panel discussion on Open Source GIS, OSGeo, Jobs, and Q/A with students
 
