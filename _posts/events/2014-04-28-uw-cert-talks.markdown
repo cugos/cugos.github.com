@@ -19,9 +19,9 @@ This comment came from the instructor:
 ---
 __Tentative Schedule:__
 
-Aiming for 2 hours?
+Aiming for 2 hours plus change.
 
-- (5 mins) PeterK - intros
+- (10 mins) [@pkeum](https://github.com/keum) PeterK - Quick Introduction of speakers and CUGOS. Using Open Source tools to display KC Combined Sewer Overflow data. 
 - (15 minutes) [@aaronr](https://github.com/aaronr) will talk about working with NOAA and how small teams using Open Source tools are making a big difference in disaster response within NOAA.
 - (15 minutes) [@mattmakesmaps](https://github.com/mattmakesmaps) will talk about the OpenStreetMap project, how people are using the data, and how to contribute.
 - (15 minutes) [@lagerratrobe](https://github.com/lagerratrobe) will talk about using open source tools at different jobs; why use them, and which have been the most useful.
