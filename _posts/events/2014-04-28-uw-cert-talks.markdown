@@ -25,6 +25,7 @@ Aiming for 2 hours?
 - (15 minutes) [@aaronr](https://github.com/aaronr) will talk about working with NOAA and how small teams using Open Source tools are making a big difference in disaster response within NOAA.
 - (15 minutes) [@mattmakesmaps](https://github.com/mattmakesmaps) will talk about the OpenStreetMap project, how people are using the data, and how to contribute.
 - (15 minutes) [@lagerratrobe](https://github.com/lagerratrobe) will talk about using open source tools at different jobs; why use them, and which have been the most useful.
+- (15 minutes) [@svmatthews](https://github.com/svmatthews) plans to talk about taking your data to the internet starting with simple [leaflet maps](http://leafletjs.com/) to a brief on [D3.js](http://d3js.org/).
 - (until end of session - ~20-30 minutes) [@mpgerlek](https://github.com/mpgerlek) (moderator) Panel discussion on Open Source GIS, OSGeo, Jobs, and Q/A with students
 
 
