@@ -23,7 +23,7 @@ Aiming for 2 hours plus change.
 
 - (10 mins) [@pkeum](https://github.com/keum) PeterK - Quick Introduction of speakers and CUGOS. Using Open Source tools to display KC Combined Sewer Overflow data. 
 - (15 minutes) [@aaronr](https://github.com/aaronr) will talk about being an Open Source GIS developer, working with NOAA as an example, and lay down some advice. [slides - aaronr.github.io/uw-cert-14](http://aaronr.github.io/uw-cert-14)
-- (15 minutes) [@mattmakesmaps](https://github.com/mattmakesmaps) will talk about the OpenStreetMap project, how people are using the data, and how to contribute.
+- (15 minutes) [@mattmakesmaps](https://github.com/mattmakesmaps) will talk about the OpenStreetMap project, how people are using the data, and how to contribute. [Slides](https://speakerdeck.com/mattmakesmaps/osm-overview-uw-gis-cert-2014)
 - (15 minutes) [@lagerratrobe](http://dl.dropboxusercontent.com/u/26575408/gis_cert/slide_1.html) will talk about using open source tools at different jobs; why use them, and which have been the most useful.
 - (15 minutes) [@svmatthews](https://github.com/svmatthews) plans to talk about taking your data to the internet starting with simple [leaflet maps](http://leafletjs.com/) to a brief on [D3.js](http://d3js.org/).
 - (until end of session - ~20-30 minutes) [@mpgerlek](https://github.com/mpgerlek) (moderator) Panel discussion on Open Source GIS, OSGeo, Jobs, and Q/A with students
