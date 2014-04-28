@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 {% for meeting in site.categories.meetings limit: 1  %}
       <div class="alert alert-info">
         <h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4>
