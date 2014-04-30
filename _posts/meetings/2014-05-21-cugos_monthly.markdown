@@ -12,7 +12,7 @@ The main entrance is on Olive, between 7th and 8th Street. Just take the elevato
 
 __Loose agenda:__
 
-- [@github_name](https://github.com/github_name) will....
+- [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought.
 
 NOTES::
 
