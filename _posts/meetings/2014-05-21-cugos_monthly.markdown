@@ -14,9 +14,10 @@ __Loose agenda:__
 
 - [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought.
 
-## Possible PostGIS Workshop Topics
+### Possible PostGIS Workshop Topics
 
 - Architecture of the PostGIS extension to PostgreSQL and How it Relates.
+- Simplifying Adjacent Polygons Using [PostGIS Topology](http://postgis.net/docs/Topology.html).
 - The Basics of SQL in the World of Postgres (Not GIS Per Se)
 - Creating a Portable PostGIS on a USB Stick
 - Putting OSM on PostGIS and Actually Creating Tiles
