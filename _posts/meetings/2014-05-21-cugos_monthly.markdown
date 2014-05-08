@@ -13,6 +13,7 @@ The main entrance is on Olive, between 7th and 8th Street. Just take the elevato
 __Loose agenda:__
 
 - [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought.
+- [@licyeus](https://github.com/licyeus) will present briefly on angular-mapbox, a project that aims to let users embed Mapbox maps using markup only (i.e., without writing any Javascript).
 
 ### Possible PostGIS Workshop Topics
 
