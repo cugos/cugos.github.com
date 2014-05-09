@@ -14,6 +14,8 @@ __Loose agenda:__
 
 - [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought.
 - [@licyeus](https://github.com/licyeus) will present briefly on angular-mapbox, a project that aims to let users embed Mapbox maps using markup only (i.e., without writing any Javascript).
+- [@aaronr](https://github.com/aaronr) would like to propose CUGOS host a [MapTime](http://lyzidiamond.com/posts/why-maptime/) event here in Seattle in the next couple of months.  It looks to be a great model to help bridge the gap in learning, as well as a way that CUGOS can contribute materials etc back to the MapTime community.
+
 
 ### Possible PostGIS Workshop Topics
 
