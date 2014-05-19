@@ -16,6 +16,7 @@ __Loose agenda:__
 - [@licyeus](https://github.com/licyeus) will present briefly on angular-mapbox, a project that aims to let users embed Mapbox maps using markup only (i.e., without writing any Javascript).
 - [@aaronr](https://github.com/aaronr) would like to propose CUGOS host a [MapTime](http://lyzidiamond.com/posts/why-maptime/) event here in Seattle in the next couple of months.  It looks to be a great model to help bridge the gap in learning, as well as a way that CUGOS can contribute materials etc back to the MapTime community.  It has also been raised as a posibility that we could coordinate this with OSM's 10th birthday. Tentatively the local OSM community has scheduled an event for August 9th, so Cliff will be on-hand to talk about the possibility to make this a bigger joint event between MapTime and OSM.  Sounds like a "summer fling" to me...
 - Revenge on Daylight Savings: Part II. To be discussed: evenly distributed spherical point set, daylight calculation hacks, d3 transitions, and more... Presented by [@powersa](https://github.com/powersa)
+- Jason Taylor will present a workflow that preforms raster math using Python dictionaries. A write-up of the workflow and his script can be found [at this repo.](https://github.com/JMT2080AD/Raster-Calc)
 
 
 ### Possible PostGIS Workshop Topics
