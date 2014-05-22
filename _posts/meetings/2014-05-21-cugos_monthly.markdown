@@ -75,6 +75,7 @@ ON ST_Contains(
 
 - Making an AngularJS extention to bring Mapbox maps into the web without having to write javascript like you do currently.
 - Gives you MVC functionality with your data and removes an extra element of JS
+- wants to extend it to the entire mapbox/leaflet API to expose all possibilities
 - Roadmap
   - new elements for simplicity
   - make it work with leaflet
