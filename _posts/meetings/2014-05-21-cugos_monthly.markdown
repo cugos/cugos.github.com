@@ -100,6 +100,17 @@ ON ST_Contains(
 - so now he's got some badass points on a sphere with a color scheme that corrosponds to daylight time
 - check out the example at [his github](http://powersa.github.io/solstice)
 
+![Look at the globe with points!](/image/base/powersa-daylight-points.jpg)
+
 ---
 
-![Look at the globe with points!](/image/base/powersa-daylight-points.jpg)
+###Jason Taylor
+
+- python raster calculator
+- raster math: exporting raster based on calculations between other rasters
+- raster to XYZ text files using GDAL: this allows for faster parsing with text instead of images. this allows you to process with python dictionaries now
+- some talk about python dictionaries and how to access values using keys instead of 'indexes' like you would a list
+- python dictionaries allow you to call overlapping cells based on XYZ which can then be used to return values based on other rasters keys and values - THEN you can use these values to build a list of all the values that share that key and subsequently perform raster math on that list to create a new raster. Boom!
+- current limitations: relies on rasters of same extent (no lost overlaps); requires same cell size; works only in XYZ files; handling NoData was funky (need to figure out how GDAL handles this)
+- improvements: integration with numpy; handle rasters of different extents or cell sizes; parse rasters with GDAL; parse directly with python
+- killin it!
