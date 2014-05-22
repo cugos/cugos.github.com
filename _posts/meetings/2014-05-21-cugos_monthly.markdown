@@ -82,3 +82,24 @@ ON ST_Contains(
   - making it easy for people who do not
 - check it out at [github](github.com/licyeus/angular-mapbox)
 
+---
+
+###OSM / Maptime / Themed Hacks
+
+- talking about hosting a maptime session to work on OSM stuff and say happy birthday to OSM.
+- maybe even get a hack going with a special theme to work on a specific project
+
+---
+
+###[@powersa](https://github.com/powersa)
+
+- Started a map in pure spite of Daylight Savings time
+- wants to calculate hours of daylight on different locations on earth, which leads to many complications! (i.e. where on earth? or what sample of data?)
+- decided to generate evenly distributed points on earth - distance between points is spiraling from the axis
+- how to calculate minutes of daylight based on latitude? THAT's more complicated too!
+- so now he's got some badass points on a sphere with a color scheme that corrosponds to daylight time
+- check out the example at [his github](http://powersa.github.io/solstice)
+
+---
+
+![Look at the globe with points!](/image/base/powersa-daylight-points.jpg)
