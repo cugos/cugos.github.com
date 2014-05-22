@@ -12,7 +12,7 @@ The main entrance is on Olive, between 7th and 8th Street. Just take the elevato
 
 __Loose agenda:__
 
-- [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought.
+- [@hallahan](https://github.com/hallahan) will do a presentation on PostGIS as well as lead a discussion regarding creating a recurring PostGIS Workshop segment at the monthly meetings. This first session will be short, primarily involving an overview of the general architecture of PostGIS and how it extents PostgreSQL to allow spatial thought. [View Presentation Slides](https://speakerdeck.com/hallahan/postgis-at-cugos)
 - [@licyeus](https://github.com/licyeus) will present briefly on angular-mapbox, a project that aims to let users embed Mapbox maps using markup only (i.e., without writing any Javascript).
 - [@aaronr](https://github.com/aaronr) would like to propose CUGOS host a [MapTime](http://lyzidiamond.com/posts/why-maptime/) event here in Seattle in the next couple of months.  It looks to be a great model to help bridge the gap in learning, as well as a way that CUGOS can contribute materials etc back to the MapTime community.  It has also been raised as a posibility that we could coordinate this with OSM's 10th birthday. Tentatively the local OSM community has scheduled an event for August 9th, so Cliff will be on-hand to talk about the possibility to make this a bigger joint event between MapTime and OSM.  Sounds like a "summer fling" to me...
 - Revenge on Daylight Savings: Part II. To be discussed: evenly distributed spherical point set, daylight calculation hacks, d3 transitions, and more... Presented by [@powersa](https://github.com/powersa)
@@ -38,6 +38,7 @@ __Loose agenda:__
 
 ###[@hallahan](https://github.com/hallahan)
 
+- [View Presentation Slides](https://speakerdeck.com/hallahan/postgis-at-cugos)
 - Wants to set up a monthly [PostGIS](http://postgis.net) presentation/tutorial series. 
 - It's old, which means it's well tested and massively used in production that works great underneath modern software stacks.
 - Why not just use files? Because the whole file must be read to do something - only a single user to access at a time
