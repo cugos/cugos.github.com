@@ -13,9 +13,9 @@ The main entrance is on Olive, between 7th and 8th Street. Just take the elevato
 
 __Loose agenda:__
 
-- [@github_name](https://github.com/github_name) will....
+- [@jdomingu](https://github.com/jdomingu) will talk about an [Opacity Controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) plugin for Leaflet. As a side-note, he will use the plug-in to highlight some of the changes to [Seattle's landscape](http://lizardtechblog.github.io/Leaflet.OpacityControls/) since 1890.
 
 
-##NOTES::
+##NOTES:
 
 ---
