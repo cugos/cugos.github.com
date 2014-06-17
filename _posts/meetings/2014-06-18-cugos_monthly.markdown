@@ -13,7 +13,7 @@ The main entrance is on Olive, between 7th and 8th Street. Just take the elevato
 
 __Loose agenda:__
 
-- [@github_name](https://github.com/github_name) will....
+- [@cliffordsnow](https://github.com/cliffordsnow) will give a short update on the August 9th OSM 10th Anniversary Event.
 
 
 ##NOTES::
