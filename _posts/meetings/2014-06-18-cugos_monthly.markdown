@@ -16,7 +16,7 @@ __Loose agenda:__
 - [@cliffordsnow](https://github.com/cliffordsnow) will give a short update on the August 9th OSM 10th Anniversary Event.
 - [@twelch](https://github.com/twelch) will give an update on FOSS4G 2014 planning.  You did register before the early bird deadline right?
 - [@jdomingu](https://github.com/jdomingu) will talk about an [Opacity Controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) plugin for Leaflet. As a side-note, he will use the plug-in to highlight some of the changes to [Seattle's landscape](http://lizardtechblog.github.io/Leaflet.OpacityControls/) since 1890.
-
+- [@hallahan](https://github.com/hallahan) will provide a sneek peak at the future of web mapping - WebGL. He will also talk more about PostGIS as well as his attempts at importing the OSM planet.
 
 ##NOTES:
 
