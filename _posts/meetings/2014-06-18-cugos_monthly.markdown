@@ -65,12 +65,35 @@ Ideas people had for topics
 - [@jdomingu](https://github.com/jdomingu) will talk about an [Opacity Controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) plugin for Leaflet. As a side-note, he will use the plug-in to highlight some of the changes to [Seattle's landscape](http://lizardtechblog.github.io/Leaflet.OpacityControls/) since 1890.
 
 - Jared wrote this plugin 
-
+- Simple slider that adjusts the opacity
+- Follow Jareds work on the LizardTech [blog](http://www.lizardtech.com/blog/)
 
 ---
 
 - [@hallahan](https://github.com/hallahan) will provide a sneek peak at the future of web mapping - WebGL. He will also talk more about PostGIS as well as his attempts at importing the OSM planet.
 
+**He did not show up!!!!**
+
 ---
 
 - [@aaronr](https://github.com/aaronr) has some job openings (web stuff) to talk to folks about.
+
+---
+
+Future topics
+
+- Revisit some QGIS talks (long live the desktop)
+- MapBox GL
+- Glimps (social spatial checkins)
+- Cognative Maps (Tableau - Sarah Battersby) 
+- Dann Strevee to talk about projections (Live Nation)
+- Indoor location (PowersA)
+- D3 GeoPantry (not cookbook) d3-geo repo at svmatthews git repo - Anyone who wants to help?
+- PostGIS Instance - Examples of use yet?  Refresher
+- Get and OSM instance running again.
+
+---
+
+CUGOS sidecar's are going strong... next Thursday will be the next one.
+
+
