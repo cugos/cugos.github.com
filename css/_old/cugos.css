@@ -1,0 +1,51 @@
+div.container div.event.fall-fling {
+    width: 875px;
+}
+
+div.container div.event.fall-fling p {
+    line-height: 1.47;
+}
+
+#sponsors ul {
+    margin:0 0 35px 0; padding:0;
+    list-style-type:none;
+}
+#sponsors ul li {
+    margin-bottom:10px;
+}
+
+#sponsors ul li:first-child {
+    font-weight:600;
+    padding:5px 10px;
+    border-radius:5px;
+    width:100px;
+    text-align:center;
+}
+
+
+div.warning {
+    background-color: #fbfb99;
+    border-radius: 16px;
+    border: 1px solid #D3D3D3;
+    padding: 15px 40px;
+    width: 611px;
+}
+
+.entry div#detail {
+    background-color: #F7F7F7;
+    border: 1px solid #151515;
+    border-radius: 16px 16px 16px 16px;
+    color: #6B6B6B;
+    font-size: 13px;
+    line-height: 16px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 750px;
+}
+
+blockquote p {
+    font-size:15px;
+    color:#c0c0c0;
+    line-height:1.5;
+}
+

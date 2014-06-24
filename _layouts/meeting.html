@@ -4,17 +4,64 @@ layout: default
 
 <div class="meeting">
 
-    <h2>{{ page.title }}</h2>
+	<script>
+		var lat = {{ page.lat }};
+		var lng = {{ page.lng }};
+		var geojson = {};
+		geojson['type'] = 'FeatureCollection';
+		geojson['features'] = [];
+		var newFeature = {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [{{ page.lng }}, {{ page.lat }}]
+			},
+			"properties": {
+				"title": "{{ page.location }}",
+				"description": "{{ page.address }}",
+				"marker-size": "large",
+				"marker-color": "#ba4a00",
+				"marker-symbol": "commercial"
+			}
+		}
+		
+	</script>
 
-    <span class="date">{{ page.date | date_to_string }}</span><br>
+	<div class="row">
+		<div class="col-md-2 hidden-sm hidden-xs">
+			<ul class="meeting-sidebar">
+			{% for meeting in site.categories.meetings %}
+				<li><a {% if page.url == meeting.url %}class="active"{% endif %} href={{ meeting.url }}>{{ meeting.date | date: "%m/%d/%Y" }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
 
-    <span class="category">Category: {{ page.categories | category_links }}</span>
-    <br><br>
-	<div class="entry">{{ content }}</div>
-        {% if page.image != null %}
-        <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
-        {% endif %}
-    <br>
+		<div class="col-md-9">
+
+			<div class="row">
+				<div class="col-sm-5">
+			    	<h2>CUGOS Meeting</h2>
+			    	<h4 class="date">{{ page.date | date_to_string }} | <strong>{{ page.time }}</strong></h4>
+			    	<p class="location">Host: {{ page.location }}</p>
+			    	<p class="address">{{ page.address }}</p>
+					<p class="notes">{{ page.notes }}</p>
+				</div>
+
+				<div class="col-sm-7">
+					<div id="map"></div>
+					<p class="coords">{{ page.lat }}, {{ page.lng }}</p>
+				</div>
+				<div class="col-sm-1"></div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="entry">{{ content }}</div>
+			        {% if page.image != null %}
+			        	<img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
+			        {% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
 
 </div>
-

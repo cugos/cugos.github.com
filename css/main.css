@@ -1,0 +1,74 @@
+/* CUGOS CSS */
+/* your mixins */
+/* your variables */
+/* Cugos Brand Colors */
+body {
+  margin-top: 60px;
+  background-color: #e5e5e5;
+}
+nav {
+  background-color: #3f75a2;
+  border-bottom: none;
+}
+.navbar-nav > li > a {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  font-size: 1.2em;
+  color: #e5e5e5;
+  text-transform: uppercase;
+}
+.navbar-nav > li > a:hover {
+  background-color: #346085;
+}
+.navbar-nav > li.active > a {
+  font-weight: 700;
+  background-color: #284b67;
+}
+#brand-logo {
+  position: absolute;
+  left: 50%;
+  margin-left: -23px;
+  padding: 2px;
+  border-radius: 50%;
+}
+#brand-logo #cugos-svg {
+  width: 45px;
+  height: 45px;
+  fill: #e5e5e5;
+}
+.meeting #map {
+  height: 300px;
+  width: 100%;
+  background-color: #c0c0c0;
+}
+.meeting .address {
+  color: #999;
+}
+.meeting .notes {
+  font-style: italic;
+}
+.meeting .coords {
+  font-size: .9em;
+  color: #999;
+  text-align: right;
+}
+.meeting-sidebar {
+  margin-top: 40px;
+  list-style-type: none;
+}
+.meeting-sidebar li a {
+  float: left;
+  display: block;
+  padding: 4px 8px;
+  margin-bottom: 3px;
+  border-radius: 2px;
+  color: #888888;
+}
+.meeting-sidebar li a:hover {
+  background-color: #e5e5e5;
+  text-decoration: none;
+}
+.meeting-sidebar li a.active {
+  background-color: #2a6496;
+  color: #e5e5e5;
+}
