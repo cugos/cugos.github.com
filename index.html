@@ -1,7 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
+
+<div class="hero-unit">
+        
+</div>
 
 {% for meeting in site.categories.meetings limit: 1  %}
       <div class="alert alert-info">
@@ -10,15 +14,13 @@ title: Home
 {% endfor %}
 
       <!-- Main hero unit for a primary marketing message or call to action -->
-      <div class="hero-unit">
-        <h2 style="color:white;">.</h2>
-      </div>
+      
 
       <!-- Example row of columns -->
       <div class="row">
-        <div class="span4">
+        <div class="col-sm-4">
           <h2>Upcoming Events</h2>
-{% for event in site.categories.events limit: 2  %}
+{% for event in site.categories.events limit: 4  %}
           <div class="event">
             <h4><a href={{ event.url }}>{{ event.title }}</a></h4>
             <span class="date">{{ event.date | date_to_string }}</span>
@@ -26,9 +28,9 @@ title: Home
           </div>
 {% endfor %}
         </div>
-        <div class="span4">
+        <div class="col-sm-4">
           <h2>Latest Blogs</h2>
-{% for blog in site.categories.blog limit: 2  %}
+{% for blog in site.categories.blog limit: 4  %}
           <div class="blog">
             <h4><a href={{ blog.url }}>{{ blog.title }}</a></h4>
             <span class="date">{{ blog.date | date_to_string }}</span>
@@ -36,9 +38,9 @@ title: Home
           </div>
 {% endfor %}
        </div>
-        <div class="span4">
+        <div class="col-sm-4">
           <h2>Latest Projects</h2>
-{% for project in site.categories.projects limit: 2  %}
+{% for project in site.categories.projects limit: 4  %}
           <div class="project">
             <h4><a href={{ project.url }}>{{ project.title }}</a></h4>
             <div class="entry">{{ project.excerpt }}</div>
