@@ -1,9 +1,14 @@
 ---
 layout: meeting
 title: May 21st 2014, 6pm -  ClipCard
-category: meetings
-
+location: ClipCard
+address: 720 Olive Way 14th Floor, Seattle WA 98121
+time: 6:00pm
 excerpt: May 21st CUGOS Monthly Meeting at ClipCard (6pm)
+lat: 47.614116
+lng: -122.334624
+category: meetings
+notes: The main entrance is on Olive, between 7th and 8th Street. Just take the elevators up to the 14th Floor. Call 206-595-2567 or 206-395-5541 if you get lost.
 ---
 
 **Location** -  ClipCard, **New office address**: 14th Floor, 720 Olive *Way*  ([map](http://www.openstreetmap.org/?mlat=47.6141&mlon=-122.3349#map=16/47.6141/-122.3349)) 

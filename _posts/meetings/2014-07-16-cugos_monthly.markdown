@@ -1,8 +1,12 @@
 ---
 layout: meeting
 title: July 16th 2014, 6pm -  Location:TBD
+location: ClipCard
+address: TBD
+time: 6:00pm
+lat: 
+lng: 
 category: meetings
-
 excerpt: July 16th CUGOS Monthly Meeting
 ---
 
