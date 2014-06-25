@@ -42,6 +42,12 @@ nav {
   height: 400px;
   background-color: #333;
 }
+/* Meeting Page */
+.meetings-desc {
+  background-color: #cc0000;
+  display: block;
+}
+/* Single Meetings */
 .meeting #map {
   height: 300px;
   width: 100%;
