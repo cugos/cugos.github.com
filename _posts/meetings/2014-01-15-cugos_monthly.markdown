@@ -1,9 +1,14 @@
 ---
 layout: meeting
 title: January 15th 2014, 6pm - ClipCard
+location: ClipCard
+address: 2201 Sixth Avenue, Suite 1102, Seattle WA 98121
+time: 6:00pm
+excerpt: January 2014 CUGOS Monthly Meeting at ClipCard (6pm)
+lat: 47.616105
+lng: -122.341777
 category: meetings
-
-excerpt: January 15th CUGOS Monthly Meeting at ClipCard (6pm)
+notes: If the front doors are locked, call Ryan Small @ 206-395-5541
 ---
 
 __Location -  ClipCard (formerly OneOcean), 2201 Sixth Avenue Suite 1102 Seattle, WA 98121 USA __
