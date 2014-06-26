@@ -24,7 +24,7 @@ __Loose agenda:__
 - [@jdomingu](https://github.com/jdomingu) will talk about an [Opacity Controls](https://github.com/lizardtechblog/Leaflet.OpacityControls) plugin for Leaflet. As a side-note, he will use the plug-in to highlight some of the changes to [Seattle's landscape](http://lizardtechblog.github.io/Leaflet.OpacityControls/) since 1890.
 - [@hallahan](https://github.com/hallahan) will provide a sneek peak at the future of web mapping - WebGL. He will also talk more about PostGIS as well as his attempts at importing the OSM planet.
 
-##NOTES:
+###NOTES:
 
 ---
 
@@ -100,6 +100,6 @@ Future topics
 
 ---
 
-CUGOS sidecar's are going strong... next Thursday will be the next one.
+CUGOS sidecars are going strong... next Thursday will be the next one.
 
 

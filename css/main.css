@@ -6,6 +6,10 @@ body {
   margin-top: 60px;
   background-color: #e5e5e5;
 }
+.copyright {
+  padding-top: 5px;
+  text-align: center;
+}
 nav {
   background-color: #3f75a2;
   border-bottom: none;
@@ -44,7 +48,6 @@ nav {
 }
 /* Meeting Page */
 .meetings-desc {
-  background-color: #cc0000;
   display: block;
 }
 /* Single Meetings */
