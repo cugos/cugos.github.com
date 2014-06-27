@@ -3,7 +3,7 @@
 /* your variables */
 /* Cugos Brand Colors */
 body {
-  margin-top: 60px;
+  margin-top: 50px;
   background-color: #e5e5e5;
 }
 h1,
@@ -17,7 +17,6 @@ h6 {
 }
 .main {
   background: url(../image/texture-w.png) repeat;
-  box-shadow: inset 2px 2px 4px #666;
 }
 .copyright {
   padding-top: 5px;
@@ -83,14 +82,17 @@ nav {
 .meeting-sidebar {
   margin-top: 40px;
   list-style-type: none;
+  clear: both;
+  padding-right: 0;
+  background: url(../image/texture-blue-light.png) repeat;
 }
 .meeting-sidebar li a {
-  float: left;
+  float: right;
   display: block;
   padding: 4px 8px;
   margin-bottom: 3px;
   border-radius: 2px;
-  color: #888888;
+  color: #fff;
 }
 .meeting-sidebar li a:hover {
   background-color: #e5e5e5;

@@ -1,48 +1,51 @@
 /* Meeting Page */
 .meetings-desc {
-	display:block;
+  display:block;
 }
 
 
 /* Single Meetings */
 .meeting {
-	#map {
-		height:300px;
-		width:100%;
-		background-color:#c0c0c0;
-	}
-	.address {
-		color:#999;
-	}
-	.notes {
-		font-style: italic;
-	}
-	.coords {
-		font-size:.9em;
-		color:#999;
-		text-align:right;
-	}
+  #map {
+    height:300px;
+    width:100%;
+    background-color:#c0c0c0;
+  }
+  .address {
+    color:#999;
+  }
+  .notes {
+    font-style: italic;
+  }
+  .coords {
+    font-size:.9em;
+    color:#999;
+    text-align:right;
+  }
 }
 
 .meeting-sidebar {
-	margin-top:40px;
-	list-style-type: none;
-	li {
-		a {
-			float:left;
-			display:block;
-			padding:4px 8px;
-			margin-bottom:3px;
-			border-radius:2px;
-			color:lighten(@black, 40%);
-			&:hover {
-				background-color:@grey;
-				text-decoration:none;
-			}
-			&.active {
-				background-color:@blue;
-				color:@grey;
-			}
-		}
-	}
+  margin-top:40px;
+  list-style-type: none;
+  clear:both;
+  padding-right:0;
+  background:url(../image/texture-blue-light.png) repeat;
+  li {
+    a {
+      float:right;
+      display:block;
+      padding:4px 8px;
+      margin-bottom:3px;
+      border-radius:2px;
+      color:#fff;
+      &:hover {
+        background-color:@grey;
+        text-decoration:none;
+      }
+      &.active {
+        background-color:@blue;
+        color:@grey;
+      }
+    }
+  }
 }
