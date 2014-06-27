@@ -7,13 +7,21 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
+    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+    {% for js_name in page.extra_js %}
+    <script src="{{site.baseurl}}/{{ js_name }}"></script>
+    {% endfor %}
+
     <!-- Le Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Dosis:300,700' rel='stylesheet' type='text/css'>
     
     <!-- Le styles -->
+    {% for css_name in page.extra_css %}
+    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
+    {% endfor %}
     <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
-    <link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
     <link rel="stylesheet" href="{{site.baseurl}}/css/main.css" />
 
     <!-- link href="../assets/css/bootstrap-responsive.css" rel="stylesheet" --!>
@@ -21,23 +29,6 @@
     <!--[if lt IE 9]>
         <script src="../assets/js/html5shiv.js"></script>
         <![endif]-->         
-    <!-- Fav and touch icons -->
-{% for css_name in page.extra_css %}
-    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
-{% endfor %}
-
-    <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
-    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
-    <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
-
-{% for js_name in page.extra_js %}
-    <script src="{{site.baseurl}}/{{ js_name }}"></script>
-{% endfor %}
-
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{site.baseurl}}/image/base/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{site.baseurl}}/image/base/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{site.baseurl}}/image/base/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/image/base/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="{{site.baseurl}}/image/base/favicon.ico">
   </head>
 

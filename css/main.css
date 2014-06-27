@@ -6,6 +6,19 @@ body {
   margin-top: 60px;
   background-color: #e5e5e5;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+}
+.main {
+  background: url(../image/texture-w.png) repeat;
+  box-shadow: inset 2px 2px 4px #666;
+}
 nav {
   background-color: #3f75a2;
   border-bottom: none;
@@ -36,7 +49,7 @@ nav {
   height: 45px;
   fill: #e5e5e5;
 }
-.hero-unit {
+#hero-map {
   display: block;
   width: 100%;
   height: 400px;

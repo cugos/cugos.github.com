@@ -20,33 +20,42 @@ permalink: /
 	<div class="col-md-2"></div>
 </div>
 
-<!-- recent previous meeting content -->
-{% capture nowtime %}{{ site.time | date: '%Y%m%d%s' }}{% endcapture %}
-{% assign nowtime = nowtime | plus: 0 %}
-{% capture count %}{{ m.date | date: '%s' }}{% endcapture %}
-{% assign count = count | plus: 0 %}
+<div class="row">
+	<div class="col-md-8 main">
+	<!-- recent previous meeting content 
+	 assigns current time to "nowtime" and hacks it into an integer
+	 assigns post time in loop to "posttime" and hacks it into an integer
+	 assigns count since jekyll quits after loops even if they fail within parameters
+	-->
+	<h2>Previous Meeting</h2>
+		{% capture nowtime %}{{ site.time | date: '%Y%m%d%s' }}{% endcapture %}
+		{% assign nowtime = nowtime | plus: 0 %}
+		{% capture count %}{{ m.date | date: '%s' }}{% endcapture %}
+		{% assign count = count | plus: 0 %}
 
-{% for m in site.categories.meetings %}
-	{% capture posttime %}{{ m.date | date: '%Y%m%d%s' }}{% endcapture %}
-	{% assign posttime = posttime | plus: 0 %}
-	{% if nowtime > posttime %}
-		{% if count == 0 %}
-			<p>{{ m.date }}</p>
-			{% assign count = 1 %}
-		{% endif %}	
-	{% endif %}
-{% endfor %}
-<p>{{ site.time | date: '%Y%m%d' }}</p>
+		{% for m in site.categories.meetings %}
+			{% capture posttime %}{{ m.date | date: '%Y%m%d%s' }}{% endcapture %}
+			{% assign posttime = posttime | plus: 0 %}
+			{% if nowtime > posttime %}
+				{% if count == 0 %}
+		    	<h4 class="date">{{ m.date | date_to_string }} | <strong>{{ m.time }}</strong></h4>
+		    	<p class="location">Host: {{ m.location }}</p>
+		    	<p class="address">{{ m.address }}</p>
+					<p class="notes">{{ m.notes }}</p>
+					{{ m.content }}
+					{% assign count = 1 %}
+				{% endif %}	
+			{% endif %}
+		{% endfor %}
+	</div>
 
 <!-- meetings loop -->
-{% for meeting in site.categories.meetings %}
-  <div class="row">
-    <div class="col-lg-12">
-      <div class="event">
-        <h3><a href={{ meeting.url }}>{{ meeting.title }}</a></h3>
-        <hr>
-      </div>
-    </div>
-  </div>
-{% endfor %}
+	<div class="col-md-4">
+		<ul>
+			{% for meeting in site.categories.meetings %}    
+      <li><a href={{ meeting.url }}>{{ meeting.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
 
