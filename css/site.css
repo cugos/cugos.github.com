@@ -1,0 +1,220 @@
+/* CUGOS CSS */
+body {
+  margin-top: 50px;
+  background-color: #e5e5e5;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+}
+a:hover {
+  text-decoration:none;
+}
+.main {
+  background: url(../image/texture-w.png) repeat;
+}
+.copyright {
+  padding-top: 5px;
+  text-align: center;
+}
+.container {
+  max-width:750px;
+}
+.chunk {
+  max-width:750px;
+  padding:30px;
+  margin-bottom:15px;
+  background-color:#ffffff;
+}
+
+/* BUTTONS */
+.button {
+  display:inline-block;
+  padding:6px 10px;
+  font-weight:100;
+  border-radius:4px;
+  border:1px solid #c0c0c0;
+  color:#999;
+  font-size:1.5em;
+  margin:10px 0;
+  letter-spacing:.12em;
+}
+.button:hover {
+  border:1px solid #444;
+  color:#333;
+}
+.button.right {
+  float:right;
+  clear:both;
+}
+.button.white {
+  border:1px solid #fff;
+  color:#fff;
+}
+.button.white:hover {
+  opacity:.8;
+}
+.button.blue {
+  color:#fff;
+  font-weight:300;
+  background-color:#3f75a2;
+  box-shadow:2px 2px 0 0 #325d81;
+  border:none;
+}
+.button.blue:hover {
+  box-shadow:1px 1px 0 0 #325d81;
+}
+
+/* NAVIGATION */
+nav {
+  background-color: #3f75a2;
+  border-bottom: none;
+}
+.navbar-nav > li > a {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  font-size: 1.2em;
+  color: #e5e5e5;
+  text-transform: uppercase;
+}
+.navbar-nav > li > a:hover {
+  background-color: #346085;
+}
+.navbar-nav > li.active > a {
+  font-weight: 700;
+  background-color: #284b67;
+}
+
+/* NAV BRANDING */
+#brand-logo {
+  position: absolute;
+  left: 50%;
+  margin-left: -23px;
+  padding: 2px;
+  border-radius: 50%;
+}
+#brand-logo #cugos-svg {
+  width: 45px;
+  height: 45px;
+  fill: #e5e5e5;
+}
+
+/* HOMEPAGE */
+#header-image {
+  position:absolute;
+  width: 100%;
+  height: 400px;
+  background-color: #333;
+  background:url(../image/cascades1.jpg) center center no-repeat;
+  background-size:cover;
+  z-index: -10;
+}
+.branding {
+  font-weight:700;
+  color:#333;
+  font-size:2.7em;
+  text-align:center;
+}
+.intro {
+  position:relative;
+  overflow:hidden;
+}
+.intro p {
+  font-weight:100;
+  color:#333;
+  font-size:1.5em;
+  padding:0; margin:0;
+  letter-spacing:.12em;
+}
+.intro p span {
+  padding-bottom:3px;
+  border-bottom:2px solid #3f75a2;
+}
+.intro p span:nth-child(2n) {
+  border-bottom:2px solid #75a23f;
+}
+.intro .learn-more {
+  opacity:0;
+  position:absolute;
+  margin-left:-30px;
+  width:100%;
+  height:100%;
+  text-align:center;
+  background-color:rgba(255,255,255,.7);
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+.intro:hover .learn-more {
+  opacity:1;
+}
+
+.alert {
+  background-color:#3f75a2;
+  border-radius:0px;
+}
+.alert p {
+  padding:0;
+  text-align:center;
+  font-size:1.7em;
+  color:#f6f6f6;
+}
+.alert p a {
+  border-bottom:1px dashed #e5e5e5;
+  color:#f6f6f6;
+}
+.alert p a:hover {
+  border-bottom:1px solid #e5e5e5;
+}
+/* MEETING PAGE */
+.meetings-desc {
+  display: block;
+}
+
+/* SINGLE MEETINGS */
+.meeting #map {
+  height: 300px;
+  width: 100%;
+  background-color: #c0c0c0;
+}
+.meeting .address {
+  color: #999;
+}
+.meeting .notes {
+  font-style: italic;
+}
+.meeting .coords {
+  font-size: .9em;
+  color: #999;
+  text-align: right;
+}
+.meeting-sidebar {
+  margin-top: 40px;
+  list-style-type: none;
+  clear: both;
+  padding-right: 0;
+  background: url(../image/texture-blue-light.png) repeat;
+}
+.meeting-sidebar li a {
+  float: right;
+  display: block;
+  padding: 4px 8px;
+  margin-bottom: 3px;
+  border-radius: 2px;
+  color: #fff;
+}
+.meeting-sidebar li a:hover {
+  background-color: #e5e5e5;
+  text-decoration: none;
+}
+.meeting-sidebar li a.active {
+  background-color: #2a6496;
+  color: #e5e5e5;
+}

@@ -9,15 +9,25 @@ extra_css:
   - css/maps/mapbox.css
 ---
 
-<div id="hero-map">
-        
+<!-- <div id="hero-map"></div> -->
+<div id="header-image"></div>
+
+<div class="container">
+  <div class="chunk branding">
+    <p>Cascadia Users of Geospatial Open Source</p>
+  </div>
+  {% for meeting in site.categories.meetings limit: 1  %}
+  <div class="chunk alert">
+    <p>Next CUGOS meeting: <a href={{ meeting.url }}>{{ meeting.title }}</a></p>
+  </div>
+  {% endfor %}
+  <div class="chunk intro">
+    <div class="learn-more"><a href="/about" class="button blue">Learn More</a></div>
+    <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like <span>code</span> and <span>good conversation</span>.</p>
+  </div>
 </div>
 
-{% for meeting in site.categories.meetings limit: 1  %}
-      <div class="alert alert-info">
-        <h4>Next CUGOS meeting: <a style="color:black;" href={{ meeting.url }}>{{ meeting.title }}</a></h4>
-      </div>
-{% endfor %}
+
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       

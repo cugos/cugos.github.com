@@ -1,7 +1,4 @@
 /* CUGOS CSS */
-/* your mixins */
-/* your variables */
-/* Cugos Brand Colors */
 body {
   margin-top: 50px;
   background-color: #e5e5e5;
@@ -22,6 +19,8 @@ h6 {
   padding-top: 5px;
   text-align: center;
 }
+
+/* NAVIGATION */
 nav {
   background-color: #3f75a2;
   border-bottom: none;
@@ -40,6 +39,8 @@ nav {
   font-weight: 700;
   background-color: #284b67;
 }
+
+/* NAV BRANDING */
 #brand-logo {
   position: absolute;
   left: 50%;
@@ -52,17 +53,19 @@ nav {
   height: 45px;
   fill: #e5e5e5;
 }
+
+/* HOMEPAGE */
 #hero-map {
   display: block;
   width: 100%;
   height: 400px;
   background-color: #333;
 }
-/* Meeting Page */
+/* MEETING PAGE */
 .meetings-desc {
   display: block;
 }
-/* Single Meetings */
+/* SINGLE MEETINGS */
 .meeting #map {
   height: 300px;
   width: 100%;
@@ -101,4 +104,16 @@ nav {
 .meeting-sidebar li a.active {
   background-color: #2a6496;
   color: #e5e5e5;
+}
+.intro {
+  background-color:#fff;
+  margin-top:-50px;
+  border-radius:10px;
+  z-index: 1000;
+}
+.intro p {
+  font-weight:100;
+  color:#333;
+  font-size:2.3em;
+  text-align:center;
 }
