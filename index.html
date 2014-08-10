@@ -8,65 +8,34 @@ extra_js:
 extra_css:
   - css/maps/mapbox.css
 ---
-
-<!-- <div id="hero-map"></div> -->
-<header class="main-header"></header>
-
 <div class="container">
 
-  <div class="chunk branding">
-    <img id="cugos-logo" src="/image/cugos-logo.svg">
-    <h1>Cascadia Users of Geospatial Open Source</h1>
-  </div>
+  <header class="page-header home">
+    <div class="header-info">
+      {% include cugos-svg-logo.html %}
+      <h1>CUGOS</h1>
+    </div>
+  </header>
+
   {% for meeting in site.categories.meetings limit: 1  %}
   <div class="chunk alert">
-    <p>Next CUGOS meeting: <a href={{ meeting.url }}>{{ meeting.title }}</a></p>
+    Next CUGOS meeting: <a href={{ meeting.url }}>{{ meeting.title }}</a>
   </div>
   {% endfor %}
+
   <div class="chunk intro">
-    <div class="learn-more"><a href="/about" class="button blue">Learn More</a></div>
-    <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like <span>code</span> and <span>good conversation</span>.</p>
+    <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
   </div>
+
+  <div class="content">
+    <p>The Cascadia chapter of the OSGeo is based on a regional FOSS GIS user group formed in 2007 called Cascadia Users of Geospatial Open Source (CUGOS). We are an active group of members who are passionate about open source software, GIS, and our region. We have members from all walks of life, a large spectrum of business and academia, and active OSGeo members (board members, charter members, and active project participants).</p>
+
+    <p>The OSGeo Cascadia Chapter strives to provide support for local users of Open Source Geospatial software, and to promote the goals and projects of the Open Source Geospatial Foundation. The Chapter is focused on the Pacific Northwest region of the United States as well as Southern British Columbia. The group hosts meetings providing networking, support and educational opportunities to the local members.</p>
+
+    <img src="/image/fall-fling-homepageshot.png">
+
+    <p>Started in February 2007, CUGOS has quickly grown from a core of <a href="#">three founders</a> to a mailing list of over 100 active members. Loosely based on the FRUGOS group, we have held monthly meetings since inception and are active in local, regional and international FOSS GIS activities. In its second year the group has started to branch out into other activities such as hosting code sprints and actively working toward hosting a regional FOSS4G mini-conference.</p>
+  </div>
+
 </div>
-
-
-
-      <!-- Main hero unit for a primary marketing message or call to action -->
       
-
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-sm-4">
-          <h2>Upcoming Events</h2>
-{% for event in site.categories.events limit: 4  %}
-          <div class="event">
-            <h4><a href={{ event.url }}>{{ event.title }}</a></h4>
-            <span class="date">{{ event.date | date_to_string }}</span>
-            <div class="entry">{{ event.excerpt }}</div>
-          </div>
-{% endfor %}
-        </div>
-        <div class="col-sm-4">
-          <h2>Latest Blogs</h2>
-{% for blog in site.categories.blog limit: 4  %}
-          <div class="blog">
-            <h4><a href={{ blog.url }}>{{ blog.title }}</a></h4>
-            <span class="date">{{ blog.date | date_to_string }}</span>
-            <div class="entry">{{ blog.excerpt }}</div>
-          </div>
-{% endfor %}
-       </div>
-        <div class="col-sm-4">
-          <h2>Latest Projects</h2>
-{% for project in site.categories.projects limit: 4  %}
-          <div class="project">
-            <h4><a href={{ project.url }}>{{ project.title }}</a></h4>
-            <div class="entry">{{ project.excerpt }}</div>
-          </div>
-{% endfor %}
-        </div>
-      </div>
-      <br>
-      <div class="alert alert-info">
-        <h4><a style="color:black;" href="http://groups.google.com/group/cugos">Sign up for the CUGOS email list (Google Group)</a></h4>
-      </div>

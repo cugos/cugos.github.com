@@ -8,7 +8,6 @@
     <meta name="author" content="">
 
     <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
-    <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
     {% for js_name in page.extra_js %}
     <script src="{{site.baseurl}}/{{ js_name }}"></script>
     {% endfor %}
@@ -20,7 +19,6 @@
     {% for css_name in page.extra_css %}
     <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
     {% endfor %}
-    <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
 
@@ -34,38 +32,17 @@
 
   <body>
 
-    <nav class="navbar navbar-fixed-top" role="navigation">
-      <a id="brand-logo" href="/">{% include cugos-svg-logo.html %}</a>
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
-
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
-            {% for weight in (1..10) %}
-              {% for p in site.pages %}
-                {% if p.weight == weight %}              
-                  <li {% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
-                {% endif %}
-              {% endfor %}
+    <nav id="navbar">
+      <div class="container">
+        <ul id="nav">
+          {% for weight in (1..10) %}
+            {% for p in site.pages %}
+              {% if p.weight == weight %}              
+                <li {% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
+              {% endif %}
             {% endfor %}
-          </ul>
-
-          <ul class="nav navbar-nav navbar-right">
-            {% for weight in (11..20) %}
-              {% for p in site.pages %}
-                {% if p.weight == weight %}              
-                  <li {% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-          </ul>
-        </div>
+          {% endfor %}
+        </ul>
+      <a id="brand-logo" href="/">CUGOS {% include cugos-svg-logo.html %}</a>
       </div>
     </nav>

@@ -1,4 +1,7 @@
 function init() {
+	// http://a.www.toolserver.org/tiles/bw-mapnik/{z}/{y}/{x}.png
+
+
 	// meeting maps
 	// geojson['features'].push(newFeature);
 
