@@ -1,5 +1,30 @@
 {% include head.html %}
-   
-{{ content }}
+
+<div class="container">
+
+  <header class="page-header home">
+    <div class="header-info">
+      {% include cugos-svg-logo.html %}
+      <h1>CUGOS</h1>
+    </div>
+  </header>
+
+  {% for meeting in site.categories.meetings limit: 1  %}
+  <div class="chunk alert">
+    Next CUGOS meeting: <a href={{ meeting.url }}>{{ meeting.title }}</a>
+  </div>
+  {% endfor %}
+
+  <div class="chunk intro">
+    <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
+  </div>
+
+  <div class="content">
+  	{{ content }}
+  </div>
+
+</div>
+
+
 
 {% include footer.html %}
