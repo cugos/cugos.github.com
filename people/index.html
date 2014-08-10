@@ -4,32 +4,53 @@ title: People
 weight: 6
 permalink: 
 extra_css:
-  - css/maps/leaflet.css
-  - css/maps/mapbox.standalone.css
-  - css/maps/markercluster.css
-  - css/maps/markerclusterdefault.css
+  - http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css
+  - /css/font-awesome.min.css
 extra_js:
-  - js/maps/leaflet.js
-  - js/maps/mapbox.standalone.js
-  - js/maps/markercluster.js
-  - js/maps/cugos_usermap.js
+  - http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js
+  - /js/people.js
 ---
 
-    <div class="row">
-    <div class="span12">
-    <div id='map' class='dark' style='width:800px;height:400px'></div>
-    </div>
-    </div>
+<div id="people-map"></div>
 
-     <h2>People</h2>
-{% for person in site.categories.people %}
-      <div class="row">
-        <div class="span12">
-          <div class="person">
-            <h3><a href={{ person.url }}>{{ person.title }}</a></h3>
-            <div class="entry">{{ person.excerpt }}</div>
-          </div>
-        </div>
+<h2>People</h2>
+<script>
+var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 7);
+L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
+// map.fitBounds(data.getBounds());
+</script>
+<div class="content">
+  <ul id="people-list">
+  {% for person in site.categories.people %}
+    <li class="person">
+      <script>
+      var lat = {{ person.lat }};
+      var lng = {{ person.lng }};
+      var mbox = L.icon({
+        iconUrl: '/js/maps/img/marker.png',
+        iconSize:     [30, 70],
+        iconAnchor:   [15, 35],
+        popupAnchor:  [0, -35]
+      });
+      var marker = L.marker([lat, lng], {
+        icon: mbox
+      }).addTo(map).bindPopup('{{ person.title }}');
+      </script>
+      <img src="{{ person.image }}">
+      <div class="people-list-info">
+        <h3>{{ person.title }}</h3>
+        <p>{{ person.excerpt }}</p>
+        {% if person.twitter %}
+        <a class="social" href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i> {{ person.twitter }}</a>
+        {% endif %}
+        {% if person.github %}
+        <a class="social" href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i> {{ person.github }}</a>
+        {% endif %}
       </div>
-{% endfor %}
-
+      <div class="person-description">{{ person.content }}</div>
+      <div class="cf"></div>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+<!-- WAKA -->

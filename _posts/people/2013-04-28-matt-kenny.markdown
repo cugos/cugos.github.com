@@ -2,8 +2,11 @@
 layout: person
 title: Matt Kenny
 category: people
-
-image: https://si0.twimg.com/profile_images/2206099504/image.jpg
+lat: 0.0
+lng: 0.0
+image: https://avatars1.githubusercontent.com/u/459007?v=2&s=400
+github: mattmakesmaps
+twitter: mattmakesmaps
 permalink: /people/matt_kenny
 excerpt: mattmakesmaps
 ---

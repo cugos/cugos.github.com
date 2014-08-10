@@ -2,8 +2,11 @@
 layout: person
 title: Dane Springmeyer
 category: people
-
-image: /people/image/dane_springmeyer.jpg
+lng: -120.18608
+lat: 48.47810
+image: https://avatars2.githubusercontent.com/u/20300?v=2&s=400
+github: springmeyer
+twitter: springmeyer
 permalink: /people/dane_springmeyer
 excerpt: Aspiring pole bean grower
 ---

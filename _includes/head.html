@@ -9,7 +9,7 @@
 
     <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
     {% for js_name in page.extra_js %}
-    <script src="{{site.baseurl}}/{{ js_name }}"></script>
+    <script src="{{ js_name }}"></script>
     {% endfor %}
 
     <!-- Le Fonts -->
@@ -17,7 +17,7 @@
     
     <!-- Le styles -->
     {% for css_name in page.extra_css %}
-    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
+    <link rel="stylesheet" href="{{ css_name }}">
     {% endfor %}
     <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
     <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
