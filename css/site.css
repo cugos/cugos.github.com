@@ -32,6 +32,14 @@ a:hover {
   background-color:#ffffff;
 }
 
+/* SCAFFOLDING */
+header.main-header {
+  width:100%;
+  height:300px;
+  background:url(../image/cascades1.jpg) center center no-repeat;
+  background-size:cover;
+}
+
 /* BUTTONS */
 .button {
   display:inline-block;
@@ -110,15 +118,23 @@ nav {
   width: 100%;
   height: 400px;
   background-color: #333;
-  background:url(../image/cascades1.jpg) center center no-repeat;
-  background-size:cover;
   z-index: -10;
 }
+#cugos-logo {
+  float:left;
+  margin-right:20px;
+}
 .branding {
+  text-align:center;
+  background-color:transparent;
+  padding:0;
+}
+.branding h1 {
   font-weight:700;
   color:#333;
-  font-size:2.7em;
-  text-align:center;
+  font-size:2em;
+  padding:5px;
+  background-color:#fff;
 }
 .intro {
   position:relative;

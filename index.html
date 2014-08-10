@@ -10,11 +10,13 @@ extra_css:
 ---
 
 <!-- <div id="hero-map"></div> -->
-<div id="header-image"></div>
+<header class="main-header"></header>
 
 <div class="container">
+
   <div class="chunk branding">
-    <p>Cascadia Users of Geospatial Open Source</p>
+    <img id="cugos-logo" src="/image/cugos-logo.svg">
+    <h1>Cascadia Users of Geospatial Open Source</h1>
   </div>
   {% for meeting in site.categories.meetings limit: 1  %}
   <div class="chunk alert">
