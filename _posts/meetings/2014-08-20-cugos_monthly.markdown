@@ -11,6 +11,7 @@ excerpt: August 20th CUGOS Monthly Meeting
 __Loose agenda:__
 
 - [@github_name](https://github.com/github_name) throws down on the greatest in geo...
+- [@cliffordsnow](https://github.com/cliffordsnow) OpenStreetMap 10th Anniversary Celebration Recap
 
 ##NOTES:
 
