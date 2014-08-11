@@ -1,10 +1,10 @@
 /* CUGOS CSS */
 @import url(http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,400italic);
-@import url(http://fonts.googleapis.com/css?family=Nunito:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 body {
   margin:0;padding:0;
   background-color: #e5e5e5;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .cf:before,
 .cf:after {
@@ -225,6 +225,9 @@ nav {
   background-color:#fff;
   margin-bottom:15px;
 }
+#meetings-list li a {
+  text-decoration:none;
+}
 #meetings-list li img {
   float:left;
   margin-right:15px;
@@ -360,7 +363,8 @@ nav {
 .person-description {
   display:none;
 }
-.people-list-info h3, p {
+.people-list-info h3,
+.people-list-info p {
   margin:0;
 }
 .people-list-info .social {

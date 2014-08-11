@@ -10,9 +10,5 @@ permalink: /people/greg_corradini
 excerpt: Plumber
 ---
 
-Greg ( BangBang ) Corradini
-
-* **Web:** [chopshop.io](http://chopshop.io)
-* **Work:** [ChopShop Inc](http://chopshop.io)
-* **Git:** [gitbang](https://github.com/thebigspoon)
+I sleep in my car because I can, not because I have to.
 

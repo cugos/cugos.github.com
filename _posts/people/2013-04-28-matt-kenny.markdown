@@ -11,11 +11,6 @@ permalink: /people/matt_kenny
 excerpt: mattmakesmaps
 ---
 
-Matt Kenny
-
-* **Web:** [mattmakesmaps](http://mattmakesmaps.com)
-* **Work:** [Ridolfi Inc](http://www.ridolfi.com)
-
 Testing page creation using [http://prose.io/](http://prose.io/)...
 
 Looks like prose.io doesn't detect our yaml front matter block... re-editing.
