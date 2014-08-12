@@ -1,10 +1,10 @@
 /* CUGOS CSS */
 @import url(http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,400italic);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Nunito:400,700,300);
 body {
   margin:0;padding:0;
   background-color: #e5e5e5;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 .cf:before,
 .cf:after {
@@ -168,6 +168,23 @@ nav {
   opacity:.8;
 }
 
+/* ALERTS */
+.alert {
+  background-color:#3f75a2;
+  border-radius:0px;
+  padding:.5em;
+  text-align:center;
+  font-size:1.7em;
+  color:#f6f6f6;
+}
+.alert p a {
+  border-bottom:1px dashed #e5e5e5;
+  color:#f6f6f6;
+}
+.alert p a:hover {
+  border-bottom:1px solid #e5e5e5;
+}
+
 
 /* HOMEPAGE */
 .home .cugos-svg {
@@ -196,20 +213,51 @@ nav {
   border-bottom:2px solid #75a23f;
 }
 
-.alert {
-  background-color:#3f75a2;
-  border-radius:0px;
-  padding:.5em;
-  text-align:center;
-  font-size:1.7em;
+#feed {
+  list-style-type: none;
+  margin:0;padding:0;
+}
+#feed li {
+  margin-bottom:15px;
+  background-color:#fff;
+}
+#feed li a {
+  padding:0;
+  color:#333;
+  text-decoration:none;
+  display:block;
+}
+#feed .feed-date {
+  color:#f6f6f6;
+  font-weight:100;
+  min-width:46px;
+  background-color:#333;
+  padding:.6em 1em;
+  font-weight:.8em;
+  display:block;
+}
+#feed .feed-title {
+  padding:.6em 1em;
+  display:block;
+}
+#feed li:hover {
+  background-color:#75a23f;
+}
+#feed li:hover a {
   color:#f6f6f6;
 }
-.alert p a {
-  border-bottom:1px dashed #e5e5e5;
-  color:#f6f6f6;
-}
-.alert p a:hover {
-  border-bottom:1px solid #e5e5e5;
+@media screen and (min-width:56em) {
+  #feed li {
+    padding:0;
+  }
+  #feed li a {
+    display:block;
+  }
+  #feed .feed-date,
+  #feed .feed-title {
+    display:inline-block;
+    padding:.6em 1em;
+  }
 }
 
 
