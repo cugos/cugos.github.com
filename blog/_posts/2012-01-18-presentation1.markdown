@@ -1,8 +1,7 @@
 ---
 layout: presentation
 title: Presentation1
-category: presentations
-
+tag: presentations
 excerpt: Short text about presentation
 ---
  

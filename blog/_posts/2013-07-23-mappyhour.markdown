@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Mappy Hour with Steve Coast
-category: events
+tag: events
 
 excerpt: Let's talk about mapping…
 

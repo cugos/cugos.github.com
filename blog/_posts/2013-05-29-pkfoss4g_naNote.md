@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FOSS4G-NA notes from PeterK
-category: blog
+tag: blog
 
 excerpt: Raw notes from Peters trip to FOSS4G-NA
 ---

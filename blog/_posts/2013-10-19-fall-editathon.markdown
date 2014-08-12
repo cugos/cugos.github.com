@@ -1,7 +1,7 @@
 ---
 layout: event
 title: OSM Fall Editathon
-category: events
+tag: events
 
 excerpt: Let's clean up Tigers
 

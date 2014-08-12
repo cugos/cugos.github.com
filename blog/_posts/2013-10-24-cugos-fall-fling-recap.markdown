@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CUGOS Fall Fling Recap
-category: blog
+tag: blog
 
 excerpt: Notes from the CUGOS Fall Fling
 ---

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ProjFinder
-category: projects
+tag: projects
 
 permalink: /projects/projfinder
 excerpt: Projection Finder project used for code sprints with CUGOS

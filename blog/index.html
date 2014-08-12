@@ -5,18 +5,18 @@ weight: 4
 permalink: 
 ---
 
-     <h2>Blog</h2>
+<h2>Blog</h2>
 {% for blog in site.categories.blog %}
-      <div class="row">
-        <div class="span12">
-          <div class="blog">
-            <h2><a href={{ blog.url }}>{{ blog.title }}</a></h2>
-            <span class="date">{{ blog.date | date_to_string }}</span>
-            <div class="entry">{{ blog.content | truncatewords:100 }}</div>
-            <h3><a href={{ blog.url }}>...more</a></h3>
-          </div>
-        </div>
-      </div>
-      <hr>
+<div class="row">
+  <div class="span12">
+    <div class="blog">
+      <h2><a href={{ blog.url }}>{{ blog.title }}</a></h2>
+      <span class="date">{{ blog.date | date_to_string }}</span>
+      <div class="entry">{{ blog.excerpt }}</div>
+      <h3><a href={{ blog.url }}>...more</a></h3>
+    </div>
+  </div>
+</div>
+<hr>
 {% endfor %}
 

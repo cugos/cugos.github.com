@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating to Jekyll
-category: blog
+tag: blog
 
 excerpt: Decided to bite the bullet and migrate to Jekyll
 ---

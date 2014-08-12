@@ -1,7 +1,7 @@
 ---
 layout: event
 title: CUGOS talking at UW Certificate Program
-category: events
+tag: events
 
 excerpt: 5+ CUGOS members talk to UW Cert program students
 ---
