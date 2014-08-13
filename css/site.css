@@ -59,7 +59,7 @@ p {
 }
 .page-header {
   width:100%;
-  background:url(../image/cascades1.jpg) center center no-repeat;
+  background:url(../image/cascades2.jpg) center center no-repeat;
   background-size:cover;
   text-align:center;
   color:#fff;
@@ -168,23 +168,6 @@ nav {
   opacity:.8;
 }
 
-/* ALERTS */
-.alert {
-  background-color:#3f75a2;
-  border-radius:0px;
-  padding:.5em;
-  text-align:center;
-  font-size:1.7em;
-  color:#f6f6f6;
-}
-.alert p a {
-  border-bottom:1px dashed #e5e5e5;
-  color:#f6f6f6;
-}
-.alert p a:hover {
-  border-bottom:1px solid #e5e5e5;
-}
-
 
 /* HOMEPAGE */
 .home .cugos-svg {
@@ -200,10 +183,17 @@ nav {
 }
 .intro p {
   color:#333;
-  font-size:1.5em;
+  font-size:1.2em;
   line-height:1.4em;
   padding:0; margin:0;
   letter-spacing:.12em;
+  text-align:center;
+}
+@media screen and (min-width:41em) {
+  .intro p {
+    text-align:left;
+    font-size:1.5em;
+  }
 }
 .intro p span {
   padding-bottom:2px;
@@ -460,4 +450,20 @@ nav {
   #people-list li:hover .person-description {
     display:inline-block;
   }
+}
+
+/* ALERTS */
+.alert {
+  display:block;
+  background-color:#75a23f;
+  border-radius:0px;
+  padding:.5em;
+  text-align:center;
+  font-size:1.3em;
+  color:#f6f6f6;
+  margin:.3em auto;
+}
+.alert:hover {
+  background-color:#333;
+  color:#f6f6f6;
 }

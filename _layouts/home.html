@@ -10,9 +10,9 @@
   </header>
 
   {% for meeting in site.categories.meetings limit: 1  %}
-  <div class="chunk alert">
-    Next CUGOS meeting: <a href={{ meeting.url }}>{{ meeting.title }}</a>
-  </div>
+  <a class="alert" href={{ meeting.url }}>
+    Next CUGOS meeting: <span class="alert-meeting-title">{{ meeting.title }}</span></a>
+  </a>
   {% endfor %}
 
   <div class="chunk intro">
