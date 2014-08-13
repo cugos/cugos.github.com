@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: post
 title: Presentation1
 tag: presentations
 excerpt: Short text about presentation

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: ProjFinder
 tag: projects
 

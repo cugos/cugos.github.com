@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Migrate CUGOS website to Jekyll on GitPages
 tag: projects
 

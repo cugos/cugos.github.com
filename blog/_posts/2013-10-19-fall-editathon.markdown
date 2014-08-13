@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: OSM Fall Editathon
 tag: events
 

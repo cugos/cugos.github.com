@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: CUGOS talking at UW Certificate Program
 tag: events
 

@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: Mappy Hour with Steve Coast
 tag: events
 
