@@ -7,7 +7,7 @@ lat: 47.656831742126535
 image: https://avatars3.githubusercontent.com/u/208859?v=2&s=400
 permalink: /people/greg_corradini
 github: thebigspoon
-twitter: junkmob 
+twitter: chopshopio
 excerpt: Homeless and Loving It
 ---
 
