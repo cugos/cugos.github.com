@@ -16,6 +16,6 @@ We [meet regularly](/meetings) every month and irregularly on Thursdays at diffe
 
 Apart from general chitter chatter on our IRC channel, you can find more substantial posts and tid-bits at our Google group, [Cascadia Users of Geospatial Open Source](https://groups.google.com/forum/#!forum/cugos). Here you'll find questions about projects, conference updates, sidecar meetings, and job postings.
 
-**Recent posts**
+**Recent threads**
 
 <ul id="feed"></ul>

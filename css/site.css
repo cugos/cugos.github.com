@@ -230,7 +230,7 @@ nav {
   padding:.6em 1em;
   display:block;
 }
-#feed li:hover {
+#feed li:hover a {
   background-color:#75a23f;
 }
 #feed li:hover a {
