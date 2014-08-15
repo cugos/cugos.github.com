@@ -19,6 +19,7 @@ __Loose agenda:__
 - [@cliffordsnow](https://github.com/cliffordsnow) OpenStreetMap 10th Anniversary Celebration Recap
 - [@powersa](https://github.com/powersa) will talk about the new cugos.org website and how **you** can be a part of it!
 - [@dandevine](https://github.com/DanDevine) will talk about the tooling he used to create the geofencing Android game [AdSpore](http://adspore.com/use/) and the bumps on the way
+- Matt Jahn will host a fireside chat about indoor location solutions from around the globe 
 - [@github_name](https://github.com/github_name) throws down on the greatest in geo...
 
 ##NOTES:
