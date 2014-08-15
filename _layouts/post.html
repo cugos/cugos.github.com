@@ -2,18 +2,19 @@
 layout: default
 ---
 
-<div class="post">
-
-    <h2>{{ page.title }}</h2>
-
-    <span class="date">{{ page.date | date_to_string }}</span><br>
-
-    <span class="category">Category: {{ page.categories | category_links }}</span>
-
-	<div class="entry">{{ content }}</div>
-        {% if page.image != null %}
-        <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
-        {% endif %}
-
+<div class="content post">
+  <h2>{{ page.title }}</h2>
+  <span class="date">{{ page.date | date_to_string }}</span><br>
+  <span class="category">Category: {{ page.categories | category_links }}</span>
+  <div class="entry">{{ content }}</div>
+  {% if page.image != null %}
+  <img src="{{ page.image }}" class="img-polaroid" style="max-height: 200px;">
+  {% endif %}
 </div>
 
+<h2>More Blog Posts</h2>
+<ul id="blog-posts">
+  {% for blog in site.categories.blog %}
+  <li class="blog-post"><a href={{ blog.url }} class="{% if blog.title == page.title %}current{% endif %}"><span class="blog-date">{{ blog.date | date: "%m/%d/%Y" }}</span>{{ blog.title }}</a></li>
+  {% endfor %}
+</ul>
