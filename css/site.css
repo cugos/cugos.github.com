@@ -232,9 +232,8 @@ nav {
 }
 #feed li:hover a {
   background-color:#75a23f;
-}
-#feed li:hover a {
   color:#f6f6f6;
+  border:none;
 }
 @media screen and (min-width:56em) {
   #feed li {
@@ -414,6 +413,7 @@ nav {
 }
 .social:hover {
   text-decoration:underline;
+  border-bottom:none !important;
 }
 @media screen and (min-width:56em) {
   #people-list li {
