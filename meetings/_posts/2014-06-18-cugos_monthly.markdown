@@ -4,7 +4,6 @@ title: June 18th 2014, 6pm -  ClipCard
 location: ClipCard
 address: 720 Olive Way 14th Floor, Seattle WA 98121
 time: 6:00pm
-excerpt: May 21st CUGOS Monthly Meeting at ClipCard (6pm)
 lat: 47.614116
 lng: -122.334624
 category: meetings
