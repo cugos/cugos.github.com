@@ -22,9 +22,6 @@ Contact
 **Email:**  
 info@cugos.org
 
-**Phone:**  
-(360) 221-2441 
-
 **Address:**  
 CUGOS  
 P.O. Box 1614  
