@@ -1,8 +1,11 @@
-function init() {
-  // functions that will run cross site
-  // if you are writing something for a specific page
-  // you should create a new file with that page name and
-  // add it via the front-matter
-}
-
-window.onLoad = init();
+$(document).ready(function(){
+  $('#nav-expand').on('click', function(){
+    $('#nav').slideToggle(300);
+    $(this).toggleClass('open');
+    if($(this).hasClass('open')) {
+      $(this).html('<i class="fa fa-times"></i>');
+    } else {
+      $(this).html('<i class="fa fa-bars"></i>');
+    }
+  });
+});

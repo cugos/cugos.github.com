@@ -32,9 +32,7 @@ a {
 p {
   font-weight:100;
 }
-.main {
-  background: url(../image/texture-w.png) repeat;
-}
+
 .copyright {
   padding-top: 5px;
   text-align: center;
@@ -94,8 +92,10 @@ p {
 }
 
 /* GLOBALS */
-.content {
+.main {
   padding:0 1em;
+}
+.content {
   font-weight:100;
 }
 .content a {
@@ -132,16 +132,28 @@ nav {
   border-bottom: none;
   font-family: 'Dosis', sans-serif;
 }
-#nav {
-  margin:0;
-  padding:0;
+#nav-expand {
   display:inline-block;
+  width:40px;
+  height:40px;
+  border:none;
+  background-color:transparent;
+  font-size:1.9em;
+  color:#f6f6f6;
+}
+#nav-expand:hover {
+  cursor:pointer;
+  opacity:.8;
+}
+#nav {
+  display:none;
+  margin:0; padding:0;
 }
 #nav li {
-  display:inline;
+  display:block;
 }
 #nav li a {
-  display:inline-block;
+  display:block;
   font-weight: 200;
   font-size: 1em;
   color: #e5e5e5;
@@ -152,7 +164,9 @@ nav {
   background-color: #346085;
 }
 #brand-logo {
-  float:right;
+  position:absolute;
+  right:5px;
+  top:0;
   font-size:2em;
   font-weight:900;
   color:#fff;
@@ -166,6 +180,28 @@ nav {
 }
 #brand-logo:hover {
   opacity:.8;
+}
+@media screen and (min-width:41em) {
+  #nav {
+    margin:0;
+    padding:0;
+    display:inline-block;
+  }
+  #nav-expand {
+    display:none;
+  }
+  #nav li {
+    display:inline;
+  }
+  #nav li a {
+    display:inline-block;
+  }
+  #brand-logo {
+    float:right;
+    font-size:2em;
+    font-weight:900;
+    color:#fff;
+  }
 }
 
 
