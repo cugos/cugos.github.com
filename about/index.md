@@ -20,7 +20,7 @@ Started in February 2007, CUGOS has quickly grown from a core of three founders 
 Contact
 =======
 **Email:**  
-info@cugos.org
+hello@cugos.org
 
 **Address:**  
 CUGOS  

@@ -17,7 +17,7 @@ extra_js:
 <script>
 var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 7);
 L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
-// map.fitBounds(data.getBounds());
+map.scrollWheelZoom.disable();
 </script>
 <div class="content">
   <ul id="people-list">
