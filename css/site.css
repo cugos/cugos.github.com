@@ -95,6 +95,11 @@ p {
 .main {
   padding:0 1em;
 }
+@media screen and (min-width:41em) {
+  .main {
+    padding:0;
+  }
+}
 .content {
   font-weight:100;
 }
@@ -160,9 +165,14 @@ nav {
   text-transform: uppercase;
   padding:.6em .8em;
 }
-#nav li a:hover {
+#nav li a:hover,
+#nav li.active a {
   background-color: #346085;
 }
+#nav li.active a {
+  font-weight:900;
+}
+
 #brand-logo {
   position:absolute;
   right:5px;

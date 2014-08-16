@@ -25,5 +25,4 @@ hello@cugos.org
 **Address:**  
 CUGOS  
 P.O. Box 1614  
-Langley, WA 98260  
-
+Langley, WA 98260

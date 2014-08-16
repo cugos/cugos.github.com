@@ -15,9 +15,10 @@ extra_js:
 
 <h2>People</h2>
 <script>
-var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 7);
+var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 6);
 L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
 map.scrollWheelZoom.disable();
+map.dragging.disable();
 </script>
 <div class="content">
   <ul id="people-list">
@@ -53,4 +54,3 @@ map.scrollWheelZoom.disable();
   {% endfor %}
   </ul>
 </div>
-<!-- WAKA -->
