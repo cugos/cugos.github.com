@@ -22,7 +22,7 @@ map.scrollWheelZoom.disable();
 <div class="content">
   <ul id="people-list">
   {% for person in site.categories.people %}
-    <li class="person">
+    <li class="person" id="{{ person.github }}">
       <script>
       var lat = {{ person.lat }};
       var lng = {{ person.lng }};

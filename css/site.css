@@ -502,6 +502,10 @@ nav {
   margin:0;
   font-size:2em;
 }
+.recent-title a {
+  color:#000;
+  font-weight:900;
+}
 .recent-date {
   display:inline-block;
   padding:.3em .9em;

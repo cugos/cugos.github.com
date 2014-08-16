@@ -8,7 +8,7 @@ permalink:
 <div class="content">
   {% for recent in site.categories.blog limit:1 %}
   <p class="recent-post-header">Recent</p>
-  <h2 class="recent-title">{{ recent.title }}</h2>
+  <h2 class="recent-title"><a href="{{ recent.url }}">{{ recent.title }}</a></h2>
   <span class="recent-date">{{ recent.date | date: "%m/%d/%Y" }}</span>
   {{ recent.content }}
   {% endfor %}
