@@ -1,14 +1,14 @@
 ---
 layout: meeting
 title: August 20th 2014, 6pm -  Hart Crowser Inc
-location: Hart Crowser
+location: Hart Crowser, Inc.
 address: 1700 Westlake Ave N Suite 200
 time: 6:00pm
 excerpt: August 20th CUGOS Monthly Meeting
 lat: 47.634330
 lng: -122.339485
 category: meetings
-notes: 
+notes: Enter the lobby by the main entrance and then enter the glass door to your immediate left.  Matt will put a sign up on the door and probably be there in person. If the doors are locked after 6:00pm, call  206-473-7691 for entry.
 
 ---
 
