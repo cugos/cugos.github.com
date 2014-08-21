@@ -66,6 +66,6 @@ __Loose agenda:__
 
 ---
 
-We keep track of what happens, so you don't have to...
+
 
 ---
