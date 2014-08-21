@@ -15,22 +15,8 @@ extra_js:
 
 <h2>People</h2>
 <script>
-var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
-                  (min--moz-device-pixel-ratio: 1.5),\
-                  (-o-min-device-pixel-ratio: 3/2),\
-                  (min-resolution: 1.5dppx)";
-
-var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
-
-if (getParameterByName("retina") ||
-    window.devicePixelRatio > 1 ||
-    (window.matchMedia && window.matchMedia(mediaQuery).matches)) {
-  // replace the last "." with "@2x."
-  provider = provider.replace(/\.(?!.*\.)/, "@2x.")
-}
-
 var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 6);
-L.tileLayer(provider).addTo(map);
+L.tileLayer('http://a.tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
 map.scrollWheelZoom.disable();
 map.dragging.disable();
 </script>
