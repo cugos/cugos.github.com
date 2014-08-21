@@ -22,6 +22,13 @@ var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
 
 var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
 
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
 if (getParameterByName("retina") ||
     window.devicePixelRatio > 1 ||
     (window.matchMedia && window.matchMedia(mediaQuery).matches)) {
