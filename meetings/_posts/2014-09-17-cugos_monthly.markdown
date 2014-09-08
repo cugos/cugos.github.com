@@ -17,7 +17,7 @@ notes:
 
 __Loose agenda:__
 
-- [@svmatthews](github.com/svmatthews) recaps a week of FOSS4G down in Portland.
+- [@svmatthews](http://github.com/svmatthews) recaps a week of FOSS4G down in Portland.
 - [@githubname](cugos.org) throws down on the latest and greatest in geo...
 
 
