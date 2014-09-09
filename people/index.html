@@ -23,10 +23,10 @@ var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
 var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
 
 function getParameterByName(name) {
-    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-        results = regex.exec(location.search);
-    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+  var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+      results = regex.exec(location.search);
+  return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
 if (getParameterByName("retina") ||
@@ -42,7 +42,7 @@ map.scrollWheelZoom.disable();
 map.dragging.disable();
 </script>
 <div class="content">
-  <ul id="people-list">
+  <ul id="people-list" class="cf">
   {% for person in site.categories.people %}
     <li class="person" id="{{ person.github }}">
       <script>

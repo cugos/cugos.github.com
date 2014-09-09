@@ -573,3 +573,15 @@ nav {
   background-color:#333;
   color:#f6f6f6;
 }
+
+/* FOOTER */
+footer p {
+  color:#999;
+}
+footer p .fa {
+  font-size:1.2em;
+  margin:0 15px;
+}
+footer p a {
+  color:#999;
+}
