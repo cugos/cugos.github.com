@@ -22,7 +22,7 @@ __Loose agenda:__
 - **[@erinlhamilton](https://github.com/erinlhamilton)** presents *Geoprocessing in the Web Browser*. Is it viable? What are the limitations? How does it compare to geoprocessing on the server? Who is this person? All will be answered!
 - **[@JMT2080AD](https://github.com/JMT2080AD)** will present how to use R as a data munging command center! He will be giving a brief overview of how to process tabular data in R and what tools are available in R for geoprocessing when your data is spatially relevant.
 
--**Ben** former geographer who loves bikes now to run Back Alley Bike Repair Shop in Pioneer Square(http://www.backalleybikerepair.com/) would like to get some ideas on how to educate/display bike trails/commuter lanes in Seattle for public.
+- **Ben Rainbow** former geographer who loves bikes, now runs Back Alley Bike Repair Shop in Pioneer Square(http://www.backalleybikerepair.com/) would like to get some ideas on how to educate/display bike trails/commuter lanes in Seattle to the public.
 
 ###NOTES:
 
