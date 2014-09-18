@@ -27,7 +27,7 @@ __Loose agenda:__
 
 - **Ben Rainbow** is a former GIS Field Analyst now operating [Back Alley Bike Repair](http://www.backalleybikerepair.com/) in Pioneer Square . As a shop owner and avid cyclist, he receives a lot of interest from locals and visitors requesting route information for short and long trips. He is interested in ideas/methods of displaying dynamic content for presentations, as well as for generating a trip map database.
 
-- **David A. Howes** will lead a quick discussion on the potential for CUGOS to participate in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa) through an open source panel session.
+- **David Howes** will lead a quick discussion on the potential for CUGOS to participate in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa) through an open source panel session.
 
 ---
 
