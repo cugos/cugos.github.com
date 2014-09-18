@@ -20,7 +20,7 @@ __Loose agenda:__
 - **[@svmatthews](http://github.com/svmatthews)** recaps a week of FOSS4G down in Portland and shares a story on search and rescue efforts and how organizing them spatially should be simple for anybody, not just someone who can make a map.
 
 - **daan Strebe** presents *Map Projection as Mirror, Nostrum, Villain*. Map projections: Shine a light through a globe. What could go wrong, eh? Quite a lot, it turns out. What is a map projection, really? Why so many? For that matter, how many are there? Which is the best? How do they affect people and society? What do the cool kids do with them? And, yeah. The Mercator. Wait. What? Wait, what was Google thinking!?
- 
+
 - **[@erinlhamilton](https://github.com/erinlhamilton)** presents *Geoprocessing in the Web Browser*. Is it viable? What are the limitations? How does it compare to geoprocessing on the server? Who is this person? All will be answered!
 
 - **[@JMT2080AD](https://github.com/JMT2080AD)** will present how to use R as a data munging command center! He will be giving a brief overview of how to process tabular data in R and what tools are available in R for geoprocessing when your data is spatially relevant.
@@ -29,10 +29,19 @@ __Loose agenda:__
 
 - **David A. Howes** will lead a quick discussion on the potential for CUGOS to participate in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa) through an open source panel session.
 
-###NOTES:
-
 ---
 
-Coming soon...
+###NOTES:
+
+####daan Strebe -*Map Projection as Mirror, Nostrum, Villain*
+Large scale and small scale projections (he's more of a small-scale guy). Small scale projections are the world maps, large land areas. Large scales are a mess because of the lack of standardization and immense number of them for how much area is covered. Large-scale are also a mess but mostly because they have to be!
+
+daan talked about our historical learning of projections. The range of possibilities is immense and represented mathematically. You need and X, Y (f & g) - which make up every projection. They are all a mess, some work for reasons where they would be useless elsewhere. Most of the time, these projections are about aesthetics, egos, or social political statements. Here are some videos and posts relating to context and dialogue about projections:
+
+* National geographic video on mapping the oceans [video](http://www.youtube.com/watch?v=OQCoWAbOKfg)
+* West wing cartography about eurocentric map projections in classrooms [video](http://www.youtube.com/watch?v=vVX-PrBRtTY)
+* XKCD map projections [article](http://xkcd.com/977/)
+
+Talked about the conspiracy to create Mercator the modern map of the world, which has been criticized for its potential racist and imperialistic representation of the world. He also mentioned a different rendition of the mercator that Google could use but it would cost a significant more in computational power and adding a correct small-scale projection, which would drastically effect the renderer on the large-scale side of things. *Final conclusion:* they (Google and other web maps) certainly are using the correct projection but it should be taken with a grain of salt.
 
 ---
