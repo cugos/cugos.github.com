@@ -71,6 +71,16 @@ He uses R for basically everything at work, and wanted to pull it into his geopr
 
 It took an hour and half (what?!) - what else could you use? [R.gdal](http://cran.r-project.org/web/packages/rgdal/index.html). Can you automate this process at all? He thinks you can!
 
+
+[@geoglrb](https://github.com/geoglrb) comments: I haven't been using R much, but you might find these resources helpful for spatial things:
+
+* Mailing list: [R-sig-Geo -- R Special Interest Group on using Geographical data and Mapping](https://stat.ethz.ch/mailman/listinfo/r-sig-geo)
+* R-Bloggers.com [Search for blog entries about 'maps'](http://www.r-bloggers.com/?s=maps) (801+ as of 2014-09-18)
+* [CRAN Task View: Analysis of Spatial Data](http://cran.r-project.org/web/views/Spatial.html): a really great overview of R packages that are spatial-related.
+* Spatial.ly on [R Spatial Tips](http://spatial.ly/r/) and [R Spatial Data Hints](http://spatial.ly/category/r-spatial-data-hints/)
+* [Get training in R + OSGeo](http://geostat-course.org/getTraining)
+
+
 ### Ben Rainbow - *talkin bikes and geo!*
 
 Traditionally a field GIS analyst and now bike shop owner! Has many people asking him about having and archiving bike trips and having presentations ready to go for groups planning on some bike trips. There's a real need for institutions and tourists to see what these routes are like so they can plan and take home their trip. This is relatively created with [Strava](http://www.strava.com/running-app), but the data are not rich enough. He's asking for a call to action and is looking for help/insight with it! There's a lot of power in spatial data and its influence on the bike community and bicycle policy in the city.
