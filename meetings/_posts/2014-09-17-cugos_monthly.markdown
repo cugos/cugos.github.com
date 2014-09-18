@@ -59,4 +59,16 @@ Tested specific browsers, with common geoprocessing operations, in a suite of da
 
 **Results compared to server** - the servers were an order of magnitude faster than web browsers (>100,000 in under 4s), where client platforms couldn't process beyond 50,000 vertices. It seems web browsers are quite limited to vertices data, compared to the servers.
 
+### [Jason Taylor](https://github.com/JMT2080AD) - *R: a tabular data command center with spatial tools*
+
+He uses R for basically everything at work, and wanted to pull it into his geoprocessing workflow. Showed us a bunch fo sweet maps made in R that look pretty and hold some robust data.
+
+*Let's talk about R* - built on vector data (array vectors), data frames, lists (combination of objects), and class objects thus rendering it an OOO language.
+
+(non spatial) Example time! Making windroses from Wunderground data - only available in daily values instead of larger date ranges, needed to pull general time frames, so he found a sweet awesome function that does it for him!
+
+**BIG TASK!** emboyments and population vs. sediment contaminents in Puget Sound. Wrote some sick nasty functions to parse all this data from 300,000+ records but now he has to add some spatial components (i.e. buffering for coasts and known locations) to remove data. Typically they'd use ArcGIS, but it was screwing things up (typical) so he researched some geo in R - used [RGEOS](http://cran.at.r-project.org/web/packages/rgeos/index.html), which takes coordinates and turns them into spatial objects.
+
+It took an hour and half (what?!) - what else could you use? [R.gdal](http://cran.r-project.org/web/packages/rgdal/index.html). Can you automate this process at all? He thinks you can!
+
 ---
