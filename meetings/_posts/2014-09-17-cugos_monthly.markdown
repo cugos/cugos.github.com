@@ -65,10 +65,12 @@ He uses R for basically everything at work, and wanted to pull it into his geopr
 
 *Let's talk about R* - built on vector data (array vectors), data frames, lists (combination of objects), and class objects thus rendering it an OOO language.
 
-(non spatial) Example time! Making windroses from Wunderground data - only available in daily values instead of larger date ranges, needed to pull general time frames, so he found a sweet awesome function that does it for him!
+(non spatial) Example time! Making windroses from Wunderground data - only available in daily values instead of larger date ranges, needed to pull general time frames, so he found a sweet awesome function that does it for him! Did this in [open air](http://www.openair-project.org/)
 
 **BIG TASK!** emboyments and population vs. sediment contaminents in Puget Sound. Wrote some sick nasty functions to parse all this data from 300,000+ records but now he has to add some spatial components (i.e. buffering for coasts and known locations) to remove data. Typically they'd use ArcGIS, but it was screwing things up (typical) so he researched some geo in R - used [RGEOS](http://cran.at.r-project.org/web/packages/rgeos/index.html), which takes coordinates and turns them into spatial objects.
 
 It took an hour and half (what?!) - what else could you use? [R.gdal](http://cran.r-project.org/web/packages/rgdal/index.html). Can you automate this process at all? He thinks you can!
+
+### Ben Rainbow - **
 
 ---
