@@ -31,9 +31,12 @@ __Loose agenda:__
 
 ---
 
-###NOTES:
+##NOTES:
 
-####daan Strebe -*Map Projection as Mirror, Nostrum, Villain*
+### daan Strebe - *Map Projection as Mirror, Nostrum, Villain*
+
+**slides?**
+
 Large scale and small scale projections (he's more of a small-scale guy). Small scale projections are the world maps, large land areas. Large scales are a mess because of the lack of standardization and immense number of them for how much area is covered. Large-scale are also a mess but mostly because they have to be!
 
 daan talked about our historical learning of projections. The range of possibilities is immense and represented mathematically. You need and X, Y (f & g) - which make up every projection. They are all a mess, some work for reasons where they would be useless elsewhere. Most of the time, these projections are about aesthetics, egos, or social political statements. Here are some videos and posts relating to context and dialogue about projections:
@@ -43,5 +46,17 @@ daan talked about our historical learning of projections. The range of possibili
 * XKCD map projections [article](http://xkcd.com/977/)
 
 Talked about the conspiracy to create Mercator the modern map of the world, which has been criticized for its potential racist and imperialistic representation of the world. He also mentioned a different rendition of the mercator that Google could use but it would cost a significant more in computational power and adding a correct small-scale projection, which would drastically effect the renderer on the large-scale side of things. *Final conclusion:* they (Google and other web maps) certainly are using the correct projection but it should be taken with a grain of salt.
+
+### [Erin Hamilton(https://github.com/erinlhamilto) - *Geoprocessing in the web browser*
+
+**slides?**
+
+Erin talked about taking geospatial data and producing an output (like Buffering, and unions, etc) - but on the web! Traditionally requests would be sent to servers and returned, but she is exploring **in browser** processing. Focusing on javascript rendering engines and how their improvement has allowed us to use the web to process data on the fly (OMG!). She is exploring if web browsers can compare with server-side processing.
+
+[JSTS](https://github.com/bjornharrtell/jsts) is the most robust web processing library, based on the JTS topology suite.
+
+Tested specific browsers, with common geoprocessing operations, in a suite of data sizes. Turned data in to WKT for storage purposes. On the client side, she used microajax, async, and boomerang to build her pipeline for testing all of these data and processes. Used an Amazon EC2 and stored into a SQL DB.
+
+**Results compared to server** - the servers were an order of magnitude faster than web browsers (>100,000 in under 4s), where client platforms couldn't process beyond 50,000 vertices. It seems web browsers are quite limited to vertices data, compared to the servers.
 
 ---
