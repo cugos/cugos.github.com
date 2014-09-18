@@ -37,3 +37,6 @@ relative_permalinks: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.md]
+
+gems:
+  - jekyll-sitemap
