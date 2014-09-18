@@ -49,7 +49,7 @@ Talked about the conspiracy to create Mercator the modern map of the world, whic
 
 ### [Erin Hamilton](https://github.com/erinlhamilton) - *Geoprocessing in the web browser*
 
-**slides?**
+**[slides](/image/slides/CUGOS_20140915.pdf)**
 
 Erin talked about taking geospatial data and producing an output (like Buffering, and unions, etc) - but on the web! Traditionally requests would be sent to servers and returned, but she is exploring **in browser** processing. Focusing on javascript rendering engines and how their improvement has allowed us to use the web to process data on the fly (OMG!). She is exploring if web browsers can compare with server-side processing.
 
@@ -71,6 +71,12 @@ He uses R for basically everything at work, and wanted to pull it into his geopr
 
 It took an hour and half (what?!) - what else could you use? [R.gdal](http://cran.r-project.org/web/packages/rgdal/index.html). Can you automate this process at all? He thinks you can!
 
-### Ben Rainbow - **
+### Ben Rainbow - *talkin bikes and geo!*
+
+Traditionally a field GIS analyst and now bike shop owner! Has many people asking him about having and archiving bike trips and having presentations ready to go for groups planning on some bike trips. There's a real need for institutions and tourists to see what these routes are like so they can plan and take home their trip. This is relatively created with [Strava](http://www.strava.com/running-app), but the data are not rich enough. He's asking for a call to action and is looking for help/insight with it! There's a lot of power in spatial data and its influence on the bike community and bicycle policy in the city.
+
+### David Howes
+
+Call for participation in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa)!!!!
 
 ---
