@@ -75,8 +75,8 @@ It took an hour and half (what?!) - what else could you use? [R.gdal](http://cra
 
 Traditionally a field GIS analyst and now bike shop owner! Has many people asking him about having and archiving bike trips and having presentations ready to go for groups planning on some bike trips. There's a real need for institutions and tourists to see what these routes are like so they can plan and take home their trip. This is relatively created with [Strava](http://www.strava.com/running-app), but the data are not rich enough. He's asking for a call to action and is looking for help/insight with it! There's a lot of power in spatial data and its influence on the bike community and bicycle policy in the city.
 
-### David Howes
+### [David Howes](http://www.dhowes.com/)
 
-Call for participation in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa)!!!!
+Call for participation in the upcoming [NW GIS Conference](http://nwgis.org/event/nwgis-2014-lynnwood-wa)!!!! Wants CUGOS to help put together a space for OS at a commonly ESRI-centric conference to foster mutually beneficial interactions and help GIS professionals help each other as best they can.
 
 ---
