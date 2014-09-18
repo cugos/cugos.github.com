@@ -47,7 +47,7 @@ daan talked about our historical learning of projections. The range of possibili
 
 Talked about the conspiracy to create Mercator the modern map of the world, which has been criticized for its potential racist and imperialistic representation of the world. He also mentioned a different rendition of the mercator that Google could use but it would cost a significant more in computational power and adding a correct small-scale projection, which would drastically effect the renderer on the large-scale side of things. *Final conclusion:* they (Google and other web maps) certainly are using the correct projection but it should be taken with a grain of salt.
 
-### [Erin Hamilton(https://github.com/erinlhamilto) - *Geoprocessing in the web browser*
+### [Erin Hamilton](https://github.com/erinlhamilton) - *Geoprocessing in the web browser*
 
 **slides?**
 
