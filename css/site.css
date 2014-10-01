@@ -26,12 +26,9 @@ h6 {
   font-family: 'Dosis', sans-serif;
   font-weight: 600;
 }
-a {
-  text-decoration:none;
-}
-p {
-  font-weight:100;
-}
+a { text-decoration:none; }
+p { font-weight:100; }
+strong { font-weight:900; }
 
 .copyright {
   padding-top: 5px;
@@ -104,7 +101,6 @@ p {
   font-weight:100;
 }
 .content a {
-  font-weight:100;
   color:#75a23f;
 }
 .content a:hover {
