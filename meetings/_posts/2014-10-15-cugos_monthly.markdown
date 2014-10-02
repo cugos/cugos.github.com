@@ -1,14 +1,14 @@
 ---
 layout: meeting
-title: October 15th 2014, 6pm
-location: TBD
-address: TBD
+title: October 15th 2014, 6pm - Anderson Hall, UW
+location: University of Washington
+address: UW Anderson Hall, Forest Club room 207
 time: 6:00pm
 excerpt: October 15th CUGOS Monthly Meeting
-lat: 0.0
-lng: 0.0
+lat: 47.651737
+lng: -122.307540
 category: meetings
-notes:
+notes: It's the room with the elk in it.
 ---
 
 ##Loose agenda:
