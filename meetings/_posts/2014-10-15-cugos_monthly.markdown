@@ -17,6 +17,8 @@ notes: It's the room with the elk in it.
 
 - **[@svmatthews](http://github.com/svmatthews)** showcases the second volume of the Atlas of Design - a collection of inspiring, beautiful cartography from around the world.
 
+- **[@hallahan](http://github.com/hallahan)** will be talking about Vector Tiles. He will explain what they are as well as how to use them in [Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile), a new open-source library being built at [SpatialDev](http://spatialdev.com).
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES: 
