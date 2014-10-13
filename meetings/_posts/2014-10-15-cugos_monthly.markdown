@@ -20,6 +20,8 @@ notes: It's the room with the elk in it.
 - **[@hallahan](http://github.com/hallahan)** will be talking about Vector Tiles. He will explain what they are as well as how to use them in [Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile), a new open-source library being built at [SpatialDev](http://spatialdev.com).
 
 - **[@powersa](https://github.com/powersa)** riffs on visualizing [path](http://www.w3.org/TR/SVG/paths.html) based [queues](http://en.wikipedia.org/wiki/Queue_(abstract_data_type) and [deques](http://en.wikipedia.org/wiki/Double-ended_queue) in [d3.js](http://d3js.org/). We'll also dive into [path transitions](http://bost.ocks.org/mike/path/) + [interpolation](https://github.com/mbostock/d3/wiki/Transitions#wiki-attrTween) for better animation.
+- 
+- KC cloud pilot project challenge and would like CUGOS memebers for feedbacks. (Peter, Paul & Debbie)
 
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
