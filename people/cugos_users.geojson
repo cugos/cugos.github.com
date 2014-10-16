@@ -108,6 +108,23 @@
           48.47810
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	      "First": "Debbie",
+        "Last": "Bull",
+        "IRC": "thedeb",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98104},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33093172311783,
+          47.59909712100294
+        ]
+      }
+    
   ]
 }
