@@ -34,3 +34,17 @@ notes: It's the room with the elk in it.
 He introduced SpatialDev's work with Leaflet and Vector tiles ([Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile)) - it effectively renders each tile in parallel, which is really fast! He then showed some sweet experiments with gradients and border treatment. *How does it relate to MapboxGL*, you ask? Well, mapboxGL is more advanced than Leaflet's library, but renders in OpenGL / WebGL instead of HTML5. It is more performant, but less reliable and doesn't work in IE.
 
 He showed some interesting trick with making these in Mapbox Studio, but what if you want to render these bad boys on the fly? **You can use [SpatialServer](https://gist.github.com/hallahan/60c956987bde4a02b6be)**, which looks at PostGIS tables and cuts you tiles on the fly! [Here](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/basic.html) are [some](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/static-label.html) [examples](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/confetti.html)! Killin it, Nick.
+
+**[@powersa](https://github.com/powersa)** works at Point Inside, an spatial interior company that focuses on purchases and products in different retail stores. He took a bunch of their data and is visualizing it to look for patterns within the purchasing spectrum. He looked at consumers trends of looking at products between locations and time, creating *usage* events with *direction* over *time*.
+
+He used D3 to draw SVG path elements, but needed to implement FILO (first in, last out) data structures to animate the actual drawing of the path element. He used some sweet SVG transforms on the line, which can be seen on [Mike Bostock's *path* example](http://bost.ocks.org/mike/path/). He then found an awesome example to learn from [here](http://big-elephants.com/2014-06/unrolling-line-charts-d3js/). Disadvantages means it can't remove data on the browser after it goes out of view. He then rolled some [sick-nasty d3 example](http://bl.ocks.org/powersa/660a6c39e9e759535aa3) to showcase the movement of a beginning and end of a path that calculates and interpolates movement between these two points.
+
+[His slides can be found here](https://docs.google.com/presentation/d/1Yj7ST41Mw4-H0CTrKIRV2FF02aRQBk1uPKBe79n34U4/pub?start=true&loop=false&delayms=3000)
+
+![Powersa doing his thing](/image/meetings/powersa-20141015.JPG)
+
+Debbie & Paul are trying to figure out how to implement Recorded Plat Lot Database into Amazon's web interface. **The issue** People create permits for parcels without the correct data, or presumtious data, but they need a database of "preliminary parcels" or *plats* before they are put into the official dataset.
+
+They are looking to leverage only open source software. Using PostGIS to store their data in the Amazon cloud, and want to be able to leverage those cloud resources for backup purposes and potentially tile or disaster services. *Bonus of AWS means their IT dept. doesn't have to support the entire system.*
+
+Call to action for **browser-based editing** systems that are *very* simple, barebones, and can push into the database. They want a user to be able to input the boundaries of a *new* plat by uploading an image and georeferencing it in the browser. Effectively, this would be built to do *one* thing, keeping it simple and concise. You should email Paul - paul.mccombs@kingcounty.gov - if you want to help or have any insight!
