@@ -29,8 +29,8 @@ notes: It's the room with the elk in it.
 
 **[Broad Street Maps](http://broadstreetmaps.org)** showcased a really neat project that they worked on with the Global Post that showed Public-Private Partnership data around the world. It essentially showed money from recognizeable corporations that had been donated or put towards international aid projects. Their map is built on d3 and many topojson data files, hosted on Amazon S3 servers, and eventually pulled into Global Post's information graphic, which can been [viewed on their site](http://www.globalpost.com/special-reports/branding-health-public-private-partnerships-global-health#slide-1)! The project opens up an interesting discussion about *motives* and if these companies are doing these projects because of their concern of the communities or their concern with their business appearance and continued existence in these areas.
 
+**[@hallahan](http://github.com/hallahan)** introduced and explained vector tiles. They currently exist in google map and apple maps, but is not a standard by any means. He elegantly described the value of vector-based data instead of the current standard of .PNG, image-based, slippy maps. 
 
+He introduced SpatialDev's work with Leaflet and Vector tiles ([Leaflet.MapboxVectorTile](https://github.com/SpatialServer/Leaflet.MapboxVectorTile)) - it effectively renders each tile in parallel, which is really fast! He then showed some sweet experiments with gradients and border treatment. *How does it relate to MapboxGL*, you ask? Well, mapboxGL is more advanced than Leaflet's library, but renders in OpenGL / WebGL instead of HTML5. It is more performant, but less reliable and doesn't work in IE.
 
-
-
-Notes are typically *live committed* during the meeting. Stay tuned!
+He showed some interesting trick with making these in Mapbox Studio, but what if you want to render these bad boys on the fly? **You can use [SpatialServer](https://gist.github.com/hallahan/60c956987bde4a02b6be)**, which looks at PostGIS tables and cuts you tiles on the fly! [Here](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/basic.html) are [some](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/static-label.html) [examples](http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/confetti.html)! Killin it, Nick.
