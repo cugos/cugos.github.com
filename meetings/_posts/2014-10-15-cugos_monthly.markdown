@@ -27,4 +27,10 @@ notes: It's the room with the elk in it.
 
 ##NOTES: 
 
+**[Broad Street Maps](http://broadstreetmaps.org)** showcased a really neat project that they worked on with the Global Post that showed Public-Private Partnership data around the world. It essentially showed money from recognizeable corporations that had been donated or put towards international aid projects. Their map is built on d3 and many topojson data files, hosted on Amazon S3 servers, and eventually pulled into Global Post's information graphic, which can been [viewed on their site](http://www.globalpost.com/special-reports/branding-health-public-private-partnerships-global-health#slide-1)! The project opens up an interesting discussion about *motives* and if these companies are doing these projects because of their concern of the communities or their concern with their business appearance and continued existence in these areas.
+
+
+
+
+
 Notes are typically *live committed* during the meeting. Stay tuned!
