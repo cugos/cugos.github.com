@@ -21,7 +21,7 @@ notes: It's the room with the elk in it.
 
 - **[@powersa](https://github.com/powersa)** riffs on visualizing [path](http://www.w3.org/TR/SVG/paths.html) based [queues](http://en.wikipedia.org/wiki/Queue_(abstract_data_type) and [deques](http://en.wikipedia.org/wiki/Double-ended_queue) in [d3.js](http://d3js.org/). We'll also dive into [path transitions](http://bost.ocks.org/mike/path/) + [interpolation](https://github.com/mbostock/d3/wiki/Transitions#wiki-attrTween) for better animation.
 
-- KC cloud pilot project challenge and would like CUGOS members for feedback. (Peter, Paul & Debbie)
+- KC cloud pilot challenge project and would like CUGOS members for feedback. (Peter, Paul & Debbie)
 
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
@@ -43,7 +43,7 @@ He used D3 to draw SVG path elements, but needed to implement FILO (first in, la
 
 ![Powersa doing his thing](/image/meetings/powersa-20141015.JPG)
 
-Debbie & Paul are trying to figure out how to implement Recorded Plat Lot Database into Amazon's web interface. **The issue** People create permits for parcels without the correct data, or presumtious data, but they need a database of "preliminary parcels" or *plats* before they are put into the official dataset.
+Debbie & Paul are trying to figure out how to implement Recorded Plat Lot Database into Amazon's web interface. **The issue** People create permits for parcels without the correct data, or presumptuous data, but they need a database of "preliminary parcels" or *plats* before they are put into the official dataset.
 
 They are looking to leverage only open source software. Using PostGIS to store their data in the Amazon cloud, and want to be able to leverage those cloud resources for backup purposes and potentially tile or disaster services. *Bonus of AWS means their IT dept. doesn't have to support the entire system.*
 
