@@ -15,31 +15,33 @@ extra_js:
 
 <h2>People</h2>
 <script>
-var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
-                  (min--moz-device-pixel-ratio: 1.5),\
-                  (-o-min-device-pixel-ratio: 3/2),\
-                  (min-resolution: 1.5dppx)";
+// var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
+//                   (min--moz-device-pixel-ratio: 1.5),\
+//                   (-o-min-device-pixel-ratio: 3/2),\
+//                   (min-resolution: 1.5dppx)";
 
-var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
+// var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
 
-function getParameterByName(name) {
-  name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-  var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-      results = regex.exec(location.search);
-  return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-}
+// function getParameterByName(name) {
+//   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+//   var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+//       results = regex.exec(location.search);
+//   return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+// }
 
-if (getParameterByName("retina") ||
-    window.devicePixelRatio > 1 ||
-    (window.matchMedia && window.matchMedia(mediaQuery).matches)) {
-  // replace the last "." with "@2x."
-  provider = provider.replace(/\.(?!.*\.)/, "@2x.")
-}
+// if (getParameterByName("retina") ||
+//     window.devicePixelRatio > 1 ||
+//     (window.matchMedia && window.matchMedia(mediaQuery).matches)) {
+//   // replace the last "." with "@2x."
+//   provider = provider.replace(/\.(?!.*\.)/, "@2x.")
+// }
 
 var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 6);
-L.tileLayer(provider).addTo(map);
-map.scrollWheelZoom.disable();
-map.dragging.disable();
+L.tileLayer('https://{s}.tiles.mapbox.com/v3/cugos.jphcb71d/{z}/{x}/{y}.png', {
+  detectRetina: true,
+  maxZoom: 13
+}).addTo(map);
+markers = new L.featureGroup();
 </script>
 <div class="content">
   <ul id="people-list" class="cf">
@@ -49,14 +51,20 @@ map.dragging.disable();
       var lat = {{ person.lat }};
       var lng = {{ person.lng }};
       var mbox = L.icon({
-        iconUrl: '/js/maps/img/marker.png',
-        iconSize:     [30, 70],
-        iconAnchor:   [15, 35],
-        popupAnchor:  [0, -35]
+        iconUrl: '/js/maps/img/marker-icon.png',
+        iconRetinaUrl: '/js/maps/img/marker-icon-2x.png',
+        iconSize:     [25, 41],
+        iconAnchor:   [12.5, 41],
+        popupAnchor:  [0, -41]
       });
       var marker = L.marker([lat, lng], {
         icon: mbox
-      }).addTo(map).bindPopup('{{ person.title }}');
+      }).bindPopup('<p><strong>{{ person.title }}</strong></p><p>{{ person.excerpt }}</p>');
+      if(lat==0 && lng==0) {
+        // don't add the marker if at 0,0
+      } else {
+        markers.addLayer(marker);  
+      }
       </script>
       <img src="{{ person.image }}">
       <div class="people-list-info">
@@ -75,3 +83,7 @@ map.dragging.disable();
   {% endfor %}
   </ul>
 </div>
+<script>
+markers.addTo(map);
+map.fitBounds(markers.getBounds());
+</script>
