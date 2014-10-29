@@ -125,6 +125,23 @@
           47.59909712100294
         ]
       }
-    
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	      "First": "Jonny",
+        "Last": "Kemp",
+        "IRC": "kempj2",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98104},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384248,
+          47.666054
+        ]
+      }
+    }
   ]
 }
