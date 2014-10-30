@@ -10,4 +10,4 @@ permalink: /people/debbie_bull
 excerpt: GIS DBA, King County GIS Center
 ---
 
-I work for [King County GIS Center] (http://kingcounty.gov/gis) and I'm working to learn more about open source options for spatial services solutions.
+I work for [King County GIS Center](http://kingcounty.gov/gis) and I'm working to learn more about open source options for spatial services solutions.
