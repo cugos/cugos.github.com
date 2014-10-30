@@ -432,7 +432,7 @@ nav {
   -webkit-box-sizing:border-box;
   padding:15px;
   color:#333;
-  max-height: 110px;
+  max-height: 120px;
 }
 .people-list-date {
   font-weight:900;
@@ -478,7 +478,7 @@ nav {
     padding:0px 15px;
   }
   .people-list-info h3 {
-    margin-top:10px;
+    padding-top:10px;
   }
   .person-description {
     position:absolute;
