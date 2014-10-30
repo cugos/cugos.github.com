@@ -10,4 +10,4 @@ permalink: /people/Paul_McCombs
 excerpt: Master GIS Analyst, King County GIS Center
 ---
 
-Working to share King County data with the public. [King County GIS Center] (http://kingcounty.gov/gis)
+Working to share King County data with the public. [King County GIS Center](http://kingcounty.gov/gis)
