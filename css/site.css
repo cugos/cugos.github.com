@@ -432,6 +432,7 @@ nav {
   -webkit-box-sizing:border-box;
   padding:15px;
   color:#333;
+  max-height: 110px;
 }
 .people-list-date {
   font-weight:900;
