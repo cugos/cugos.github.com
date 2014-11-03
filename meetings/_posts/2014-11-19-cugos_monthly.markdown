@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 ##Loose agenda:
 - **[Harrison Gill](http://aguaclara.cee.cornell.edu/)** - Harrison will give a short presentation on sustainable water treatment in developing countries using open design concept. Engineer team's goal was to create safe drinking water WHO standard with afforable plus low cost operating with zero patents (open source) water treatment plant. Talk covers the origins of the project and design philosophy then delve into some of the technical challenges. [Interactive data visualization](http://map.wash4all.org/)
-- 
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
