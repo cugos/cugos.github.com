@@ -129,7 +129,7 @@
     {
       "type": "Feature",
       "properties": {
-	"First": "Jonny",
+	      "First": "Jonny",
         "Last": "Kemp",
         "IRC": "kempj2",
         "City": "Seattle",
