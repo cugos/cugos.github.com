@@ -129,7 +129,7 @@
     {
       "type": "Feature",
       "properties": {
-	      "First": "Jonny",
+	"First": "Jonny",
         "Last": "Kemp",
         "IRC": "kempj2",
         "City": "Seattle",
@@ -140,6 +140,23 @@
         "coordinates": [
           -122.384248,
           47.666054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	"First": "Josh",
+        "Last": "Jones",
+        "IRC": "",
+        "City": "Seattle",
+        "State": "WA",
+        "ZIP": 98136},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396868,
+          47.530684
         ]
       }
     }
