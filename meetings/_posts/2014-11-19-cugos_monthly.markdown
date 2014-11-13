@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 - Mary Solbrig - Mary will speak on her master's thesis topic, Mathematical Aspect of Gerrymandering. Topic will probably be: Democrats tend to be clumped together in cities, Republicans are more spread out. Does this naturally bias elections towards the Republicans? How would we measure bias if this is true? Relies heavily on work by **[Jowei Chen and Jonathan Rodden](http://www-personal.umich.edu/~jowei/florida.pdf)**
 
+- Jared Erickson and his 3rd grade daughter Claire will talk about Map Cubes.  We will teach you how to create them, where to find them, and how to make them from your custom maps.
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
