@@ -8,5 +8,5 @@ image: https://avatars1.githubusercontent.com/u/637160
 github: cybersea
 twitter: soundgis
 permalink: /people/allison_bailey
-excerpt: Geospatial Consultant, [Sound GIS](http://www.soundgis.com/)
+excerpt: Geospatial Consultant and International Bicycle Traveler
 ---
