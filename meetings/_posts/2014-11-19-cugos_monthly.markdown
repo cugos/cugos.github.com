@@ -57,8 +57,45 @@ An alternative: generate randomized districts and measure the outcome based on h
 
 Question from the audience about how the algorithm that generates random districts affects the outcome. Mary acknowledges it is complicated. Lots of questions from audience.
 
+This is really complicated but it's pretty clear that the measure Marry suggests is more sophisticated by the alternative.
 
+**[Jared Erickson & Claire]()**
+Claire, seven, has always wondered why Jared comes to CUGOS, which he's been doing since 2007.
 
+So he told Claire if she helped with a project she could come. So here they are...
 
+A while back they started making map cubes while Claire's younger sibbling slept. That seemed like a pretty great topic for the CUGOS folks.
+
+Map Cubes are a paper craft that are a lot of fun. Gnomonic Projection shows all great circles as straight lines, which as Claire explains is why Map Cubes work.
+
+You can do a lot of different shapes. You can do pyramids and other shapes. 
+
+The first step is to print it on cardstock.
+
+Then you have to cut them out... Dad says with safety scissors.
+
+You have to fold it
+
+Then you glue it with a glue stick. This is a hard part.
+
+You can also do your own coloring if you use a blank template. They made a Death Star!!!
+
+They wanted to figure out to make their own... Claire found some software from Nasa called g.projector, which makes it possible.
+
+They found an astrogeology website that has extraterrestrial planet data. Claire chose Mercury.
+
+Claire explains you open a file in g.projector and give it a name, then change the lat lon, then change the projection and change the background to white (so you don't waste ink)
+
+Then you save it, change the width and height so you have space for tabs for gluing.
+
+They wrote a groovy script to automatically add the tags. 
+
+They then generated tiles in Tile Mill so they could create custom map styles for their Map Cube, they did this in groovy of course.
+
+Claire likes the Stamen basemaps quite a bit.
+
+This is a great exercise for kids because making maps is fun and you learn about projections, computers, coding, cartography, color ramps and presenting your work.
+
+Jared is going to take Claire for ice cream tomorrow. Best co-presentation ever!
 
 **[Harrison Gill](http://aguaclara.cee.cornell.edu/)**
