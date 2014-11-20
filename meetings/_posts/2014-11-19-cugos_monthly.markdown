@@ -20,6 +20,8 @@ notes: It's the room with the elk in it.
 
 - If there's time and interest [svmatthews](http://github.com/svmatthews) will **force** everybody to edit THIS cugos website and add themselves as a people on the cugos.org/people page. Bring your computer if you're interested!
 
+- [aaronr](http://github.com/aaronr) will give a quick update on the "state of cugos"... i.e. banking etc.
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
