@@ -11,7 +11,7 @@ All of our meeting updates and blog posts are curated through these files. Check
 **Site Development**   
 The site is built on [Jekyll](http://jekyllrb.com/) and [Github Pages](https://pages.github.com/), while the template files, [JavaScript](https://github.com/cugos/cugos.github.com/tree/master/js), and [CSS](https://github.com/cugos/cugos.github.com/blob/master/css/site.css) are all hand-rolled by the members of CUGOS.
 
-If you're interested in helping out with the development of the site, please feel free to fork and edit locally before creating a pull-request. The following steps assume you have [Jekyll 2.0 installed](http://jekyllrb.com/docs/installation/) and running properly on your machine. *Note: If you'd like edit access to this repository to skip the forking and pulling process, send an email to **hello@cugos.org** and we'll get you set up!*
+If you're interested in helping out with the development of the site, please feel free to fork and edit locally before creating a pull-request. The following steps assume you have [Jekyll 2.0 installed](http://jekyllrb.com/docs/installation/) (including jekyll-sitemap, perhaps by: *gem install jekyll-sitemap*) and running properly on your machine. *Note: If you'd like edit access to this repository to skip the forking and pulling process, send an email to **hello@cugos.org** and we'll get you set up!*
 
 1. **[Fork](https://github.com/cugos/cugos.github.com/fork)** this repository into your own working repo
 1. **Clone** your newly created repository into your local machine
