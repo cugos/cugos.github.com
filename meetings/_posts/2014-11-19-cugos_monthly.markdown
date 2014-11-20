@@ -26,4 +26,39 @@ notes: It's the room with the elk in it.
 
 ##NOTES:
 
-Live committed during the meeting! Check out [last meeting's notes](/meetings/2014/10/15/cugos_monthly/).
+- **[aaronr](http://github.com/aaronr)** non-profit/tax status is moving forward.
+
+we switched banks, account details will not be posted here. we have a small coffer to be used for... we need to figure out how to distribute these funds.
+
+going through first iteration of selecting officers in January or February. Aaron will drive process to elect some new people.
+
+
+- **[Mary Solbrig](https://github.com/msolbrig)** Detecting Gerrymandering... Mary did a masters in mathematics, switched around a bit, wound up with a great thesis advisor.
+
+Her advisor sugested that she go for something that people could understand, gerrymandering.
+
+How do you tell if gerrymandering has happend? That's a core question she seeks to answer. 
+
+Gerrymandering is a standard measurement of bias in a voting population. It's in the constitution that representation is geographic. Each congressional district has to be the same number of people.
+
+California has 53, South Dakota has 1. So how you draw the districts has a lot of influence on who actually gets elected.
+
+You can double the number of seats you get by gerrymandering. So if dems have 30% of population they could potentially take 60% of the districts.
+
+You can measure bias by comparing the % of the population that favors one group with the number of seats they actually win. You look at this over time.
+
+It's not that simple though. The distribution of the population has its own patterns that reflect political preference. Does that mean you intentionally gerrymander to make things fair?
+
+This problem is deeply rooted in the fact that districts and represntation are spatial by design.
+
+The naive method is not perfect because geography itself has an influence on districting.
+
+An alternative: generate randomized districts and measure the outcome based on how people in those random districts actually voted. 
+
+Question from the audience about how the algorithm that generates random districts affects the outcome. Mary acknowledges it is complicated. Lots of questions from audience.
+
+
+
+
+
+- **[Harrison Gill](http://aguaclara.cee.cornell.edu/)**
