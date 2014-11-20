@@ -119,7 +119,7 @@ And now, we're going to commit these changes and voila! Russ is on the people pa
 
 Your turn.
 
-**[aaronr](http://github.com/aaronr)**
+**[aaronr](http://github.com/aaronr)** [UAV Talk](http://aaronr.github.io/uw-gisday-2014/#/)
 
 Back on deck, woot woot.
 
@@ -146,4 +146,9 @@ Workflows:
 
 AgiSoft photoscan does the best stitching and point cloud creation but the professional license runs $3,500. Couple that with the fact that you can't fly UAVs for commercial use and the price is prohibitive for hobbyists.
 
+The applications for this type of work are pretty much endless. 
+ 
+[Open Drone Map](http://opendronemap.github.io/odm/) is a project that's focused on taking the backend of visualsfm and running it through its own pipeline on a server so you can break from running this type of thing on your personal computer.
+ 
+Aaron shows a forward looking project done by crschmidt where he 3D printed a dense point cloud he constructed from sfm data. 
  
