@@ -2,8 +2,8 @@
 layout: person
 title: Julie Goldberg
 category: people
-lat: -122.381816
-lng: 47.671254
+lat: 47.671254
+lng: -122.381816
 image: https://avatars2.githubusercontent.com/u/5659674?v=3&s=460
 github: JulieGoldberg
 permalink: /people/julie-goldberg
