@@ -119,4 +119,31 @@ And now, we're going to commit these changes and voila! Russ is on the people pa
 
 Your turn.
 
+**[aaronr](http://github.com/aaronr)**
 
+Back on deck, woot woot.
+
+Aaron is sharing the latest and greatest on his quadcopter, dense point cloud journey.
+
+Aaron got started with UAVs and sfm when David Shean presented on the subject at CUGOS, so think about that right? Lot's of ideas being shared freely around here.
+
+Everything is becoming really cheap and the processing capabilities are becoming so rich. You can do it all yourself from scratch, or you can buy really expensive fancy products, or you can grab cheap ready to fly equipment then hack it.
+
+The lights are out now... SPUGOS!
+
+Picked up a cheap digital camera (cannon so he can hack the firmware) to mount on the quad. He boots into the firmware, hits go and the hacked intervalometer fires an image every few seconds.
+
+He also picked up a flytrex data logger that grabs a gps location every 250ms. You sync your camera and data logger clock and it makes sfm go way faster. The goal is to keep everything under 1000 bucks.
+
+Battery life is a limiting factor. They essentially last for 10 minutes, so you need a lot of them. Switch em out fly back up.
+
+He's adding a gimbal to the setup to control the pitch of the camera from the ground in flight. That way he can capture oblique images to get a more complete image set for processing. This should really increase the quality of point clouds.
+
+Workflows: 
+- panoramic image stitching. There are a few options out there for this work. Ice from microsoft and photoscan.
+- Transform you panoramic image into something you can use for custom web maps. Lots of great FOSS tools in this workflow. Ultimately you create a tile set that is your data, then you can plug it into OSM or leaflet, you name it, you can do it.
+- Structure from motion takes all the images and breaks the images down into distinctive features, then matches those features across images. Once matching is complete you have correlation between different images. The software then interpolates where those matches are in 3D space. Then you have your point cloud.
+
+AgiSoft photoscan does the best stitching and point cloud creation but the professional license runs $3,500. Couple that with the fact that you can't fly UAVs for commercial use and the price is prohibitive for hobbyists.
+
+ 
