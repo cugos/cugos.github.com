@@ -26,14 +26,14 @@ notes: It's the room with the elk in it.
 
 ##NOTES:
 
-- **[aaronr](http://github.com/aaronr)** non-profit/tax status is moving forward.
+**[aaronr](http://github.com/aaronr)** non-profit/tax status is moving forward.
 
 we switched banks, account details will not be posted here. we have a small coffer to be used for... we need to figure out how to distribute these funds.
 
 going through first iteration of selecting officers in January or February. Aaron will drive process to elect some new people.
 
 
-- **[Mary Solbrig](https://github.com/msolbrig)** Detecting Gerrymandering... Mary did a masters in mathematics, switched around a bit, wound up with a great thesis advisor.
+**[Mary Solbrig](https://github.com/msolbrig)** Detecting Gerrymandering... Mary did a masters in mathematics, switched around a bit, wound up with a great thesis advisor.
 
 Her advisor sugested that she go for something that people could understand, gerrymandering.
 
@@ -61,4 +61,4 @@ Question from the audience about how the algorithm that generates random distric
 
 
 
-- **[Harrison Gill](http://aguaclara.cee.cornell.edu/)**
+**[Harrison Gill](http://aguaclara.cee.cornell.edu/)**
