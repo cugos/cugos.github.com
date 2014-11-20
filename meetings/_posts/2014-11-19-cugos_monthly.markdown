@@ -59,7 +59,7 @@ Question from the audience about how the algorithm that generates random distric
 
 This is really complicated but it's pretty clear that the measure Marry suggests is more sophisticated by the alternative.
 
-**[Jared Erickson & Claire](https://github.com/jericks)**
+**[Jared & Claire Erickson](https://github.com/jericks)**
 
 Claire, seven, has always wondered why Jared comes to CUGOS, which he's been doing since 2007.
 
@@ -113,6 +113,10 @@ For first timers, you'll have to make a pull request. Once you've made a few suc
 
 We are adding Russ Frizzell Live during the meeting right now. Sam just copied Peter's content to Russ' file, now we're gonna take Peter out of the equation and throw Russ into it.
 
-Maybe use [bboxfinder](bboxfinder.com) when grabbing your coordinates.
+Maybe use [bboxfinder](http://bboxfinder.com/) when grabbing your coordinates.
+
+And now, we're going to commit these changes and voila! Russ is on the people page.
+
+Your turn.
 
 
