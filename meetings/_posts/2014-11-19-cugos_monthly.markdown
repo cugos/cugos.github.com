@@ -100,3 +100,19 @@ This is a great exercise for kids because making maps is fun and you learn about
 Jared is going to take Claire for ice cream tomorrow. Best co-presentation ever!
 
 **[svmatthews](http://github.com/svmatthews)**
+
+Sam is making a major plug for the CUGOS people page. There has been a lot of activity on that page recently, which is what we like to see.
+
+A random audience member will potentially be added to the website at this point in time.
+
+All of the people are in the people folder and all those  people is a post. Each individual is a single file. 
+
+"Peter's title is his name" meaning name your file after yourself. We recommend using another person's file as a template and filling in your personal information.
+
+For first timers, you'll have to make a pull request. Once you've made a few successful pull requests, we will add you to the repo and you can write.
+
+We are adding Russ Frizzell Live during the meeting right now. Sam just copied Peter's content to Russ' file, now we're gonna take Peter out of the equation and throw Russ into it.
+
+Maybe use [bboxfinder](bboxfinder.com) when grabbing your coordinates.
+
+
