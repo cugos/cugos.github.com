@@ -59,7 +59,8 @@ Question from the audience about how the algorithm that generates random distric
 
 This is really complicated but it's pretty clear that the measure Marry suggests is more sophisticated by the alternative.
 
-**[Jared Erickson & Claire]()**
+**[Jared Erickson & Claire](https://github.com/jericks)**
+
 Claire, seven, has always wondered why Jared comes to CUGOS, which he's been doing since 2007.
 
 So he told Claire if she helped with a project she could come. So here they are...
@@ -98,4 +99,4 @@ This is a great exercise for kids because making maps is fun and you learn about
 
 Jared is going to take Claire for ice cream tomorrow. Best co-presentation ever!
 
-**[Harrison Gill](http://aguaclara.cee.cornell.edu/)**
+**[svmatthews](http://github.com/svmatthews)**
