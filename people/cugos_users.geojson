@@ -158,6 +158,22 @@
           -122.396868,
           47.530684
         ]
+      },
+    {
+      "type": "Feature",
+      "properties": {
+	"First": "David",
+        "Last": "Bitner",
+        "IRC": "bitnerd",
+        "City": "Minneapolis",
+        "State": "MN",
+        "ZIP": 55419},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.275540,
+          44.961545
+        ]
       }
     }
   ]
