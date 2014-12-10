@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: December 19th 2014, 6pm - Anderson Hall, UW
+title: December 17th 2014, 6pm - Anderson Hall, UW
 location: University of Washington
 address: UW Anderson Hall, Forest Club room 207
 time: 6:00pm
