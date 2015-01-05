@@ -15,6 +15,8 @@ notes: It's the room with the elk in it.
 
 - **[JulieGoldberg](https://github.com/JulieGoldberg)** - Julie will give the talk she is prepping for Foss4G-NA.  [Caching is Your Friend - Creating Tons of Maps on the Fly and Auto-Updating Some](https://2015.foss4g-na.org/session/caching-your-friend-creating-tons-maps-fly-and-auto-updating-some)
 
+- **[@hallahan] will be talking about OpenStreetMap integration into OpenDataKit. He is working on creating an Android application that allows the user to tag OpenStreetMap features to ODK survey submissions. This integration is being done as a plugin to ODK Collect and uses the Mapbox Android SDK.
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
