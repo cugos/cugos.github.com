@@ -11,7 +11,7 @@ function init() {
         for (var i = 0; i < p.length; i++) {
           entry = p[i];
           var d = new Date(entry.publishedDate);
-          var month = d.getMonth();
+          var month = d.getMonth() + 1;
           var day = d.getDate();
           var date = month + '/' + day;
           $('#feed').append('<li><a href="'+entry.link+'" target="_blank"><span class="feed-date">'+date+'</span><span class="feed-title">'+entry.title+'</span></a></li>');
