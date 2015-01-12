@@ -17,6 +17,8 @@ notes: It's the room with the elk in it.
 
 - **[@hallahan](https://github.com/hallahan)** will be talking about OpenStreetMap integration into OpenDataKit. He is working on creating an Android application that allows the user to tag OpenStreetMap features to ODK survey submissions. This integration is being done as a plugin to [ODK Collect](https://opendatakit.org/use/collect/), extends the [Mapbox Android SDK](https://www.mapbox.com/mapbox-android-sdk/), and makes use of [JavaTopologySuite](http://www.vividsolutions.com/jts/JTSHome.htm).
 
+- **[@cliffordsnow](https://github.com/cliffordsnow)** will show how Kirkland's building and addresses were converted for import into OpenStreetMap. He will also beg for help importing the data. More infomation about the import can be found on the [OSM wiki.](https://wiki.openstreetmap.org/wiki/Kirkland_Import) 
+
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
