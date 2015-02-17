@@ -17,6 +17,7 @@ notes: It's the room with the elk in it.
 - **[powersa](https://github.com/powersa)** will muse about spatial privacy and attempts to measure it
 - **[seth](https://github.com/mojodna)** will talk about his work modernizing [Field Papers](http://fieldpapers.org) (GitHub)[https://github.com/stamen/fieldpapers] or possibly something else (suggestions welcomed)
 - **[jubal](https://github.com/spatialdev)** nothing remotely technical but will talk through some of our more interesting open source projects.
+- **[keum](https://github.com/keum)** - quick update on realtime cso status viewer and more importantly story of how cugosians' help made this project possible.
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
