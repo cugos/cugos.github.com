@@ -38,3 +38,47 @@ We want to do it in Python (good learning language) and have no dependencies so 
 This will allow us to run SFM processing faster and pin the 3D model to the map.
 
 Hope is to plug this tool into the Open Drone Map project. 
+
+There's a lot left to do! Get involved!
+
+**[@powersa](https://github.com/powersa)** pushed notes to the CUGOS blog
+
+**[@mojodna](https://github.com/mojodna)** goes into chat roulette mode
+
+As public and as open as possible with the data. [openterrain.tumblr.com](openterrain.tumblr.com).
+
+Field papers is a tool that helps you create 1 page atlas that you can scan and upload. through the magic of computer vision, it's geo-referenced and then you can trace it. This project was started in 2009, and now Stamen is working with HotOSM to modernize it.
+
+They are replacing the php application with ruby on rails. They've gotten rid of a ridiculous amount of code so far. It's required some reverse engineering, fortunately there are some great tools out there. They're using opencv to match images. 
+
+They were using a tool called cairo to write out pdf, well these days you can convert your html into a pdf, so that's another short cut that makes it a lot simpler.
+
+This project is heavily used around the world and it's worthwhile. But it needs a community to help maintain it, and it should be translated into a bunch of different languages. Good tool for editing OSM.
+
+Intros are done, we've got a question about the openterrain project. "What's the process to get data in?"
+
+They're starting with the best openly available data (SRTM) from a mission flown back in 2000. A lot of people have worked on filling this data set out. You can access that data here: [http://dwtkns.com/srtm/](http://dwtkns.com/srtm/).
+
+So they get those images and then generate hillshades for each cell. This requires overlapping seams to prevent weird loss of data.
+
+Transform hillshade and DEM into spherical mercator for slippy-map usage.
+
+... and Seth is gone, he's dropping all kinds of deep knowledge about the stack... Basically there are a lot of technical hurdles involved with working with data at this scale. Fortunately most of the problems have been solved by other people, but putting them all together is a challenge. 
+
+[caliparks.org](http://www.caliparks.org/) is a new project out of Stamen that showcases some of what they've been up to (in collaboration with a bunch of people). It's also open source! Check out the project at [github/stamen/parks.stamen.com](https://github.com/stamen/parks.stamen.com).
+
+[@mojodna](https://github.com/mojodna) is full of project ideas, so get in touch if you're looking for something to do.
+
+**[@jubal](https://github.com/spatialdev)** working to merge ODK with openstreetmap. OpenMapKit, started from a Knight Foundation Grant to build out this project. Comes from findings that there is a big gap between ground truth and OSM. This will help close some of those gaps.
+
+[ODK](https://opendatakit.org/) (Open Data Kit) - maintained by UW team
+
+[PyXML](https://pypi.python.org/pypi/PyXML/0.8.4) - takes ODK form from excel and converts to something Android reads
+
+[JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) - handles it on the Android device
+
+[Mapbox Android SDK](https://www.mapbox.com/mapbox-android-sdk/) - folded in parsers into the SDK + fixed some errors
+
+[formhub](https://formhub.org/) - making modifications to aggregation system to handle OSM surveys
+
+Big project that taps into and tweaks a lot of existing work to improve the quality of OSM data in disaster situations.
