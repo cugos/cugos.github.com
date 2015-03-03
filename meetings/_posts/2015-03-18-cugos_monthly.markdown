@@ -16,3 +16,4 @@ notes: It's the room with the elk in it.
 - **[you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 ##NOTES:
+Tune in for live updates during the meeting.
