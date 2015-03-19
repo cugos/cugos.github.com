@@ -42,6 +42,30 @@ People often lose sight of the importance of scaling down.
 
 Managed VMs have combine a lot of the advantages of App Engine and Compute Engine.
 
-Ryan put together a demo app: [Hardiness.club](hardiness.club).
+Ryan put together a demo app: [Hardiness.club](hardiness.club). It's a cool app that let's you hang out with fellow chillers in your USDA zone. It pretty much taps a totally unmet market for USDA zone hangouts.
+
+These Managed VMs look pretty easy to use, they come preloaded with a lot of tools that you don't have to build and it removes a lot from your plate as you manage your app and all that.
+
+
+**[@daan Strebe](http://www.mapthematics.com/Essentials.php)** - Elements of Map Projection Programming
+
+daan is totally switching it up and recycling a previous talk.
+
+At the most basic level all that you need is a black box map projection, a function that you can feed data to that does some math on it and returns data. You need boundary descriptions. Numerical libraries. Scan-line conversion of arbitrary curves - imaging a curve description (how do you convert curves into pixels). Raster projection (where do you put the pixels?).
+
+For each map projection you need the mathematical formula of the projection. You supply a latitude,longitude and get back x,y.
+
+When you talk about the algorithm to express the formulae, you're talking about numeric programming which is actually pretty difficult to get right. The challenge is to get your algorithm to behave consistently across the entire range, actually pretty difficult when dealing with computers. You have to analyze the math to get the algorithm to behave under all the conditions you care about.
+
+Be wary of arbitrary precision packages, they can be very slow and encourage bad habits by misleading you (they don't solve all your challenges).
+
+Map projection boundaries... as I understand it, it's basically where you stop drawing data. On a map there is always an edge.
+
+How do you represent 180 degs west and east on the same map (same line)? You use a small "perturbation" that makes each unique...
+
+Map projections. Spherical coordinate transformation. Scan-conversion of arbitrary curves. Raster projection.
+
+Scan-conversion - convert a mathematical path to pixels. How do you build all this knowledge of interruptions into your programs? You can't easily (and cheaply) approximate with easy curves.
+
 
 Tune in for live updates during the meeting.
