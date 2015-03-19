@@ -67,5 +67,11 @@ Map projections. Spherical coordinate transformation. Scan-conversion of arbitra
 
 Scan-conversion - convert a mathematical path to pixels. How do you build all this knowledge of interruptions into your programs? You can't easily (and cheaply) approximate with easy curves.
 
+Raster projection is the process of taking a rectangular image and transforming it into something else. This area is not well researched. You can be relatively simple about it but you wind up with some really bad artifacts that are suboptimal. Doing it right involves understanding what the distortion is in the source and destination (+ a lot of math) to apply the right techniques to project the raster data.
+
+daan wants to know what we'd like to hear about next, so post questions/topic suggestions.
+
+
+
 
 Tune in for live updates during the meeting.
