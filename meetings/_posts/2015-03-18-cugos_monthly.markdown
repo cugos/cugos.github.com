@@ -49,7 +49,7 @@ These Managed VMs look pretty easy to use, they come preloaded with a lot of too
 
 **[@daan Strebe](http://www.mapthematics.com/Essentials.php)** - Elements of Map Projection Programming
 
-daan is totally switching it up and recycling a previous talk.
+daan is totally switching it up and recycling a previous talk. Disclaimer: if these notes don't track, it's because I got distracted by the maps he shows or couldn't put it in my own language. peace.
 
 At the most basic level all that you need is a black box map projection, a function that you can feed data to that does some math on it and returns data. You need boundary descriptions. Numerical libraries. Scan-line conversion of arbitrary curves - imaging a curve description (how do you convert curves into pixels). Raster projection (where do you put the pixels?).
 
@@ -71,6 +71,15 @@ Raster projection is the process of taking a rectangular image and transforming 
 
 daan wants to know what we'd like to hear about next, so post questions/topic suggestions.
 
+
+**[@aaronr](https://github.com/aaronr)** updated the group on his latest efforts with UAV data capture and SFM. He flew a few flights in Eastern Washington last week and got some great new data sets. Furthermore, these are some of the first data sets with full spatial data thanks to recent developments on [GeoSync](https://github.com/aaronr/geosync).
+
+The results are really great. Check out [Grain Silo](https://sketchfab.com/models/7ff2bf12778c46ac9938d06b4969c5e8) and [Palouse Falls](https://sketchfab.com/models/7ff2bf12778c46ac9938d06b4969c5e8) for the latest and greatest. Also worth checking out this [tweet](https://twitter.com/reprojected/status/575010533843210241) which demonstrates that it's real geo data that can be used in your stack.
+
+
+**[@cugos](https://github.com/cugos)** will host a full day event some Wednesday in May at UW. So far there is interest in making this a project/hack day with potentially some talks sprinkled through out.
+
+Potential projects are quadcopters/Geosync/SFM and adapting [Slide](http://labs.strava.com/slide/) for use with OSM data. If you have other project ideas or suggestions, please get in touch. An email will go out to the full list shortly.
 
 
 
