@@ -1,0 +1,35 @@
+{% include head.html %}
+
+<header class="event-header" style="background-image:url({{ site.baseurl }}/image/2015springfling/{{ page.event_header-image }});">
+  <div class="outer">
+    <div class="inner">
+      <h1 class="event-title">{{ page.title }}</h1>
+      <p class="event-date"><i class="fa fa-calendar"></i>{{ page.event_date }}</p>
+      <a class="event-register-button" target="_blank" href="{{ page.event_register-url }}">Register, it's free!<i class="fa fa-thumbs-o-up"></i></a>
+    </div>
+  </div>
+</header>
+   
+  <div class="container">
+    <div class="main event">
+      <div class="event-content">{{ content }}</div>
+      <h2 class="event-content-title">Schedule</h2>
+      <div class="event-schedule">
+        {% for item in page.event_schedule %}
+          <div class="event-item {{ item.extra_class }}">
+            <h3 class="event-item-title"><span class="event-item-time">{{ item.time }}</span>{{ item.title }}{% if item.extra %}{% endif %}</h3>
+            <p class="event-item-desc">{{ item.description }}</p>
+          </div>
+        {% endfor %}
+      </div>
+      <h2 class="event-content-title">Sponsors</h2>
+      <div class="event-sponsors">
+        {% for sponsor in page.event_sponsors %}
+          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}"></a>
+        {% endfor %}
+      </div>
+      <p>Interested in sponsoring or helping out? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for more information.</p>
+    </div>
+  </div>
+
+{% include footer.html %}

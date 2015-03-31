@@ -1,0 +1,51 @@
+---
+layout: event
+title: 2015 Spring Fling
+event_date: May 20th, 2015
+event_time: 9:00am - 4:00pm
+event_location: University of Washington, Anderson Hall
+event_header-image: header_cascadia.png
+event_register-url: http://eventbrite.com/
+event_schedule:
+  -
+    time: 9:00 AM
+    title: Kickoff
+    description: This is a thing with some things.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 9:15 AM
+    title: Talk by Aaron Racicot
+    description: About CUGOS, about drone mapping, about brewing beer.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 9:45 AM
+    title: Open Source and what it means for you by ___________
+    description: Sometimes you build things. Sometimes they build things. But everytime, we build things.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 11:00 AM
+    title: Hack proposals.
+    description: Propose the hacks.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 12:00 PM
+    title: Lunch
+    description: Think about the hacks.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+    extra_class: break
+  -
+    time: 12:30 PM
+    title: Hack.
+    description: Do the hacks.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+event_sponsors:
+  -
+    image: sponsor-uw.png
+    link: http://www.washington.edu/
+---
+
+The CUGOS Spring Fling is a **full day events centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, academic research brain dumps, parsing vertices while drinking beer, code as well as content, usability as well as design, then show up and eat free pizza. Join us for this special all-day-kinda event at the magical University of Washington Seattle Campus in place of our regular monthly meeting. BOOYA!
+
+## Location
+
+We'll be having our event at Anderson Hall, on the University of Washington campus.
