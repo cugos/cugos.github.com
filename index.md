@@ -4,7 +4,7 @@ title: Home
 extra_js:
   - https://www.google.com/jsapi
   - /js/home.js
-alert_text: "Spring Fling scheduled for May 13th! Learn more"
+alert_text: "The Spring Fling is upon us! Learn more"
 alert_url: /2015-spring-fling
 ---
 

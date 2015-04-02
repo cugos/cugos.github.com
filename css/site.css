@@ -691,6 +691,30 @@ nav {
   background-color:#333;
   color:#f6f6f6;
 }
+.alert.event {
+  font-family: 'Dosis', sans-serif;
+  font-weight:100;
+  font-size:1.4em;
+  letter-spacing:.15em;
+  padding:2em;
+  text-transform:uppercase;
+  background:#333;
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover;
+}
+.alert.event .fa {
+  -webkit-transition: .3s;
+     -moz-transition: .3s;
+      -ms-transition: .3s;
+       -o-transition: .3s;
+          transition: .3s;
+  margin-left:15px;
+}
+.alert.event:hover .fa {
+  margin-left:25px;
+}
 
 /* FOOTER */
 footer p {
