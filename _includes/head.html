@@ -54,8 +54,8 @@
       <div class="container">
         <button id="nav-expand"><i class="fa fa-bars"></i></button>
         <ul id="nav">
-          {% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
-          <li{% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
+          {% for weight in (0..10) %}{% for p in site.pages %}{% if p.weight == weight %}
+          <li class="{% if p.url == page.url %}active{% endif %} {{ p.nav_class }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
           {% endif %}{% endfor %}{% endfor %}
         </ul>
       <a id="brand-logo" href="/">CUGOS {% include cugos-svg-logo.html %}</a>
