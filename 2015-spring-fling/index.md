@@ -7,7 +7,7 @@ event_date: May 13th, 2015
 event_time: 9:00am - 4:00pm
 lat: 47.651737
 lng: -122.307540
-event_location: University of Washington, Anderson Hall
+event_location: Anderson Hall, University of Washington, Seattle WA
 event_header-image: header_cascadia.png
 event_register-url: http://www.eventbrite.com/e/cugos-spring-fling-2015-tickets-16426769911
 event_schedule:
