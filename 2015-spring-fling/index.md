@@ -14,22 +14,12 @@ event_schedule:
   -
     time: 9:00 AM
     title: Kickoff
-    description: This is a thing with some things.
+    description: We open the geo-floodgates.
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
   -
     time: 9:15 AM
-    title: Talk by Aaron Racicot
-    description: About CUGOS, about drone mapping, about brewing beer.
-    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
-  -
-    time: 9:45 AM
-    title: Open Source and what it means for you by ___________
-    description: Sometimes you build things. Sometimes they build things. But everytime, we build things.
-    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
-  -
-    time: 11:00 AM
-    title: Hack proposals.
-    description: Propose the hacks.
+    title: Activities TBD
+    description: What we do will be determined by you leading up to and on the day of the event. So far, CUGOSians have expressed interest in a combination of talks and hands on, collaborative projects. Stay tuned or make a proposal!
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
   -
     time: 12:00 PM
@@ -39,8 +29,13 @@ event_schedule:
     extra_class: break
   -
     time: 12:30 PM
-    title: Hack.
-    description: Do the hacks.
+    title: Advance Geo
+    description: Exploring, learning, BUILDING
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 6:00 PM
+    title: Happy Hour
+    description: Let's celebrate an invigorating day with food and drink in Seattle's historic U-District
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
 event_sponsors:
   -
