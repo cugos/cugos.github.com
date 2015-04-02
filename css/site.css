@@ -178,7 +178,7 @@ nav {
 #nav li.active a {
   font-weight:900;
 }
-#nav li.event a {
+/*#nav li.event a {
   font-weight:900;
   background:#346085;
 }
@@ -186,7 +186,7 @@ nav {
   content:"\f0a1";
   font-family:FontAwesome;
   margin-right:10px;
-}
+}*/
 
 #brand-logo {
   position:absolute;

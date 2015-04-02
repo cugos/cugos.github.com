@@ -1,7 +1,5 @@
 ---
 layout: event
-weight: 0
-nav_class: event
 title: 2015 Spring Fling
 event_date: May 13th, 2015
 event_time: 9:00am - 4:00pm
