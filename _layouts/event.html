@@ -57,6 +57,7 @@ var mbox = L.icon({
   iconSize:     [30, 70],
   iconAnchor:   [15, 35]
 });
+map.scrollWheelZoom.disable();
 var marker = L.marker([lat, lng], {
   icon: mbox
 }).addTo(map);
