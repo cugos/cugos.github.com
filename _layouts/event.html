@@ -1,4 +1,17 @@
-{% include head.html %}
+---
+layout: default
+extra_js:
+  - /js/maps/leaflet.js
+  - /js/meeting.js
+extra_css:
+  - /css/maps/leaflet.css
+  - /css/maps/leaflet.ie.css
+---
+
+<script>
+  var lat = {{ page.lat }};
+  var lng = {{ page.lng }};
+</script>
 
 <header class="event-header" style="background-image:url({{ site.baseurl }}/image/2015springfling/{{ page.event_header-image }});">
   <div class="outer">
@@ -13,6 +26,8 @@
   <div class="container">
     <div class="main event">
       <div class="event-content">{{ content }}</div>
+      <h2 class="event-content-title">Location</h2>
+      <div id="event-map"></div>
       <h2 class="event-content-title">Schedule</h2>
       <div class="event-schedule">
         {% for item in page.event_schedule %}
@@ -31,5 +46,18 @@
       <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
     </div>
   </div>
+
+<script>
+var map = L.map('event-map').setView([lat, lng], 13);
+L.tileLayer('https://{s}.tiles.mapbox.com/v3/cugos.jolef8gc/{z}/{x}/{y}.png').addTo(map);
+var mbox = L.icon({
+  iconUrl: '/js/maps/img/marker.png',
+  iconSize:     [30, 70],
+  iconAnchor:   [15, 35]
+});
+var marker = L.marker([lat, lng], {
+  icon: mbox
+}).addTo(map);
+</script>
 
 {% include footer.html %}
