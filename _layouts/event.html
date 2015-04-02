@@ -29,6 +29,7 @@ extra_css:
       <div class="event-content">{{ content }}</div>
       <h2 class="event-content-title">Location</h2>
       <div id="event-map"></div>
+      <div class="event-content">{{ page.event_location }}</div>
       <h2 class="event-content-title">Schedule</h2>
       <div class="event-schedule">
         {% for item in page.event_schedule %}
