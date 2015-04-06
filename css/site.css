@@ -178,15 +178,6 @@ nav {
 #nav li.active a {
   font-weight:900;
 }
-/*#nav li.event a {
-  font-weight:900;
-  background:#346085;
-}
-#nav li.event a:before {
-  content:"\f0a1";
-  font-family:FontAwesome;
-  margin-right:10px;
-}*/
 
 #brand-logo {
   position:absolute;
@@ -596,6 +587,16 @@ nav {
   -o-background-size: cover;
   background-size: cover;
 }
+.event-header-credits {
+  position:absolute;
+  right:10px;
+  bottom:5px;
+  color:#fff;
+  text-transform:uppercase;
+  font-size:.8em;
+}
+.event-header-credits a { color:#fff; }
+.event-header-credits a:hover { text-decoration:underline; }
 .event-header .outer {
   background-color:rgba(0,0,0,0.45);
 }
