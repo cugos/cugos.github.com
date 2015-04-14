@@ -16,18 +16,48 @@ event_schedule:
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
   -
     time: 9:15 AM
-    title: Activities TBD
-    description: What we do will be determined by you leading up to and on the day of the event. So far, CUGOSians have expressed interest in a combination of talks and hands on, collaborative projects. Stay tuned or make a proposal!
+    title: Talk One
+    description: 20 minute presentation with padding
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
   -
-    time: 12:00 PM
+    time: 9:40 AM
+    title: Talk Two
+    description: 20 minute presentation with padding
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 10:05 AM
+    title: Talk Three
+    description: 20 minute presentation with padding
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 10:30 AM
+    title: Lightning Talks
+    description: 4 to 5 people will have 5-10 minutes to talk about a topic of their choice.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 11:30 AM
+    title: Session 1
+    description: We'll break into groups.
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 12:15 PM
     title: Lunch
-    description: Think about the hacks.
+    description: Eat some complimentary pizza sponsored by our sponsors
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
     extra_class: break
   -
-    time: 12:30 PM
-    title: Advance Geo
+    time: 1:00 PM
+    title: Session 2
+    description: Exploring, learning, BUILDING
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 2:00 PM
+    title: Session 3
+    description: Exploring, learning, BUILDING
+    extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
+  -
+    time: 5:00 PM
+    title: Wrap-Up
     description: Exploring, learning, BUILDING
     extra: "http://www.codeforamerica.org/media/images/people/ben-golder.jpg"
   -
