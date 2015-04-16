@@ -17,6 +17,7 @@ Loose agenda:
 - **[@powersa](https://github.com/powersa)** - will provide an update on the [Spring Fling](http://cugos.org/2015-spring-fling/), seek feedback/input on the proposed schedule, suggest ways to get invovled and shoot fictional t-shirts from an imaginary cannon.
 - **[Jacques Tardie](https://twitter.com/jqtrde)** - On building **Snapsat**, a webapp that lets anyone create fullsize custom Landsat band composites in their browser. It's pretty sweet.
 - **[Fred Lott](https://github.com/flott)** - will talk about vertical datums, working with [VERTCON](http://www.ngs.noaa.gov/TOOLS/Vertcon/vertcon.html), and making a [webmap interface](https://github.com/flott/vertcon-web) for elevation adjustments.
+- **[Jay Feng](https://racketracer.wordpress.com/author/racketracer/)** talks about his [project](https://racketracer.wordpress.com/2015/03/02/predicting-and-plotting-crime-in-seattle/) analyzing and mapping crime across the city of Seattle.
 - **[@you!](http://github.com/cugos/cugos.github.com)** - we encourage anybody and everybody to participate and speak about geo-related projects they're working on or interested in.
 
 Notes:
