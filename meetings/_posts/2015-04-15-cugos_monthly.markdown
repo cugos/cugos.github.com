@@ -40,5 +40,12 @@ Ways to help:
 
 --------------------------------------------
 
-[Jacques Tardie](https://twitter.com/jqtrde) is now talking about [Snapsat](http://snapsat.org/).  A lot of cool projects involve Landsat data.  Last month Amazon started hosting Landsat8 data on s3. 
+[Jacques Tardie](https://twitter.com/jqtrde) is now talking about [Snapsat](http://snapsat.org/).  A lot of cool projects involve Landsat data.  Last month Amazon started hosting Landsat8 data on S3. 
+
+Enter Snapsat: An easy way to make a Landsat combination image/dataset. 
+Snapsat process:
+  1. Choose the location. Use the slippy map or do a text search.
+  2. Chose what you want to make.
+  3. Click a button
+  4. See you cool new image.
 
