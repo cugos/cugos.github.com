@@ -46,6 +46,8 @@ Enter Snapsat: An easy way to make a Landsat combination image/dataset.
 Snapsat process:
   1. Choose the location. Use the slippy map or do a text search.
   2. Chose what you want to make.
-  3. Click a button
+  3. Click a button.
   4. See your cool new image.
 
+Use Snapsat to create near infrared images. 
+Jacques is doing a pretty impressive live demo right now. Ooohs and Ahhsss all around.
