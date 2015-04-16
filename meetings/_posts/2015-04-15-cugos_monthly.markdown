@@ -38,4 +38,7 @@ Ways to help:
   * Spread the word. Tell your friends. Tell your Grandma!
   
 
-[Jacques Tardie](https://twitter.com/jqtrde) is now talking about [Snapsat](http://snapsat.org/).  
+--------------------------------------------
+
+[Jacques Tardie](https://twitter.com/jqtrde) is now talking about [Snapsat](http://snapsat.org/).  A lot of cool projects involve Landsat data.  Last month Amazon started hosting Landsat8 data on s3. 
+
