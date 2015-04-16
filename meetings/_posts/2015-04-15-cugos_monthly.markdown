@@ -52,6 +52,10 @@ Snapsat process:
 Use Snapsat to create near infrared images. 
 Jacques is doing a pretty impressive live demo right now. Ooohs and Ahhhs all around.  If you want to volunteer on the project, Jacques will buy you a beer or coffee.
 
-Also, checkout [Landsat-util](https://github.com/developmentseed/landsat-util), a sweet tool from MapBox.
+Also, checkout [Landsat-util](https://github.com/developmentseed/landsat-util), a sweet tool from MapBox. 
+
+Fred Lott is up next
+
+----------------------------------
 
  
