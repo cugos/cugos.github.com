@@ -72,8 +72,12 @@ Fred's goal: use [GDAL](gdal.org) to do these conversions for him...and he has a
 
 -----------------------------------
 
-Special guest, Jay is up now! Jay is a student at the University of Washington.  He's been looking at crime data in Seattle. Data is from https://data.seattle.gov/ . Apparently, the Super Bowl is the crimiest time of the year.  Traffic crimes top the list for number of occurences, false alarms are pretty high too.
+Special guest, Jay is up now! Jay is a student at the University of Washington.  He's been looking at crime data in Seattle. Check out his [project](https://racketracer.wordpress.com/2015/03/02/predicting-and-plotting-crime-in-seattle/). Data is from https://data.seattle.gov/ . Apparently, the Super Bowl is the crimiest time of the year.  Traffic crimes top the list for number of occurences, false alarms are pretty high too.
 
 Normalizing and filtering the data is difficult. 
  
 The Seattle neighborhoods of Sandpoint and Leschi have the most false alarms.
+
+After initial exploration, Jay moved into predicting urgent crime. He classified types of crime by urgency level and started to map those out and unique patterns emerged. Can we predict when calls will result in higher urgency than the original call.
+
+Overall, very compelling investigation of crime in Seattle. The next step is to add more attributes to the data set for analysis.
