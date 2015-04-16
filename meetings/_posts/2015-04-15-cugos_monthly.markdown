@@ -37,3 +37,5 @@ Ways to help:
   * Send feedback to hello@cugos.org
   * Spread the word. Tell your friends. Tell your Grandma!
   
+
+[Jacques Tardie](https://twitter.com/jqtrde) is now talking about [Snapsat](http://snapsat.org/).  
