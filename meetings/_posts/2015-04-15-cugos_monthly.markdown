@@ -66,6 +66,8 @@ The 1983 vertical datum is a reference datum that is based on the earth geoid, r
 
 VERTCON allows you to convert between the NAVD 88 datum, and the NGVD 29 Datum...the executable doesn't run on any windows computer after XP. Luckily they gave us the fortran source code and a basic website for converting these values. Go team! 
 
-The City of Auburn still uses NGVD 29. This makes Fred unhappy. 
+The City of Auburn, WA still uses NGVD 29. This makes Fred unhappy. 
+
+Fred's goal: use [GDAL](gdal.org) to do these conversions for him...and he has a prototype!
 
  
