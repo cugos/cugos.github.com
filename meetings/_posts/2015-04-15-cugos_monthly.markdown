@@ -58,4 +58,8 @@ Fred Lott is up next
 
 ----------------------------------
 
+Fred is now talking about vertical datums. [This](https://twitter.com/foundatron/status/588521507279622144) is what it's like to be Fred.
+
+History Lesson: The National Geodetic Vertical Datum of 1929 use to be called the "Mean Sea Level Datum"...but that was a lie so they changed the name in the 70's. The more you know.
+
  
