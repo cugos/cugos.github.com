@@ -64,6 +64,8 @@ History Lesson: The National Geodetic Vertical Datum of 1929 use to be called th
 
 The 1983 vertical datum is a reference datum that is based on the earth geoid, rather than sea level. This datum uses a single reference point in quebec. A very stable place that is unlikely to move because of crust activity. Cool stuff. Datum was updated in 1988.
 
-VERTCON allows you to convert between the NAVD 88 datum, and the NGVD 29 Datum...the executable doesn't run on any windows computer after XP. Luckily they gave us the fortran source code and a basic website for converting these values. Go team!
+VERTCON allows you to convert between the NAVD 88 datum, and the NGVD 29 Datum...the executable doesn't run on any windows computer after XP. Luckily they gave us the fortran source code and a basic website for converting these values. Go team! 
+
+The City of Auburn still uses NGVD 29. This makes Fred unhappy. 
 
  
