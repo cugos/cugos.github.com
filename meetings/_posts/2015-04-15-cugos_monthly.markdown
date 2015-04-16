@@ -23,3 +23,6 @@ Notes:
 ======
 
 Tune in for live updates during the meeting.
+
+[@powersa](https://github.com/powersa) is presenting from [this presentation](https://powersa.github.io/spring-fling-2015-plan/#/2)
+
