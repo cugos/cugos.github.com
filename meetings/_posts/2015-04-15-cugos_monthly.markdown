@@ -70,4 +70,8 @@ The City of Auburn, WA still uses NGVD 29. This makes Fred unhappy.
 
 Fred's goal: use [GDAL](gdal.org) to do these conversions for him...and he has a prototype! 
 
+-----------------------------------
+
+Special guest, Jay is up now!
+
  
