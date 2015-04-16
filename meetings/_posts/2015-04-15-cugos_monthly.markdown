@@ -72,6 +72,6 @@ Fred's goal: use [GDAL](gdal.org) to do these conversions for him...and he has a
 
 -----------------------------------
 
-Special guest, Jay is up now!
+Special guest, Jay is up now! Jay is a student at the University of Washington.  He's been looking at crime data in Seattle.
 
  
