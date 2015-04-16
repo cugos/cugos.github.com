@@ -72,7 +72,8 @@ Fred's goal: use [GDAL](gdal.org) to do these conversions for him...and he has a
 
 -----------------------------------
 
-Special guest, Jay is up now! Jay is a student at the University of Washington.  He's been looking at crime data in Seattle. Apparently, the Super Bowl is the crimiest time of the year.  Traffic crimes top the list for number of occurences, false alarms are pretty high too.
+Special guest, Jay is up now! Jay is a student at the University of Washington.  He's been looking at crime data in Seattle. Data is from https://data.seattle.gov/ . Apparently, the Super Bowl is the crimiest time of the year.  Traffic crimes top the list for number of occurences, false alarms are pretty high too.
 
-Normalizing and filtering the data is difficult.
+Normalizing and filtering the data is difficult. 
  
+The Seattle neighborhoods of Sandpoint and Leschi have the most false alarms.
