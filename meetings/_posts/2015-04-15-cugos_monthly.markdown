@@ -62,6 +62,8 @@ Fred is now talking about vertical datums. [This](https://twitter.com/foundatron
 
 History Lesson: The National Geodetic Vertical Datum of 1929 use to be called the "Mean Sea Level Datum"...but that was a lie so they changed the name in the 70's. The more you know. Since 1929, people started thinking that we should start using something other than sea level for zero level. 
 
-The 1983 vertical datum is a reference datum that is based on the earth geoid, rather than sea level. This datum uses a single reference point in quebec. A very stable place that is unlikely to move because of crust activity. Cool stuff.
+The 1983 vertical datum is a reference datum that is based on the earth geoid, rather than sea level. This datum uses a single reference point in quebec. A very stable place that is unlikely to move because of crust activity. Cool stuff. Datum was updated in 1988.
+
+VERTCON allows you to convert between the NAVD 88 datum, and the NGVD 29 Datum...the executable doesn't run on any windows computer after XP. Luckily they gave us the fortran source code and a basic website for converting these values. Go team!
 
  
