@@ -60,6 +60,8 @@ Fred Lott is up next
 
 Fred is now talking about vertical datums. [This](https://twitter.com/foundatron/status/588521507279622144) is what it's like to be Fred.
 
-History Lesson: The National Geodetic Vertical Datum of 1929 use to be called the "Mean Sea Level Datum"...but that was a lie so they changed the name in the 70's. The more you know.
+History Lesson: The National Geodetic Vertical Datum of 1929 use to be called the "Mean Sea Level Datum"...but that was a lie so they changed the name in the 70's. The more you know. Since 1929, people started thinking that we should start using something other than sea level for zero level. 
+
+The 1983 vertical datum is a reference datum that is based on the earth geoid, rather than sea level. This datum uses a single reference point in quebec. A very stable place that is unlikely to move because of crust activity. Cool stuff.
 
  
