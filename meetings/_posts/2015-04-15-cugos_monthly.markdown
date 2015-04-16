@@ -30,3 +30,10 @@ Tune in for live updates during the meeting.
   * Web Cartography with MapBox Studio, an application that lets you design maptiles with an easy to use desktop app.
   * QGIS for desktop GIS and cartography.
 
+Ways to help:
+
+  * Find a sponser
+  * Volunteer
+  * Send feedback to hello@cugos.org
+  * Spread the word. Tell your friends. Tell your Grandma!
+  
