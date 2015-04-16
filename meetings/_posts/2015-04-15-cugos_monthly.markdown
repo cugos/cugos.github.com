@@ -24,5 +24,7 @@ Notes:
 
 Tune in for live updates during the meeting.
 
-[@powersa](https://github.com/powersa) is presenting from [this presentation](https://powersa.github.io/spring-fling-2015-plan/#/2)
+[@powersa](https://github.com/powersa) is presenting from [this presentation](https://powersa.github.io/spring-fling-2015-plan/#/2). Goal for Spring Fling is to have something for everyone. Schedule right now is detailed on the [Spring Fling site](http://cugos.org/2015-spring-fling/).  Proposed tracks are:
+
+  * Drop-N-Chop: A javascript based project for working on geoprocessing in the browser. project page is [here](https://github.com/cugos/drop-n-chop).
 
