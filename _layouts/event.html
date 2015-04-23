@@ -41,10 +41,20 @@ extra_css:
           </div>
         {% endfor %}
       </div>
-      <h2 class="event-content-title">Sponsors</h2>
       <div class="event-sponsors">
-        {% for sponsor in page.event_sponsors %}
-          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}"></a>
+        <h4 class="sponsor-level-title"><i class="fa fa-bookmark text-gold push-right"></i>Gold Sponsors</h4>
+        {% for sponsor in page.event_sponsors_gold %}
+          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
+        {% endfor %}
+
+        <h4 class="sponsor-level-title"><i class="fa fa-bookmark text-silver push-right"></i>Silver Sponsors</h4>
+        {% for sponsor in page.event_sponsors_silver %}
+          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
+        {% endfor %}
+
+        <h4 class="sponsor-level-title"><i class="fa fa-bookmark text-bronze push-right"></i>Bronze Sponsors</h4>
+        {% for sponsor in page.event_sponsors_bronze %}
+          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
         {% endfor %}
       </div>
       <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>

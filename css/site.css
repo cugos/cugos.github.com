@@ -135,6 +135,14 @@ strong { font-weight:900; }
   }
 }
 
+/* HELPERS */
+.text-gold { color: #FFD700; }
+.text-silver { color: #c0c0c0; }
+.text-bronze { color: #cd7f32; }
+
+.push-right { margin-right: .5em; }
+.push-left { margin-left: .5em; }
+
 
 /* NAVIGATION */
 nav {
@@ -680,10 +688,24 @@ nav {
   margin-left:90px;
 }
 
+.sponsor-level-title {
+  text-transform: uppercase;
+  font-size:1.2em;
+  padding:.2em;
+  margin-top:3em;
+}
 .event-sponsor {
-  max-width:200px;
   height:auto;
-  display:inline-block;
+  display:block;
+  margin:1em auto;
+}
+@media screen and (min-width:56em) {
+  .event-sponsor {
+    display:inline-block;
+    vertical-align:middle;
+    margin:0 1em 0 0;
+    height:auto;
+  }
 }
 
 /* ALERTS */
