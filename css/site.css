@@ -668,12 +668,30 @@ nav {
   padding:1em;
   background-color:#f6f6f6;
   border-bottom:1px solid #c0c0c0;
+  float:left;
+  width:100%;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 .event-item * {
   margin:0;
 }
 .event-item.break {
   background-color:#e5e5e5;
+}
+.event-item.border {
+  border-bottom:5px solid #3f75a2;
+}
+.event-item.right {
+  border-right:1px solid #c0c0c0;
+}
+@media screen and (min-width:56em) {
+  .event-item.track {
+    height:215px;
+    width:50%;
+    margin-bottom:1px;
+  }
 }
 .event-item-title {
   color:#3f75a2;

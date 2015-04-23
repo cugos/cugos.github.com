@@ -37,15 +37,21 @@ event_schedule:
     time: 12:15 PM
     title: Lunch
     description: Eat some complimentary pizza sponsored by our sponsors
-    extra_class: break
+    extra_class: break border
   -
     time: 1:00 PM
-    title: Session 2
-    description: Exploring, learning, BUILDING
+    title: Tracks!
+    description: We will have two tracks in the afternoon that present opportunities to work on some open source geo projects. Make sure to bring your computer.
   -
-    time: 2:00 PM
-    title: Session 3
-    description: Exploring, learning, BUILDING
+    time: Track 1
+    title: Drop 'n Chop
+    description: Drop 'n Chop (DNC) is a browser-based GIS powered by Leaflet.js and Turf.js - and a recent hot project in the CUGOS world. This track will involve diving deep into javascript, working on data-first GIS operations, and writing better, more concise GIS language for an application.
+    extra_class: track border right
+  -
+    time: Track 2
+    title: QGIS Workshop
+    description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to use the QGIS plugin architecture properly to amplify your GIS computing powers.
+    extra_class: track border
   -
     time: 5:00 PM
     title: Wrap-Up
