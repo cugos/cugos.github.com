@@ -15,28 +15,20 @@ event_schedule:
     description: We open the geo-floodgates.
   -
     time: 9:15 AM
-    title: Talk One
-    description: 20 minute presentation with padding
-  -
-    time: 9:40 AM
-    title: Talk Two
-    description: 20 minute presentation with padding
-  -
-    time: 10:05 AM
-    title: Talk Three
-    description: 20 minute presentation with padding
+    title: Longer Talks
+    description: 3 to 4 people will have 20 minutes to present a topic of their choice.
   -
     time: 10:30 AM
-    title: Lightning Talks
-    description: 4 to 5 people will have 5-10 minutes to talk about a topic of their choice.
+    title: Coffee Break
+    extra_class: break
   -
-    time: 11:30 AM
-    title: Session 1
-    description: We'll break into groups.
+    time: 10:45 AM
+    title: Lightning Talks
+    description: 5 to 6 people will have 5-10 minutes to talk about a topic of their choice.
   -
     time: 12:15 PM
     title: Lunch
-    description: Eat some complimentary pizza sponsored by our sponsors
+    description: Eat some complimentary pizza provided by our glorious sponsors
     extra_class: break border
   -
     time: 1:00 PM
@@ -50,7 +42,7 @@ event_schedule:
   -
     time: Track 2
     title: QGIS Workshop
-    description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to use the QGIS plugin architecture properly to amplify your GIS computing powers.
+    description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to make beautiful cartographic outputs with this dynamic tool.
     extra_class: track border
   -
     time: 5:00 PM
