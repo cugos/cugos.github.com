@@ -65,6 +65,10 @@ event_sponsors_gold:
     image: sponsor-pointinside.png
     width: 200px
     link: http://www.pointinside.com
+  -
+    image: sponsor-amazon.png
+    width: 200px
+    link: http://www.amazon.com
 event_sponsors_silver:
   -
     image: sponsor-soundgis.gif
