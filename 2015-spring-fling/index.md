@@ -71,7 +71,7 @@ event_sponsors_gold:
     link: http://www.amazon.com
 event_sponsors_silver:
   -
-    image: sponsor-soundgis.gif
+    image: sponsor-soundgis.png
     width: 150px
     link: http://www.soundgis.com/
   -
