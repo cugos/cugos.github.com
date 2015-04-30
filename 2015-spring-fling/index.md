@@ -69,6 +69,10 @@ event_sponsors_gold:
     image: sponsor-amazon.png
     width: 127px
     link: http://www.amazon.com
+  -
+    image: sponsor-codeforamerica.png
+    width: 200px
+    link: http://www.codeforamerica.org
 event_sponsors_silver:
   -
     image: sponsor-soundgis.png
