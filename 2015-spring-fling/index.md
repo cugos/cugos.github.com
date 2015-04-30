@@ -67,7 +67,7 @@ event_sponsors_gold:
     link: http://www.pointinside.com
   -
     image: sponsor-amazon.png
-    width: 127px
+    width: 200px
     link: http://www.amazon.com
   -
     image: sponsor-codeforamerica.png
@@ -82,6 +82,10 @@ event_sponsors_silver:
     image: sponsor-terragis.png
     width: 300px
     link: http://www.terragis.net/
+  -
+    image: sponsor-stamen.png
+    width: 200px
+    link: http://stamen.com/
 event_sponsors_bronze:
   -
     image: sponsor-broadstreetmaps.png
