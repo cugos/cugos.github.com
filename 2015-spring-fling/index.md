@@ -8,50 +8,102 @@ lng: -122.307540
 event_location: Anderson Hall, University of Washington, Seattle WA
 event_header-image: header_cascadia.jpg
 event_register-url: http://www.eventbrite.com/e/cugos-spring-fling-2015-tickets-16426769911
-event_schedule:
+schedule:
   -
-    time: 9:00 AM
-    title: Kickoff
+    type: time
+    title: 9:00 AM | Kickoff
     description: We open the geo-floodgates.
   -
-    time: 9:15 AM
-    title: Longer Talks
+    type: time
+    title: 9:15 AM | Longer Talks
     description: 3 to 4 people will have 20 minutes to present a topic of their choice.
   -
-    time: 10:30 AM
-    title: Coffee Break
-    extra_class: break
+    type: talk half
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
   -
-    time: 10:45 AM
-    title: Lightning Talks
+    type: talk half
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: talk half
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: talk half
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: time
+    title: 10:45 AM | Lightening Talks
     description: 5 to 6 people will have 5-10 minutes to talk about a topic of their choice.
   -
-    time: 12:15 PM
-    title: Lunch
-    description: Eat some complimentary pizza provided by our glorious sponsors
-    extra_class: break border
+    type: talk third
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
   -
-    time: 1:00 PM
-    title: Tracks!
+    type: talk third
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: talk third
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: talk third
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: talk third
+    title: This is a talk title
+    name: Someone
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    link: http://mapsam.com
+  -
+    type: time
+    title: 12:15 PM | Lunch!
+    description: Eat some complimentary pizza provided by our glorious sponsors.
+  -
+    type: time
+    title: 1:00 PM | Tracks
     description: We will have two tracks in the afternoon that present opportunities to work on some open source geo projects. Make sure to bring your computer.
   -
-    time: Track 1
+    type: talk track half
     title: Drop 'n Chop
+    name: Sam Matthews, Greg Corradini, Aaron Racicot, Andrew Powers
     description: Drop 'n Chop (DNC) is a browser-based GIS powered by Leaflet.js and Turf.js - and a recent hot project in the CUGOS world. This track will involve diving deep into javascript, working on data-first GIS operations, and writing better, more concise GIS language for an application.
-    extra_class: track border right
+    link: http://mapsam.com
   -
-    time: Track 2
+    type: talk track half
     title: QGIS Workshop
+    name: Someone
     description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to make beautiful cartographic outputs with this dynamic tool.
-    extra_class: track border
+    link: http://mapsam.com
   -
-    time: 5:00 PM
-    title: Wrap-Up
-    description: Exploring, learning, BUILDING
+    type: time
+    title: 5:00 PM | Wrap-Up
+    description: We'll talk about what we built throughout the day. And prepare ourselves for song and drink.
   -
-    time: 6:00 PM
-    title: Happy Hour
+    type: time
+    title: 6:00 PM | Happy Hour!
     description: Let's celebrate an invigorating day with food and drink in Seattle's historic U-District
+
 event_sponsors_gold:
   -
     image: sponsor-google.png

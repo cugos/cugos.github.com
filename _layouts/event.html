@@ -32,15 +32,20 @@ extra_css:
       <h2 class="event-content-title">Location</h2>
       <div id="event-map"></div>
       <div class="event-content">{{ page.event_location }}</div>
+      
       <h2 class="event-content-title">Schedule</h2>
-      <div class="event-schedule cf">
-        {% for item in page.event_schedule %}
-          <div class="event-item {{ item.extra_class }}">
-            <h3 class="event-item-title"><span class="event-item-time">{{ item.time }}</span>{{ item.title }}{% if item.extra %}{% endif %}</h3>
-            <p class="event-item-desc">{{ item.description }}</p>
-          </div>
+      <div class="schedule cf">
+        {% for item in page.schedule %}
+        <div class="schedule-block {{ item.type }}">
+          <h3 class="schedule-block-title">{{ item.title }}</h3>
+          {% if item.name %}
+          <p class="schedule-block-name">{{ item.name }}</p>
+          {% endif %}
+          <p class="schedule-block-description">{{ item.description }}</p>
+        </div>
         {% endfor %}
       </div>
+
       <div class="event-sponsors">
         <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-gold push-right"></i>Gold Sponsors</h4>
         {% for sponsor in page.event_sponsors_gold %}
