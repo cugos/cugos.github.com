@@ -86,6 +86,10 @@ event_sponsors_silver:
     image: sponsor-stamen.png
     width: 200px
     link: http://stamen.com/
+  -
+    image: sponsor-coregis.png
+    width: 175px
+    link: http://coregis.net/
 event_sponsors_bronze:
   -
     image: sponsor-broadstreetmaps.png
