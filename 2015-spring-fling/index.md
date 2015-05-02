@@ -44,7 +44,7 @@ schedule:
   -
     type: talk third
     title: SnapSat
-    name: The Team, <a href="http://snapsat.org">SnapSat</a>
+    name: The <a href="http://snapsat.org">SnapSat</a> Team
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   -
     type: talk third
@@ -83,12 +83,12 @@ schedule:
     type: talk track half
     title: Drop 'n Chop
     name: Sam Matthews, Greg Corradini, Aaron Racicot, Andrew Powers
-    description: Drop 'n Chop (DNC) is a browser-based GIS powered by Leaflet.js and Turf.js - and a recent hot project in the CUGOS world. This track will involve diving deep into javascript, working on data-first GIS operations, and writing better, more concise GIS language for an application.
+    description: <a href="http://github.com/cugos/drop-n-chop">Drop 'n Chop</a> (DNC) is a browser-based GIS powered by Leaflet.js and Turf.js - and a recent hot project in the CUGOS world. This track will involve diving deep into javascript, working on data-first GIS operations, and writing better, more concise GIS language for an application.
   -
     type: talk track half
     title: QGIS Workshop
     name: Someone
-    description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to make beautiful cartographic outputs with this dynamic tool.
+    description: <a href="http://qgis.org/">QGIS</a> is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to make beautiful cartographic outputs with this dynamic tool.
   -
     type: time
     title: 5:00 PM | Wrap-Up
