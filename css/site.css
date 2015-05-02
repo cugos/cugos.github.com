@@ -671,6 +671,9 @@ nav {
   border-right:1px solid #e5e5e5;
   border-bottom:1px solid #e5e5e5;
 }
+.schedule-block a {
+  color:#75a23f;
+}
 .schedule-block.time {
   padding: 10px;
   background:#3f75a2;
@@ -681,7 +684,7 @@ nav {
   background-color:white;
 }
 .schedule-block-title,
-.schedule-block-title,
+.schedule-block-name,
 .schedule-block-description {
   padding:0;
   margin:0;
@@ -689,10 +692,9 @@ nav {
 .schedule-block-title {}
 .schedule-block.time .schedule-block-title {}
 .schedule-block-name {
-  padding:0;
-  margin:0;
   text-transform:uppercase;
   font-size:.8em;
+  margin-bottom:.5em;
 }
 .schedule-block-description {
   font-size:.9em;
@@ -711,7 +713,7 @@ nav {
   }
   .schedule-block.talk.third {
     width:33.33333333%;
-    height:175px;
+    height:180px;
   }
 }
 

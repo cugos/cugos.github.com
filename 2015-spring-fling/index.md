@@ -19,62 +19,58 @@ schedule:
     description: 3 to 4 people will have 20 minutes to present a topic of their choice.
   -
     type: talk half
-    title: This is a talk title
-    name: Someone
+    title: OSM Vector Tiles 
+    name: Mark Korver, Amazon
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: talk half
-    title: This is a talk title
-    name: Someone
+    title: TALK TITLE
+    name: Anna Clements & Isable Shaw, <a href="http://broadstreetmaps.org">Broad Street Maps</a>
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: talk half
-    title: This is a talk title
-    name: Someone
+    title: Open Data & OpenStreetMap
+    name: Seth Fitzsimmons, <a href="http://stamen.com/">Stamen</a>
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: talk half
-    title: This is a talk title
-    name: Someone
+    title: TALK TITLE
+    name: Britta Ricker, University of Washington–Tacoma
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: time
     title: 10:45 AM | Lightening Talks
     description: 5 to 6 people will have 5-10 minutes to talk about a topic of their choice.
   -
     type: talk third
-    title: This is a talk title
-    name: Someone
+    title: SnapSat
+    name: The Team, <a href="http://snapsat.org">SnapSat</a>
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
+  -
+    type: talk third
+    title: TALK TITLE
+    name: Cort Daniel
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  -
+    type: talk third
+    title: OSM Export/Import
+    name: Eldan Goldenberg
+    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   -
     type: talk third
     title: This is a talk title
-    name: Someone
+    name: Chase Stephens
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: talk third
     title: This is a talk title
-    name: Someone
+    name: Jeff Gerard
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: talk third
     title: This is a talk title
-    name: Someone
+    name: Aaron Racicot
     description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
-  -
-    type: talk third
-    title: This is a talk title
-    name: Someone
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    link: http://mapsam.com
   -
     type: time
     title: 12:15 PM | Lunch!
@@ -88,13 +84,11 @@ schedule:
     title: Drop 'n Chop
     name: Sam Matthews, Greg Corradini, Aaron Racicot, Andrew Powers
     description: Drop 'n Chop (DNC) is a browser-based GIS powered by Leaflet.js and Turf.js - and a recent hot project in the CUGOS world. This track will involve diving deep into javascript, working on data-first GIS operations, and writing better, more concise GIS language for an application.
-    link: http://mapsam.com
   -
     type: talk track half
     title: QGIS Workshop
     name: Someone
     description: QGIS is the open source GIS editor that you'll come to love after this track. We will cover installation, standard operations, more advanced examples, and how to make beautiful cartographic outputs with this dynamic tool.
-    link: http://mapsam.com
   -
     type: time
     title: 5:00 PM | Wrap-Up
