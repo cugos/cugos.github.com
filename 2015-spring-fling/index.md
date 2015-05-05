@@ -29,9 +29,9 @@ schedule:
     description: "As geographers, Broad Street Maps seeks to answer the question: why do things happen where they happen? Maps provide the necessary context and layered analysis to make sense of often incomprehensible data. By combining spatial data with existing health information and using dynamic maps to power analysis, organizations can..."
   -
     type: talk half
-    title: Trail Assist
+    title: How can open data save the world?
     name: Seth Fitzsimmons, <a href="http://stamen.com/">Stamen</a>
-    description: How do we fill in the map? Seth will talk about his experience building <a href="http://caliparks.org">caliparks.org</a> using a wide variety of data sources. He'll discuss the challenges, and benefits, of making maps with Agency and Citizen Data.
+    description: Seth will outline the challenges and opportunities inherent in a world where open data is everywhere. He will also show off tools and approaches that allow us to participate in addressing and taking advantage of these, ultimately helping to make the world a better place.  Concrete examples will include HOT, the Raspberry Pi, and the Washington Trails Association.
   -
     type: talk half
     title: Harnessing Drone Enthusiasm for Citizen Science Initiatives
