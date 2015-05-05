@@ -36,7 +36,7 @@ schedule:
     type: talk half
     title: Harnessing Drone Enthusiasm for Citizen Science Initiatives
     name: Britta Ricker, <a href="http://www.tacoma.uw.edu/">University of Washington–Tacoma</a>
-    description: Unmanned Aircraft Vehicles (UAV) or drones are becoming increasingly accessible to the general public for recreational purposes due to their diminishing costs and improved ease of use. Additionally, there is great enthusiasm and excitement around fly drones primarily for aerial cinematography...
+    description: Unmanned Aircraft Vehicles (UAV) or drones are becoming increasingly accessible to the general public for recreational purposes due to their diminishing costs and improved ease of use. Additionally, there is great enthusiasm and excitement around fly drones primarily for aerial cinematography<a href="https://gist.github.com/powersa/539eed80751353d8408d#harnessing-drone-enthusiasm-for-citizen-science-initiatives">...</a>
   -
     type: time
     title: 10:45 AM | Lightening Talks
@@ -55,12 +55,12 @@ schedule:
     type: talk third
     title: Tools to Import/Export OpenStreetMap Data
     name: Eldan Goldenberg
-    description: Eldan has made some tools to simplify hosting a copy of OpenStreetMap data for a region, keeping it up to date and exporting data as needed...
+    description: Eldan has made some tools to simplify hosting a copy of OpenStreetMap data for a region, keeping it up to date and exporting data as needed<a href="https://gist.github.com/powersa/539eed80751353d8408d#simple-tools-to-import-and-export-openstreetmap-data">...</a>
   -
     type: talk third
     title: "xray: N-Dimensional Labeled Raster Datasets in Python"
     name: Jeff Gerard, <a href="http://www.climate.com/">Climate Corp</a>
-    description: xray is an open source Python package that brings the labeled data power of Pandas to the physical sciences and spatial analysis, by providing N-dimensional variants of...
+    description: xray is an open source Python package that brings the labeled data power of Pandas to the physical sciences and spatial analysis, by providing N-dimensional variants of<a href="https://gist.github.com/powersa/539eed80751353d8408d#xray-n-dimensional-labeled-raster-datasets-in-python">...</a>
   -
     type: talk third
     title: Open Drone Preserve
