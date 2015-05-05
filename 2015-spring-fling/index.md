@@ -131,6 +131,10 @@ event_sponsors_silver:
     image: sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
+  -
+    image: sponsor-cartodb.png
+    width: 250px
+    link: https://cartodb.com/
 event_sponsors_bronze:
   -
     image: sponsor-broadstreetmaps.png
