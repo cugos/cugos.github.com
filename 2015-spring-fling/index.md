@@ -65,7 +65,7 @@ schedule:
     type: talk third
     title: Open Drone Preserve
     name: Aaron Racicot, <a href="http://z-pulley.com/">Z-Pulley</a>
-    description: Ever considered the true nature of your drone? Aaron will talk about recent efforts to establish a wilderness preserve where he rehabilitates domesticated drones before releasing htem into the wild...
+    description: Ever considered the true nature of your drone? Aaron will talk about recent efforts to establish a wilderness preserve where he rehabilitates domesticated drones before releasing them into the wild...
   -
     type: time
     title: 12:15 PM | Lunch!
