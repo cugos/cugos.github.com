@@ -39,7 +39,7 @@ schedule:
     description: Unmanned Aircraft Vehicles (UAV) or drones are becoming increasingly accessible to the general public for recreational purposes due to their diminishing costs and improved ease of use. Additionally, there is great enthusiasm and excitement around fly drones primarily for aerial cinematography<a href="https://gist.github.com/powersa/539eed80751353d8408d#harnessing-drone-enthusiasm-for-citizen-science-initiatives">...</a>
   -
     type: time
-    title: 10:45 AM | Lightening Talks
+    title: 10:45 AM | Lightning Talks
     description: 5-10 minute talks that electrify
   -
     type: talk third
