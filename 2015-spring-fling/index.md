@@ -50,7 +50,7 @@ schedule:
     type: talk third
     title: A Brief History of GIS Data Dissemination at Pierce County
     name: Cort Daniel, Pierce County GIS
-    description: Once upon a time Pierce County disseminated GIS data on a custom basis. The process used a lot of paper. Over the  years much of the paper needed was reduced, but as of April 2015<a href="https://gist.github.com/powersa/539eed80751353d8408d#a-brief-history-of-gis-data-dissemination-at-pierce-county---abridged">...</a> 
+    description: Once upon a time Pierce County disseminated GIS data on a custom basis. The process used a lot of paper. Over the  years much of the paper needed was reduced, but as of April 2015<a href="https://gist.github.com/powersa/539eed80751353d8408d#a-brief-history-of-gis-data-dissemination-at-pierce-county---abridged">...</a>
   -
     type: talk third
     title: Tools to Import/Export OpenStreetMap Data
@@ -119,6 +119,10 @@ event_sponsors_gold:
     image: sponsor-codeforamerica.png
     width: 200px
     link: http://www.codeforamerica.org
+  -
+    image: sponsor-mapbox.png
+    width: 150px
+    link: https://www.mapbox.com/
 event_sponsors_silver:
   -
     image: sponsor-soundgis.png
