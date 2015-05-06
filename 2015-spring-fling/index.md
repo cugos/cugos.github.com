@@ -67,6 +67,11 @@ schedule:
     name: Aaron Racicot, <a href="http://z-pulley.com/">Z-Pulley</a>
     description: Ever considered the true nature of your drone? Aaron will talk about recent efforts to establish a wilderness preserve where he rehabilitates domesticated drones before releasing them into the wild...
   -
+    type: talk third
+    title: OSM for the Busy Map Enthusiast
+    name: Chase Stephens
+    description: Chase will talk about different tools used to contribute to OpenStreetMap, from easy to more advanced, and an app he made to help keep Seattle data from getting stale.
+  -
     type: time
     title: 12:15 PM | Lunch!
     description: Eat some complimentary pizza provided by our glorious sponsors.
