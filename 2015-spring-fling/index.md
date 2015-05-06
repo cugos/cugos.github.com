@@ -48,9 +48,9 @@ schedule:
     description: SnapSat removes barriers of entry for LandSat imagery. Select a data, a scene, customize your bands and preview all within the web browser. With a few more clicks, you've got rocking raster data.
   -
     type: talk third
-    title: A Brief History of GIS Data Distribution at Pierce County WA
+    title: A Brief History of GIS Data Dissemination at Pierce County
     name: Cort Daniel, Pierce County GIS
-    description: Ever wonder how public sector organization manage vast troves of GIS Data? Cort provides the historical scoop on how it's done at Pierce County GIS.
+    description: Once upon a time Pierce County disseminated GIS data on a custom basis. The process used a lot of paper. Over the  years much of the paper needed was reduced, but as of April 2015<a href="https://gist.github.com/powersa/539eed80751353d8408d#a-brief-history-of-gis-data-dissemination-at-pierce-county---abridged">...</a> 
   -
     type: talk third
     title: Tools to Import/Export OpenStreetMap Data
