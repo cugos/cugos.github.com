@@ -24,9 +24,9 @@ schedule:
     description: Mark will talk about recent open data initiatives at AWS. He will show us how to plug Mapserver/GDAL or Geoserver into TBs of data on S3 and run auto scaling group of WMTS servers. We might even get to hear about a project with Mapzen to host OSM vector tiles on S3, another open-data project.
   -
     type: talk half
-    title: Map Analytics for Health
-    name: Anna Clements & Isable Shaw, <a href="http://broadstreetmaps.org">Broad Street Maps</a>
-    description: "As geographers, Broad Street Maps seeks to answer the question: why do things happen where they happen? Maps provide the necessary context and layered analysis to make sense of often incomprehensible data. By combining spatial data with existing health information and using dynamic maps to power analysis, organizations can..."
+    title: "Mapping for Health: Opportunities and Obstacles in Open Source"
+    name: Anna Clements & Isabel Shaw, <a href="http://broadstreetmaps.org">Broad Street Maps</a>
+    description: In the developing world, physical access to health care can be the number one factor in the utilization of services, and consequently, the health of a population. At Broad Street Maps, we believe that where you live shouldn't determine if you live. Anna and Isabel will give a brief overview<a href="https://gist.github.com/powersa/539eed80751353d8408d#mapping-for-health-opportunities-and-obstacles-in-open-source">...</a>
   -
     type: talk half
     title: How can open data save the world?
