@@ -1,10 +1,10 @@
 ---
 layout: meeting
-title: May 13, 2015, 9am - 5 - Anderson Hall, UW
+title: May 13, 2015, 9am-5pm - Anderson Hall, UW
 location: University of Washington
 address: UW Anderson Hall, Forest Club room 207
-time: 6:00pm
-excerpt: May 13th CUGOS Spring Fling
+time: 9:00am
+excerpt: 2015 CUGOS Spring Fling
 lat: 47.651737
 lng: -122.307540
 category: meetings
