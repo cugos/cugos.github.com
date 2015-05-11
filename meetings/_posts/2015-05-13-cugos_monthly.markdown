@@ -22,7 +22,7 @@ Water tight agenda:
 
 See the detailed Spring Fling schedule here:
 
-[http://cugos.org/2015-spring-fling/]
+**[The Fling Page](http://cugos.org/2015-spring-fling/)**
 
 
 Notes:
