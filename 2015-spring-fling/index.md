@@ -118,7 +118,7 @@ event_sponsors_gold:
   -
     image: sponsor-amazon.png
     width: 200px
-    link: http://www.amazon.com
+    link: http://aws.amazon.com/
   -
     image: sponsor-codeforamerica.png
     width: 200px
