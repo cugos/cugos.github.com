@@ -127,6 +127,10 @@ event_sponsors_gold:
     image: sponsor-mapbox.png
     width: 150px
     link: https://www.mapbox.com/
+  -
+    image: sponsor-inrix.png
+    width: 250px
+    link: http://inrix.com/
 event_sponsors_silver:
   -
     image: sponsor-soundgis.png
