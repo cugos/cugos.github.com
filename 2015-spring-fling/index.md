@@ -67,9 +67,9 @@ schedule:
     description: xray is an open source Python package that brings the labeled data power of Pandas to the physical sciences and spatial analysis, by providing N-dimensional variants of<a href="https://gist.github.com/powersa/539eed80751353d8408d#xray-n-dimensional-labeled-raster-datasets-in-python">...</a>
   -
     type: talk third
-    title: Open Drone Preserve
+    title: CLI FU
     name: Aaron Racicot, <a href="http://z-pulley.com/">Z-Pulley</a>
-    description: Ever considered the true nature of your drone? Aaron will talk about recent efforts to establish a wilderness preserve where he rehabilitates domesticated drones before releasing them into the wild...
+    description: 10 hard hitting minutes of my go-to command line tips and tricks.  Heavy leaning toward linux/osx and not for those afraid of example after example from a text file.  75% getting around the CLI and making your work day more productive... and 25% some geo tricks you might not ever have seen. Get ready for some "piping" good fun.
   -
     type: talk third
     title: OSM for the Busy Map Enthusiast
