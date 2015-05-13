@@ -69,7 +69,7 @@ schedule:
     type: talk third
     title: CLI FU
     name: Aaron Racicot, <a href="http://z-pulley.com/">Z-Pulley</a>
-    description: 10 hard hitting minutes of my go-to command line tips and tricks.  Heavy leaning toward linux/osx and not for those afraid of example after example from a text file.  75% getting around the CLI and making your work day more productive... and 25% some geo tricks you might not ever have seen. Get ready for some "piping" good fun.
+    description: 10 hard hitting minutes of my go-to command line tips and tricks.  Heavy leaning toward linux/osx. 75% getting around the CLI and making your work day more productive... and 25% geo tricks. Get ready for some "piping" good fun.
   -
     type: talk third
     title: OSM for the Busy Map Enthusiast
