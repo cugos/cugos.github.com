@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Dane Springmeyer
 category: people
 lng: -120.18608

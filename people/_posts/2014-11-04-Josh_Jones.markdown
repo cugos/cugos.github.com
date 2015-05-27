@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Josh Jones
 category: people
 lng: -122.396868

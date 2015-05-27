@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Luke Bergmann
 category: people
 lng: -122.30719417333603

@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Matt Stevenson
 category: people
 lng: -122.363169

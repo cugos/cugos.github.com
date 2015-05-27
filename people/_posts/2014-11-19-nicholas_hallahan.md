@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Nicholas Hallahan
 category: people
 lng: -122.351453

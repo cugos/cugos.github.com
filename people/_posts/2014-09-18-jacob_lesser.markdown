@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Jacob Lesser
 category: people
 lng: -122.485789

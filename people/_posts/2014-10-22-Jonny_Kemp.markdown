@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Jonny Kemp
 category: people
 lng: -122.331933
