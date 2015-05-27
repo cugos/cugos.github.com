@@ -7,7 +7,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
+    <!-- Le Scripts -->
+    <script src="{{site.baseurl}}/static/jquery/jquery-1.11.0.min.js"></script>
+    <script src="{{site.baseurl}}/static/mapbox/mapbox.js"></script>
     {% for js_name in page.extra_js %}
     <script src="{{ js_name }}"></script>
     {% endfor %}
@@ -19,11 +21,11 @@
     {% for css_name in page.extra_css %}
     <link rel="stylesheet" href="{{ css_name }}">
     {% endfor %}
-    <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/static/mapbox/mapbox.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/static/css/syntax.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/static/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/static/css/site.css" />
 
-    <!-- link href="../assets/css/bootstrap-responsive.css" rel="stylesheet" --!>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
         <script src="../assets/js/html5shiv.js"></script>
