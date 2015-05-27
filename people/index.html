@@ -4,66 +4,41 @@ title: People
 weight: 6
 permalink: 
 extra_css:
-  - /css/font-awesome.min.css
+  - /static/css/font-awesome.min.css
 extra_js:
-  - /js/people.js
+  - /static/js/people.js
 ---
 
 <div id="people-map"></div>
 
 <h2>People</h2>
 <script>
-// var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
-//                   (min--moz-device-pixel-ratio: 1.5),\
-//                   (-o-min-device-pixel-ratio: 3/2),\
-//                   (min-resolution: 1.5dppx)";
-
-// var provider = 'http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png';
-
-// function getParameterByName(name) {
-//   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-//   var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-//       results = regex.exec(location.search);
-//   return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-// }
-
-// if (getParameterByName("retina") ||
-//     window.devicePixelRatio > 1 ||
-//     (window.matchMedia && window.matchMedia(mediaQuery).matches)) {
-//   // replace the last "." with "@2x."
-//   provider = provider.replace(/\.(?!.*\.)/, "@2x.")
-// }
-
-var map = L.map('people-map').setView([47.923704717745686, -122.420654296875], 6);
-L.tileLayer('https://{s}.tiles.mapbox.com/v3/cugos.jphcb71d/{z}/{x}/{y}.png', {
-  detectRetina: true,
-  maxZoom: 13
-}).addTo(map);
-markers = new L.featureGroup();
+var peopleGeoJson = {
+  "type": "FeatureCollection",
+  "features": [
+    {% for person in site.categories.people %}
+    {
+      "type": "Feature",
+      "properties": {
+        'title': '{{ person.title }}',
+        'marker-color': '#BE9A6B',
+        'marker-symbol': 'star'
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          {{ person.lng }},
+          {{ person.lat }}
+        ]
+      }
+    },{% endfor %}
+  ]
+};
 </script>
 <div class="content">
   <ul id="people-list" class="cf">
   {% for person in site.categories.people %}
     <li class="person" id="{{ person.github }}">
-      <script>
-      var lat = {{ person.lat }};
-      var lng = {{ person.lng }};
-      var mbox = L.icon({
-        iconUrl: '/js/maps/img/marker-icon.png',
-        iconRetinaUrl: '/js/maps/img/marker-icon-2x.png',
-        iconSize:     [25, 41],
-        iconAnchor:   [12.5, 41],
-        popupAnchor:  [0, -41]
-      });
-      var marker = L.marker([lat, lng], {
-        icon: mbox
-      }).bindPopup('<p><strong>{{ person.title }}</strong></p><p>{{ person.excerpt }}</p>');
-      if(lat==0 && lng==0) {
-        // don't add the marker if at 0,0
-      } else {
-        markers.addLayer(marker);  
-      }
-      </script>
       <img src="{{ person.image }}">
       <div class="people-list-info">
         <h3>{{ person.title }}</h3>
@@ -83,7 +58,3 @@ markers = new L.featureGroup();
   {% endfor %}
   </ul>
 </div>
-<script>
-markers.addTo(map);
-map.fitBounds(markers.getBounds());
-</script>

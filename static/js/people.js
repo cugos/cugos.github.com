@@ -9,4 +9,11 @@ $(document).ready(function(){
       $('#thebigspoon img').attr('src', '/image/paco.png');
     }
   });
+
+  L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
+  var map = L.mapbox.map('people-map')
+    .setView([40, -74.50], 9);
+  var fl = L.mapbox.featureLayer();
+  fl.setGeoJSON(peopleGeoJson);
+  map.fitBounds(fl.getBounds());
 });

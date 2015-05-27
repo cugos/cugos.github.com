@@ -19,14 +19,7 @@
       <p>If you're interested in speaking at CUGOS, feel free to drop us an email at <em>hello@cugos.org</em> or find us on IRC - <strong>freenode</strong> network, <strong>#cugos</strong> channel.</p>
     </div>
     
-
-
-    <!-- show the next meeting -->
-    {% for meeting in site.categories.meetings limit: 1  %}
-    <a class="alert" href={{ meeting.url }}>
-      Next CUGOS meeting: <span class="alert-meeting-title">{{ meeting.title }}</span></a>
-    </a>
-    {% endfor %}
+    {% include next-meeting.html %}
 
     <h2>All Meetings</h2>
     <ul id="meetings-list" class="cf">

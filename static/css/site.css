@@ -1,6 +1,9 @@
-/* CUGOS CSS */
 @import url(http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Nunito:400,700,300);
+@import url(/static/css/font-awesome.min.css);
+@import url(/static/css/syntax.css);
+
+/* CUGOS CSS */
 body {
   margin:0;padding:0;
   background-color: #e5e5e5;
@@ -64,7 +67,7 @@ strong { font-weight:900; }
 }
 .page-header {
   width:100%;
-  background:url(../image/cascades2.jpg) center center no-repeat;
+  background:url(/image/cascades2.jpg) center center no-repeat;
   background-size:cover;
   text-align:center;
   color:#fff;
@@ -366,7 +369,7 @@ nav {
 
 /* SINGLE MEETINGS */
 .page-header.meeting {
-  background-image:url(../image/header-from-above.png);
+  background-image:url(/image/header-from-above.png);
 }
 .meeting-info {
   background-color:#fff;
