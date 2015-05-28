@@ -11,9 +11,9 @@ $(document).ready(function(){
   });
 
   L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
-  var map = L.mapbox.map('people-map')
+  var map = L.mapbox.map('people-map', 'cugos.jphcb71d')
     .setView([40, -74.50], 9);
   var fl = L.mapbox.featureLayer();
-  fl.setGeoJSON(peopleGeoJson);
+  fl.setGeoJSON(peopleGeoJson).addTo(map);
   map.fitBounds(fl.getBounds());
 });
