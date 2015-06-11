@@ -9,11 +9,7 @@
     </div>
   </header>
 
-  {% for meeting in site.categories.meetings limit: 1  %}
-  <a class="alert" href={{ meeting.url }}>
-    Next CUGOS meeting: <span class="alert-meeting-title">{{ meeting.title }}</span></a>
-  </a>
-  {% endfor %}
+  {% include next-meeting.html %}
 
   <div class="chunk intro">
     <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
