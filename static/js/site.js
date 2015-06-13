@@ -46,10 +46,17 @@ $(document).ready(function(){
 });
 
 function buildMapMarker(elem) {
-  var coordinates = [elem.getAttribute('data-longitude'), elem.getAttribute('data-latitude')];
-  var map = L.mapbox.map(elem.id).setView(coordinates, 10);
+  L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
+  var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
+  var map = L.mapbox.map(elem.id, 'cugos.ma6ck6l4').setView(coordinates, 14);
   if (!elem.getAttribute('data-scrollZoom')) map.scrollWheelZoom.disable();
-  var marker = L.marker(coordinates).addTo(map);
+  var marker = L.marker(coordinates, {
+    icon: L.mapbox.marker.icon({
+      'marker-size': 'large',
+      'marker-symbol': 'building',
+      'marker-color': '#3f75a2'
+    })
+  }).addTo(map);
   if (elem.getAttribute('data-popup')) marker.bindPopup(elem.getAttribute('data-popup'));
   maps.push(map);
 }
