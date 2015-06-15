@@ -115,9 +115,7 @@ strong { font-weight:900; }
 }
 .content a {
   color:#75a23f;
-}
-.content a:hover {
-  border-bottom:1px solid #999;
+  font-weight:900;
 }
 .content img {
   max-width:100%;
@@ -435,95 +433,40 @@ nav {
 #people-map {
   height:400px;
   width:100%;
+  margin-bottom:1em;
   background-color:#c0c0c0;
 }
-.meetings-desc {
-  display: block;
+.person {
+  position:relative;
+  display:inline-block;
+  width:160px;
+  height:160px;
+  background-color:#c0c0c0;
+  background-size: cover;
+  background-position: center center;
+  margin:6px;
 }
-#people-list {
-  margin:0;padding:0;
-  list-style-type: none;
+.tooltip {
+  position: absolute;
+  top: -32px;
+  /*bottom:-140px;*/
+  width: 140px;
+  padding: 5px 10px;
+  color: white;
+  background: rgba(0,0,0,0.8);
+  border-radius: 2px;
+  font-size: .7em;
+  text-align: center;
 }
-#people-list li {
-  background-color:#fff;
-  margin-bottom:15px;
-  height:auto;
-  font-size:.9em;
-}
-#people-list li img {
-  float:left;
-  margin-right:15px;
-  width:120px;
-  height:120px;
-}
-.people-list-info {
-  box-sizing:border-box;
-  -moz-box-sizing:border-box;
-  -webkit-box-sizing:border-box;
-  padding:15px;
-  color:#333;
-  max-height: 110px;
-}
-.people-list-date {
-  font-weight:900;
-}
-.people-list-address {
-  font-size:.9em;
-  color:#c0c0c0;
-}
-.person-description {
-  display:none;
-}
-.people-list-info h3,
-.people-list-info p {
-  margin:0;
-}
-.people-list-info .social {
-  font-size:.8em;
-  font-weight:100;
-  color:#999;
-  text-decoration:none;
-  display:block;
-}
-.social:hover {
-  text-decoration:underline;
-  border-bottom:none !important;
-}
-@media screen and (min-width:56em) {
-  #people-list li {
-    float:left;
-    width:46%;
-    position:relative;
-  }
-  #people-list li.person:nth-child(2n) {
-    float:right;
-  }
-  #people-list li:hover {
-    background-color:#333;
-  }
-  #people-list li:hover .people-list-info {
-    color:#fff;
-  }
-  .people-list-info {
-    padding:0px 15px;
-  }
-  .people-list-info h3 {
-    margin-top:10px;
-  }
-  .person-description {
-    position:absolute;
-    top:100%;
-    background-color:#f6f6f6;
-    z-index: 100;
-    padding:15px;
-    margin-left:-15px;
-  }
-  .person-description p {
-    margin:10px 0;
-  }
-  #people-list li:hover .person-description {
-    display:inline-block;
-  }
+.tooltip:after {
+  content: " ";
+  position: absolute;
+  left: 50%;
+  bottom: -6px;
+  margin-left: -6px;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid rgba(0,0,0,0.8);
 }
 
 /* BLOG REEL */

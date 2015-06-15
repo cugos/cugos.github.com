@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Matt Dunbar
 category: people
 lng: -122.307706

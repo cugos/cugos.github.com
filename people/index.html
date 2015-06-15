@@ -2,16 +2,10 @@
 layout: default
 title: People
 weight: 6
-permalink: 
-extra_css:
-  - /static/css/font-awesome.min.css
 extra_js:
   - /static/js/people.js
 ---
 
-<div id="people-map"></div>
-
-<h2>People</h2>
 <script>
 var peopleGeoJson = {
   "type": "FeatureCollection",
@@ -35,26 +29,11 @@ var peopleGeoJson = {
   ]
 };
 </script>
-<div class="content">
-  <ul id="people-list" class="cf">
+
+<div id="people-map"></div>
+
+<div id="people-list" class="cf">
   {% for person in site.categories.people %}
-    <li class="person" id="{{ person.github }}">
-      <img src="{{ person.image }}">
-      <div class="people-list-info">
-        <h3>{{ person.title }}</h3>
-        <p>{{ person.excerpt }}</p>
-        {% if person.twitter %}
-        <a class="social" href="http://twitter.com/{{ person.twitter }}"><i class="fa fa-twitter"></i> {{ person.twitter }}</a>
-        {% endif %}
-        {% if person.github %}
-        <a class="social" href="http://github.com/{{ person.github }}"><i class="fa fa-github"></i> {{ person.github }}</a>
-        {% endif %}
-      </div>
-      {% if person.content.size > 1 %}
-      <div class="person-description">{{ person.content }}</div>
-      {% endif %}
-      <div class="cf"></div>
-    </li>
+  <a href="https://github.com/{{ person.github }}" class="person" data-title="{{ person.title }}" id="{{ person.github }}" style="background-image:url({{ person.image }});"></a>
   {% endfor %}
-  </ul>
 </div>

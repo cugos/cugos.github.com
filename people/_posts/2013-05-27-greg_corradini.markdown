@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Greg ( BangBang ) Corradini
 category: people
 lng: -122.35233306884764

@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Matt Kenny
 category: people
 lat: 47.649666

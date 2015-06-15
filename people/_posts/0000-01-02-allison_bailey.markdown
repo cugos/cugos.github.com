@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Allison Bailey
 category: people
 lng: -122.29718

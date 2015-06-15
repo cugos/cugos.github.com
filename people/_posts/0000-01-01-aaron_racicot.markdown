@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Aaron Racicot
 category: people
 lng: -122.44211196899414

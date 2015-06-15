@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Derek Huling
 category: people
 lng: -122.486582 

@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Russ Frizzell
 category: people
 lng: -122.316558

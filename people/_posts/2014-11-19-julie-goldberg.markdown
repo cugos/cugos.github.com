@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Julie Goldberg
 category: people
 lat: 47.671254
