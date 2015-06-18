@@ -29,7 +29,7 @@ It was a very professional conference. The best State of the Map that you could 
 
 Videos from the conference are at their [website](www.stateofthemap.us).
 
-Sam Matthews took really good notes at the event see them here:
+Sam Matthews took really good notes at the event see them here: [MapSam] (http://mapsam.com/posts/sotm2015/)
 
 Isabel focused on how maps can help community health organizations. There was a lot of representation from government bodies. There was a lot of focus on humanitarian and disaster response space. Not a lot in the development and health space. The Global Development Lab was really exciting to hear about. Their job is geo-analysis for development programming. Quality and completeness of data is a challenge across the board. Let's work to solve that. Wherever the conference is next year, you can volunteer and go for free. Which is amazing. There are a lot resources for first time contributors (mapgive.gov). The Red Cross + Spatial Dev are building Open Map Kit, which lowers barriers to contributions from the field. Really exciting way to engage/fill in the map.
 
