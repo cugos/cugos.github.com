@@ -54,3 +54,8 @@ Measuring value of place by distance traveled to get there. Travel cost modeling
 ---------------------------------------------------
 
 **[@kellydunn](https://github.com/kellydunn)**
+
+Kelly wrote golang-geo, a tool kit for processing geographic points. Geographic functions in Go. Transposing Points, Haversine, bearing delta between points, midpoints between points. Uses a lot of the logic from moveable type. He also added functionality to query for points within a radius in a SQL database. Geocoding is supported in the library. The library also does polygon math. It has a healthy contributor base. Health Near Me uses the tool to power parts of their service. Shelter Connect connects people looking for shelters and soup kitchens find services.
+Some big changes coming in the next couple of months. Indexing interfaces - RTrees, NoSQL and in memory stores. Moving on from the wild wild west of Go.
+
+Kelly didn't wrap any existing libraries. Go is a compiled language. So there is a tranlation latency to go between an interpreted langauge. It's kind of nasty to plug into C libraries from Go. The Go community likes to do things natively.
