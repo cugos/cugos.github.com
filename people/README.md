@@ -19,8 +19,7 @@
 ![people](image/people.png)
 
 0. Clone your forked repository<br/>
-![clone_repo](image/clone_repo.png)
-
+![clone_repo](image/clone_repo.png)<br/>
 ```bash
 $ Git clone git@github.com:thebigspoon/cugos.github.com.git
 Cloning into 'cugos.github.com'...
@@ -32,20 +31,19 @@ Resolving deltas: 100% (2337/2337), done.
 Checking connectivity... done.
 ```
 
-0. Create a new branch to add your profile
-
+0. Create a new branch to add your profile<br/>
 ```bash
 $ cd cugos.github.com/
 $ git checkout -b add_my_profile
 Switched to a new branch 'add_my_profile'
-```bash
+```
 
-0. Go find the `people/_posts/` directory
+0. Go find the `people/_posts/` directory<br/>
 ```bash
 $ cd people/_posts/
 ```
 
-0. Copy the last persons profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary.
+0. Copy the last persons profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
 ```bash
 $ cp 2015-06-19-aaron-racicot.markdown 2015-06-20-first-last.mardown
 ---
@@ -62,22 +60,22 @@ excerpt: < your description >
 ---
 ```
 
-0. `git` add the file to staging
+0. `git` add the file to staging<br/>
 ```bash
 $ git add 2015-06-20-first-last.mardown
 ```
 
-0. `git` commit the file with a commit message
+0. `git` commit the file with a commit message<br/>
 ```bash
 $ git commit -m "adding myself, because CUGOS rocks"
 ```
 
-0. `git` push the change to your branch
+0. `git` push the change to your branch<br/>
 ```bash
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-0. Then go to GitHub and perform a PullRequest
+0. Then go to GitHub and perform a PullRequest<br/>
 ```bash
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
