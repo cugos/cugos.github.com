@@ -84,6 +84,6 @@ Click that green button. Now add a commit message
 ![commit_message](image/commit_message.png)
 
 When you feel confident and worthy to pledge your honor to the CUGOS family click that green button
-![click pull request](image/click_pull_request.png)
+![click_pull_request](image/click_pull_request.png)
 
 Go drink a beer, you did a good job. And read up on the [git workflow](http://rogerdudler.github.io/git-guide/)
