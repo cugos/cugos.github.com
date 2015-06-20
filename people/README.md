@@ -77,7 +77,7 @@ $ git commit -m "adding myself, because CUGOS rocks"
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-Then go back GitHub and refresh. You should see something like:<br/>
+Then go back GitHub, change to the master branch and refresh. You should see something like:<br/>
 ![pull_request](image/pull_request.png)
 
 Click that green button. Now add a commit message
