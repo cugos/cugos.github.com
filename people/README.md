@@ -18,10 +18,12 @@
 0. We want to add our profile to the `people` directory<br/>
 ![people](image/people.png)
 
-0. Clone your forked repository<br/>
+0. Clone your forked repository by first copying the URL<br/>
 ![clone_repo](image/clone_repo.png)<br/>
+
+0. Then in a bash shell, find a good working directory and clone it
 ```bash
-$ Git clone git@github.com:thebigspoon/cugos.github.com.git
+$ git clone git@github.com:thebigspoon/cugos.github.com.git
 Cloning into 'cugos.github.com'...
 remote: Counting objects: 4148, done.
 remote: Compressing objects: 100% (64/64), done.
