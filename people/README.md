@@ -21,7 +21,7 @@
 0. Clone your forked repository by first copying the URL<br/>
 ![clone_repo](image/clone_repo.png)
 
-0. Then in a bash shell, find a good working directory and clone it<br/>
+0. Then in a bash shell on your computer find a good working directory. Clone your forked respository and follow the rest of the edit, commit, push and pull request workflow below. FYI: you will need to install `git` on your computer<br/>
 ```bash
 $ git clone git@github.com:thebigspoon/cugos.github.com.git
 Cloning into 'cugos.github.com'...
@@ -33,19 +33,19 @@ Resolving deltas: 100% (2337/2337), done.
 Checking connectivity... done.
 ```
 
-0. Create a new branch to add your profile<br/>
+Create a new branch to add your profile<br/>
 ```bash
 $ cd cugos.github.com/
 $ git checkout -b add_my_profile
 Switched to a new branch 'add_my_profile'
 ```
 
-0. Go find the `people/_posts/` directory<br/>
+Go find the `people/_posts/` directory<br/>
 ```bash
 $ cd people/_posts/
 ```
 
-0. Copy the last persons profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
+Copy the last persons profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
 ```bash
 $ cp 2015-06-19-aaron-racicot.markdown 2015-06-20-first-last.mardown
 ---
@@ -62,24 +62,24 @@ excerpt: < your description >
 ---
 ```
 
-0. `git` add the file to staging<br/>
+`git` add the file to staging<br/>
 ```bash
 $ git add 2015-06-20-first-last.mardown
 ```
 
-0. `git` commit the file with a commit message<br/>
+`git` commit the file with a commit message<br/>
 ```bash
 $ git commit -m "adding myself, because CUGOS rocks"
 ```
 
-0. `git` push the change to your branch<br/>
+`git` push the change to your branch<br/>
 ```bash
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-0. Then go to GitHub and perform a PullRequest<br/>
+Then go to GitHub and perform a PullRequest<br/>
 ```bash
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-0. Go drink a beer, you did a good job. And read up on the [git workflow](http://rogerdudler.github.io/git-guide/)
+Go drink a beer, you did a good job. And read up on the [git workflow](http://rogerdudler.github.io/git-guide/)
