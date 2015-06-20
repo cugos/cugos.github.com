@@ -19,9 +19,9 @@
 ![people](image/people.png)
 
 0. Clone your forked repository by first copying the URL<br/>
-![clone_repo](image/clone_repo.png)<br/>
+![clone_repo](image/clone_repo.png)
 
-0. Then in a bash shell, find a good working directory and clone it
+0. Then in a bash shell, find a good working directory and clone it<br/>
 ```bash
 $ git clone git@github.com:thebigspoon/cugos.github.com.git
 Cloning into 'cugos.github.com'...
