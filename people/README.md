@@ -1,24 +1,31 @@
 # Adding Your Profile
 
 0. Create a GitHub Account
+
 ![join github](image/join_github.png)
 
 0. Find the `cugos.github.com` repository
+
 ![cugos](image/cugos.png)
 
 0. Fork the `cugos.github.com` repository
+
 ![fork it](image/fork_it.png)
 
 0. When prompted, fork it to you
+
 ![fork it to you](image/fork_it_to_you.png)
 
 0. You will be brought back to your forked repository page
+
 ![forked](image/forked_repo.png)
 
 0. We want to add our profile to the `people` directory
+
 ![people](image/people.png)
 
 0. Clone your forked repository
+
 ![clone_repo](image/clone_repo.png)
 
 ```bash
