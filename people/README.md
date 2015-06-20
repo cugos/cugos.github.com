@@ -1,11 +1,9 @@
 # Adding Your Profile
 
-0. Create a GitHub Account
-
+0. Create a GitHub Account<br/>
 ![join github](image/join_github.png)
 
-0. Find the `cugos.github.com` repository
-
+0. Find the `cugos.github.com` repository<br/>
 ![cugos](image/cugos.png)
 
 0. Fork the `cugos.github.com` repository
