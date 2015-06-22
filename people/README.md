@@ -3,22 +3,22 @@
 0. Create a GitHub Account<br/>
 ![join github](image/join_github.png)
 
-0. Find the `cugos.github.com` repository<br/>
+0. Go to the main `cugos.github.com` repository page<br/>
 ![cugos](image/cugos.png)
 
 0. Fork the `cugos.github.com` repository<br/>
 ![fork it](image/fork_it.png)
 
-0. When prompted, fork it to you<br/>
+0. When prompted, fork it to your account<br/>
 ![fork it to you](image/fork_it_to_you.png)
 
-0. You will be brought back to your forked repository page<br/>
+0. You will be redirected to your forked repository page<br/>
 ![forked](image/forked_repo.png)
 
 0. We want to add our profile to the `people` directory<br/>
 ![people](image/people.png)
 
-0. Clone your forked repository by first copying the URL<br/>
+0. First copying the URL that we will use to clone our forked repository<br/>
 ![clone_repo](image/clone_repo.png)
 
 0. Then in a bash shell on your computer find a good working directory. Clone your forked respository and follow the rest of the edit, commit, push and pull request workflow below. FYI: you will need to install `git` on your computer<br/>
@@ -33,7 +33,7 @@ Resolving deltas: 100% (2337/2337), done.
 Checking connectivity... done.
 ```
 
-Create a new branch to add your profile<br/>
+Create a new local branch to add your profile changes<br/>
 ```bash
 $ cd cugos.github.com/
 $ git checkout -b add_my_profile
@@ -45,7 +45,7 @@ Go find the `people/_posts/` directory<br/>
 $ cd people/_posts/
 ```
 
-Copy the last persons profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
+Copy the lastest profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
 ```bash
 $ cp 2015-06-19-aaron-racicot.markdown 2015-06-20-first-last.mardown
 ---
@@ -72,12 +72,12 @@ $ git add 2015-06-20-first-last.mardown
 $ git commit -m "adding myself, because CUGOS rocks"
 ```
 
-`git` push the change to your branch<br/>
+`git` push the change to your remote branch<br/>
 ```bash
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-Then go back GitHub, change to the master branch and refresh. You should see something like:<br/>
+Then go back to the GitHub page of your forked repository, change to the master branch and refresh. You should see something like:<br/>
 ![pull_request](image/pull_request.png)
 
 Click that green button. Now add a commit message
@@ -86,4 +86,4 @@ Click that green button. Now add a commit message
 When you feel confident and worthy to pledge your honor to the CUGOS family click that green button
 ![click_pull_request](image/click_pull_request.png)
 
-Go drink a beer, you did a good job. And read up on the [git workflow](http://rogerdudler.github.io/git-guide/)
+Go drink a beer, you did a good job, and read up on the [git workflow](http://rogerdudler.github.io/git-guide/)
