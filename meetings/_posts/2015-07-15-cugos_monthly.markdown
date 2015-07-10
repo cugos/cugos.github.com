@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **Unprogrammed Hack Session** Let's play laptops. Bring your own project or work on someone eles's. 
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
