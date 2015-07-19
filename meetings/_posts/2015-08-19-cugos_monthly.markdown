@@ -13,8 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
-- **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
-
+- Luke Swart with the [Smarter Cleanup Coalition](http://smartercleanup.org) will give a talk about [Hey Duwamish](http://heyduwamish.org) - an interactive community mapping tool to help track environmental health issues. For more details, or if you want to get involved, check out [the Smarter Cleanup wiki](http://smartercleanup.org/wiki)
 
 Notes:
 ======
