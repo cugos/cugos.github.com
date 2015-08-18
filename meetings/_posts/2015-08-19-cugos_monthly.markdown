@@ -18,7 +18,7 @@ Loose agenda:
 - John Tuthill has some things to say about map reduce on raster data using Python, the Planet Labs API, and Amazon Web Services.  
 - [Ryan Small](https://github.com/foundatron) - Stupid Human CLI Tricks || How I learned to stop typing and use tab complete
 - [@powersa](https://github.com/powersa) will update CUGOS on [MaptimeSEA](http://maptimesea.github.io/) and start a discussion about the role technology plays on the ground during natural disasters.
-- Roger Andre will talk about building GDAL from source with MrSID support.  As part of this, we'll take a look at Chromebrew (https://github.com/skycocker/chromebrew), a package manager for ChromeOS.
+- Roger Andre will talk about building GDAL from source with MrSID support.  As part of this, we'll take a look at [Chromebrew] (https://github.com/skycocker/chromebrew), a package manager for ChromeOS.
 
 Notes:
 ======
