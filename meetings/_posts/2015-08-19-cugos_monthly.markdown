@@ -116,4 +116,14 @@ Use tab complete. Just do it, it's great. Hit tab and it will tell you where you
 
 ```ls -la```
 
+```chown``` to change ownership of the file.
+
+```sudo cat /etc/shadow``` figure out who is on the system
+
+```passwd <username> -l``` take somebody out
+
+```watch -n 5 -d <command>``` watch something every five seconds and highlight whenever there is a change
+
+
+
 *Watch for live updates during the meeting.*
