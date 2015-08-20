@@ -97,6 +97,12 @@ GDAL is an open source toolset behind a lot of FOSS4G. It does not have MrSid su
 
 The goal: use GDAL to extract data from MrSid and convert it to a format you can actually use. 
 
-LizardTech (MrSid creator) has a developer page that let's you download the SDK as long as you agree not to reverse engineer the format. So Roger agreed and got the SDK and started to set it up. He found the SDK to be sort of a mess.
+LizardTech (MrSid creator) has a developer page that let's you download the SDK as long as you agree not to reverse engineer the format. So Roger agreed and got the SDK and started to set it up. He found the SDK to be sort of a mess. He removed all the symbolic junk and moved some things around. Talk to Roger. Copy them into you LD library path. Roger's gonna try to make the docs better.
+
+Roger used Chromebrew to tell his GDAL to install with MrSid. So he did that, and it built successfully. Then you go and check if it works, and... it works.
+
+If you are willing to compile GDAL yourself, and jump through some hoops, this isn't actually so difficult. But there are a lot of places where this can go wrong. OSGEO4W (if you're on Windows) has MrSid installed.
+
+
 
 *Watch for live updates during the meeting.*
