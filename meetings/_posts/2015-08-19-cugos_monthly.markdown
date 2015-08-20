@@ -56,4 +56,13 @@ It's easier to say if you can say "mathematically it's not that wrong" which doe
 
 Always bin in Ecuador and Northern Africa. Single state is probably fine. Bin away.
 
+**Luke Swart, Duwamish River**
+
+Luke is here to talk to us about efforts to map the Duwamish River, just south of downtown. This area is heavily industrialized and it's one of the country's most poluted rivers. 
+
+The Duwamish Tribe used to reside in the area, they were displaced many years ago. In 2003 the EPA declared the area a super fund site. The cleanup is underway. The cleanup has been very top down, and the voices of people who live near by aren't really heard.
+
+Luke is part of a group that's working to help those voices be heard. Information transparency and open data enables the project to map these stories. The project involves a lot of outreach to involve the local communities.
+
+
 *Watch for live updates during the meeting.*
