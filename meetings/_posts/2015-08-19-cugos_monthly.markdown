@@ -50,6 +50,10 @@ Sarah chooses the regular bins if she has to do something.
 Suggestions:
  Try not to use hexbins for very large areas
  Tailor your bins to your projection
+ Sarah's going to publish an article about how to calculate the threshold for distortion
 
+It's easier to say if you can say "mathematically it's not that wrong" which doesn't deal with human perception. 
+
+Always bin in Ecuador and Northern Africa. Single state is probably fine. Bin away.
 
 *Watch for live updates during the meeting.*
