@@ -31,6 +31,25 @@ You have a lot of data, so much that you can't actually see any of it. Spatial b
 
 Generally we can aggregate based on polygons, but that might not give us the level of granularity we want. An alternative is uniform bins, it's smooth and consistent. The bins are atificial. It looks cool, hexagons, they're fun. Sarah used QGIS to generate the hex-grid.
 
+Why hexagons? They're edgier. But really, it's probably a visual appeal thing. You avoid strong vertical and horizontal lines, your eye scans the page easier. They're also nice because they don't generally line up with human spatial feature.
+
 As the spatial gloom and doom spreader, Sarah now dives into why they aren't so great...
+
+Projections complicate things. We can't preserve shape and area at the same time. When you use hexagons, projections don't count.
+
+How does it work? The bins are all the same size. They are generated from a uniform grid. Triangles, square and hexagons are the only shapes that will tesselate the plane. 
+
+For example, if you have an even distribution of points across latitude, you should have consistent hexbin aggregations on a map (web mercator) right? No. As you move toward the poles, the bins get smaller and smaller in area, even though they look just as big. This applies to regularized polygons (bins across the map look the same).
+
+If you try to solve this by using a regular grid in longitude and latitude, you wind up with stretched out hexagons toward the poles.
+
+One Option looks right but is wrong, the other is looks right but is wrong. That's not a good outcome.
+
+Sarah chooses the regular bins if she has to do something.
+
+Suggestions:
+ Try not to use hexbins for very large areas
+ Tailor your bins to your projection
+
 
 *Watch for live updates during the meeting.*
