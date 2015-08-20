@@ -124,6 +124,10 @@ Use tab complete. Just do it, it's great. Hit tab and it will tell you where you
 
 ```watch -n 5 -d <command>``` watch something every five seconds and highlight whenever there is a change
 
+```echo $?``` tell you what the exit code for the last program is
 
+```man ls``` to figure out what to do
 
-*Watch for live updates during the meeting.*
+Bash scripting is all about dealing with files in Linux.
+
+If you haven't tried this out, give it a shot, it's very helpful and you can learn in a relatively short amount of time.
