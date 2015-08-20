@@ -69,4 +69,20 @@ THe project is all open source and they are looking for contributors! The map di
 
 They are open to assitance from people who want to help with the backend map tools, bring in additional data layers. It's all on [github](https://github.com/smartercleanup/duwamish) and they have issues. Jump in!
 
+
+**John Tuthill, Remote sensing with Python**
+
+John works with Planet Labs to provide ground tests for sensor calibration. John works in remote sensing but he doesn't want to actually look at any imagery.
+
+Planet Labs' api is very beautiful and easy to work with. For anyone who wants apikey for non comercial purposes, you can probably get one by just reaching out to them.
+
+THe paradigm is shifting. The industry wants people to keep the data within the system rather than taking delivery of the raw data.
+
+John has been using data from the api to look at how Planet Labs can tune their collection methods. What does the collection actually look like. Not so much the scenes themselves, but the scene metadata. What data quality is required to have a viable product?
+
+A lot of the issues come down to a time series on an area, the picture isn't as helpful as the analysis.
+
+John is running Star Cluster, some scripts to configure amazon ec2 instances, then he has some python that starts machines and sets spot prices. John likes Star Cluster because it's relatively simple and integrates really well with Python. Once the cluster is up and running he puts Disco on top, a Python map reduce project from Nokia.The iPython notebook does a lot of this for you.
+
+
 *Watch for live updates during the meeting.*
