@@ -25,6 +25,12 @@ Notes:
 
 Lots of new faces here today, so we're doing a round of introductions. Welcome to all!!!
 
+*Sarah Battersby, Spatial Binning*
 
+You have a lot of data, so much that you can't actually see any of it. Spatial binning helps solve this problem by aggregating that data spatially.
+
+Generally we can aggregate based on polygons, but that might not give us the level of granularity we want. An alternative is uniform bins, it's smooth and consistent. The bins are atificial. It looks cool, hexagons, they're fun. Sarah used QGIS to generate the hex-grid.
+
+As the spatial gloom and doom spreader, Sarah now dives into why they aren't so great...
 
 *Watch for live updates during the meeting.*
