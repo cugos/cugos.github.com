@@ -25,7 +25,7 @@ Notes:
 
 Lots of new faces here today, so we're doing a round of introductions. Welcome to all!!!
 
-**Sarah Battersby, Spatial Binning**
+**Sarah Battersby, Spatial Binning** [slides](https://github.com/cugos/cugos.github.com/blob/c52a807026f35b62289f22f6ed698d8b525f80ab/image/slides/Spatial_Binning.pdf)
 
 You have a lot of data, so much that you can't actually see any of it. Spatial binning helps solve this problem by aggregating that data spatially.
 
