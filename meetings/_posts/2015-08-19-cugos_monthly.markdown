@@ -23,4 +23,8 @@ Loose agenda:
 Notes:
 ======
 
+Lots of new faces here today, so we're doing a round of introductions. Welcome to all!!!
+
+
+
 *Watch for live updates during the meeting.*
