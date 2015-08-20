@@ -67,6 +67,6 @@ Luke is part of a group that's working to help those voices be heard. Informatio
 
 THe project is all open source and they are looking for contributors! The map displays the status of the river restoration project, the original river path, community reports, local dialogue.The have an incredible demo at [heyduwamish.org](http://heyduwamish.org)
 
-They are open to assitance from people who want to help with the backend map tools, bring in additional data layers. It's all on github and they have issues. Jump in!
+They are open to assitance from people who want to help with the backend map tools, bring in additional data layers. It's all on [github](https://github.com/smartercleanup/duwamish) and they have issues. Jump in!
 
 *Watch for live updates during the meeting.*
