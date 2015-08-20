@@ -104,5 +104,16 @@ Roger used Chromebrew to tell his GDAL to install with MrSid. So he did that, an
 If you are willing to compile GDAL yourself, and jump through some hoops, this isn't actually so difficult. But there are a lot of places where this can go wrong. OSGEO4W (if you're on Windows) has MrSid installed.
 
 
+**Ryan Small, Stupid Human CLI Tricks**
+
+For his day job, Ryan glues machines together with shell scripting, AKA bash. Ryan argues that people should start with bash first when learning to program. It's everywhere and you can do a lot with it.
+
+So why do this? Well you can do all types of things with this built in tool set. 
+
+It's great until somebody else has to read it. If you find it hard to describe what your script does, it's probably time to stop bash scripting.
+
+Use tab complete. Just do it, it's great. Hit tab and it will tell you where you can go.
+
+```ls -la```
 
 *Watch for live updates during the meeting.*
