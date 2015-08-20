@@ -85,4 +85,18 @@ A lot of the issues come down to a time series on an area, the picture isn't as 
 John is running Star Cluster, some scripts to configure amazon ec2 instances, then he has some python that starts machines and sets spot prices. John likes Star Cluster because it's relatively simple and integrates really well with Python. Once the cluster is up and running he puts Disco on top, a Python map reduce project from Nokia.The iPython notebook does a lot of this for you.
 
 
+**Roger Andre, GDAL & Mr Sid**
+
+In Roger's quest to de-evolve, he's figuring out what he can do with a chrome book.
+
+MrSid is an image format that allows you to pull out specific resolution from a very large dataset. If you have the right software, it's pretty easy, but if you don't it is a huge headache.
+
+Roger and a friend tried to use MrSid with Tilemill and they ran into some major problems. MrSid is a proprietary format, though there is an SDK that you can use.
+
+GDAL is an open source toolset behind a lot of FOSS4G. It does not have MrSid support out of the box but you can get them to work together.
+
+The goal: use GDAL to extract data from MrSid and convert it to a format you can actually use. 
+
+LizardTech (MrSid creator) has a developer page that let's you download the SDK as long as you agree not to reverse engineer the format. So Roger agreed and got the SDK and started to set it up. He found the SDK to be sort of a mess.
+
 *Watch for live updates during the meeting.*
