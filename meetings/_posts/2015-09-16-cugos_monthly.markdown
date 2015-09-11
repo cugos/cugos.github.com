@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **Sarah Battersby** will explore the Modifiable Areal Unit Problem (MAUP) and discuss some work she's doing related to food deserts and how the USDA creates population grids. She'll then lead a group think session to find a good way to run a Monte Carlo simulation to get a bunch of data.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 Notes:
