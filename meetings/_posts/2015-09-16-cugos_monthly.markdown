@@ -19,5 +19,7 @@ Loose agenda:
 
 Notes:
 ======
+**Check out Sarah's [slides](https://github.com/cugos/cugos.github.com/blob/master/image/slides/MAUP_battersby.pdf)!**
 
-*Watch for live updates during the meeting.*
+**Watch Sam's presentation on [YouTube](https://www.youtube.com/watch?v=5VfPOmM6bpo)!**
+
