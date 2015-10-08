@@ -13,9 +13,9 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **[Nick Peihl](http://npeihl.com)** will present experimental offline map solutions with mobile devices being used in San Juan County.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 Notes:
 ======
 *Watch for live updates during the meeting...*
-
