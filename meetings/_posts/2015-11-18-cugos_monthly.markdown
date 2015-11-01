@@ -1,3 +1,4 @@
+---
 layout: meeting
 title: November 18th, 2015, 6pm - Anderson Hall, UW
 location: University of Washington
@@ -8,7 +9,7 @@ lat: 47.651737
 lng: -122.307540
 category: meetings
 notes: It's the room with the elk in it.
--------
+----
 
 Loose agenda:
 =============
