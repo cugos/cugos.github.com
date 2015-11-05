@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **[@keum](https://github.com/keum)** This talk will summarize **[KC/SPU CSO Status Viewer](http://www.kingcounty.gov/services/environment/wastewater/cso-status.aspx)** that was built using github,python,geojson, and leaflet with great help from many of CUGOS members.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 Notes:
