@@ -4,7 +4,7 @@ title: November 19th 2014, 6pm - Anderson Hall, UW
 location: University of Washington
 address: UW Anderson Hall, Forest Club room 207
 time: 6:00pm
-excerpt: October 15th CUGOS Monthly Meeting
+excerpt: November 19th CUGOS Monthly Meeting
 lat: 47.651737
 lng: -122.307540
 category: meetings

@@ -2,15 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ site.name }}</title>
+    <title>{{ site.name }} {{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+    {% include favicons.html %}
 
-    <script src="{{site.baseurl}}/js/jquery-1.11.0.min.js"></script>
+    <!-- Le Scripts -->
+    <script src="{{site.baseurl}}/static/jquery/jquery-1.11.0.min.js"></script>
     {% for js_name in page.extra_js %}
     <script src="{{ js_name }}"></script>
     {% endfor %}
+
+    <!-- Le Mapbox -->
+    <script src='{{site.baseurl}}/static/mapbox/mapbox.js'></script>
+    <link href='{{site.baseurl}}/static/mapbox/mapbox.css' rel='stylesheet'>
 
     <!-- Le Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Dosis:300,700' rel='stylesheet' type='text/css'>
@@ -19,45 +25,12 @@
     {% for css_name in page.extra_css %}
     <link rel="stylesheet" href="{{ css_name }}">
     {% endfor %}
-    <link rel="stylesheet" href="{{site.baseurl}}/css/syntax.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/css/site.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/static/css/site.css" />
 
-    <!-- link href="../assets/css/bootstrap-responsive.css" rel="stylesheet" --!>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-        <script src="../assets/js/html5shiv.js"></script>
-        <![endif]-->
+    <!--[if lt IE 9]><script src="../assets/js/html5shiv.js"></script><![endif]-->
 
-    <link rel="shortcut icon" href="{{site.baseurl}}/image/favicon/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/image/favicon/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{site.baseurl}}/image/favicon/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{site.baseurl}}/image/favicon/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{site.baseurl}}/image/favicon/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{site.baseurl}}/image/favicon/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{site.baseurl}}/image/favicon/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{site.baseurl}}/image/favicon/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{site.baseurl}}/image/favicon/apple-touch-icon-152x152.png">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}/image/favicon/favicon-196x196.png" sizes="196x196">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}/image/favicon/favicon-160x160.png" sizes="160x160">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}/image/favicon/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}/image/favicon/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}/image/favicon/favicon-32x32.png" sizes="32x32">
-    <meta name="msapplication-TileColor" content="#3f75a2">
-    <meta name="msapplication-TileImage" content="{{site.baseurl}}/image/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="{{site.baseurl}}/image/favicon/browserconfig.xml">
   </head>
 
   <body>
-
-    <nav id="navbar">
-      <div class="container">
-        <button id="nav-expand"><i class="fa fa-bars"></i></button>
-        <ul id="nav">
-          {% for weight in (1..10) %}{% for p in site.pages %}{% if p.weight == weight %}
-          <li{% if p.url == page.url %} class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
-          {% endif %}{% endfor %}{% endfor %}
-        </ul>
-      <a id="brand-logo" href="/">CUGOS {% include cugos-svg-logo.html %}</a>
-      </div>
-    </nav>
+  {% include nav.html %}    

@@ -1,17 +1,6 @@
 ---
 layout: default
-extra_js:
-  - /js/maps/leaflet.js
-  - /js/meeting.js
-extra_css:
-  - /css/maps/leaflet.css
-  - /css/maps/leaflet.ie.css
 ---
-
-<script>
-  var lat = {{ page.lat }};
-  var lng = {{ page.lng }};  
-</script>
 
 <header class="page-header meeting" {% if page.header_img %}style="background-image:url({{ site.baseurl }}/image/{{ page.header_img }});"{% endif %}>
   <div class="header-info">
@@ -27,7 +16,13 @@ extra_css:
   <p class="address">{{ page.address }}</p>
   <p class="notes">{{ page.notes }}</p>
 </div>
-<div id="meeting-map"></div>
+
+<div id="meeting-map" 
+     class="map-marker"
+     data-latitude="{{ page.lat }}"
+     data-longitude="{{ page.lng }}"
+     data-popup="{{ page.address }}"></div>
+
 <p class="coords">{{ page.lat }}, {{ page.lng }}</p>
 
 <div class="content">
@@ -41,16 +36,3 @@ extra_css:
   <li><a {% if page.url == meeting.url %}class="active"{% endif %} href={{ meeting.url }}>{{ meeting.date | date: "%m/%d/%Y" }}</a></li>
 {% endfor %}
 </ul>
-
-<script>
-var map = L.map('meeting-map').setView([lat, lng], 13);
-L.tileLayer('https://{s}.tiles.mapbox.com/v3/cugos.jolef8gc/{z}/{x}/{y}.png').addTo(map);
-var mbox = L.icon({
-  iconUrl: '/js/maps/img/marker.png',
-  iconSize:     [30, 70],
-  iconAnchor:   [15, 35]
-});
-var marker = L.marker([lat, lng], {
-  icon: mbox
-}).addTo(map);
-</script>

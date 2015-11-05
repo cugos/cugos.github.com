@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: David Bitner
 category: people
 lng: -93.275543

@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Peter Keum
 category: people
 lng: -122.3086827
