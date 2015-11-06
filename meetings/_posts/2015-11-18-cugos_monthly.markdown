@@ -14,7 +14,9 @@ notes: It's the room with the elk in it.
 Loose agenda:
 =============
 - **[@keum](https://github.com/keum)** This talk will summarize **[KC/SPU CSO Status Viewer](http://www.kingcounty.gov/services/environment/wastewater/cso-status.aspx)** that was built using github,python,geojson, and leaflet with great help from many of CUGOS members.
+- **[Derek Huling](https://github.com/dhuling)** of Western Washington University briefly talks about the GeoPy - https://github.com/geopy/geopy - python library for batch geocoding using popular geocoder APIs.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
+
 
 Notes:
 ======
