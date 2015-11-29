@@ -16,6 +16,7 @@ Loose agenda:
 - **[Jon Culver](https://github.com/bahoo)** is working on a project called [Bern Advisory](http://bernadvisory.org/) to explain the caucus process to voters in Washington, and other states. It's is an intersection of technology and government data and politics, and being green to both GIS and active involvement in politics, and already it's been a learning experience. Tools include GeoDjango, PostGIS, and Leaflet.
 - **[Derek Huling](http://github.com/dhuling)** will demonstrate a novel method developed to stratify terrain models with raster data and cluster analysis.
 - **[@bitnerd](https://twitter.com/bitnerd)** geo-person extraordinaire is in town from MSP and will delight the CUGOS crowd with recent FOSS projects.
+- **[@kvonkrusenstiern](https://github.com/kvonkrusenstiern)** will share her recent experiences aboard NOAA's research vessel the Okeanos Explorer, the only federally funded ship dedicated to ocean exploration and seafloor mapping.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
