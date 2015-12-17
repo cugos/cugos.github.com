@@ -14,6 +14,7 @@ notes: It's the room with the elk in it.
 Loose agenda:
 =============
 - **[@christyheaton](https://github.com/christyheaton)** will talk about her work extracting osm data.
+- **[@sbindman](https://github.com/sbindman)** and **[danielduhh](@https://github.com/danielduhh)** will talk about their work on Cadasta. And Open Source system for collecting informal land rights around the world.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
