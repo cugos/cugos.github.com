@@ -22,5 +22,20 @@ Loose agenda:
 
 Notes:
 ======
-*Watch for live updates during the meeting...*
+- **[Jon Culver](https://github.com/bahoo)** 
+Works for the BERN ADVISORY
+Talking about the election process
+Washington Primary
+- Useless... ballots are sent in and not used
+Caucus is the process to select dem nom in wash
+- Rule guide is 57 pages ... almost designed to keep people from participating
+bernadvisory.org was born
+Get where your caucus will be... and much more
+How do caucus's work?
+- Gather in a location near where you live
+- Split up into candidate groups
+Django/Requests/Leaflet/PostGIS
+Geocoding with Google Maps
+
+
 
