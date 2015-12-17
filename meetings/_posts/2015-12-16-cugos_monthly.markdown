@@ -22,7 +22,10 @@ Loose agenda:
 
 Notes:
 ======
+--------------------------------------------------------
+
 **[Jon Culver](https://github.com/bahoo)** 
+
 Works for the BERN ADVISORY
 Talking about the election process
 Washington Primary
@@ -39,6 +42,59 @@ How do caucus's work?
 
 Django/Requests/Leaflet/PostGIS
 Geocoding with Google Maps
+
+--------------------------------------------------------
+
+**[Derek Huling](http://github.com/dhuling)**
+Western Washington Univerity - Masters Program
+
+Talking about aspect... how it is derived and tools used to process
+Wizard island in crater lake
+
+RGB Transformation
+The display is only one utility... it actually makes analysis more dynamic
+
+Using Spectral Python
+[https://github.com/spectralpython](https://github.com/spectralpython)
+
+Base data (in this example) is a LIDAR dataset
+
+--------------------------------------------------------
+
+**[@bitnerd](https://twitter.com/bitnerd)**
+
+Lots of custom iD editor stuff (ref to go here)
+
+Talked about FOSS4G conferences (NA and International)
+
+--------------------------------------------------------
+
+**[@kvonkrusenstiern](https://github.com/kvonkrusenstiern)**
+
+Kate was showing KILLER pictures of her adventures on the mapping ship!
+
+Okeanos Explorer - NOAA
+
+240ft - Large vessel and only one doing sea floor mapping
+
+Big uplink so data is updated in near realtime
+
+~$100k/day to operate
+
+3 onboard sonars (running all 3 full 24/7) (turn off for whales, mexico, and bad weather)
+1 focused on seafloor (300m swath)
+1 focused on sub-surface
+1 focused on water column
+
+The sonars have to be callibrated (every 6 hours)
+
+She had the 2am shift!
+Job was to process the data (clean up edges and noise)
+
+Took a cool tour in Google Earth of the trackline of the trip
+Cool features like seamounts
+
+
 
 
 
