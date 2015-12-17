@@ -1,18 +1,7 @@
 ---
-extra_js:
-  - /js/maps/leaflet.js
-  - /js/meeting.js
-extra_css:
-  - /css/maps/leaflet.css
-  - /css/maps/leaflet.ie.css
 ---
 
 {% include head.html %}
-
-<script>
-  var lat = {{ page.lat }};
-  var lng = {{ page.lng }};
-</script>
 
 <header class="event-header" style="background-image:url({{ site.baseurl }}/image/2015springfling/{{ page.event_header-image }});">
   <div class="outer">
@@ -26,43 +15,50 @@ extra_css:
   <div class="event-header-credits">credit: <a target="_blank" href="https://www.mapbox.com/">mapbox satellite</a></div>
 </header>
 
-  <div class="container">
-    <div class="main event">
-      <div class="event-content">{{ content }}</div>
-      <h2 class="event-content-title">Location</h2>
-      <div id="event-map"></div>
-      <div class="event-content">{{ page.event_location }}</div>
-      <h2 class="event-content-title">Schedule</h2>
-      <div class="event-schedule">
-        {% for item in page.event_schedule %}
-          <div class="event-item {{ item.extra_class }}">
-            <h3 class="event-item-title"><span class="event-item-time">{{ item.time }}</span>{{ item.title }}{% if item.extra %}{% endif %}</h3>
-            <p class="event-item-desc">{{ item.description }}</p>
-          </div>
-        {% endfor %}
-      </div>
-      <h2 class="event-content-title">Sponsors</h2>
-      <div class="event-sponsors">
-        {% for sponsor in page.event_sponsors %}
-          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}"></a>
-        {% endfor %}
-      </div>
-      <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
-    </div>
-  </div>
+<div class="container">
+  <div class="main event">
+    <div class="event-content">{{ content }}</div>
+    <h2 class="event-content-title">Location</h2>
+    
+    <div id="event-map" 
+         class="map-marker"
+         data-latitude="{{ page.lat }}"
+         data-longitude="{{ page.lng }}"
+         data-popup="{{ page.address }}"></div>
 
-<script>
-var map = L.map('event-map').setView([lat, lng], 13);
-L.tileLayer('https://{s}.tiles.mapbox.com/v3/cugos.jolef8gc/{z}/{x}/{y}.png').addTo(map);
-var mbox = L.icon({
-  iconUrl: '/js/maps/img/marker.png',
-  iconSize:     [30, 70],
-  iconAnchor:   [15, 35]
-});
-map.scrollWheelZoom.disable();
-var marker = L.marker([lat, lng], {
-  icon: mbox
-}).addTo(map);
-</script>
+    <div class="event-content">{{ page.event_location }}</div>
+    
+    <h2 class="event-content-title">Schedule</h2>
+    <div class="schedule cf">
+      {% for item in page.schedule %}
+      <div class="schedule-block {{ item.type }}">
+        <h3 class="schedule-block-title">{{ item.title }}</h3>
+        {% if item.name %}
+        <p class="schedule-block-name">{{ item.name }}</p>
+        {% endif %}
+        <p class="schedule-block-description">{{ item.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="event-sponsors">
+      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-gold push-right"></i>Gold Sponsors</h4>
+      {% for sponsor in page.event_sponsors_gold %}
+        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
+      {% endfor %}
+
+      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-silver push-right"></i>Silver Sponsors</h4>
+      {% for sponsor in page.event_sponsors_silver %}
+        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
+      {% endfor %}
+
+      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-bronze push-right"></i>Bronze Sponsors</h4>
+      {% for sponsor in page.event_sponsors_bronze %}
+        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
+      {% endfor %}
+    </div>
+    <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
+  </div>
+</div>
 
 {% include footer.html %}

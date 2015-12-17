@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Ryan Small
 category: people
 lng: -122.3553

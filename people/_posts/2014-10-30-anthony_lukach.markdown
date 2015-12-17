@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Anthony Lukach
 category: people
 lng: -114.0667

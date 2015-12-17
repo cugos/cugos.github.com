@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Jared Erickson
 category: people
 lng: -122.386537

@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Mary Solbrig
 category: people
 lng: -122.308037

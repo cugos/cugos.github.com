@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Paul McCombs
 category: people
 lng: -122.31344

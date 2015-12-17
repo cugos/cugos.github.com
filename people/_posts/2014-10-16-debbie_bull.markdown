@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Debbie Bull
 category: people
 lng: -122.33093172311783

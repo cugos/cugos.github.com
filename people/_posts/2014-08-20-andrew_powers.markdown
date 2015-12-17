@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: Andrew Powers
 category: people
 lng: -122.334353

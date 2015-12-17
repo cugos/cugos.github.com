@@ -1,11 +1,10 @@
 ---
-layout: person
 title: Sam Matthews
 category: people
 lng: -122.33034968376161
 lat: 47.66145657256136
 image: https://avatars0.githubusercontent.com/u/1943001?v=2&s=460
-github: svmatthews
+github: mapsam
 twitter: vancematthews
 permalink: /people/sam_matthews
 excerpt: Web Looker

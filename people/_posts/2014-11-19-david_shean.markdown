@@ -1,5 +1,5 @@
 ---
-layout: person
+ 
 title: David Shean
 category: people
 lng: -121.836491
