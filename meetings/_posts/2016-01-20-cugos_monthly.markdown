@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **[@christyheaton](https://github.com/christyheaton)** will talk about her work extracting osm data.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
