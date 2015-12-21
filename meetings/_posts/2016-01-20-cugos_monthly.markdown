@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
-- **[@christyheaton](https://github.com/christyheaton)** will talk about her work extracting osm data.
+- **[@christyheaton](https://github.com/christyheaton)** will talk about her experience using Python to extract Open Street Map data and the challenges that come with using free, user-contributed data.
 - **[@sbindman](https://github.com/sbindman)** and **[@danielduhh](https://github.com/danielduhh)** will talk about their work on **[Cadasta](http://cadasta.org/#home)**, an Open Source system for collecting informal land rights around the world.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
