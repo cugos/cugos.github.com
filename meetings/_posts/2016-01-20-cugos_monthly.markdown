@@ -17,7 +17,7 @@ Loose agenda:
 - **[@sbindman](https://github.com/sbindman)** and **[@danielduhh](https://github.com/danielduhh)** will talk about their work on **[Cadasta](http://cadasta.org/#home)**, an Open Source system for collecting informal land rights around the world.
 - **[@jsheedy](http://github.com/jsheedy/)** will present his work on **[d3-grid-map](http://vulcantechnologies.github.io/d3-grid-map/)**, a package for presenting regularly gridded datasets.
 - **[@cliffordsnow](http://github.com/cliffordsnow/)** Bid for 2016 OSM State of the Map US
-**[@foundatron](https://github.com/foundatron)** will give us an update on this year's CUGOS Spring Fling and let you know how you can get involved.
+- **[@foundatron](https://github.com/foundatron)** will give us an update on this year's CUGOS Spring Fling and let you know how you can get involved!
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
