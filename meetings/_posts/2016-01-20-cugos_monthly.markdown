@@ -93,7 +93,16 @@ Thanks to Vulcan for letting him open source this thing. [They are hiring!](http
 
 Paul is talking about Seattle's bid for the 2016 State of the Map US conference. Here are the details:
 
-SAM WILL PUT NOTES HERE
+we will be presenting a bid to host the 2016 SOTM-US in Seattle. We've contacted Microsoft to see if they can give us a good deal on conference space. (MS already donates their satellite imagery for tracing.) Some number about the conference.
+
+* 600 people are expected to attend
+* Three tracks of presentations over a two day weekend event
+* Summer event but are flexible if the cost is right
+* One "hack" day for workshops and coding. We are looking for space. UW would be a great location!
+* Drone demo would be great! 
+* Deadline is Feb 15th. 
+* Anyone interested in volunteering to help with the bid should contact me 
+* We'll reuse last years bid as much as possible.
 
 # [Aaron Racicot](http://github.com/aaronr/)
 
