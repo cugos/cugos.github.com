@@ -44,6 +44,13 @@ The first python script was simple - it went into each DB and extracted info fro
 * Large rivers were missing since they didn't get tags for those
 * needed place names in English, but most places in OSM were in local language. **obtained english names from an external database**
 
+#### Lessons
+
+* Tags can be all over the place
+* Files sizes are HUGE, watch out!
+* Consider your output projection and make sure it is projected properly
+* Be flexible, if things don't go right the first time - consider some alternative workflows
+
 # [Jospeh Sheedy](http://github.com/jsheedy/)
 
 Joseph made a tool called [d3-grid-map](https://github.com/VulcanTechnologies/d3-grid-map), a package that plots gridded data sets. Allows you to hover over pixels to get values from them. Needed to plot gridded data sets in real time. Needed binary arrays from a server and plot them fastly in ANY projection (non-mercator). Required adaptable color maps. Needed to query values (`mouseover`) and do analysis on those. Also required a universal data format.
@@ -86,15 +93,21 @@ Thanks to Vulcan for letting him open source this thing. [They are hiring!](http
 
 Paul is talking about Seattle's bid for the 2016 State of the Map US conference. Here are the details:
 
-* 
+SAM WILL PUT NOTES HERE
 
----
+# [Aaron Racicot](http://github.com/aaronr/)
 
-#### Lessons
+Snuck himself into the agenda late. Talking about [projfinder.com](http://projfinder.com/) and [bboxfinder.com](http://bboxfinder.com). He wants to turn them into CUGOS projects (take them away from his personal github account). They are great projects to hack on as a group that utilize a lot of concepts that we talk about meeting to meeting. He believes these projects have a good opportunity to be focuses for the spring fling. 
 
-* Tags can be all over the place
-* Files sizes are HUGE, watch out!
-* Consider your output projection and make sure it is projected properly
-* Be flexible, if things don't go right the first time - consider some alternative workflows
+He's been getting a ton of inquiries about Projfinder (specifically to the API backend for , which is a tool that allows you to find potential localized projections in case you don't know what your dataset's project is set in. Let's do a few things:
+
+1. update database on the backend, make it filter better
+1. front end, make it more generic and usable for a general audience
+
+# [Ryan Small](https://github.com/foundatron) and the (increasingly) annual Spring Fling
+
+**SPRING FLING IS ON APRIL 15th, 2016**
+
+Check out his 
 
 
