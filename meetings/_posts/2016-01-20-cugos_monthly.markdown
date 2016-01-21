@@ -82,6 +82,12 @@ How can we make it faster? Golden solution is to get all calculations running on
 
 Thanks to Vulcan for letting him open source this thing. [They are hiring!](http://www.vulcan.com/)
 
+# [Paul McCombs](https://github.com/mccombsp-kingco) in place of Clifford Snow
+
+Paul is talking about Seattle's bid for the 2016 State of the Map US conference. Here are the details:
+
+* 
+
 ---
 
 #### Lessons
