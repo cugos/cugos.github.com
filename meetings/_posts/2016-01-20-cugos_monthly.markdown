@@ -44,6 +44,46 @@ The first python script was simple - it went into each DB and extracted info fro
 * Large rivers were missing since they didn't get tags for those
 * needed place names in English, but most places in OSM were in local language. **obtained english names from an external database**
 
+# [Jospeh Sheedy](http://github.com/jsheedy/)
+
+Joseph made a tool called [d3-grid-map](https://github.com/VulcanTechnologies/d3-grid-map), a package that plots gridded data sets. Allows you to hover over pixels to get values from them. Needed to plot gridded data sets in real time. Needed binary arrays from a server and plot them fastly in ANY projection (non-mercator). Required adaptable color maps. Needed to query values (`mouseover`) and do analysis on those. Also required a universal data format.
+
+Made for a project called ["Sea Around Us"](http://seaaroundus.org/data/#/spatial-catch), which maps global fisheries data. This tool allowed them to show a bunch of different grid data sets. It's not terribly fast, but it is "barely reasonable" (his words).
+
+#### How does it work?
+
+Here's how you would initialize it in an app:
+
+```
+d3.geo.GridMap('id', options);
+map.addLayer(countries);
+map.addLayer(dataArray, {gridSize: [720, 360]});
+```
+
+#### Data format
+
+* Can't have anything other than a rectangular grid
+* Float32Array for space saving
+* Options must contain `gridSize` with width and height array
+
+#### Transferring data into the browser
+
+Using standard XHR requests in browsers using the `arraybuffer` response types and turning them into javascript `Float32Array` objects. Then you can use the above code to add to a grid along with the width and height.
+
+You can put as many layers of things on top of the map as you'd like. For each layer he has cached it, but it changes when you rotate the map around and when you change the container. As long as the map stays in one location, you can recycle that calculation.
+
+Check out the sweet example of pressure systems across the world: [velotronheavyindustries.com/wx](http://www.velotronheavyindustries.com/wx/) - takes a while to load 30mb.
+
+> Joseph pushes it to the limits. If you aren't pushing your browser to the limit, you aren't doing it right.
+
+#### Hotrodding - let's speed this sucker up
+
+How can we make it faster? Golden solution is to get all calculations running on GPU instead of the DOM. Potentially a custom d3 build that doesn't rely on the DOM? Whoa. Hopefully someone else has some ideas?
+
+Thanks to Vulcan for letting him open source this thing. [They are hiring!](http://www.vulcan.com/)
+
+---
+
 #### Lessons
 
 * Tags can be all over the place

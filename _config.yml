@@ -33,7 +33,7 @@ highlighter: pygments
 permalink: pretty
 
 # Opt in to relative_permalinks. default is opt out as of Jekyll v2.0
-relative_permalinks: true
+# relative_permalinks: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.md]
