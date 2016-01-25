@@ -51,7 +51,7 @@ The first python script was simple - it went into each DB and extracted info fro
 * Consider your output projection and make sure it is projected properly
 * Be flexible, if things don't go right the first time - consider some alternative workflows
 
-# [Jospeh Sheedy](http://github.com/jsheedy/)
+# [Joseph Sheedy](http://github.com/jsheedy/)
 
 Joseph made a tool called [d3-grid-map](https://github.com/VulcanTechnologies/d3-grid-map), a package that plots gridded data sets. Allows you to hover over pixels to get values from them. Needed to plot gridded data sets in real time. Needed binary arrays from a server and plot them fastly in ANY projection (non-mercator). Required adaptable color maps. Needed to query values (`mouseover`) and do analysis on those. Also required a universal data format.
 
