@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 Loose agenda:
 =============
+- **[@lesserj](http://github.com/lesserj)** Talks about his thesis project to identify landscape disturbances using big data statistics
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
