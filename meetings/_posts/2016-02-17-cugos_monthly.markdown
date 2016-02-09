@@ -14,6 +14,7 @@ notes: It's the room with the elk in it.
 Loose agenda:
 =============
 - **[@lesserj](http://github.com/lesserj)** Talks about his thesis project to identify landscape disturbances using big data statistics
+- **[@emiliom](http://github.com/emiliom)** Seeks out brilliant suggestions about his [trail mapping](http://www.friendsofcedarcreekpark.org/#!trail-map/c2385) and [related geo-volunteering](https://emayorga.cartodb.com/me) work on the [Green River](https://www.flickr.com/photos/pepescas/albums/72157639454237446)
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
