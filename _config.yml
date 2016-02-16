@@ -26,7 +26,7 @@ future: true
 # If you don't have it install it via gem install rdiscount
 markdown: rdiscount
 
-highlighter: pygments
+highlighter: rouge
 
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 #auto: false
