@@ -18,6 +18,7 @@ Loose agenda:
 - **[@npeihl](http://github.com/npeihl)** shares his experiments with Mapbox GL in Android and JavaScript. And a sneak peek at incorporating Mapbox GL into [Dropchop](http://dropchop.io)
 - **[@lovegis](http://github.com/lovegis)** Talks about the use of open source on the Maps Team at Amazon.
 - **[@powersa](http://github.com/powersa)** will lead a rally for Spring Fling 2016
+- **[@cliffordsnow](http://github.com/cliffordsnow) will announce our venue choice for 2016 SOTM-US conference. And International Women's Day Event in Bellingham.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
