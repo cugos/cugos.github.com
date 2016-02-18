@@ -76,7 +76,9 @@ If you want to help, head on over to [github.com/cugos/dropchop](https://github.
 
 ### lovegis
 
+Reily works at Amazon on the maps team. They are developing a maps API. The Fire phone does some sweet enhanced 3d points of interest based on your face position and the phone using 4 cameras. WHOA that's a lot of cameras!
 
+They have their own tilesets and datasets. Now the mapping team is working with packaging and they have been tasked as the "Address Authority". They are matching and conflating a ton of address data. Addresses have TONS of different representations, which is a problem for determining where actual addresses exist and which are formatted correctly or not. Because of differences in addresses across countries, address validation/geocoding is incredibly difficult.
 
 ### powersa
 
