@@ -24,4 +24,27 @@ Loose agenda:
 
 Notes:
 ======
-Watch for live updates during the meeting.
+
+### Jacob Lesser, Satellite Imagery Change Detection Algorithms
+
+Heard of the EROS data center? They do sweet downloads for satellite data like Landsat and Modis. Originally, if you weren't downloading data as satellites sent it in, you didn't get it. So they built some data centers to capture all of the information (I think). In the basement of EROS is the largest collection of remotely sensed images **in the world**.
+
+He worked for the Fire Science Division that mananges USGS's fire data. Used a dataset called [**LANDFIRE**](http://www.landfire.gov/) that includes information at 30m resolution and anything that you'd need to monitor fire. These inputs are data needed for prediction models. Includes vegetation type, forest canopy cover, fuel classifications, etc. 
+
+How do they update it? They incorporate detected changes from Landsat imagery and disturbances and incorporate them into the new models. How much data? 224 billion pixels per day. BAM.
+
+Current methods for change detection: Real-time fire specific detections, pattern matching, and the tool he developed!
+
+His method JUST detects fire, ignores all other changes. It uses Modis for picking up "hot spots" like fires and volcanoes. Because resolution is low it's bad for fire analysis. Looking for particular shapes and patterns you can find disturbances. These shapes are different depending on the ecosystem, which makes things complicated!
+
+Methods & Tools:
+
+1. extract & clean data: using python & GDAL
+1. stats: run decision trees that look for patters that define output and tell you how likely the pixel is important for fire analysis with C using Cubist, QGIS for viewing/testing
+1. apply the model from the Cubist model and apply it to a new scene, you get outputs with liklihood of disturbance
+1. set disturbance threshold that says "anything greater than this value is likely fire"
+1. validate results: compare detected fires to the fire database, compare to BARC data for the scene and year in question, and human assessment
+
+Thanks Jacob!
+
+
