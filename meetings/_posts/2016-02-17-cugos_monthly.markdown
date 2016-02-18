@@ -44,11 +44,29 @@ Methods & Tools:
 1. apply the model from the Cubist model and apply it to a new scene, you get outputs with liklihood of disturbance
 1. set disturbance threshold that says "anything greater than this value is likely fire"
 1. validate results: compare detected fires to the fire database, compare to BARC data for the scene and year in question, and human assessment
-1. results: for most scenes it looks like it works pretty well. it's dependent on the amount of training data available. Where there's a lot of training data, the model is good a predicting.
+1. results: for most scenes it looks like it works pretty well. It's dependent on the amount of training data available. Where there's a lot of training data, the model is good at predicting.
 
 Thanks Jacob!
 
 ### emiliom
+
+Ubunutu computer, yah never know when it's gonna project... And it does! 
+
+Emilio, couldn't wrap his head around this idea that there was a Gorge 40 minutes outside of Seattle. The Green River Gorge is an oddity in Geology of the region. Beautiful place, really worth a visit. Trout fishing, swimming holes, great foliage.
+
+As an environmental scientist, he wants to know his area. So he researched the gorge online. But he found online data sources (Google) to be quite misleading. There are a lot of different types of public land, but these online resources just mark them as "green".
+
+There is a long history of locals taking down signage that helps you access these areas. It's a great area, but really hard to know what you can and can't do.
+
+This inspired Emilio to document the area to provide better access. Text descriptions only get you so far. Especially in the area of ubiquitous maps, we can do better. Emilio and a group have started sporadic mapping while hiking the area. They start data collection when they start, but then the device (phone) just runs and doesn't require active participation. You can just hike! They're seeking the simplest possible work flow.
+
+Over the years, they've collected a lot of hiking path data. The results are really cool. Great gpx data for many hikes. How do you put it out there? The data is messy, too messy to make a public map. Accurate and detailed geo data takes a lot of time. It's prohibitive.
+
+How do you go from raw gpx data to something other people can actually use? He wants to get the data somewhere that people can use it... Without spending days data munging...
+
+Seth suggests Strava. That can be a good first stop for this type of data, and makes it accessible to lots of different folks.
+
+
 
 ### npeihl
 
