@@ -44,7 +44,19 @@ Methods & Tools:
 1. apply the model from the Cubist model and apply it to a new scene, you get outputs with liklihood of disturbance
 1. set disturbance threshold that says "anything greater than this value is likely fire"
 1. validate results: compare detected fires to the fire database, compare to BARC data for the scene and year in question, and human assessment
+1. results: for most scenes it looks like it works pretty well. it's dependent on the amount of training data available. Where there's a lot of training data, the model is good a predicting.
 
 Thanks Jacob!
+
+### emiliom
+
+### npeihl
+
+### lovegis
+
+### powersa
+
+### cliffordsnow
+
 
 
