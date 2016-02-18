@@ -66,11 +66,17 @@ How do you go from raw gpx data to something other people can actually use? He w
 
 Seth suggests Strava. That can be a good first stop for this type of data, and makes it accessible to lots of different folks.
 
-
-
 ### npeihl
 
+Nick is building apps with Mapbox. He's been working with TileJSON and `mapbox-gl-js` (or `mapbox-gl-native`) that allows him to add custom imagery tiles to a web map. 
+
+He's been using [Dropchop](https://github.com/cugos/dropchop) to load in geojson files, but dropchop doesn't handle big data files because it has to draw the data every time. He's been using `mapbox-gl-js` to turn Dropchop into a vector editor so he can drag in huge geojson files and they can be rendered as tiles instantly. Check out the progress of this feature here: https://github.com/cugos/dropchop/issues/216
+
+If you want to help, head on over to [github.com/cugos/dropchop](https://github.com/cugos/dropchop) to see what's up.
+
 ### lovegis
+
+
 
 ### powersa
 
