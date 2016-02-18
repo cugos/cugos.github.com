@@ -80,9 +80,20 @@ Reily works at Amazon on the maps team. They are developing a maps API. The Fire
 
 They have their own tilesets and datasets. Now the mapping team is working with packaging and they have been tasked as the "Address Authority". They are matching and conflating a ton of address data. Addresses have TONS of different representations, which is a problem for determining where actual addresses exist and which are formatted correctly or not. Because of differences in addresses across countries, address validation/geocoding is incredibly difficult.
 
-### powersa
+### powersa & the spring fling crew
+
+There are some teams put together preparing for the Spring Fling on **Friday, April 15th**. If you would like to be a part of the volunteer/planning, send a message to hello@cugos.org.
+
+* Captain (Andrew)
+* Sponsorship (Aaron Racicot & Peter Keum)
+* Speakers & workshops (Greg Corradini)
+* Operations (Ryan Small & Sam Matthews)
+  * website, AV/equipment, code of conduct
+* Food committee (YOU)
 
 ### cliffordsnow
+
+Cliff submitted the Seattle bid for FOSS4G-NA! Hopefully we hear back by next week, but if things go well we'll be hosting it at Seattle U in late July. WOop!
 
 
 
