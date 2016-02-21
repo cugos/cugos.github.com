@@ -17,6 +17,11 @@ The CUGOS Spring Fling is a **full day event centered around open source geo**. 
 
 **Sponsors**: Want to support this event? Email [hello@cugos.org](mailto:hello@cugos.org) for information about how to get involved.
 
-**Schedule**: In the morning we have 20 minute talks and 10 minute lightening talks. The afternoon will have a number of workshops for beginner and advanced users. While we get the schedule put together, take a look at the [2015 Spring Fling schedule](/2015-spring-fling) for a peak into what the day will look like. 
+**Schedule**: In the morning we have 20 minute talks and 10 minute lightening talks. The afternoon will have a number of workshops for beginner and advanced users. While we get the schedule put together, take a look at the [2015 Spring Fling schedule](/2015-spring-fling) for a peak into what the day will look like.
+
+**Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
+
+**Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch.
+
 
 ![wahoo](/image/2016springfling/double.jpg)
