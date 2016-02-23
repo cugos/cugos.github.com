@@ -2,6 +2,12 @@
 
 <div class="container">
 
+  {% if page.alert_text %}
+  <a class="alert event" href="{{ page.alert_url }}" style="background-image:url({{ page.alert_image_url }});">
+    {{ page.alert_text }}<i class="fa fa-arrow-right"></i>
+  </a>
+  {% endif %}
+
   <header class="page-header home">
     <div class="header-info">
       {% include cugos-svg-logo.html %}
