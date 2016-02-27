@@ -18,6 +18,19 @@
 <div class="container">
   <div class="main event">
     <div class="event-content">{{ content }}</div>
+
+    {% if page.speakers %}
+      <h2>Speakers</h2>
+      <div class="speakers cf">
+        {% for speaker in page.speakers %}
+          <div class="speaker">
+            <img class="speaker-image" src="{{ speaker.image }}">
+            <p class="speaker-name">{{ speaker.name }}</p>
+            <p class="speaker-info">{{ speaker.info }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
     
     <div id="event-map" 
          class="map-marker"

@@ -9,6 +9,27 @@ event_location: Forest Club Room 207, <a href="http://www.washington.edu/maps/#!
 event_header-image: 2016springfling/header.jpg
 event_header-credit: Aaron Racicot
 event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets-21978297680
+speakers:
+    -
+        name: Someone great
+        image: http://placehold.it/300x300
+        info: Company A
+    -
+        name: Superstar
+        image: http://placehold.it/300x300
+        info: University of the Universe
+    -
+        name: Superstar
+        image: http://placehold.it/300x300
+        info: University of the Universe
+    -
+        name: Superstar
+        image: http://placehold.it/300x300
+        info: University of the Universe
+    -
+        name: Superstar
+        image: http://placehold.it/300x300
+        info: University of the Universe
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
