@@ -11,9 +11,12 @@ event_header-credit: Aaron Racicot
 event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets-21978297680
 speakers:
     -
-        name: Someone great
+        name: Dane Springmeyer
         image: http://placehold.it/300x300
-        info: Company A
+        info: Mapbox
+        profile: 
+        title: Hot Tech from land of SFO
+        desc: Hot Tech from land of SFO
     -
         name: Britta Ricker
         image: http://placehold.it/300x300
@@ -36,9 +39,23 @@ speakers:
         title: POSM Goes to Ecuador
         desc: The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, "POSM Goes to West Africa"
     -
-        name: Superstar
+        name: John Sulik
         image: http://placehold.it/300x300
-        info: University of the Universe
+        info: MicaSense
+        title: Hardware, Drones and Data Processing Oh My!
+        desc: Hardware, Drones and Data Processing Oh My!
+    -
+        name: Ninja Face
+        image: http://placehold.it/300x300
+        info: Company A
+    -
+        name: Someone great
+        image: http://placehold.it/300x300
+        info: Company A
+    -
+        name: Ninja Face
+        image: http://placehold.it/300x300
+        info: Company A
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
