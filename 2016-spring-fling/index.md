@@ -15,17 +15,26 @@ speakers:
         image: http://placehold.it/300x300
         info: Company A
     -
-        name: Superstar
+        name: Britta Ricker
         image: http://placehold.it/300x300
-        info: University of the Universe
+        info: University of Washington Tacoma
+        profile: http://faculty.washington.edu/bricker0/
+        title: Motivations, practices, and politics of open data in Cape Town, South Africa 
+        desc: While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared.
     -
-        name: Superstar
+        name: Marcus Collins
         image: http://placehold.it/300x300
-        info: University of the Universe
+        info: Placed
+        profile: http://www.linkedin/in/marcusdcollins
+        title: Analyzing Geospatial Patterns Derived from Mobile Ad Bid Data
+        desc:  A variety of new technologies related to health, city planning, and commerce, etc. rely on human location data from large swaths of the population. A tempting source is location data sent from mobile phones when in-app or mobile web advertising space on the device is sent to ad exchanges for bidding. These "bid-call" locations have significant limitations. I will examine how geospatial patterns reveal these limitations in this presentation.
     -
-        name: Superstar
+        name: Seth Fitzsimmons & Nick Hallahan
         image: http://placehold.it/300x300
-        info: University of the Universe
+        info: Stamen Design and SpatialDev
+        profile: http://v1.stamen.com/studio/seth and http://github.com/hallahan
+        title: POSM Goes to Ecuador
+        desc: The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, "POSM Goes to West Africa"
     -
         name: Superstar
         image: http://placehold.it/300x300
