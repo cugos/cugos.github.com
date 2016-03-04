@@ -1,8 +1,8 @@
 ---
 layout: event
-title: 2016 Spring Fling
+title: "2016 Spring Fling"
 event_date: Friday - April 15th, 2016
-event_time: 9:00am - 5:00pm
+event_time: "9:00am - 5:00pm"
 lat: 47.651737
 lng: -122.307540
 event_location: Forest Club Room 207, <a href="http://www.washington.edu/maps/#!/and">Anderson Hall</a>, University of Washington, Seattle WA
@@ -11,109 +11,46 @@ event_header-credit: Aaron Racicot
 event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets-21978297680
 speakers:
     -
-        name: Someone great
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        info: Company A
+        name: Dane Springmeyer
+        image: https://avatars0.githubusercontent.com/u/20300?v=3&s=460
+        info: Mapbox
+        profile: 
+        title: Hot Tech from land of SFO
+        desc: Hot Tech from land of SFO
     -
-        name: Superstar
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        info: University of the Universe
+        name: Britta Ricker
+        image: https://avatars0.githubusercontent.com/u/1919662?v=3&s=460
+        info: University of Washington Tacoma
+        profile: http://faculty.washington.edu/bricker0/
+        title: Motivations, practices, and politics of open data in Cape Town, South Africa 
+        desc: While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared.
     -
-        name: Superstar
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        info: University of the Universe
+        name: Marcus Collins
+        image: https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg
+        info: Placed
+        profile: http://www.linkedin/in/marcusdcollins
+        title: Analyzing Geospatial Patterns Derived from Mobile Ad Bid Data
+        desc:  A variety of new technologies related to health, city planning, and commerce, etc. rely on human location data from large swaths of the population. A tempting source is location data sent from mobile phones when in-app or mobile web advertising space on the device is sent to ad exchanges for bidding. These "bid-call" locations have significant limitations. I will examine how geospatial patterns reveal these limitations in this presentation.
     -
-        name: Superstar
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        info: University of the Universe
+        name: Seth Fitzsimmons
+        image: https://avatars1.githubusercontent.com/u/45?v=3&s=460
+        info: Stamen Design
+        profile: http://v1.stamen.com/studio/seth and http://github.com/hallahan
+        title: POSM Goes to Ecuador
+        desc: The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, "POSM Goes to West Africa"
     -
-        name: Superstar
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        info: University of the Universe
-event_sponsors_platinum:
+        name: Nick Hallahan
+        image: https://avatars2.githubusercontent.com/u/556367?v=3&s=460
+        info: SpatialDev
+        profile: http://v1.stamen.com/studio/seth and http://github.com/hallahan
+        title: POSM Goes to Ecuador
+        desc: The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, "POSM Goes to West Africa"
     -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-event_sponsors_gold:
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-event_sponsors_silver:
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-event_sponsors_comm:
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
-    -
-        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
-        width: 150px
-        link: http://cugos.org
+        name: John Sulik
+        image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALcAAAAJGMyYWNkYjVmLTE4OTUtNDM4NS1iY2U3LWI1OGExMGE0NDNhZg.jpg
+        info: MicaSense
+        title: Hardware, Drones and Data Processing Oh My!
+        desc: Hardware, Drones and Data Processing Oh My!
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
@@ -127,6 +64,3 @@ The CUGOS Spring Fling is a **full day event centered around open source geo**. 
 **Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
 
 **Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch. Hit us up on twitter [@cugosorg](https://twitter.com/cugosorg)!
-
-
-![wahoo](/image/2016springfling/double.jpg)
