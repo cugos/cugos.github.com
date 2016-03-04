@@ -12,24 +12,108 @@ event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets
 speakers:
     -
         name: Someone great
-        image: http://placehold.it/300x300
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
         info: Company A
     -
         name: Superstar
-        image: http://placehold.it/300x300
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
         info: University of the Universe
     -
         name: Superstar
-        image: http://placehold.it/300x300
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
         info: University of the Universe
     -
         name: Superstar
-        image: http://placehold.it/300x300
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
         info: University of the Universe
     -
         name: Superstar
-        image: http://placehold.it/300x300
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
         info: University of the Universe
+event_sponsors_platinum:
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+event_sponsors_gold:
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+event_sponsors_silver:
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+event_sponsors_comm:
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
+    -
+        image: https://placeholdit.imgix.net/~text?txtsize=19&txt=200%C3%97200&w=200&h=200
+        width: 150px
+        link: http://cugos.org
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.

@@ -140,6 +140,7 @@ strong { font-weight:900; }
 .text-gold { color: #FFD700; }
 .text-silver { color: #c0c0c0; }
 .text-bronze { color: #cd7f32; }
+.text-blue { color: #3f75a2; }
 
 .push-right { margin-right: .5em; }
 .push-left { margin-left: .5em; }
@@ -714,7 +715,7 @@ nav {
 }
 .event-sponsor {
   height:auto;
-  display:block;
+  display:inline-block;
   margin:1em auto;
 }
 @media screen and (min-width:56em) {

@@ -105,57 +105,57 @@ schedule:
 
 event_sponsors_gold:
   -
-    image: sponsor-google.png
+    image: /image/2015springfling/sponsor-google.png
     width: 300px
     link: http://www.google.com/
   -
-    image: sponsor-uw.png
+    image: /image/2015springfling/sponsor-uw.png
     width: 150px
     link: http://www.washington.edu/
   -
-    image: sponsor-pointinside.png
+    image: /image/2015springfling/sponsor-pointinside.png
     width: 200px
     link: http://www.pointinside.com
   -
-    image: sponsor-amazon.png
+    image: /image/2015springfling/sponsor-amazon.png
     width: 200px
     link: http://aws.amazon.com/
   -
-    image: sponsor-codeforamerica.png
+    image: /image/2015springfling/sponsor-codeforamerica.png
     width: 200px
     link: http://www.codeforamerica.org
   -
-    image: sponsor-mapbox.png
+    image: /image/2015springfling/sponsor-mapbox.png
     width: 150px
     link: https://www.mapbox.com/
   -
-    image: sponsor-inrix.png
+    image: /image/2015springfling/sponsor-inrix.png
     width: 250px
     link: http://inrix.com/
 event_sponsors_silver:
   -
-    image: sponsor-soundgis.png
+    image: /image/2015springfling/sponsor-soundgis.png
     width: 150px
     link: http://www.soundgis.com/
   -
-    image: sponsor-terragis.png
+    image: /image/2015springfling/sponsor-terragis.png
     width: 300px
     link: http://www.terragis.net/
   -
-    image: sponsor-stamen.png
+    image: /image/2015springfling/sponsor-stamen.png
     width: 200px
     link: http://stamen.com/
   -
-    image: sponsor-coregis.png
+    image: /image/2015springfling/sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
   -
-    image: sponsor-cartodb.png
+    image: /image/2015springfling/sponsor-cartodb.png
     width: 250px
     link: https://cartodb.com/
 event_sponsors_bronze:
   -
-    image: sponsor-broadstreetmaps.png
+    image: /image/2015springfling/sponsor-broadstreetmaps.png
     width: 130px
     link: http://www.broadstreetmaps.org/
 ---

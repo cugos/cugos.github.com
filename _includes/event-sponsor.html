@@ -1,0 +1,9 @@
+<!-- this is a loop used for sponsor levels at events -->
+<h4 class="sponsor-level-title"><i class="fa fa-bookmark-o {{ include.color }} push-right"></i>{{ include.title }}</h4>
+{% for s in include.sponsors %}
+  <a target="_blank" href="{{ s.link }}">
+  	<img class="event-sponsor" 
+  		 src="{{ s.image }}" 
+  		 style="width:{{ s.width }}">
+  </a>
+{% endfor %}

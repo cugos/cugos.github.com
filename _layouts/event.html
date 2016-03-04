@@ -56,26 +56,25 @@
 
     <div class="event-sponsors">
 
+      {% if page.event_sponsors_platinum %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_platinum title="Platinum Sponsors" color="text-blue" %}
+      {% endif %}
+
       {% if page.event_sponsors_gold %}
-        <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-gold push-right"></i>Gold Sponsors</h4>
-        {% for sponsor in page.event_sponsors_gold %}
-          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-        {% endfor %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_gold title="Gold Sponsors" color="text-gold" %}
       {% endif %}
 
       {% if page.event_sponsors_silver %}
-        <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-silver push-right"></i>Silver Sponsors</h4>
-        {% for sponsor in page.event_sponsors_silver %}
-          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-        {% endfor %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_silver title="Silver Sponsors" color="text-silver" %}
       {% endif %}
 
       {% if page.event_sponsors_bronze %}
-        <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-bronze push-right"></i>Bronze Sponsors</h4>
-        {% for sponsor in page.event_sponsors_bronze %}
-          <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-        {% endfor %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_bronze title="Bronze Sponsors" color="text-bronze" %}
       {% endif %}
+
+      {% if page.event_sponsors_comm %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
+      {% endif %}      
 
     </div>
   </div>
