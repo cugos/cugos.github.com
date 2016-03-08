@@ -48,7 +48,7 @@ $(document).ready(function(){
 function buildMapMarker(elem) {
   L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
   var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
-  var map = L.mapbox.map(elem.id, 'cugos.ma6ck6l4').setView(coordinates, 14);
+  var map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 14);
   if (!elem.getAttribute('data-scrollZoom')) map.scrollWheelZoom.disable();
   var marker = L.marker(coordinates, {
     icon: L.mapbox.marker.icon({

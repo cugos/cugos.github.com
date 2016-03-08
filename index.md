@@ -1,6 +1,9 @@
 ---
 layout: home
 title: Home
+alert_text: "The 2016 Spring Fling is on April 15th - Register Now!"
+alert_url: /2016-spring-fling
+alert_image_url: /image/2016springfling/alert-homepage.jpg
 extra_js:
   - https://www.google.com/jsapi
   - /static/js/home.js

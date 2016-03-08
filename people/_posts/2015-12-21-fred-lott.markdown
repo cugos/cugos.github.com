@@ -1,0 +1,10 @@
+---
+title: Fred Lott
+category: people
+lng: -122.385421
+lat: 47.670524
+image: https://avatars3.githubusercontent.com/u/2935414?v=3&s=460
+github: flott
+permalink: /people/fred_lott
+excerpt: Water resources engineer 
+---
