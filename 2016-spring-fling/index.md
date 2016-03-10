@@ -39,24 +39,6 @@ speakers:
     length: "20"
 
   -
-    name: "Daniel Duhh"
-    image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
-    info: "SpatialDev"
-    profile: "https://github.com/danielduhh"
-    title: "Cadasta"
-    desc: "Land rights"
-    length: "10"
-
-  -
-    name: "Sarah Bindman"
-    image: "https://avatars3.githubusercontent.com/u/10539483?v=3&s=400"
-    info: "SpatialDev"
-    profile: "https://github.com/sbindman"
-    title: "Cadasta"
-    desc: "Land rights"
-    length: "10"
-
-  -
     name: "Sarah Battersby"
     image: "https://research.tableau.com/sites/default/files/Sarah900x890_2x.jpg"
     info: "Tableau"
@@ -91,8 +73,41 @@ speakers:
     desc: "The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, 'POSM Goes to West Africa'"
     length: "20"
 
+  -
+    name: "Daniel Duhh"
+    image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
+    info: "SpatialDev"
+    profile: "https://github.com/danielduhh"
+    title: "Cadasta"
+    desc: "Land rights"
+    length: "10"
 
+  -
+    name: "Sarah Bindman"
+    image: "https://avatars3.githubusercontent.com/u/10539483?v=3&s=400"
+    info: "SpatialDev"
+    profile: "https://github.com/sbindman"
+    title: "Cadasta"
+    desc: "Land rights"
+    length: "10"
 
+  -
+    name: "TBD"
+    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    info: ""
+    profile: ""
+    title: ""
+    desc: ""
+    length: "10"
+
+  -
+    name: "TBD"
+    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    info: ""
+    profile: ""
+    title: ""
+    desc: ""
+    length: "10"
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational learning session for passionate practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
