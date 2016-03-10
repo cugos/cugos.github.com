@@ -140,6 +140,7 @@ strong { font-weight:900; }
 .text-gold { color: #FFD700; }
 .text-silver { color: #c0c0c0; }
 .text-bronze { color: #cd7f32; }
+.text-blue { color: #3f75a2; }
 
 .push-right { margin-right: .5em; }
 .push-left { margin-left: .5em; }
@@ -602,7 +603,7 @@ nav {
 }
 .event-content a {
   text-decoration: underline;
-  color: #888;
+  color: #75a23f;
   font-weight: 700;
 }
 .event-content img {
@@ -618,6 +619,48 @@ nav {
   }
   .event-date {
     font-size:2em;
+  }
+}
+
+.speakers {
+  margin-bottom: 2em;
+}
+.speaker {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  height: 275px;
+  padding: 1em;
+  background: white;
+  border-right: 3px solid #e5e5e5;
+  border-bottom: 3px solid #e5e5e5;
+}
+.speaker-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+}
+.speaker-name,
+.speaker-info {
+  margin: 0;
+}
+.speaker-name {
+  font-weight: 900;
+  font-size: 1.2em;
+}
+.speaker-info {
+  font-weight: 100;
+  font-size: 0.8em;
+}
+@media screen and (min-width:41em) {
+  .speaker {
+    width: 25%;
+    height: 250px;
+  }
+}
+@media screen and (min-width:56em) {
+  .speaker {
+    height: 300px;
   }
 }
 
@@ -683,7 +726,7 @@ nav {
 }
 .event-sponsor {
   height:auto;
-  display:block;
+  display:inline-block;
   margin:1em auto;
 }
 @media screen and (min-width:56em) {
