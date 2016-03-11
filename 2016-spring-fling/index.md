@@ -74,7 +74,7 @@ speakers:
     length: "20"
 
   -
-    name: "Daniel Duhh"
+    name: "Daniel Baah"
     image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
     info: "SpatialDev"
     profile: "https://github.com/danielduhh"
