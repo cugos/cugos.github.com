@@ -710,11 +710,11 @@ nav {
   }
   .schedule-block.talk.half {
     width:50%;
-    height:175px;
+    height:250px;
   }
   .schedule-block.talk.third {
     width:33.33333333%;
-    height:180px;
+    height:200px;
   }
 }
 
