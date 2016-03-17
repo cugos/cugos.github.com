@@ -26,8 +26,8 @@ schedule:
   -
     type: talk
     name: "Dane Springmeyer"
-    title: "Hot Tech from land of SFO"
-    description: "Hot Tech from land of SFO"
+    title: "TBD"
+    description: "TBD"
   -
     type: time
     title: 9:45 AM - Main Program Talks (20 min each)
@@ -95,7 +95,7 @@ schedule:
     info: "SpatialDev"
     profile: "https://github.com/danielduhh"
     title: "Cadasta"
-    description: "Land rights"
+    description: "TBD"
     length: "10"
 
   -
@@ -117,6 +117,14 @@ schedule:
     description: ""
     length: "10"
   -
+    type: talk third
+    name: "TBD"
+    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    info: ""
+    profile: ""
+    title: ""
+    description: ""
+    length: "10"
 
 
 
