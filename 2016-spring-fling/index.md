@@ -25,7 +25,7 @@ schedule:
     description: Geo Goodness
   -
     type: talk
-    name: "Dane Springmeyer"
+    name: "Dane Springmeyer - Mapbox"
     title: "TBD"
     description: "TBD"
   -
@@ -34,7 +34,7 @@ schedule:
     description: Main speaker program
   -
     type: talk half
-    name: "Eric Waters"
+    name: "Eric Waters - MicaSense"
     image: "http://www.micasense.com/img/team_eric_200.jpg"
     info: "MicaSense"
     profile: "http://www.micasense.com/about.html"
@@ -44,7 +44,7 @@ schedule:
 
   -
     type: talk half
-    name: "Sarah Battersby"
+    name: "Sarah Battersby - Tableau"
     image: "https://research.tableau.com/sites/default/files/Sarah900x890_2x.jpg"
     info: "Tableau"
     profile: "https://research.tableau.com/user/sarah-battersby"
@@ -53,7 +53,7 @@ schedule:
     length: "20"
   -
     type: talk half
-    name: "Marcus Collins"
+    name: "Marcus Collins - Placed"
     image: "https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg"
     info: "Placed"
     profile: "http://www.linkedin/in/marcusdcollins"
@@ -63,7 +63,7 @@ schedule:
 
   -
     type: talk half
-    name: "Seth Fitzsimmons & Nick Hallahan"
+    name: "Seth Fitzsimmons - Stamen & Nick Hallahan - SpatialDev"
     image: "https://avatars1.githubusercontent.com/u/45?v=3&s=460"
     info: "Stamen Design & SpatialDev"
     profile: "http://v1.stamen.com/studio/seth"
@@ -72,7 +72,7 @@ schedule:
     length: "20"
   -
     type: talk
-    name: "Britta Ricker"
+    name: "Britta Ricker - UW Tacoma"
     image: "https://avatars0.githubusercontent.com/u/1919662?v=3&s=460"
     info: "University of Washington Tacoma"
     profile: "http://faculty.washington.edu/bricker0/"
@@ -90,7 +90,7 @@ schedule:
     description: Wake me up after pizza
   -
     type: talk third
-    name: "Daniel Baah & Sarah Bindman"
+    name: "Daniel Baah & Sarah Bindman - SpatialDev"
     image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
     info: "SpatialDev"
     profile: "https://github.com/danielduhh"
@@ -100,30 +100,30 @@ schedule:
 
   -
     type: talk third
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    name: "Evan Derickson"
+    image: "/image/derickson_evan.jpg"
     info: ""
     profile: ""
-    title: ""
-    description: ""
+    title: "QGIS Shortcuts to ArcGIS Cartographic Hacks"
+    description: "QGIS Shortcuts to ArcGIS Cartographic Hacks"
     length: "10"
   -
     type: talk third
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    name: "Julie Goldberg - EmpowerEngine"
+    image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
     info: ""
     profile: ""
-    title: ""
-    description: ""
+    title: "TBD"
+    description: "TBD"
     length: "10"
   -
     type: talk third
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    name: "Beth Schechter - Skillcrush"
+    image: "https://avatars2.githubusercontent.com/u/3361475?v=3&s=400"
     info: ""
     profile: ""
-    title: ""
-    description: ""
+    title: "TBD"
+    description: "TBD"
     length: "10"
 
 
@@ -210,8 +210,8 @@ speakers:
     length: "10"
 
   -
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
+    name: "Evan Derickson"
+    image: "/image/derickson_evan.jpg"
     info: ""
     profile: ""
     title: ""
@@ -219,18 +219,18 @@ speakers:
     length: "10"
 
   -
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
-    info: ""
+    name: "Julie Goldberg"
+    image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
+    info: "EmpowerEngine"
     profile: ""
     title: ""
     description: ""
     length: "10"
 
   -
-    name: "TBD"
-    image: "https://placeholdit.imgix.net/~text?txtsize=17&txt=185%C3%97185&w=185&h=185"
-    info: ""
+    name: "Beth Schechter"
+    image: "https://avatars2.githubusercontent.com/u/3361475?v=3&s=400"
+    info: "Skillcrush"
     profile: ""
     title: ""
     description: ""
@@ -249,4 +249,3 @@ The CUGOS Spring Fling is a **full day event centered around open source geo**. 
 
 **Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch. Hit us up on twitter [@cugosorg](https://twitter.com/cugosorg)!
 
-![wahoo](/image/2016springfling/double.jpg)
