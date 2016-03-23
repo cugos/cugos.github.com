@@ -235,6 +235,37 @@ speakers:
     title: ""
     description: ""
     length: "10"
+
+event_sponsors_platinum:
+  -
+    image: /image/2015springfling/sponsor-mapbox.png
+    width: 150px
+    link: https://www.mapbox.com/
+event_sponsors_gold:
+  -
+    image: /image/2015springfling/sponsor-uw.png
+    width: 150px
+    link: http://www.washington.edu/
+  -
+    image: /image/2016springfling/sponsor-spatialdev.png
+    width: 297px
+    link: http://www.washington.edu/
+event_sponsors_silver:
+  -
+    image: /image/2015springfling/sponsor-terragis.png
+    width: 300px
+    link: http://www.terragis.net/
+event_sponsors_bronze:
+  -
+    image: /image/2015springfling/sponsor-soundgis.png
+    width: 150px
+    link: http://www.soundgis.com/
+event_sponsors_comm:
+  -
+    image: /image/2015springfling/sponsor-coregis.png
+    width: 175px
+    link: http://coregis.net/
+
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational session for practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
@@ -248,4 +279,3 @@ The CUGOS Spring Fling is a **full day event centered around open source geo**. 
 **Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
 
 **Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch. Hit us up on twitter [@cugosorg](https://twitter.com/cugosorg)!
-
