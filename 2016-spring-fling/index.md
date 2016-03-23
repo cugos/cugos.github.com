@@ -26,8 +26,8 @@ schedule:
   -
     type: talk
     name: "Dane Springmeyer - Mapbox"
-    title: "TBD"
-    description: "TBD"
+    title: ""
+    description: ""
   -
     type: time
     title: 9:45 AM - Main Program Talks (20 min each)
@@ -77,7 +77,7 @@ schedule:
     info: "University of Washington Tacoma"
     profile: "http://faculty.washington.edu/bricker0/"
     title: "Motivations, practices, and politics of open data in Cape Town, South Africa"
-    description: "While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared"
+    description: "While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” and are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared"
     length: "20"
 
   -
@@ -95,7 +95,7 @@ schedule:
     info: "SpatialDev"
     profile: "https://github.com/danielduhh"
     title: "Cadasta"
-    description: "TBD"
+    description: ""
     length: "10"
 
   -
@@ -105,7 +105,7 @@ schedule:
     info: ""
     profile: ""
     title: "QGIS Shortcuts to ArcGIS Cartographic Hacks"
-    description: "QGIS Shortcuts to ArcGIS Cartographic Hacks"
+    description: "Covers improvements QGIS had made on the common cartographic workflow: hillshades that don't muddy map colors, coastal vignettes made in seconds, non-overlapping polygon borders, and rapid figure-ground masking, all without models, scripts, or modifying any source data"
     length: "10"
   -
     type: talk third
@@ -113,8 +113,8 @@ schedule:
     image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
     info: ""
     profile: ""
-    title: "TBD"
-    description: "TBD"
+    title: ""
+    description: ""
     length: "10"
   -
     type: talk third
@@ -122,8 +122,8 @@ schedule:
     image: "https://avatars2.githubusercontent.com/u/3361475?v=3&s=400"
     info: ""
     profile: ""
-    title: "TBD"
-    description: "TBD"
+    title: ""
+    description: ""
     length: "10"
 
 
