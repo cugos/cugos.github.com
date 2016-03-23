@@ -6,6 +6,7 @@ event_time: "9:00am - 5:00pm"
 lat: 47.651737
 lng: -122.307540
 event_location: Forest Club Room 207, <a href="http://www.washington.edu/maps/#!/and">Anderson Hall</a>, University of Washington, Seattle WA
+announcement: "As of Monday, March 21st we have sold out of tickets for the Spring Fling. Sadly we are limited by the capacity of our venue and cannot increase tickets. We recommend signing up for the waitlist and hopefully tickets will open up as people update RSVPs. If you are registered and can no longer attend, please update your ticket to make space!"
 event_header-image: 2016springfling/header.jpg
 event_header-credit: Aaron Racicot
 event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets-21978297680

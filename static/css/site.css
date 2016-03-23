@@ -777,6 +777,18 @@ nav {
 .alert.event:hover .fa {
   margin-left:25px;
 }
+.alert.blue {
+  background: #3f75a2;
+}
+.alert.blue.no-hover {
+  pointer-events: none;
+}
+.alert.no-margin {
+  margin: 0 auto;
+}
+.alert.no-bump {
+  font-size: 1em;
+}
 
 /* FOOTER */
 footer p {
