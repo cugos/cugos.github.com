@@ -24,7 +24,20 @@
          data-latitude="{{ page.lat }}"
          data-longitude="{{ page.lng }}"
          data-popup="{{ page.address }}"></div>
-    
+
+    {% if page.speakers %}
+      <h2>Speakers</h2>
+      <div class="speakers cf">
+        {% for speaker in page.speakers %}
+          <div class="speaker">
+            <img class="speaker-image" src="{{ speaker.image }}">
+            <p class="speaker-name">{{ speaker.name }}</p>
+            <p class="speaker-info">{{ speaker.info }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
     {% if page.schedule %}
       <h2 class="event-content-title">Schedule</h2>
       <div class="schedule cf">
@@ -36,20 +49,6 @@
           {% endif %}
           <p class="schedule-block-description">{{ item.description }}</p>
         </div>
-        {% endfor %}
-      </div>
-    {% endif %}
-
-
-    {% if page.speakers %}
-      <h2>Speakers</h2>
-      <div class="speakers cf">
-        {% for speaker in page.speakers %}
-          <div class="speaker">
-            <img class="speaker-image" src="{{ speaker.image }}">
-            <p class="speaker-name">{{ speaker.name }}</p>
-            <p class="speaker-info">{{ speaker.info }}</p>
-          </div>
         {% endfor %}
       </div>
     {% endif %}
@@ -74,7 +73,9 @@
 
       {% if page.event_sponsors_comm %}
         {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
-      {% endif %}      
+      {% endif %}
+
+      <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
 
     </div>
   </div>

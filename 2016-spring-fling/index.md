@@ -269,16 +269,13 @@ event_sponsors_comm:
     image: /image/2015springfling/sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
-
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational session for practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
 
 **Location**: The fling will be hosted at the University of Washington, Forest Club Room 207 in Anderson Hall. It's the room with the elk in it. [[campus map](http://uw.edu/maps/?and)]
 
-**Sponsors**: Want to support this event? Email [hello@cugos.org](mailto:hello@cugos.org) for information about how to get involved.
-
-**Schedule**: In the morning we have 20 minute talks and 10 minute lightning talks. The afternoon will have a number of workshops for beginner and advanced users. While we get the schedule put together, take a look at the [2015 Spring Fling schedule](/2015-spring-fling) for a peek into what the day will look like.
+**Schedule**: The first half of the day is a combination of 20 minute talks and lightening talks. The afternoon will have a number of workshops for beginner and advanced users.
 
 **Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
 
