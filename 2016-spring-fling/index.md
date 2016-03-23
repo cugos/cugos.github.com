@@ -239,6 +239,8 @@ speakers:
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational session for practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
 
+Our number one goal is to make the Spring Fling a welcoming event for everybody. Please take a moment to read over the [CUGOS code of conduct](/code-of-conduct).
+
 **Location**: The fling will be hosted at the University of Washington, Forest Club Room 207 in Anderson Hall. It's the room with the elk in it. [[campus map](http://uw.edu/maps/?and)]
 
 **Sponsors**: Want to support this event? Email [hello@cugos.org](mailto:hello@cugos.org) for information about how to get involved.
