@@ -249,7 +249,7 @@ event_sponsors_gold:
   -
     image: /image/2016springfling/sponsor-spatialdev.png
     width: 297px
-    link: http://www.washington.edu/
+    link: http://spatialdev.com/
 event_sponsors_silver:
   -
     image: /image/2015springfling/sponsor-terragis.png
@@ -260,6 +260,10 @@ event_sponsors_bronze:
     image: /image/2015springfling/sponsor-soundgis.png
     width: 150px
     link: http://www.soundgis.com/
+  -
+    image: /image/2016springfling/sponsor-prusik.png
+    width: 300px
+    link:
 event_sponsors_comm:
   -
     image: /image/2015springfling/sponsor-coregis.png
