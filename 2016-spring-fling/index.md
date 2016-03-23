@@ -235,6 +235,40 @@ speakers:
     title: ""
     description: ""
     length: "10"
+
+event_sponsors_platinum:
+  -
+    image: /image/2015springfling/sponsor-mapbox.png
+    width: 150px
+    link: https://www.mapbox.com/
+event_sponsors_gold:
+  -
+    image: /image/2015springfling/sponsor-uw.png
+    width: 150px
+    link: http://www.washington.edu/
+  -
+    image: /image/2016springfling/sponsor-spatialdev.png
+    width: 297px
+    link: http://spatialdev.com/
+event_sponsors_silver:
+  -
+    image: /image/2015springfling/sponsor-terragis.png
+    width: 300px
+    link: http://www.terragis.net/
+event_sponsors_bronze:
+  -
+    image: /image/2015springfling/sponsor-soundgis.png
+    width: 150px
+    link: http://www.soundgis.com/
+  -
+    image: /image/2016springfling/sponsor-prusik.png
+    width: 300px
+    link:
+event_sponsors_comm:
+  -
+    image: /image/2015springfling/sponsor-coregis.png
+    width: 175px
+    link: http://coregis.net/
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational session for practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
@@ -243,11 +277,8 @@ Our number one goal is to make the Spring Fling a welcoming event for everybody.
 
 **Location**: The fling will be hosted at the University of Washington, Forest Club Room 207 in Anderson Hall. It's the room with the elk in it. [[campus map](http://uw.edu/maps/?and)]
 
-**Sponsors**: Want to support this event? Email [hello@cugos.org](mailto:hello@cugos.org) for information about how to get involved.
-
-**Schedule**: In the morning we have 20 minute talks and 10 minute lightning talks. The afternoon will have a number of workshops for beginner and advanced users. While we get the schedule put together, take a look at the [2015 Spring Fling schedule](/2015-spring-fling) for a peek into what the day will look like.
+**Schedule**: The first half of the day is a combination of 20 minute talks and lightening talks. The afternoon will have a number of workshops for beginner and advanced users.
 
 **Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
 
 **Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch. Hit us up on twitter [@cugosorg](https://twitter.com/cugosorg)!
-
