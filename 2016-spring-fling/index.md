@@ -26,8 +26,8 @@ schedule:
   -
     type: talk
     name: "Dane Springmeyer - Mapbox"
-    title: ""
-    description: ""
+    title: "Open Source at Mapbox"
+    description: "Mapbox is built on open source software and collaboration. Dane will recap the history of open development at Mapbox, share stories of how it has shaped our team and culture, and present challenges we face as open source goes mainstream and Mapbox grows"
   -
     type: time
     title: 9:45 AM - Main Program Talks (20 min each)
@@ -223,7 +223,7 @@ speakers:
     image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
     info: "EmpowerEngine"
     profile: ""
-    title: ""
+    title: "EmpowerEngine"
     description: ""
     length: "10"
 
