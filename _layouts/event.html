@@ -15,6 +15,12 @@
   <div class="event-header-credits">credit: <a target="_blank" href="https://www.mapbox.com/">{{ page.event_header-credit }}</a></div>
 </header>
 
+{% if page.announcement %}
+<div class="alert blue no-hover no-margin no-bump">
+  <div class="container"><p>{{ page.announcement }}</p></div>
+</div>
+{% endif %}
+
 <div class="container">
   <div class="main event">
     <div class="event-content">{{ content }}</div>
