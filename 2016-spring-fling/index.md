@@ -35,8 +35,8 @@ schedule:
     description: Main speaker program
   -
     type: talk half
-    name: "Eric Waters - MicaSense"
-    image: "http://www.micasense.com/img/team_eric_200.jpg"
+    name: "Caileigh Shoot - MicaSense"
+    image: "/image/caileigh_shoot.png"
     info: "MicaSense"
     profile: "http://www.micasense.com/about.html"
     title: "Techniques for Mapping Crop Health with Drones"
@@ -149,7 +149,7 @@ speakers:
     length: "20"
 
   -
-    name: "Eric Waters"
+    name: "Caileigh Shoot"
     image: "http://www.micasense.com/img/team_eric_200.jpg"
     info: "MicaSense"
     profile: "http://www.micasense.com/about.html"
