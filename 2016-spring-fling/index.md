@@ -96,7 +96,7 @@ schedule:
     info: "SpatialDev"
     profile: "https://github.com/danielduhh"
     title: "Cadasta"
-    description: ""
+    description: "SpatialDev worked with the Cadasta Foundation to create an Open Source land recording system for tracking informal land rights for some of the most vulernable populations. This talk will walk through some of the details involved in creating this newly launched platform."
     length: "10"
 
   -
