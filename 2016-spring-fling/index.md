@@ -150,7 +150,7 @@ speakers:
 
   -
     name: "Caileigh Shoot"
-    image: "http://www.micasense.com/img/team_eric_200.jpg"
+    image: "/image/caileigh_shoot.png"
     info: "MicaSense"
     profile: "http://www.micasense.com/about.html"
     title: "Techniques for Mapping Crop Health with Drones"
