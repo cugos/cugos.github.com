@@ -224,8 +224,8 @@ speakers:
     image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
     info: "EmpowerEngine"
     profile: ""
-    title: "EmpowerEngine"
-    description: ""
+    title: "Categorizing Districts in the Browser Thanks to Vector Tiles"
+    description: "I'll talk about Empower Engine's newest product, our district categorizer.  Users can make a map showing stakeholders which races are targeted; an organizer can track which precincts they've sent people to canvass, and when the data has been entered; and the campaign manager can define which districts each organizer should be in charge of.  Dynamically colorizing maps requires vector tiles.  I'll demo the system, talk about some of the technical challenges we faced and show how we surmounted them."
     length: "10"
 
   -
