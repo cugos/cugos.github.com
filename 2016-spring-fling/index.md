@@ -166,6 +166,46 @@ schedule:
             name: Julie Goldberg
             image: https://avatars2.githubusercontent.com/u/5659674?v=3&s=460
             company: EmpowerEngine
+  -
+    type: time
+    title: "2:00 PM - Afternoon workshops"
+    description: "Time to get your hands dirty. All of the following workshops will run at the same time, so plan on sticking with one. We suggest bringing your own laptop but we can partner up if you are unable to bring one."
+  -
+    type: talk
+    title: Introduction to Mapbox Studio
+    description: Mapbox Studio allows you to style your own data ready to be served as map tiles for the web and mobile platforms. This introduction will go through an overview of Mapbox tools, how to upload your own data, style it, and visualize it. Great for beginners and experts alike!
+    speakers:
+        - 
+            name: Rafa Gutierrez
+            image: https://avatars2.githubusercontent.com/u/134753?v=3&s=460
+            company: Mapbox
+        -
+            name: Manny Lopez
+            image: https://avatars3.githubusercontent.com/u/3945073?v=3&s=460
+            company: Mapbox
+  -
+    type: talk
+    title: Creating a Node.js & Python webservice for executing geospatial commands
+    description: This workshop will break into smaller groups with the goal of creating a webserve that allows a user to upload data via an API and execute spatial operations accordingly. The goal is to learn about putting tools together.
+    speakers:
+        -
+            name: Helpful Cugosians
+            image: https://avatars1.githubusercontent.com/u/740560?v=3&s=200
+            company: CUGOS
+  -
+    type: talk
+    title: Contributing to Open Source 101
+    description: Interested in contributing to open source projects? Want to learn about Git and GitHub? This is going to be a beginner-focused run-through of how to get up and running with the open source geo community. Will take a look at bboxfinder.com as a project example, as well as the cugos.org website, which is hosted on GitHub.
+    speakers:
+        -
+            name: Helpful Cugosians
+            image: https://avatars1.githubusercontent.com/u/740560?v=3&s=200
+            company: CUGOS
+  -
+    type: time
+    title: 5-7pm - Social at Big Time Brewery
+    description: Rinse down all of the hard learning with a casual social at a local favorite in the University District. Check out bigtimebrewery.com for a peak at their selection of food and drinks.
+
 
 event_sponsors_platinum:
   -
