@@ -185,17 +185,8 @@ schedule:
             company: Mapbox
   -
     type: talk
-    title: Creating a Node.js & Python webservice for executing geospatial commands
-    description: This workshop will break into smaller groups with the goal of creating a webserve that allows a user to upload data via an API and execute spatial operations accordingly. The goal is to learn about putting tools together.
-    speakers:
-        -
-            name: Helpful Cugosians
-            image: https://avatars1.githubusercontent.com/u/740560?v=3&s=200
-            company: CUGOS
-  -
-    type: talk
-    title: Contributing to Open Source 101
-    description: Interested in contributing to open source projects? Want to learn about Git and GitHub? This is going to be a beginner-focused run-through of how to get up and running with the open source geo community. Will take a look at bboxfinder.com as a project example, as well as the cugos.org website, which is hosted on GitHub.
+    title: TBD
+    description: We are working on putting together other workshops that are friendly to beginners and experienced developers alike. Stay tuned!
     speakers:
         -
             name: Helpful Cugosians
