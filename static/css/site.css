@@ -622,46 +622,32 @@ nav {
   }
 }
 
-.speakers {
-  margin-bottom: 2em;
-}
 .speaker {
-  float: left;
-  width: 50%;
-  box-sizing: border-box;
-  height: 275px;
-  padding: 1em;
-  background: white;
-  border-right: 3px solid #e5e5e5;
-  border-bottom: 3px solid #e5e5e5;
+  float: right;
+  width: 100px;
+  margin-left: 1em;
+  text-align: center;
 }
 .speaker-image {
   width: 100%;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-bottom: .5em;
+  border: 2px solid #f6f6f6;
+}
+.speaker-image img {
+  width: 100%;
   height: auto;
-  margin-bottom: 1em;
 }
 .speaker-name,
-.speaker-info {
+.speaker-company {
+  font-size: 0.7em;
   margin: 0;
 }
-.speaker-name {
-  font-weight: 900;
-  font-size: 1.2em;
-}
-.speaker-info {
-  font-weight: 100;
-  font-size: 0.8em;
-}
-@media screen and (min-width:41em) {
-  .speaker {
-    width: 25%;
-    height: 250px;
-  }
-}
-@media screen and (min-width:56em) {
-  .speaker {
-    height: 300px;
-  }
+.speaker-name {}
+.speaker-company {
+  color: #c0c0c0;
 }
 
 .schedule {}
@@ -681,9 +667,10 @@ nav {
   color:#f6f6f6;
 }
 .schedule-block.talk {
-  padding:10px;
+  padding:1em;
   background-color:white;
 }
+
 .schedule-block-title,
 .schedule-block-name,
 .schedule-block-description {

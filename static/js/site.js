@@ -25,7 +25,31 @@ $(document).ready(function(){
    */
   var mapElems = document.getElementsByClassName('map-marker');
   if (mapElems.length > 0) {
-    for ( var m = 0; m < mapElems.length; m++ ) buildMapMarker(mapElems[m]);
+    for ( var m = 0; m < mapElems.length; m++ ) {
+      if (mapElems[m].hasChildNodes()) {
+        var mrks = [];
+        for (var i = 0; i < mapElems[m].childNodes.length; i++) {
+          if (mapElems[m].childNodes[i].className === 'marker-elem') {
+            var mrk = {
+              latitude: mapElems[m].childNodes[i].getAttribute('data-latitude'),
+              longitude: mapElems[m].childNodes[i].getAttribute('data-longitude'),
+              icon: mapElems[m].childNodes[i].getAttribute('data-icon'),
+              color: mapElems[m].childNodes[i].getAttribute('data-color'),
+              content: mapElems[m].childNodes[i].getAttribute('data-popup')
+            };
+            mrks.push(mrk);
+          }
+        }
+        buildMapMarker(mapElems[m], mrks);
+      } else {
+        buildMapMarker(mapElems[m]);
+      }
+    }
+  }
+
+  var mapMarkers = document.getElementsByClassName('marker-elem');
+  if (mapMarkers.length > 0) {
+
   }
 
   /* PERSON HOVER
@@ -45,18 +69,46 @@ $(document).ready(function(){
 
 });
 
-function buildMapMarker(elem) {
+function buildMapMarker(elem, markers) {
+
   L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
-  var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
-  var map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 14);
+  
+  
+  var map;
+  if (!markers) {
+    var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
+    map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 14);
+    var marker = L.marker(coordinates, {
+      icon: L.mapbox.marker.icon({
+        'marker-size': 'large',
+        'marker-symbol': 'building',
+        'marker-color': '#3f75a2'
+      })
+    }).addTo(map);
+    if (elem.getAttribute('data-popup')) marker.bindPopup(elem.getAttribute('data-popup'));
+  } else {
+    map = L.mapbox.map(elem.id, 'mapbox.streets').setView([0,0], 3);
+    var group = L.mapbox.featureLayer();
+    for (var l = 0; l < markers.length; l++) {
+      var mark = createMarker(markers[l]);
+      group.addLayer(mark);
+    }
+    group.addTo(map);
+    map.fitBounds(group.getBounds(), {padding: [20, 20]});
+  }
+
   if (!elem.getAttribute('data-scrollZoom')) map.scrollWheelZoom.disable();
-  var marker = L.marker(coordinates, {
+  maps.push(map);
+}
+
+function createMarker(info) {
+  var marker = L.marker([info.latitude, info.longitude], {
     icon: L.mapbox.marker.icon({
       'marker-size': 'large',
-      'marker-symbol': 'building',
-      'marker-color': '#3f75a2'
+      'marker-symbol': info.icon || 'star',
+      'marker-color': info.color || '#3f75a2'
     })
-  }).addTo(map);
-  if (elem.getAttribute('data-popup')) marker.bindPopup(elem.getAttribute('data-popup'));
-  maps.push(map);
+  });
+  if (info.content) marker.bindPopup(info.content);
+  return marker;
 }

@@ -10,8 +10,26 @@ announcement: "As of Monday, March 21st we have sold out of tickets for the Spri
 event_header-image: 2016springfling/header.jpg
 event_header-credit: Aaron Racicot
 event_register-url: https://www.eventbrite.com/e/cugos-spring-fling-2016-tickets-21978297680
+markers:
+    -
+        name: Anderson Hall
+        lat: 47.651737
+        lng: -122.307540
+        icon: building
+        color: "#FF4136"
+    -
+        name: Big Time Brewery
+        lat: 47.657851
+        lng: -122.313492
+        icon: beer
+        color: "#FFDC00"
+    -
+        name: UW Light Rail Station
+        lat: 47.649745
+        lng: -122.303732
+        icon: rail-metro
+        color: "#F012BE"
 schedule:
-
   -
     type: time
     title: 8:15 AM - Doors Open
@@ -25,61 +43,80 @@ schedule:
     title: 9:15 AM - Keynote
     description: Geo Goodness
   -
-    type: talk
-    name: "Dane Springmeyer - Mapbox"
+    type: talk keynote
     title: "Open Source at Mapbox"
-    description: "Mapbox is built on open source software and collaboration. Dane will recap the history of open development at Mapbox, share stories of how it has shaped our team and culture, and present challenges we face as open source goes mainstream and Mapbox grows"
+    description: "Mapbox is built on open source software and collaboration. Dane will recap the history of open development at Mapbox, share stories of how it has shaped our team and culture, and present challenges they face as open source goes mainstream and Mapbox grows"
+    speakers:
+        -
+            name: Dane Springmeyer
+            image: "https://avatars0.githubusercontent.com/u/20300?v=3&s=460"
+            company: Mapbox
   -
     type: time
     title: 9:45 AM - Main Program Talks (20 min each)
     description: Main speaker program
   -
-    type: talk half
-    name: "Caileigh Shoot - MicaSense"
-    image: "/image/caileigh_shoot.png"
-    info: "MicaSense"
+    type: talk
     profile: "http://www.micasense.com/about.html"
     title: "Techniques for Mapping Crop Health with Drones"
     description: "The evolution of advanced sensors and UAV technology is transforming how farmers can manage their crop health and maximize their yields. Micasense will provide a summary of the aircraft systems being used worldwide, and overview how multispectral data is collected and processed to provide valuable temporal data and crop health maps to growers"
     length: "20"
+    speakers:
+        -
+            name: Caileigh Shoot
+            image: /image/caileigh_shoot.png
+            company: MicaSense
 
   -
-    type: talk half
-    name: "Sarah Battersby - Tableau"
-    image: "https://research.tableau.com/sites/default/files/Sarah900x890_2x.jpg"
-    info: "Tableau"
+    type: talk
     profile: "https://research.tableau.com/user/sarah-battersby"
     title: "Doing Spatial Binning Right in a Projected World"
     description: "Spatial binning, like hexbin maps, is a great way to aggregate dense datasets.  However, non-equal area map projections present an interesting challenge, particularly for web maps using Web Mercator (which is what just about every tile map server is going to give you).   In this presentation I discuss a method for identifying “safe zones” to minimize binning problems in Web Mercator.  Don’t let bad hexbins happen to your good data"
     length: "20"
+    speakers:
+        -
+            name: Sarah Battersby
+            image: https://research.tableau.com/sites/default/files/Sarah900x890_2x.jpg
+            company: Tableau
   -
-    type: talk half
-    name: "Marcus Collins - Placed"
-    image: "https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg"
-    info: "Placed"
+    type: talk
     profile: "http://www.linkedin/in/marcusdcollins"
     title: "Analyzing Geospatial Patterns Derived from Mobile Ad Bid Data"
     description: "A variety of new technologies related to health, city planning, and commerce, etc. rely on human location data from large swaths of the population. A tempting source is location data sent from mobile phones when in-app or mobile web advertising space on the device is sent to ad exchanges for bidding. These \"bid-call\" locations have significant limitations. I will examine how geospatial patterns reveal these limitations in this presentation"
     length: "20"
+    speakers: 
+        -
+            name: Marcus Collins
+            image: https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg
+            company: Placed
 
   -
-    type: talk half
-    name: "Seth Fitzsimmons - Stamen & Nick Hallahan - SpatialDev"
-    image: "https://avatars1.githubusercontent.com/u/45?v=3&s=460"
-    info: "Stamen Design & SpatialDev"
+    type: talk
     profile: "http://v1.stamen.com/studio/seth"
     title: "POSM Goes to Ecuador"
     description: "The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, 'POSM Goes to West Africa'"
     length: "20"
+    speakers: 
+        -
+            name: Seth Fitzsimmons
+            image: https://avatars1.githubusercontent.com/u/45?v=3&s=460
+            company: Stamen Design
+        -
+            name: Nick Hallahan
+            image: https://avatars2.githubusercontent.com/u/556367?v=3&s=460
+            company: SpatialDev
+
   -
     type: talk
-    name: "Britta Ricker - UW Tacoma"
-    image: "https://avatars0.githubusercontent.com/u/1919662?v=3&s=460"
-    info: "University of Washington Tacoma"
     profile: "http://faculty.washington.edu/bricker0/"
     title: "Motivations, practices, and politics of open data in Cape Town, South Africa"
     description: "While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” and are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared"
     length: "20"
+    speakers:
+        -
+            name: Britta Ricker
+            image: https://avatars0.githubusercontent.com/u/1919662?v=3&s=460
+            company: UW-Tacoma
 
   -
     type: time
@@ -90,17 +127,22 @@ schedule:
     title: 1:00 PM - Lightning Talks (10 min each)
     description: Wake me up after pizza
   -
-    type: talk third
-    name: "Daniel Baah & Sarah Bindman - SpatialDev"
-    image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
-    info: "SpatialDev"
+    type: talk
     profile: "https://github.com/danielduhh"
     title: "Cadasta"
     description: "SpatialDev worked with the Cadasta Foundation to create an Open Source land recording system for tracking informal land rights for some of the most vulernable populations. This talk will walk through some of the details involved in creating this newly launched platform."
     length: "10"
-
+    speakers:
+        -
+            name: Daniel Baah
+            image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
+            company: SpatialDev
+        -
+            name: Sarah Bindman
+            image: https://avatars3.githubusercontent.com/u/10539483?v=3&s=400
+            company: SpatialDev
   -
-    type: talk third
+    type: talk
     name: "Evan Derickson"
     image: "/image/derickson_evan.jpg"
     info: ""
@@ -108,134 +150,22 @@ schedule:
     title: "QGIS Shortcuts to ArcGIS Cartographic Hacks"
     description: "Covers improvements QGIS had made on the common cartographic workflow: hillshades that don't muddy map colors, coastal vignettes made in seconds, non-overlapping polygon borders, and rapid figure-ground masking, all without models, scripts, or modifying any source data"
     length: "10"
+    speakers:
+        -
+            name: Evan Derickson
+            image: /image/derickson_evan.jpg
+            company: 
   -
-    type: talk third
-    name: "Julie Goldberg - EmpowerEngine"
-    image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
-    info: ""
+    type: talk
     profile: ""
-    title: ""
-    description: ""
-    length: "10"
-  -
-    type: talk third
-    name: "Beth Schechter - Skillcrush"
-    image: "https://avatars2.githubusercontent.com/u/3361475?v=3&s=400"
-    info: ""
-    profile: ""
-    title: ""
-    description: ""
-    length: "10"
-
-
-
-speakers:
-
-  -
-
-    name: "Dane Springmeyer"
-    image: "https://avatars0.githubusercontent.com/u/20300?v=3&s=460"
-    info: "Mapbox"
-    profile: ""
-    length: "20"
-
-  -
-    name: "Britta Ricker"
-    image: "https://avatars0.githubusercontent.com/u/1919662?v=3&s=460"
-    info: "University of Washington Tacoma"
-    profile: "http://faculty.washington.edu/bricker0/"
-    title: "Motivations, practices, and politics of open data in Cape Town, South Africa"
-    description: "While acting as the World Design Capital in 2014, Cape Town published its first open data sets online. A number of Non-Governmental Organizations are acting as advocates and activists with code exchanges for tracking civic issues and data journalism sprints, while other organizations have been making strides to use open data as a participatory realization of open government. In Cape Town, inclusive hackathons are called “Easter Egg Hunts” are held while the public helps with open data collection through participatory mapping in informal settings. These and other exciting examples of open data in a developing world context will be shared"
-    length: "20"
-
-  -
-    name: "Caileigh Shoot"
-    image: "/image/caileigh_shoot.png"
-    info: "MicaSense"
-    profile: "http://www.micasense.com/about.html"
-    title: "Techniques for Mapping Crop Health with Drones"
-    description: "The evolution of advanced sensors and UAV technology is transforming how farmers can manage their crop health and maximize their yields. Micasense will provide a summary of the aircraft systems being used worldwide, and overview how multispectral data is collected and processed to provide valuable temporal data and crop health maps to growers"
-    length: "20"
-
-  -
-    name: "Sarah Battersby"
-    image: "https://research.tableau.com/sites/default/files/Sarah900x890_2x.jpg"
-    info: "Tableau"
-    profile: "https://research.tableau.com/user/sarah-battersby"
-    title: "Doing Spatial Binning Right in a Projected World"
-    description: "Spatial binning, like hexbin maps, is a great way to aggregate dense datasets.  However, non-equal area map projections present an interesting challenge, particularly for web maps using Web Mercator (which is what just about every tile map server is going to give you).   In this presentation I discuss a method for identifying “safe zones” to minimize binning problems in Web Mercator.  Don’t let bad hexbins happen to your good data"
-    length: "20"
-  -
-    name: "Marcus Collins"
-    image: "https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg"
-    info: "Placed"
-    profile: "http://www.linkedin/in/marcusdcollins"
-    title: "Analyzing Geospatial Patterns Derived from Mobile Ad Bid Data"
-    description: "A variety of new technologies related to health, city planning, and commerce, etc. rely on human location data from large swaths of the population. A tempting source is location data sent from mobile phones when in-app or mobile web advertising space on the device is sent to ad exchanges for bidding. These \"bid-call\" locations have significant limitations. I will examine how geospatial patterns reveal these limitations in this presentation"
-    length: "20"
-
-  -
-    name: "Seth Fitzsimmons"
-    image: "https://avatars1.githubusercontent.com/u/45?v=3&s=460"
-    info: "Stamen Design"
-    profile: "http://v1.stamen.com/studio/seth"
-    title: "POSM Goes to Ecuador"
-    description: "The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, 'POSM Goes to West Africa'"
-    length: "20"
-
-  -
-    name: "Nick Hallahan"
-    image: "https://avatars2.githubusercontent.com/u/556367?v=3&s=460"
-    info: "SpatialDev"
-    profile: "http://github.com/hallahan"
-    title: "POSM Goes to Ecuador"
-    description: "The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, 'POSM Goes to West Africa'"
-    length: "20"
-
-  -
-    name: "Daniel Baah"
-    image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
-    info: "SpatialDev"
-    profile: "https://github.com/danielduhh"
-    title: "Cadasta"
-    description: "Land rights"
-    length: "10"
-
-  -
-    name: "Sarah Bindman"
-    image: "https://avatars3.githubusercontent.com/u/10539483?v=3&s=400"
-    info: "SpatialDev"
-    profile: "https://github.com/sbindman"
-    title: "Cadasta"
-    description: "Land rights"
-    length: "10"
-
-  -
-    name: "Evan Derickson"
-    image: "/image/derickson_evan.jpg"
-    info: ""
-    profile: ""
-    title: ""
-    description: ""
-    length: "10"
-
-  -
-    name: "Julie Goldberg"
-    image: "https://avatars2.githubusercontent.com/u/5659674?v=3&s=460"
-    info: "EmpowerEngine"
-    profile: ""
-    title: "Categorizing Districts in the Browser Thanks to Vector Tiles"
+    title: Categorizing Districts in the Browser Thanks to Vector Tiles
     description: "I'll talk about Empower Engine's newest product, our district categorizer.  Users can make a map showing stakeholders which races are targeted; an organizer can track which precincts they've sent people to canvass, and when the data has been entered; and the campaign manager can define which districts each organizer should be in charge of.  Dynamically colorizing maps requires vector tiles.  I'll demo the system, talk about some of the technical challenges we faced and show how we surmounted them."
     length: "10"
-
-  -
-    name: "Beth Schechter"
-    image: "https://avatars2.githubusercontent.com/u/3361475?v=3&s=400"
-    info: "Skillcrush"
-    profile: ""
-    title: ""
-    description: ""
-    length: "10"
+    speakers:
+        -
+            name: Julie Goldberg
+            image: https://avatars2.githubusercontent.com/u/5659674?v=3&s=460
+            company: EmpowerEngine
 
 event_sponsors_platinum:
   -
@@ -280,6 +210,6 @@ Our number one goal is to make the Spring Fling a welcoming event for everybody.
 
 **Schedule**: The first half of the day is a combination of 20 minute talks and lightening talks. The afternoon will have a number of workshops for beginner and advanced users.
 
-**Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information.
+**Transportation & Parking**: Parking on campus is limited. Check out the [UW parking page](https://www.washington.edu/facilities/transportation/parking-daily-visitor) for more information. Check out the newly opened light rail station just south of Anderson Hall at Huskey stadium - a perfect way to get to campus from downtown.
 
 **Contact**: Send us a message [hello@cugos.org](mailto:hello@cugos.org) to get in touch. Hit us up on twitter [@cugosorg](https://twitter.com/cugosorg)!
