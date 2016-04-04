@@ -217,6 +217,10 @@ event_sponsors_silver:
     image: /image/2015springfling/sponsor-terragis.png
     width: 300px
     link: http://www.terragis.net/
+  -
+    image: /image/2015springfling/sponsor-stamen.png
+    width: 200px
+    link: http://stamen.com/
 event_sponsors_bronze:
   -
     image: /image/2015springfling/sponsor-soundgis.png
