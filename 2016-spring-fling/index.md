@@ -226,7 +226,7 @@ event_sponsors_silver:
     width: 200px
     link: http://stamen.com/
   -
-    image: http://static1.squarespace.com/static/513788d5e4b0988e47dbf980/t/5138fe25e4b0d066f2359658/1459268653185/?format=1000w
+    image: /image/2016springfling/sponsor-aspect.png
     width: 200px
     link: http://www.aspectconsulting.com/
 event_sponsors_bronze:
