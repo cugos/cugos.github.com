@@ -209,7 +209,7 @@ event_sponsors_gold:
     width: 150px
     link: http://www.washington.edu/
   -
-    image: /image/2016springfling/sponsor-spatialdev.png
+    image: /image/2016springfling/sponsor-spatialdev-transparent.png
     width: 297px
     link: http://spatialdev.com/
 event_sponsors_silver:
