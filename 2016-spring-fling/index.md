@@ -239,6 +239,10 @@ event_sponsors_comm:
     image: /image/2015springfling/sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
+  -
+    image: http://bigtimebrewery.com/wp-content/uploads/2015/04/27928042-e1430288937820.png
+    width: 150px
+    link: http://bigtimebrewery.com/
 ---
 
 The CUGOS Spring Fling is a **full day event centered around open source geo**. This is an intensely educational session for practitioners of all things open-source geospatial. If you care about geometry busting workflows, brain dumping academic research, parsing vertices while flying drones, code as well as content, usability through design, then show up and eat free food! Join us for this special all-day-kinda event at the magical University of Washington in Seattle.
