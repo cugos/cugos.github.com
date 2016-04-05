@@ -212,6 +212,10 @@ event_sponsors_gold:
     image: /image/2016springfling/sponsor-spatialdev-transparent.png
     width: 297px
     link: http://spatialdev.com/
+  -
+    image: /image/2016springfling/sponsor-google-cloud-platform.png
+    width: 300px
+    link: https://cloud.google.com/
 event_sponsors_silver:
   -
     image: /image/2015springfling/sponsor-terragis.png
