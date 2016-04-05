@@ -225,6 +225,10 @@ event_sponsors_silver:
     image: /image/2015springfling/sponsor-stamen.png
     width: 200px
     link: http://stamen.com/
+  -
+    image: http://static1.squarespace.com/static/513788d5e4b0988e47dbf980/t/5138fe25e4b0d066f2359658/1459268653185/?format=1000w
+    width: 200px
+    link: http://www.aspectconsulting.com/
 event_sponsors_bronze:
   -
     image: /image/2015springfling/sponsor-soundgis.png
