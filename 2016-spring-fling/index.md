@@ -91,6 +91,15 @@ schedule:
     description: Wake me up after pizza
   -
     type: talk third
+    name: "Clifford Snow - SOTM-US"
+    image: "https://avatars1.githubusercontent.com/u/3290977?v=3&s=460"
+    info: "SpatialDev"
+    profile: "https://github.com/danielduhh"
+    title: "SOTM-US"
+    description: "SOTM-US is coming to Seattle this year. Help!"
+    length: "10"
+  -
+    type: talk third
     name: "Daniel Baah & Sarah Bindman - SpatialDev"
     image: "https://avatars3.githubusercontent.com/u/1947857?v=3&s=400"
     info: "SpatialDev"
