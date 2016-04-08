@@ -227,6 +227,14 @@ event_sponsors_gold:
     image: /image/2016springfling/sponsor-google-cloud-platform.png
     width: 300px
     link: https://cloud.google.com/
+  -
+    image: https://placed-blog.s3.amazonaws.com/srv/blog-source/shared/2013/06/placed_logo_m.png
+    width: 300px
+    link: http://www.placed.com/
+  -
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1280px-AmazonWebservices_Logo.svg.png
+    width: 300px
+    link: http://aws.amazon.com/
 event_sponsors_silver:
   -
     image: /image/2015springfling/sponsor-terragis.png
