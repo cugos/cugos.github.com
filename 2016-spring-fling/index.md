@@ -196,8 +196,8 @@ schedule:
             company: Mapbox
   -
     type: talk
-    title: TBD
-    description: We are working on putting together other workshops that are friendly to beginners and experienced developers alike. Stay tuned!
+    title: POSM Play
+    description: Seth and Nick will bring along the POSM tooling they gave a talk about for us to explore and break.
     speakers:
         -
             name: Helpful Cugosians
