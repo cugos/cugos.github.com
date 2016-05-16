@@ -14,4 +14,5 @@ notes: It's the room with the elk in it.
 Loose agenda:
 =============
 - **[@powersa](https://github.com/powersa)** recaps the Spring Fling!
+- **[@bdhudson](https://github.com/BDHudson)** talks about how water flows through the Greenland Ice Sheet and how he is using a range of geospatial tools to create [probability based hydrologic catchments](https://agu.confex.com/agu/fm15/webprogram/Paper86412.html) to handle uncertainty about where water actually flows!
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
