@@ -8,7 +8,7 @@ excerpt: June CUGOS Monthly Meeting
 lat: 47.624778
 lng: -122.360388
 category: meetings
-notes: It's the building across from Taco Bell/KFC on the NE corner of 3rd Ave W and W Mercer. Look for [Ryan Small](https://github.com/foundatron). 
+notes: It's the building across from Taco Bell/KFC on the NE corner of 3rd Ave W and W Mercer. 
 ---
 
 Loose agenda:
