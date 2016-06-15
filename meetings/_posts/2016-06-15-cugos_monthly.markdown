@@ -13,5 +13,6 @@ notes: It's the building across from Taco Bell/KFC on the NE corner of 3rd Ave W
 
 Loose agenda:
 =============
+- **Michael Rosen** On Open Source Structure from Motion
 - **[Ryan Small](https://github.com/foundatron)** Welcome to Booking.com / Random Hacking 
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
