@@ -40,7 +40,7 @@ h6 {
   font-weight: 600;
 }
 a { text-decoration:none; }
-p { font-weight:100; }
+p, li { font-weight:100; }
 strong { font-weight:900; }
 
 .copyright {
@@ -140,6 +140,7 @@ strong { font-weight:900; }
 .text-gold { color: #FFD700; }
 .text-silver { color: #c0c0c0; }
 .text-bronze { color: #cd7f32; }
+.text-blue { color: #3f75a2; }
 
 .push-right { margin-right: .5em; }
 .push-left { margin-left: .5em; }
@@ -392,12 +393,12 @@ nav {
   }
 }
 #event-map {
-  height:120px;
+  height:200px;
 }
 @media screen and (min-width:56em) {
   #event-map {
     width:100%;
-    height:200px;
+    height:300px;
   }
 }
 .coords {
@@ -597,6 +598,18 @@ nav {
   font-size:25px;
   border-bottom:1px solid #c0c0c0;
 }
+.event-content p {
+  margin: 1.6em 0;
+}
+.event-content a {
+  text-decoration: underline;
+  color: #75a23f;
+  font-weight: 700;
+}
+.event-content img {
+  width: 100%;
+  height: auto;
+}
 @media screen and (min-width:56em) {
   .event-header {
     height:500px;
@@ -607,6 +620,34 @@ nav {
   .event-date {
     font-size:2em;
   }
+}
+
+.speaker {
+  float: right;
+  width: 100px;
+  margin-left: 1em;
+  text-align: center;
+}
+.speaker-image {
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-bottom: .5em;
+  border: 2px solid #f6f6f6;
+}
+.speaker-image img {
+  width: 100%;
+  height: auto;
+}
+.speaker-name,
+.speaker-company {
+  font-size: 0.7em;
+  margin: 0;
+}
+.speaker-name {}
+.speaker-company {
+  color: #c0c0c0;
 }
 
 .schedule {}
@@ -626,9 +667,10 @@ nav {
   color:#f6f6f6;
 }
 .schedule-block.talk {
-  padding:10px;
+  padding:1em;
   background-color:white;
 }
+
 .schedule-block-title,
 .schedule-block-name,
 .schedule-block-description {
@@ -655,11 +697,11 @@ nav {
   }
   .schedule-block.talk.half {
     width:50%;
-    height:175px;
+    height:250px;
   }
   .schedule-block.talk.third {
-    width:33.33333333%;
-    height:180px;
+    width:25%;
+    height:295px;
   }
 }
 
@@ -671,7 +713,7 @@ nav {
 }
 .event-sponsor {
   height:auto;
-  display:block;
+  display:inline-block;
   margin:1em auto;
 }
 @media screen and (min-width:56em) {
@@ -703,7 +745,7 @@ nav {
   font-weight:100;
   font-size:1.4em;
   letter-spacing:.15em;
-  padding:2em;
+  padding:3em;
   text-transform:uppercase;
   background:#333;
   -webkit-background-size: cover;
@@ -721,6 +763,18 @@ nav {
 }
 .alert.event:hover .fa {
   margin-left:25px;
+}
+.alert.blue {
+  background: #3f75a2;
+}
+.alert.blue.no-hover {
+  pointer-events: none;
+}
+.alert.no-margin {
+  margin: 0 auto;
+}
+.alert.no-bump {
+  font-size: 1em;
 }
 
 /* FOOTER */
