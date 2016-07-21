@@ -14,3 +14,5 @@ notes: We'll help prep for SOTM-US. We'll update the site with a more specific l
 Loose agenda:
 =============
 - Do whatever needs to be done to support the SOTM team.
+- 
+- Contact [Active](https://gist.github.com/cliffordsnow/8d8bca707fd0f6db1e86f8966dc64a02) Mappers
