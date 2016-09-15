@@ -15,7 +15,10 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 ## Agenda
 
+- Elisabeth Leaf who is a recent graduate from UW Tacoma of MS in Geospatial Technologies program. She is going to talk about her capstone project that originated from [Husky Line Reserch](http://faculty.washington.edu/bricker0/greenseed.html) incorporating mobile technology, especially sensors with traditional forms of surveys. Title of her talk is Husky Line Mobile App: Adapting transportation studies to our changing technologies.
+
 - You! Interested in speaking? Hit us up at hello@cugos.org.
+
 
 ## Notes
 
