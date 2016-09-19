@@ -17,16 +17,15 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 - **Elisabeth Leaf** who is a recent graduate from UW Tacoma of MS in Geospatial Technologies program. She is going to talk about her capstone project that originated from [Husky Line Reserch](http://faculty.washington.edu/bricker0/greenseed.html) incorporating mobile technology, especially sensors with traditional forms of surveys. Title of her talk is Husky Line Mobile App: Adapting transportation studies to our changing technologies.
 
-- **Jess Hamilton**: The [OpenSidewalks](https://opensidewalks.com/) project ([@opensidewalks](https://twitter.com/opensidewalks)) is working to jumpstart an effort to generate an OSM-based pedestrian network with global coverage. This project emerged as an effort to scale AccessMap which provides routing for people with limited mobility, but we believe this is just one way in which the data can be utilized.  After engaging with the OSM community and drafting a sidewalk schema, our team developed tools to facilitate the import of openly available municipal data.  We are currently working to complete the import of Seattle's sidewalk data and have been documenting the process so that other cities may follow suit.
-
-- **Aaron Racicot**: CUGOS business update. Financial status and officer elections this fall.
+- **Jess Hamilton, Nick Bolton, Anat Caspi**: The [OpenSidewalks](https://opensidewalks.com/) project ([@opensidewalks](https://twitter.com/opensidewalks)) is working to jumpstart an effort to generate an OSM-based pedestrian network with global coverage. This project emerged as an effort to scale AccessMap which provides routing for people with limited mobility, but we believe this is just one way in which the data can be utilized.  After engaging with the OSM community and drafting a sidewalk schema, our team developed tools to facilitate the import of openly available municipal data.  We are currently working to complete the import of Seattle's sidewalk data and have been documenting the process so that other cities may follow suit.
 
 - **[Andrew Powers](https://github.com/powersa)**: Does your spatial timeseries data exceed size limits in CartoDB or needlessly gobble up your free data allotment? Andrew will walk you through simple tools to decrease your record count without comprising cartographic display in the final product.
 
 - **[Sam Matthews](https://github.com/mapsam)** will provide the *State of the Vector Tile* explaining current tools and techniques for encoding & decoding them and briefly describe his research around optimizing vector tiles at Mapbox.
 
-- You! Interested in speaking? Hit us up at hello@cugos.org.
+- **[Aaron Racicot](https://github.com/aaronr)**: CUGOS business update. Financial status and officer elections this fall.
 
+- You! Interested in speaking? Hit us up at hello@cugos.org.
 
 ## Notes
 
