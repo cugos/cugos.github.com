@@ -21,6 +21,8 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 - **Aaron Racicot**: CUGOS business update. Financial status and officer elections this fall.
 
+- **[Andrew Powers](https://github.com/powersa)**: Does your spatial timeseries data exceed size limits in CartoDB or needlessly gobble up your free data allotment? Andrew will walk you through simple tools to decrease your record count without comprising cartographic display in the final product.
+
 - You! Interested in speaking? Hit us up at hello@cugos.org.
 
 
