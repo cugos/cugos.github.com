@@ -23,6 +23,8 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 - **[Andrew Powers](https://github.com/powersa)**: Does your spatial timeseries data exceed size limits in CartoDB or needlessly gobble up your free data allotment? Andrew will walk you through simple tools to decrease your record count without comprising cartographic display in the final product.
 
+- **[Sam Matthews](https://github.com/mapsam)** will provide the *State of the Vector Tile* explaining current tools and techniques for encoding & decoding them and briefly describe his research around optimizing vector tiles at Mapbox.
+
 - You! Interested in speaking? Hit us up at hello@cugos.org.
 
 
