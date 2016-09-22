@@ -27,6 +27,12 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 - You! Interested in speaking? Hit us up at hello@cugos.org.
 
+## Wireless Info
+
+User: event0895
+Password: 38nh/75ks/32aj
+
+
 ## Notes
 
 *Added live, during the meeting!*
