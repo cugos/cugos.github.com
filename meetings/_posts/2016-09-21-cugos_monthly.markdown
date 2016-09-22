@@ -29,7 +29,7 @@ CUGOS is back after a summer break! Anderson hall was under some construction, b
 
 ## Wireless Info
 
-User: event0895
+User: event0895   
 Password: 38nh/75ks/32aj
 
 
