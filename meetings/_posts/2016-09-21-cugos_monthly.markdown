@@ -48,3 +48,19 @@ Started taking a different stance on how to collect data to collect information 
 Some questions/thesis: How can we use mobile technology to improve transportation studies? How can we use mobile sensors to improve mobile transit studies? How can that estimate a user's mode of transportation?
 
 Built a proof-of-concept application that works with Apple's ResearchKit and interacts with the accelerometer to collect user data.
+
+### OpenSidewalks & AccessMap
+
+Standard mapping tools are not great at routing for accessibility needs. In the USA alone, 55m are classified as having "limited mobility", 10/20% of any develped country that is not being served by our mapping applications.
+
+What kind of resources are currently available? Typically static maps that are cluttered, complex, out of date, and non-routable. There's a huge diversity of needs for individuals (i.e. can't use stairs) so static maps don't show the route for any individual user.
+
+**AccessMapSeattle.com** - [github.com/AccessMap](https://github.com/AccessMap)
+
+This project aggregates data from municipal partners to local sidewalks, curb ramps, sidewalk conditions. Inclines are determined by USGS elevation models. 
+
+Data that currently exist in open resources don't connect, are missing sidewalks, and basically don't allow for routing at all. The grant for this project provides the funds to write the necessary algorithms for connecting this data. 
+
+**OpenSidewalks**
+
+Looks into OpenStreetMap annotations for sidewalks, which are typically mapped as attributes to streets, not as their own individual data source. OpenSidewalks is researching a data schema for incorporating sidewalks as their own first-class citizen in OSM. 
