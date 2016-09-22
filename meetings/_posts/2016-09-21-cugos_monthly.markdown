@@ -35,4 +35,16 @@ Password: 38nh/75ks/32aj
 
 ## Notes
 
-*Added live, during the meeting!*
+### Elisabeth Leaf - Husky Line Research Project
+
+Husky Line Research Project that looks at:
+
+1. transit options for UW Tacoma Campus
+1. student perceptions of transit
+1. ways to incorporate tech and GIS into transit studies
+
+Started taking a different stance on how to collect data to collect information to create travel demand models and estimate changes in transportation activity over time. 
+
+Some questions/thesis: How can we use mobile technology to improve transportation studies? How can we use mobile sensors to improve mobile transit studies? How can that estimate a user's mode of transportation?
+
+Built a proof-of-concept application that works with Apple's ResearchKit and interacts with the accelerometer to collect user data.
