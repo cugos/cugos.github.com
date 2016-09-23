@@ -114,8 +114,8 @@ strong { font-weight:900; }
   font-weight:100;
 }
 .content a {
-  color:#75a23f;
-  font-weight:900;
+  color: black;
+  border-bottom: 1px solid black;
 }
 .content img {
   max-width:100%;
@@ -278,18 +278,19 @@ nav {
   color:#333;
   text-decoration:none;
   display:block;
+  border: none;
 }
 #feed .feed-date {
   color:#f6f6f6;
   font-weight:100;
   min-width:46px;
   background-color:#333;
-  padding:.6em 1em;
+  padding:.56em 1em;
   font-weight:.8em;
   display:block;
 }
 #feed .feed-title {
-  padding:.6em 1em;
+  padding:.56em 1em;
   display:block;
 }
 #feed li:hover a {
@@ -307,7 +308,7 @@ nav {
   #feed .feed-date,
   #feed .feed-title {
     display:inline-block;
-    padding:.6em 1em;
+    padding:.56em 1em;
   }
 }
 
@@ -775,6 +776,42 @@ nav {
 }
 .alert.no-bump {
   font-size: 1em;
+}
+
+/* MAIL NOTIFICATION */
+.mailing {
+  padding: 1em;
+  margin: .3em auto;
+  background: #6590b4;
+  position: relative;
+  color: white;
+}
+.mailing span {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.5em;
+}
+.mailing span a {
+  border-bottom: 1px solid white;
+  margin-bottom: 5px;
+  text-decoration: none;
+  color: white;
+}
+.mailing .fa {
+  position: absolute;
+  right: 0.5em;
+  top: 50%;
+  margin-top: -.5em;
+  font-size: 2em;
+}
+.mailing::after {
+  content: " ";
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  margin-top: -20px;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid #6590b4;
 }
 
 /* FOOTER */

@@ -1,34 +1,30 @@
-{% include head.html %}
+---
+layout: default
+---
 
-<div class="container">
+{% if page.alert_text %}
+<a class="alert event" href="{{ page.alert_url }}" style="background-image:url({{ page.alert_image_url }});">
+  {{ page.alert_text }}<i class="fa fa-arrow-right"></i>
+</a>
+{% endif %}
 
-  {% if page.alert_text %}
-  <a class="alert event" href="{{ page.alert_url }}" style="background-image:url({{ page.alert_image_url }});">
-    {{ page.alert_text }}<i class="fa fa-arrow-right"></i>
-  </a>
-  {% endif %}
-
-  <header class="page-header home">
-    <div class="header-info">
-      {% include cugos-svg-logo.html %}
-      <h1>CUGOS</h1>
-    </div>
-  </header>
-
-  {% include next-meeting.html %}
-
-  <div class="chunk intro">
-    <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
+<header class="page-header home">
+  <div class="header-info">
+    {% include cugos-svg-logo.html %}
+    <h1>CUGOS</h1>
   </div>
+</header>
 
-  <div class="main">
+{% include next-meeting.html %}
 
-    <div class="content">
-    	{{ content }}
-    </div>
+<div class="chunk intro">
+  <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
+</div>
 
+<div class="main">
+
+  <div class="content">
+  	{{ content }}
   </div>
 
 </div>
-
-{% include footer.html %}
