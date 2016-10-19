@@ -1,15 +1,18 @@
 ---
 layout: meeting
-title: October 19th, 2016, 6pm - Anderson Hall, UW
+title: CANCELLED - October 19th, 2016, 6pm - Anderson Hall, UW
 location: University of Washington
 address: UW Anderson Hall, Forest Club room 207
 time: 6:00pm
-excerpt: October 19th 2016 CUGOS Monthly Meeting
+excerpt: CANCELLED - October 19th 2016 CUGOS Monthly Meeting
 lat: 47.651737
 lng: -122.307540
 category: meetings
 notes: It's the room with the elk in it.
 ---
+
+# This months meeting has been cancelled.
+# We will pick back up in November!!!
 
 This months meeting conflicts with the last presidential debate, so we are going to take this opportunity to have a low key meeting focused on fixing up some infrastructure items for anyone who wants to help out.  Our regularly scheduled meetings will pick back up in November with some great presentations in the works! 
 
