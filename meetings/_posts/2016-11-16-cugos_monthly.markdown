@@ -17,6 +17,8 @@ notes: It's the room with the elk in it.
 
 - [Ryan Small](http://www.foundatron.com/about/) - "Serverless" geospatial processing with [AWS Lambda](https://aws.amazon.com/lambda/)
 
+- [Jacob Lesser](http://github.com/lesserj) - Toxic Trends Mapper.  Large point display for environmental justice advocacy.
+
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-10-19-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
