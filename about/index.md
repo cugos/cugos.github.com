@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
 weight: 7
-permalink: 
+sidebar:
+  - next-meeting
+  - contact
+  - coc
 ---
 
 About
@@ -18,13 +21,3 @@ Take a look at our [code of conduct](/code-of-conduct)
 History
 =======
 Started in February 2007, CUGOS has quickly grown from a core of three founders to a mailing list of over 100 active members. Loosely based on the FRUGOS group, we have held monthly meetings since inception and are active in local, regional and international FOSS GIS activities. In its second year the group has started to branch out into other activities such as hosting code sprints and actively working toward hosting a regional FOSS4G mini-conference.
-
-Contact
-=======
-**Email:**  
-hello@cugos.org
-
-**Address:**  
-CUGOS  
-P.O. Box 1614  
-Langley, WA 98260

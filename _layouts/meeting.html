@@ -9,24 +9,28 @@ layout: default
   </div>
 </header>
 
-<div class="meeting-info">
-  <h2>CUGOS Meeting</h2>
-  <h4 class="date">{{ page.date | date_to_string }} | <strong>{{ page.time }}</strong></h4>
-  <p class="location">Host: {{ page.location }}</p>
-  <p class="address">{{ page.address }}</p>
-  <p class="notes">{{ page.notes }}</p>
-</div>
+<div class="content cf">
 
-<div id="meeting-map" 
-     class="map-marker"
-     data-latitude="{{ page.lat }}"
-     data-longitude="{{ page.lng }}"
-     data-popup="{{ page.address }}"></div>
+  <div class="content-side">
+    <div class="side-info">
+      <h2>Meeting Info</h2>
+      <p class="meeting-info-item"><span>Date & time</span><br>{{ page.date | date_to_string }}, {{ page.time }}</p>
+      <p class="meeting-info-item"><span>Host</span><br>{{ page.location }}</p>
+      <p class="meeting-info-item"><span>Address</span><br>{{ page.address }}</p>
+      <p class="meeting-info-item">{{ page.notes }}</p>
+    </div>
+    <div id="map"
+         class="meeting-map map-marker"
+         data-latitude="{{ page.lat }}"
+         data-longitude="{{ page.lng }}"
+         data-popup="{{ page.address }}"></div>
+    <p class="coords">{{ page.lat }}, {{ page.lng }}</p>
+  </div>
 
-<p class="coords">{{ page.lat }}, {{ page.lng }}</p>
+  <div class="content-main">
+    {{ content }}
+  </div>
 
-<div class="content">
-  {{ content }}
 </div>
 
 <!-- list of other meetings -->

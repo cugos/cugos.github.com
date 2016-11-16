@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="content cf">
+
+  <div class="content-side">
+    {% for item in page.sidebar %}
+      {% if item == 'next-meeting' %}
+      <div class="side-info next-meeting">
+        {% for meeting in site.categories.meetings limit: 1  %}
+          <a href={{ meeting.url }}>Next CUGOS meeting: {{ meeting.title }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if item == 'contact' %}
+      <div class="side-info">
+        <h2>Contact</h2>
+        <p><span>Email</span><br>hello@cugos.org</p>
+        <p><span>Address</span><br>CUGOS<br>P.O. Box 1614<br>Langley, WA 98260<br></p>
+      </div>
+      {% endif %}
+
+      {% if item == 'coc' %}
+      <div class="side-info">
+        <h2>Code of Conduct</h2>
+        <p>CUGOS strives to be an inclusive community for anyone interested in open source geography. Before attending our meetings, please familiarize yourself with our <a href="/code-of-conduct/">Code of Conduct</a>.
+      </div>
+      {% endif %}
+
+      {% if item == 'about' %}
+      <div class="side-info">
+        <h2>About CUGOS</h2>
+        <p><a href="/about/">Learn more</a> about CUGOS, our mission, and our annual reports.</p>
+      </div>
+      {% endif %}
+
+      {% if item == 'mailing-list' %}
+      <div class="side-info">
+        <p>Want to stay up to date with CUGOS news? <a href="https://groups.google.com/forum/#!forum/cugos" target="_blank">Join our Google Group</a>.</p>
+        <p><small>You'll have to request access, we'll approve you ASAP.</small></p>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="content-main">
+    {{ content }}
+  </div>
+
+</div>
