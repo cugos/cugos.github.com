@@ -27,6 +27,8 @@ notes: It's the room with the elk in it.
 
 - Benson Funk Wilder - OSM at the State Department - Benson, a new arrival to the Pacific Northwest, will discuss the ways the State Department and other U.S. Government agencies use open data.
 
+- [David Shean](http://github.com/dshean) - If time allows, I'll offer a long-overdue update on some projects with colorful figures and poorly documented code.
+
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-10-19-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
