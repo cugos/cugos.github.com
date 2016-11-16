@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-- [Aaron Racicot](http://github.com/aaronr) - Update on CUGOS business including our push toward an Annual Business Meeting in December 2016 which will also include CUGOS board elections.
+- [Aaron Racicot](http://github.com/aaronr) - Update on CUGOS business including our push toward an Annual Business Meeting in December 2016 which will also include CUGOS board elections.  We will look at the new information on the [About](/about) page as well as go over the process for the [2016 election](/election/2016)
 
 - [Ben Hudson](http://github.com/bdhudson) - UW's first [GeoHackWeek](https://geohackweek.github.io/) is in progress! It is a mix of tutorials and [unconference](https://en.wikipedia.org/wiki/Unconference). I will give an update on what we are doing, highlight new tutorial content that is already [online](https://geohackweek.github.io/nDarrays/), in progress (just [ipython notebooks](https://github.com/geohackweek/visualization/blob/gh-pages/docker/notebooks/index.ipynb)) and share some early lessons learned.
 
