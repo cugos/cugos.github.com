@@ -25,7 +25,7 @@ Committee:
 - Peter Keum
 - Allison Bailey
 
-Votes will be taken on December 21st by a quarum of CUGOS members by secret ballot.  Each member in good standing present at the meeting will have a slip of paper with one space per office and will fill in a single name for each position. Members in good standing who can not physically be at the December 21st meeting can cast a ballot by sending an email to <election@cugos.org> **on December 21st** indicating one vote per position from the slate of nominees. Only emails recieved on December 21st and prior to the start of the meeting (6pm Pacific Time) will be counted. 
+Votes will be taken on December 21st by a quorum of CUGOS members by secret ballot.  Each member in good standing present at the meeting will have a slip of paper with one space per office and will fill in a single name for each position. Members in good standing who can not physically be at the December 21st meeting can cast a ballot by sending an email to <election@cugos.org> **on December 21st** indicating one vote per position from the slate of nominees. Only emails recieved on December 21st and prior to the start of the meeting (6pm Pacific Time) will be counted. 
 
 For absentee ballots (email the day of the election) members will be required to supply 'A statement of current membership' by indicating their participation in any "annual CUGOS events" as required by the CUGOS bylaws.  Examples can be anything from participating in email communication, IRC, CUGOS github projects etc. or any in-person events such as monthly meetings and CUGOS conference events.
 
