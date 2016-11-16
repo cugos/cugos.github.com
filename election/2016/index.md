@@ -25,9 +25,9 @@ Committee:
 - Peter Keum
 - Allison Bailey
 
-Votes will be taken on December 21st by a quarum of CUGOS members by secret ballot.  Each member in good standing present at the meeting will have a slip of paper with one space per office and will fill in a single name for each position. Votes will be counted in private by the current President and one observer.  The election results will be announced before the end of the Annual Business Meeting.
+Votes will be taken on December 21st by a quarum of CUGOS members by secret ballot.  Each member in good standing present at the meeting will have a slip of paper with one space per office and will fill in a single name for each position. Members in good standing who can not physically be at the December 21st meeting can cast a ballot by sending an email to <election@cugos.org> **on December 21st** indicating one vote per position from the slate of nominees. Only emails recieved on December 21st and prior to the start of the meeting (6pm Pacific Time) will be counted. Votes will be counted in private by the Nominating Committee. The election results will be announced before the end of the Annual Business Meeting.
 
-Nominations (one's self or by 3rd party) can be mailed to <hello@cugos.org>
+Nominations (one's self or by 3rd party) can be mailed to <election@cugos.org>
 
 ## President
 
