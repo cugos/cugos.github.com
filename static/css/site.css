@@ -6,7 +6,7 @@
 /* CUGOS CSS */
 body {
   margin:0;padding:0;
-  background-color: #e5e5e5;
+  background-color: #f6f6f6;
   font-family: 'Source Sans Pro', sans-serif;
 }
 .cf:before,
@@ -47,17 +47,6 @@ strong { font-weight:900; }
   padding-top: 5px;
   text-align: center;
 }
-.chunk {
-  padding:10px;
-  background-color:#ffffff;
-}
-@media screen and (min-width:41em) {
-  .chunk {
-    padding:30px;
-    margin-bottom:15px;
-    background-color:#ffffff;
-  }
-}
 
 /* SCAFFOLDING */
 .container {
@@ -67,13 +56,14 @@ strong { font-weight:900; }
 }
 .page-header {
   width:100%;
-  background:url(/image/cascades2.jpg) center center no-repeat;
+  background:url(/image/springfling2015-homepage.jpg) center center no-repeat;
   background-size:cover;
   text-align:center;
   color:#fff;
 }
 .page-header .header-info {
   padding:60px 0;
+  background: rgba(0, 0, 0, 0.6);
 }
 .header-info h1 {
   font-size:3.3em;
@@ -126,7 +116,7 @@ strong { font-weight:900; }
 }
 .side-info.next-meeting {
   color: #fff;
-  background-color: #75a23f;
+  background-color: #D95959;
   padding:0;
 }
 .side-info.next-meeting a {
@@ -280,6 +270,8 @@ nav {
 .intro {
   position:relative;
   overflow:hidden;
+  padding: 1em;
+  background-color:#ffffff;
 }
 .intro p {
   color:#333;
@@ -297,10 +289,34 @@ nav {
 }
 .intro p span {
   padding-bottom:2px;
-  border-bottom:2px solid #3f75a2;
+  border-bottom:2px solid #D95959;
 }
-.intro p span:nth-child(2n) {
-  border-bottom:2px solid #75a23f;
+
+.left,
+.right { 
+  display: block;
+  padding: 1em;
+  min-height: 120px;
+  box-sizing:border-box;  
+  -moz-box-sizing:border-box; 
+  -webkit-box-sizing:border-box;
+  font-size: 1.3em;
+}
+.left { 
+  background: #D95959;
+  color: white;
+}
+.right { 
+  background: #d5d5d5;
+  color: #555;
+}
+.left:hover, .right:hover {
+  opacity: 0.7;
+}
+@media screen and (min-width:56em) {
+  .left, .right { width: 50%; }
+  .left { float: left; }
+  .right { float: right; }
 }
 
 /* MEETING PAGE */
@@ -368,18 +384,6 @@ nav {
 .meeting-map {
   height:200px;
 }
-@media screen and (min-width:56em) {
-  /*.meeting-info {
-    float:left;
-    width:50%;
-    height:300px;
-  }*/
-  /*#meeting-map {
-    width:50%;
-    height:300px;
-    float:right;
-  }*/
-}
 #event-map {
   height:200px;
 }
@@ -395,27 +399,17 @@ nav {
   font-size:.8em;
   color:#999;
 }
-#meetings-list-single {
-  list-style-type: none;
-  margin:0; padding:0;
+.previous-meeting {
+  padding-top: 1em;
+  border-top: 1px solid #d5d5d5;
+  color: #999;
+  margin-bottom: 3em;
 }
-#meetings-list-single li {
-  display:inline-block;
-  margin-bottom:5px;
+.previous-meeting a {
+  color: #555;
 }
-#meetings-list-single li a {
-  display:inline-block;
-  background-color:#fff;
-  color:#333;
-  padding:.5em 1em;
-}
-#meetings-list-single li a:hover {
-  background-color:#333;
-  color:#e5e5e5;
-}
-#meetings-list-single li a.active {
-  background-color:#3f75a2;
-  color:#f6f6f6;
+.all-meetings {
+  float: right;
 }
 
 /* PEOPLE */
@@ -724,10 +718,6 @@ nav {
   color:#f6f6f6;
   margin:.3em auto;
 }
-.alert:hover {
-  background-color:#333;
-  color:#f6f6f6;
-}
 .alert.event {
   font-family: 'Dosis', sans-serif;
   font-weight:100;
@@ -741,6 +731,12 @@ nav {
   -o-background-size: cover;
   background-size: cover;
 }
+.alert.blue {
+  background: #3f75a2;
+}
+.alert.red {
+  background: #D95959;
+}
 .alert.event .fa {
   -webkit-transition: .3s;
      -moz-transition: .3s;
@@ -752,9 +748,6 @@ nav {
 .alert.event:hover .fa {
   margin-left:25px;
 }
-.alert.blue {
-  background: #3f75a2;
-}
 .alert.blue.no-hover {
   pointer-events: none;
 }
@@ -764,24 +757,27 @@ nav {
 .alert.no-bump {
   font-size: 1em;
 }
+.alert:hover {
+  background-color:#333;
+  color:#f6f6f6;
+}
 
 /* MAIL NOTIFICATION */
 .mailing {
   padding: 1em;
   margin: .3em auto;
-  background: #6590b4;
+  background: #d5d5d5;
   position: relative;
-  color: white;
+  color: #555;
 }
 .mailing span {
-  font-family: 'Dosis', sans-serif;
   font-size: 1.5em;
 }
 .mailing span a {
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #555;
   margin-bottom: 5px;
   text-decoration: none;
-  color: white;
+  color: #555;
 }
 .mailing .fa {
   position: absolute;
@@ -798,7 +794,7 @@ nav {
   margin-top: -20px;
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
-  border-left: 20px solid #6590b4;
+  border-left: 20px solid #d5d5d5;
 }
 
 /* FOOTER */

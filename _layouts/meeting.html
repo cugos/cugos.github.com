@@ -34,9 +34,7 @@ layout: default
 </div>
 
 <!-- list of other meetings -->
-<h2>Previous Meetings</h2>
-<ul id="meetings-list-single">
-{% for meeting in site.categories.meetings %}
-  <li><a {% if page.url == meeting.url %}class="active"{% endif %} href={{ meeting.url }}>{{ meeting.date | date: "%m/%d/%Y" }}</a></li>
-{% endfor %}
-</ul>
+<p class="previous-meeting">
+  {% include pagination.html %}
+  <span class="all-meetings"><a href="/meetings">All meetings</a></span>
+</p>

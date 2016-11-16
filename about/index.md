@@ -3,9 +3,9 @@ layout: page
 title: About
 weight: 7
 sidebar:
-  - next-meeting
   - contact
   - coc
+  - next-meeting
 ---
 
 About

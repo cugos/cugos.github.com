@@ -10,8 +10,6 @@ We're a group of developers, GIS specialists, designers, and geographers all gat
 
 We [meet regularly](/meetings) on the third wednesday of every month and irregularly on Thursdays at different locations. If you're interested in participating in our community, join the [Google group](https://groups.google.com/forum/#!forum/cugos) and please send a message to <em>hello@cugos.org</em>. CUGOS has its own IRC channel hosted on [Freenode](https://freenode.net/). You can connect to our channel <strong>#cugos</strong>. If you're new to IRC, there's a [neat web client](http://webchat.freenode.net/) so you don't have to download any software.
 
-![working and cugosing](/image/springfling2015-homepage.jpg)
-
 ## Maptime Seattle
 
 CUGOS is the proud parent of [Maptime Seattle](http://maptimesea.github.io), the local branch of the international [Maptime](http://maptime.io) community devoted to teaching and learning of new mapping technologies. The #MaptimeSEA meetings are offset from CUGOS meetings on the first wednesday of every month. The tutorials are fully focused on beginners and ensure that no person is left behind. Check them out at [@MaptimeSEA](http://twitter.com/MaptimeSEA) or on [their meetup page](http://meetup.com/MaptimeSEA).
