@@ -65,4 +65,14 @@ Jacob has been working on a web map called "Toxic Trends Mapper" over at [toxict
 
 **Benson Funk Wilder**
 
-**David Shean**
+Worked for the State Dept in Humanitarian Information Unit for 8 years. He's a human geographer, that became a data-broker at the State Department. Why OSM? Their partners (Peace Corp, USAID) in the field are using the data, so it's in their interest to support it. It's not tactical or field level. His unit helped source better imagery where coverage is suboptimal. Also fit very well with the open gov directives of the Obama Administration. Public diplomacy through mapping.
+
+**David Shean (Iceman)**
+
+He's alive! David has emerged from the dark world of writing his dissertation and is now working on cleaning up the code he used for his work, making it more organized and useable for everyone else! He's going to show us WAIT THE PROJECTOR ISN'T WORKING OKAY WE ARE BACK some awesome photos. 
+
+Previously on The Adventures of Iceman: Imagery of Antarctica has increased dramatically over the past few years, David has been processing it to look at ice shelf movement over time. 
+
+On this episode of The Adventures of Iceman: he's fully funded to do similar work on all of the glaciers in the USA! There are a lot of glaciers. One of the open projects he's working on takes timestamped imagery and downloads snow depth models of the area as well as a composite percent snowcover image. He can use these images to find exposed rock to use as static points in imagery, which are useful for measuring movement over time.
+
+Check out some of his [recent work on GitHub](https://github.com/dshean?tab=repositories).
