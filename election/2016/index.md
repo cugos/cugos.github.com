@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Election 2016
+sidebar:
+  - about
+  - coc
+  - next-meeting
 ---
 
 # 2016 CUGOS Board of Directors Election
