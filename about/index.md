@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
 weight: 7
-permalink: 
+sidebar:
+  - contact
+  - coc
+  - next-meeting
 ---
 
 About
@@ -15,7 +18,7 @@ Mission
 =======
 CUGOS is organized for the purpose of recognizing, supporting and encouraging broad professional growth, education, communication, technical development and service to its members and others in the field of Open Source Geospatial Information Systems (GIS). CUGOS provides broad support, encouragement and recognition for government, academic, and private development and dissemination of accurate and complete spatial data, relevant software, and geospatial products. CUGOS welcomes and supports participation from the public and private sector equally.
 
-Take a look at our [code of conduct](/code-of-conduct)
+Please have a look at our [Code of Conduct](/code-of-conduct).
 
 History
 =======
@@ -50,13 +53,3 @@ Financial Reports
 [P&L - 2012](bank/cugos_pl_2012.pdf){:target="_blank"}  
 [Balance Sheet - 2011](bank/cugos_bs_2011.pdf){:target="_blank"}  
 [P&L - 2011](bank/cugos_pl_2011.pdf){:target="_blank"}  
-
-Contact
-=======
-**Email:**  
-hello@cugos.org
-
-**Address:**  
-CUGOS  
-P.O. Box 1614  
-Langley, WA 98260

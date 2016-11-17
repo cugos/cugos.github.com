@@ -1,0 +1,22 @@
+{% for post in site.categories.meetings %}
+    {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+    {% endif %}
+{% endfor %}
+{% for post in site.categories.meetings %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_post = post.url %}
+        {% assign next_post_date = post.date %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_post = post.url %}
+        {% assign prev_post_date = post.date %}
+    {% endif %}
+{% endfor %}
+{% if next_post %}
+    Next meeting: <a href="{{ next_post }}">{{ next_post_date | date: "%m/%d/%Y" }}</a>&nbsp;&nbsp;
+{% endif %}
+{% if prev_post %}
+    Previous meeting: <a href="{{ prev_post }}">{{ prev_post_date | date: "%m/%d/%Y" }}</a>
+{% endif %}

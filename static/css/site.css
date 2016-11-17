@@ -6,8 +6,8 @@
 /* CUGOS CSS */
 body {
   margin:0;padding:0;
-  background-color: #e5e5e5;
-  font-family: 'Nunito', sans-serif;
+  background-color: #f6f6f6;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 .cf:before,
 .cf:after {
@@ -47,17 +47,6 @@ strong { font-weight:900; }
   padding-top: 5px;
   text-align: center;
 }
-.chunk {
-  padding:10px;
-  background-color:#ffffff;
-}
-@media screen and (min-width:41em) {
-  .chunk {
-    padding:30px;
-    margin-bottom:15px;
-    background-color:#ffffff;
-  }
-}
 
 /* SCAFFOLDING */
 .container {
@@ -67,13 +56,14 @@ strong { font-weight:900; }
 }
 .page-header {
   width:100%;
-  background:url(/image/cascades2.jpg) center center no-repeat;
+  background:url(/image/springfling2015-homepage.jpg) center center no-repeat;
   background-size:cover;
   text-align:center;
   color:#fff;
 }
 .page-header .header-info {
   padding:60px 0;
+  background: rgba(0, 0, 0, 0.6);
 }
 .header-info h1 {
   font-size:3.3em;
@@ -111,11 +101,46 @@ strong { font-weight:900; }
   }
 }
 .content {
-  font-weight:100;
+  line-height: 1.5em;
 }
+.content-main {}
+.side-info {
+  background-color:#fff;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  padding:1px 1em;
+  font-size: 0.85em;
+  line-height: 1.25em;
+  margin-bottom: .4em;
+}
+.side-info.next-meeting {
+  color: #fff;
+  background-color: #D95959;
+  padding:0;
+}
+.side-info.next-meeting a {
+  padding: 1em;
+  display: block;
+  color: #fff;
+}
+.side-info.next-meeting a:hover {
+  background: #333;
+}
+
+@media screen and (min-width:56em) {
+  .content .content-main {
+    float: left;
+    width: 70%;
+  }
+  .content .content-side {
+    float: right;
+    width: 25%;
+  }
+}
+
 .content a {
-  color: black;
-  border-bottom: 1px solid black;
+  color: #75a23f;
 }
 .content img {
   max-width:100%;
@@ -128,6 +153,9 @@ strong { font-weight:900; }
 .content hr {
   border:none;
   border-top:1px dashed #333;
+}
+.content-main h3 {
+  font-weight: 600;
 }
 @media screen and (min-width:41em) {
   .content {
@@ -242,6 +270,8 @@ nav {
 .intro {
   position:relative;
   overflow:hidden;
+  padding: 1em;
+  background-color:#ffffff;
 }
 .intro p {
   color:#333;
@@ -259,59 +289,35 @@ nav {
 }
 .intro p span {
   padding-bottom:2px;
-  border-bottom:2px solid #3f75a2;
-}
-.intro p span:nth-child(2n) {
-  border-bottom:2px solid #75a23f;
+  border-bottom:2px solid #D95959;
 }
 
-#feed {
-  list-style-type: none;
-  margin:0;padding:0;
+.left,
+.right { 
+  display: block;
+  padding: 1em;
+  min-height: 120px;
+  box-sizing:border-box;  
+  -moz-box-sizing:border-box; 
+  -webkit-box-sizing:border-box;
+  font-size: 1.3em;
 }
-#feed li {
-  margin-bottom:15px;
-  background-color:#fff;
+.left { 
+  background: #D95959;
+  color: white;
 }
-#feed li a {
-  padding:0;
-  color:#333;
-  text-decoration:none;
-  display:block;
-  border: none;
+.right { 
+  background: #d5d5d5;
+  color: #555;
 }
-#feed .feed-date {
-  color:#f6f6f6;
-  font-weight:100;
-  min-width:46px;
-  background-color:#333;
-  padding:.56em 1em;
-  font-weight:.8em;
-  display:block;
-}
-#feed .feed-title {
-  padding:.56em 1em;
-  display:block;
-}
-#feed li:hover a {
-  background-color:#75a23f;
-  color:#f6f6f6;
-  border:none;
+.left:hover, .right:hover {
+  opacity: 0.7;
 }
 @media screen and (min-width:56em) {
-  #feed li {
-    padding:0;
-  }
-  #feed li a {
-    display:block;
-  }
-  #feed .feed-date,
-  #feed .feed-title {
-    display:inline-block;
-    padding:.56em 1em;
-  }
+  .left, .right { width: 50%; }
+  .left { float: left; }
+  .right { float: right; }
 }
-
 
 /* MEETING PAGE */
 .meetings-desc {
@@ -371,27 +377,12 @@ nav {
 .page-header.meeting {
   background-image:url(/image/header-from-above.png);
 }
-.meeting-info {
-  background-color:#fff;
-  box-sizing:border-box;
-  -moz-box-sizing:border-box;
-  -webkit-box-sizing:border-box;
-  padding:1px 15px;
+.meeting-info-item span,
+.side-info span {
+  color: #999;
 }
-#meeting-map {
-  height:120px;
-}
-@media screen and (min-width:56em) {
-  .meeting-info {
-    float:left;
-    width:50%;
-    height:300px;
-  }
-  #meeting-map {
-    width:50%;
-    height:300px;
-    float:right;
-  }
+.meeting-map {
+  height:200px;
 }
 #event-map {
   height:200px;
@@ -408,27 +399,17 @@ nav {
   font-size:.8em;
   color:#999;
 }
-#meetings-list-single {
-  list-style-type: none;
-  margin:0; padding:0;
+.previous-meeting {
+  padding-top: 1em;
+  border-top: 1px solid #d5d5d5;
+  color: #999;
+  margin-bottom: 3em;
 }
-#meetings-list-single li {
-  display:inline-block;
-  margin-bottom:5px;
+.previous-meeting a {
+  color: #555;
 }
-#meetings-list-single li a {
-  display:inline-block;
-  background-color:#fff;
-  color:#333;
-  padding:.5em 1em;
-}
-#meetings-list-single li a:hover {
-  background-color:#333;
-  color:#e5e5e5;
-}
-#meetings-list-single li a.active {
-  background-color:#3f75a2;
-  color:#f6f6f6;
+.all-meetings {
+  float: right;
 }
 
 /* PEOPLE */
@@ -495,37 +476,37 @@ nav {
   color:#fff;
 }
 
-#blog-posts {
+.posts {
   margin:0;
   padding:0;
   list-style-type: none;
 }
-#blog-posts li {
+.posts li {
   margin:5px;
   background-color:#fff;
 }
-#blog-posts li a {
+.posts li a {
   padding:.5em 1em;
   display:block;
   color:#333;
 }
-#blog-posts li a:hover {
-  background-color:#75a23f;
+.posts li a:hover {
+  background-color:#333;
   color:#f6f6f6;
 }
-#blog-posts li a:hover .blog-date {
-  color:#222;
+.posts li a:hover .blog-date {
+  color:#fff;
 }
-.blog-date {
+.post-date {
   font-weight:100;
   color:#999;
   margin-right:15px;
 }
-.blog-post a.current {
+.post a.current {
   background-color:#3f75a2;
   color:#f6f6f6;
 }
-.blog-post a.current .blog-date {
+.post a.current .blog-date {
   color:#222;
 }
 
@@ -737,10 +718,6 @@ nav {
   color:#f6f6f6;
   margin:.3em auto;
 }
-.alert:hover {
-  background-color:#333;
-  color:#f6f6f6;
-}
 .alert.event {
   font-family: 'Dosis', sans-serif;
   font-weight:100;
@@ -754,6 +731,12 @@ nav {
   -o-background-size: cover;
   background-size: cover;
 }
+.alert.blue {
+  background: #3f75a2;
+}
+.alert.red {
+  background: #D95959;
+}
 .alert.event .fa {
   -webkit-transition: .3s;
      -moz-transition: .3s;
@@ -765,9 +748,6 @@ nav {
 .alert.event:hover .fa {
   margin-left:25px;
 }
-.alert.blue {
-  background: #3f75a2;
-}
 .alert.blue.no-hover {
   pointer-events: none;
 }
@@ -777,24 +757,27 @@ nav {
 .alert.no-bump {
   font-size: 1em;
 }
+.alert:hover {
+  background-color:#333;
+  color:#f6f6f6;
+}
 
 /* MAIL NOTIFICATION */
 .mailing {
   padding: 1em;
   margin: .3em auto;
-  background: #6590b4;
+  background: #d5d5d5;
   position: relative;
-  color: white;
+  color: #555;
 }
 .mailing span {
-  font-family: 'Dosis', sans-serif;
   font-size: 1.5em;
 }
 .mailing span a {
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #555;
   margin-bottom: 5px;
   text-decoration: none;
-  color: white;
+  color: #555;
 }
 .mailing .fa {
   position: absolute;
@@ -811,7 +794,7 @@ nav {
   margin-top: -20px;
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
-  border-left: 20px solid #6590b4;
+  border-left: 20px solid #d5d5d5;
 }
 
 /* FOOTER */

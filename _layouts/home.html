@@ -15,16 +15,27 @@ layout: default
   </div>
 </header>
 
-{% include next-meeting.html %}
-
-<div class="chunk intro">
+<div class="intro">
   <p>The Cascadia chapter of OSGeo is focused on learning and teaching about <span>open data</span>, <span>maps</span>, and <span>spatial applications</span>. We like code and good conversation.</p>
 </div>
 
-<div class="main">
+<div class="cf">
+  {% for meeting in site.categories.meetings limit: 1  %}
+  <a class="left" href={{ meeting.url }}>
+    <strong>Next CUGOS meeting</strong><br>
+    <small><i class="fa fa-calendar"></i> {{ meeting.title }}</small><br>
+    <small>Seattle, WA</small>
+  </a>
+  {% endfor %}
 
+  <a class="right" href="https://groups.google.com/forum/#!forum/cugos" target="_blank">
+    Want to stay up to date with CUGOS news? Join our Google Group. <i class="fa fa-envelope-o"></i><br>
+    <small>You'll have to request access, we'll approve you ASAP.</small>
+  </a>
+</div>
+
+<div class="main">
   <div class="content">
   	{{ content }}
   </div>
-
 </div>
