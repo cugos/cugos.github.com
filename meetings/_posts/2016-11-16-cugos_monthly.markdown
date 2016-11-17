@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-- [Nick Peihl](http://github.com/nickpeihl) - Loading Your Web Maps _Almost_ Instantly Using Service Workers. How and why we're using Service Workers with San Juan County's homegrown [Polaris](http://github.com/sjcgis/polarisjs) web appliccation.
+- [Nick Peihl](http://github.com/nickpeihl) - Loading Your Web Maps _Almost_ Instantly Using Service Workers. How and why we're using Service Workers with San Juan County's homegrown [Polaris](http://github.com/sjcgis/polarisjs) web appliccation. [Slides](http://npeihl.com/service-worker-presentation)
 
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-10-19-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
