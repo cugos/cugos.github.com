@@ -17,7 +17,7 @@ notes: It's the room with the elk in it.
 
 - [Ben Hudson](http://github.com/bdhudson) - UW's first [GeoHackWeek](https://geohackweek.github.io/) is in progress! It is a mix of tutorials and [unconference](https://en.wikipedia.org/wiki/Unconference). I will give an update on what we are doing, highlight new tutorial content that is already [online](https://geohackweek.github.io/nDarrays/), in progress (just [ipython notebooks](https://github.com/geohackweek/visualization/blob/gh-pages/docker/notebooks/index.ipynb)) and share some early lessons learned.
 
-- [Nick Peihl](http://github.com/nickpeihl) - Loading Your Web Maps _Almost_ Instantly Using Service Workers. How and why we're using Service Workers with San Juan County's homegrown [Polaris](http://github.com/sjcgis/polarisjs) web appliccation.
+- [Nick Peihl](http://github.com/nickpeihl) - Loading Your Web Maps _Almost_ Instantly Using Service Workers. How and why we're using Service Workers with San Juan County's homegrown [Polaris](http://github.com/sjcgis/polarisjs) web appliccation. [Slides](http://npeihl.com/service-worker-presentation).
 
 - [Ryan Small](http://www.foundatron.com/about/) - "Serverless" geospatial processing with [AWS Lambda](https://aws.amazon.com/lambda/)
 
@@ -49,7 +49,7 @@ Ben has been coordinating [GeoHackWeek](https://geohackweek.github.io/) at UW th
 
 **Nick Peihl**
 
-Web map loading depends on a lot of different things. He builds web maps for San Juan County. Makes a lot web maps for computers and mobile phones. Performance matters, very slow internet up there. Even cell connectivity is sparse once you leave town. Polaris, the county map portal, serves many functions. Nick used a lot of Open Source when building it, so he released as an Open Source Project, [PolarisJS](https://github.com/SJCGIS/PolarisJS). It's big though, and not very responsive on mobile. He's used [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/) to optimize for use in San Juan County. For the base website, he got everything into the browser cache, so even if you're offline, you have a site. He demos offline and on a 2G connection and it works pretty darn well. Good work Nick!
+Web map loading depends on a lot of different things. He builds web maps for San Juan County. Makes a lot web maps for computers and mobile phones. Performance matters, very slow internet up there. Even cell connectivity is sparse once you leave town. Polaris, the county map portal, serves many functions. Nick used a lot of Open Source when building it, so he released as an Open Source Project, [PolarisJS](https://github.com/SJCGIS/PolarisJS). It's big though, and not very responsive on mobile. He's used [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/) to optimize for use in San Juan County. For the base website, he got everything into the browser cache, so even if you're offline, you have a site. He demos offline and on a 2G connection and it works pretty darn well. Good work Nick! [Slides](http://npeihl.com/service-worker-presentation).
 
 **Ryan Small**
 
