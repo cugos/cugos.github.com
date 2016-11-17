@@ -77,7 +77,7 @@ function buildMapMarker(elem, markers) {
   var map;
   if (!markers) {
     var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
-    map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 14);
+    map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 12);
     var marker = L.marker(coordinates, {
       icon: L.mapbox.marker.icon({
         'marker-size': 'large',

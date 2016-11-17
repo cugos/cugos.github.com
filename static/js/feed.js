@@ -11,10 +11,13 @@ function init() {
         for (var i = 0; i < p.length; i++) {
           entry = p[i];
           var d = new Date(entry.publishedDate);
-          var month = d.getMonth() + 1;
-          var day = d.getDate();
-          var date = month + '/' + day;
-          $('#feed').append('<li><a href="'+entry.link+'" target="_blank"><span class="feed-date">'+date+'</span><span class="feed-title">'+entry.title+'</span></a></li>');
+          var month = (d.getMonth() + 1)+'';
+          month = month.length === 1 ? '0' + month : month;
+          var day = d.getDate()+'';
+          day = day.length === 1 ? '0' + day : day;
+          var year = d.getFullYear();
+          var date = month + '/' + day + '/' + year;
+          $('#feed').append('<li class="post"><a href="'+entry.link+'" target="_blank"><span class="post-date">'+date+'</span>'+entry.title+'</a></li>');
         }
       }
     });

@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: page
 title: Code of Conduct
+sidebar:
+  - contact
+  - about
+  - mailing-list
 ---
 
 # CUGOS Code of Conduct
