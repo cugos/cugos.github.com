@@ -26,30 +26,30 @@ Started in February 2007, CUGOS has quickly grown from a core of three founders 
 
 Bylaws
 =======
-[Current Bylaws](bylaw/cugos_bylaws_2016.pdf){:target="_blank"}
+* [Current Bylaws](bylaw/cugos_bylaws_2016.pdf){:target="_blank"}
 
 Incorporation Documents
 =======
-[Articles of Incorporation](inc/articles_of_incorporation.pdf){:target="_blank"}  
-[Amendment to Arcitles of Incorporation - 2013](inc/cugos_amend_articles_of_inc_090313.pdf){:target="_blank"}  
-[IRS EIN Number](inc/cugos-ein.pdf){:target="_blank"}  
-[IRS 501c6 Exemption Approval Letter](inc/cugos_exemption_approval_letter.pdf){:target="_blank"}  
-[CUGOS w9](inc/cugos_w9.pdf){:target="_blank"}  
+* [Articles of Incorporation](inc/articles_of_incorporation.pdf){:target="_blank"}  
+* [Amendment to Arcitles of Incorporation - 2013](inc/cugos_amend_articles_of_inc_090313.pdf){:target="_blank"}  
+* [IRS EIN Number](inc/cugos-ein.pdf){:target="_blank"}  
+* [IRS 501c6 Exemption Approval Letter](inc/cugos_exemption_approval_letter.pdf){:target="_blank"}  
+* [CUGOS w9](inc/cugos_w9.pdf){:target="_blank"}  
 
 IRS Annual Reports
 =======
-[990 - 2015](inc/990-N-2015-Rec.png){:target="_blank"}  
-[990 - 2013](inc/990-N-2013-Rec.png){:target="_blank"}  
+* [990 - 2015](inc/990-N-2015-Rec.png){:target="_blank"}  
+* [990 - 2013](inc/990-N-2013-Rec.png){:target="_blank"}  
 
 Financial Reports
 =======
-[Balance Sheet - 2015](bank/cugos_bs_2015.pdf){:target="_blank"}  
-[P&L - 2015](bank/cugos_pl_2015.pdf){:target="_blank"}  
-[Balance Sheet - 2014](bank/cugos_bs_2014.pdf){:target="_blank"}  
-[P&L - 2014](bank/cugos_pl_2014.pdf){:target="_blank"}  
-[Balance Sheet - 2013](bank/cugos_bs_2013.pdf){:target="_blank"}  
-[P&L - 2013](bank/cugos_pl_2013.pdf){:target="_blank"}  
-[Balance Sheet - 2012](bank/cugos_bs_2012.pdf){:target="_blank"}  
-[P&L - 2012](bank/cugos_pl_2012.pdf){:target="_blank"}  
-[Balance Sheet - 2011](bank/cugos_bs_2011.pdf){:target="_blank"}  
-[P&L - 2011](bank/cugos_pl_2011.pdf){:target="_blank"}  
+* [Balance Sheet - 2015](bank/cugos_bs_2015.pdf){:target="_blank"}  
+* [P&L - 2015](bank/cugos_pl_2015.pdf){:target="_blank"}  
+* [Balance Sheet - 2014](bank/cugos_bs_2014.pdf){:target="_blank"}  
+* [P&L - 2014](bank/cugos_pl_2014.pdf){:target="_blank"}  
+* [Balance Sheet - 2013](bank/cugos_bs_2013.pdf){:target="_blank"}  
+* [P&L - 2013](bank/cugos_pl_2013.pdf){:target="_blank"}  
+* [Balance Sheet - 2012](bank/cugos_bs_2012.pdf){:target="_blank"}  
+* [P&L - 2012](bank/cugos_pl_2012.pdf){:target="_blank"}  
+* [Balance Sheet - 2011](bank/cugos_bs_2011.pdf){:target="_blank"}  
+* [P&L - 2011](bank/cugos_pl_2011.pdf){:target="_blank"}  
