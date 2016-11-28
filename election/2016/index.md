@@ -51,5 +51,10 @@ Please include with all nominations:
 
 Statement from nominator - "Andrew is a very welcoming leader and has always shown courtesy and effective leadership of the monthly cugos meetings that I have attended." 
 
+- **Sam Matthews**
+
+Statement from nominator - "Sam has updated and maintained CUGOS website with cool features and awesome notes and has been very welcoming new members to the community with very insightful technical help and sharing knowledge."
+
+
 - More names and statements go here...
 
