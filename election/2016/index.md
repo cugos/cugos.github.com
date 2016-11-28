@@ -43,8 +43,13 @@ Please include with all nominations:
     Nomination Statement:
 
 ------------
+------------
 
 ## Candidates
 
-- Names and statement go here
+- **Andrew Powers**
+
+Statement from nominator - "Andrew is a very welcoming leader and has always shown courtesy and effective leadership of the monthly cugos meetings that I have attended." 
+
+- More names and statements go here...
 
