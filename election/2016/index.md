@@ -59,5 +59,13 @@ Statement from nominator - "Sam has updated and maintained CUGOS website with co
 
 Statement from nominator - "I have really valued the effort Christy has put forward by stepping up to lead monthly CUGOS meetings as well as helping plan CUGOS events.  Her willingness to share her professional work experience and insight to the GIS community has also been an inspiration to many at CUGOS.  I really think her perspective and positive attitude would be a super addition to the CUGOS board."
 
+- **Ryan Small**
+
+Statement from nominator - Ryan enjoys making things happen. When given an organizational role he always comes through and exceeds expectations. I have always appreciated his light-hearted approach to organization, and know he'd be a valuable member of the CUGOS board.
+
+- **Debbie Bull**
+
+Statement from nominator - Debbie has always created a welcoming environment at CUGOS. She never hesitates to bring newcomers to the table and is always a source of leveled guidance. With her welcoming presence and connection to the community through King County, Debbie would be an excellent addition to the CUGOS board.
+
 - More names and statements go here...
 
