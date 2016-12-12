@@ -55,9 +55,6 @@ Statement from nominator - "Andrew is a very welcoming leader and has always sho
 
 Statement from nominator - "Sam has updated and maintained CUGOS website with cool features and awesome notes and has been very welcoming new members to the community with very insightful technical help and sharing knowledge."
 
-- **Christy Heaton**
-
-Statement from nominator - "I have really valued the effort Christy has put forward by stepping up to lead monthly CUGOS meetings as well as helping plan CUGOS events.  Her willingness to share her professional work experience and insight to the GIS community has also been an inspiration to many at CUGOS.  I really think her perspective and positive attitude would be a super addition to the CUGOS board."
 
 - **Ryan Small**
 
