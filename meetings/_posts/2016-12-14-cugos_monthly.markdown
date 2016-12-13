@@ -25,6 +25,13 @@ notes: It's the room with the elk in it.
   
 - [Jacob Lesser](http://github.com/lesserj) - Will briefly present his work on a new campus map for Western Washington University
 
+- [Seth Fitzsimmons](https://github.com/mojodna) - Will show off some OpenStreetMap ETL and analytics using AWS Athena. See also:
+  - [AWS Athena](https://aws.amazon.com/athena/)
+  - [Apache ORC](http://orc.apache.org/)
+  - [osm2orc](https://github.com/mojodna/osm2orc)
+  - [Presto](https://prestodb.io/)
+  - [OSM Full History](https://wiki.openstreetmap.org/wiki/Planet.osm/full)
+
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-12-14-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
