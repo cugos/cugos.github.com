@@ -22,6 +22,8 @@ notes: It's the room with the elk in it.
   - Friends, colleagues, and instructors: [Sam](https://github.com/mapsam), [Matt](https://github.com/mattmakesmaps), [Rich](https://github.com/rgdonohue)
   - Purpose:  [Review of West Coast Groundfish Essential Fish Habitat Conservation Areas](http://www.pcouncil.org/groundfish/groundfish-essential-fish-habitat/)
   - **Result**: [New Tool to see proposed Essential Fish Habitat area modifications](http://www.pcouncil.org/2016/11/44904/new-tool-available-to-see-proposed-essential-fish-habitat-trawl-rockfish-conservation-area-modifications/)
+  
+- [Jacob Lesser](http://github.com/lesserj) - Will briefly present his work on a new campus map for Western Washington University
 
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-12-14-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
