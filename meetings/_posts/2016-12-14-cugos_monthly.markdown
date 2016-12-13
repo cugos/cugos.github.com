@@ -32,6 +32,8 @@ notes: It's the room with the elk in it.
   - [Presto](https://prestodb.io/)
   - [OSM Full History](https://wiki.openstreetmap.org/wiki/Planet.osm/full)
 
+- [Emilio Mayorga](https://github.com/emiliom) - "Vector data in Python with GeoPandas"
+
 - PIZZA and DRINKS.  We will spend the last hour of the meeting with some quality end of the year social time.  We are ordering up some pizza's and will have an assortment of drinks on hand.  Please feel free to hang out and chat with your fellow CUGOSians!!!!
 
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-12-14-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
