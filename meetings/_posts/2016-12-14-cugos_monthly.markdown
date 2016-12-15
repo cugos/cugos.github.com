@@ -39,6 +39,9 @@ notes: It's the room with the elk in it.
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2016-12-14-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
+UW NetID: event0308
+Password: 9Q4B_9S4E_8R3X
+Expires: 12/15/2016
 
 ## Notes
 
