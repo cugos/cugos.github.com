@@ -1,13 +1,13 @@
 maps = [];
 
 $(document).ready(function(){
-  
+
   /* NAVIGATION EXPAND
    *
    *
    */
-  $('#nav-expand').on('click', function(){
-    $('#nav').slideToggle(300);
+  $('#menu-expand').on('click', function(){
+    $('#menu').slideToggle(300);
     $(this).toggleClass('open');
     if($(this).hasClass('open')) {
       $(this).html('<i class="fa fa-times"></i>');
@@ -72,8 +72,8 @@ $(document).ready(function(){
 function buildMapMarker(elem, markers) {
 
   L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
-  
-  
+
+
   var map;
   if (!markers) {
     var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
