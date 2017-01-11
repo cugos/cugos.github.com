@@ -180,9 +180,12 @@ nav {
   background-color: #3f75a2;
   border-bottom: none;
   font-family: 'Dosis', sans-serif;
+  padding: 1.2em 0;
 }
-#nav-expand {
-  display:inline-block;
+#menu-expand {
+  position: absolute;
+  right: 0;
+  top: 0;
   width:40px;
   height:40px;
   border:none;
@@ -190,37 +193,37 @@ nav {
   font-size:1.9em;
   color:#f6f6f6;
 }
-#nav-expand:hover {
+#menu-expand:hover {
   cursor:pointer;
   opacity:.8;
 }
-#nav {
+#menu {
   display:none;
-  margin:0; padding:0;
+  margin:0;
+  padding:0;
 }
-#nav li {
+#menu li {
   display:block;
+  padding: 0 .8em;
 }
-#nav li a {
+#menu li a {
   display:block;
   font-weight: 200;
   font-size: 1em;
   color: #e5e5e5;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding:.6em .8em;
+  padding:.6em 0;
+  border-bottom: 2px solid transparent;
 }
-#nav li a:hover,
-#nav li.active a {
-  background-color: #346085;
+#menu li:hover a {
+  border-bottom: 2px solid white;
 }
-#nav li.active a {
+#menu li.active a {
   font-weight:900;
 }
 
 #brand-logo {
-  position:absolute;
-  right:5px;
-  top:0;
   font-size:2em;
   font-weight:900;
   color:#fff;
@@ -236,23 +239,26 @@ nav {
   opacity:.8;
 }
 @media screen and (min-width:41em) {
-  #nav {
+  #menu {
     margin:0;
     padding:0;
-    display:inline-block;
+    display: inline-block;
+    float: right;
   }
-  #nav-expand {
+  #menu-expand {
     display:none;
   }
-  #nav li {
+  #menu li {
     display:inline;
   }
-  #nav li a {
+  #menu li a {
     display:inline-block;
   }
   #brand-logo {
-    float:right;
-    font-size:2em;
+    display: inline-block;
+    float: left;
+    font-size:1.9em;
+    margin-right: 1em;
     font-weight:900;
     color:#fff;
   }
@@ -293,20 +299,20 @@ nav {
 }
 
 .left,
-.right { 
+.right {
   display: block;
   padding: 1em;
   min-height: 120px;
-  box-sizing:border-box;  
-  -moz-box-sizing:border-box; 
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
   -webkit-box-sizing:border-box;
   font-size: 1.3em;
 }
-.left { 
+.left {
   background: #D95959;
   color: white;
 }
-.right { 
+.right {
   background: #d5d5d5;
   color: #555;
 }
