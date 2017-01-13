@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="content cf">
+
+  <div class="content-main">
+    <h1>Board Meeting - {{ page.date | date_to_string }}</h1>
+    <p style="background: white; padding: 1em;"><small><strong>Attendees</strong>: {{page.attendees}}<br>
+       <strong>Location</strong>: {{page.location}}<br>
+       <strong>Time</strong>: {{page.time}}</small></p>
+    {{ content }}
+  </div>
+
+  <div class="content-side">
+    <div class="side-info next-meeting">
+      {% for meeting in site.categories.meetings limit: 1  %}
+        <a href={{ meeting.url }}>Next CUGOS meeting: {{ meeting.title }}</a>
+      {% endfor %}
+    </div>
+
+    <div class="side-info">
+      <h2>Code of Conduct</h2>
+      <p>CUGOS strives to be an inclusive community for anyone interested in open source geography. Before attending our meetings, please familiarize yourself with our <a href="/code-of-conduct/">Code of Conduct</a>.
+    </div>
+
+    <div class="side-info">
+      <h2>About CUGOS</h2>
+      <p><a href="/about/">Learn more</a> about CUGOS, our mission, and our annual reports.</p>
+    </div>
+    <div class="side-info">
+      <p>Want to stay up to date with CUGOS news? <a href="https://groups.google.com/forum/#!forum/cugos" target="_blank">Join our Google Group</a>.</p>
+      <p><small>You'll have to request access, we'll approve you ASAP.</small></p>
+    </div>
+  </div>
+
+</div>

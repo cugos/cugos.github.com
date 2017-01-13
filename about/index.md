@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 weight: 7
 sidebar:
@@ -12,7 +12,7 @@ About
 =====
 CUGOS is organized as an IRS 501(c)(6), not for profit, state wide professional association of Open Source GIS professionals.
 
-Cascadia Users of Geospatial Open Source (CUGOS) was formed in 2007. CUGOS acts as the [Cascadia Chapter](http://wiki.osgeo.org/wiki/Cascadia) of the [OSGeo Foundation](http://www.osgeo.org/).  We are an active group of members who are passionate about open source software, GIS, and our region. We have members from all walks of life, a large spectrum of business and academia, and active OSGeo members (board members, charter members, and active project participants). 
+Cascadia Users of Geospatial Open Source (CUGOS) was formed in 2007. CUGOS acts as the [Cascadia Chapter](http://wiki.osgeo.org/wiki/Cascadia) of the [OSGeo Foundation](http://www.osgeo.org/).  We are an active group of members who are passionate about open source software, GIS, and our region. We have members from all walks of life, a large spectrum of business and academia, and active OSGeo members (board members, charter members, and active project participants).
 
 Mission
 =======
