@@ -1,0 +1,13 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% for meeting in site.categories.meetings limit: 1  %}
+    <meta http-equiv="refresh" content="0; url={{ meeting.url }}" />
+    {% endfor %}
+  </head>
+
+  <body>
+  </body>
+</html>
