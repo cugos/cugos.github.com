@@ -19,6 +19,8 @@ notes: It's the room with the elk in it.
 
 - [@eldang](https://github.com/eldang) will talk briefly about some half-baked ideas to compare different regions' relative OSM coverage completeness, and ask for feedback. Could be very quick, could be a long discussion if people are interested.
 
+- [@sarahbat](https://github.com/sarahbat) will give a short report from the National Geospatial Advisory Committee (NGAC).  Be prepared for thrilling adventures in the Federal Geographic Data Committee (FGDC), National Address Database (NAD), a new batch of committee advisory white papers (freshly approved in December!), and lots of acronyms that I'll explain.  
+
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2017-01-18-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
