@@ -23,6 +23,11 @@ notes: It's the room with the elk in it.
 
 - [@brandonrobertz](https://github.com/brandonrobertz) will give a short presentation about his work with the New Zealand Department of Conservation and their attempts to replace an expensive & proprietary internal reporting tool with an open-source browser-based soltion.
 
+- [@dshean](https://github.com/dshean) will provide an update on newly released and partially documented repos:
+  - [pygeotools](https://github.com/dshean/pygeotools): Command-line tools and Python function libraries for raster (and some vector) geospatial data processing
+  - [imview](https://github.com/dshean/imview): Simple, interactive viewer for raster geospatial data
+  - [demcoreg](https://github.com/dshean/demcoreg): Tools for automated masking and aligning raster data
+
 - You! Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2017-01-18-cugos_monthly.markdown) or hit us up at <hello@cugos.org>.
 
 ## Wireless Info
