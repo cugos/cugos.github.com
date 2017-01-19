@@ -32,7 +32,9 @@ notes: It's the room with the elk in it.
 
 ## Wireless Info
 
-Check back day of...
+UW NetID: event0721
+Password: X6u9-K6k5-Y4y7
+
 
 ## Notes
 
