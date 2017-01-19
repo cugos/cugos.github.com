@@ -47,8 +47,9 @@ Can we us Missing Maps to determine what incomplete/complete looks like? [Missin
 What kind of economic and demographic data would be helpful?
 
 * Lights at night dataset from NOAA could be helpful: https://sos.noaa.gov/Datasets/dataset.php?id=100
-* Afropop
-* Lanscan
+* Worldpop: http://www.worldpop.org.uk/
+* LandScan: http://web.ornl.gov/sci/landscan/index.shtml (proprietary, but higher resolution than Worldpop)
+* Pascal Neis's work on inferring unmapped areas: http://neis-one.org/2016/06/unmapped-places-osm/
 
 **[@sarahbat](https://github.com/sarahbat)** is a member of the National Geospatial Advisory Committee (NGAC), a federal advisory committee. What do they do? Trying to provide adivce and recommendations to the federal government about management of geospatial programs, development of the NSDI, and other recommendations of spatial dataset implementations.
 
