@@ -19,10 +19,15 @@ notes: It's the room with the elk in it.
 
 ## Wireless Info
 
-UW NetID: event0533
+UW NetID: event0533   
 Password: 38LC:66MJ:95DN
 
-
 ## Notes
+
+**Matt Stevenson & Eldan Goldenberg**
+
+
+
+**Andrew Powers**
 
 ---
