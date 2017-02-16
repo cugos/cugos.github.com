@@ -19,7 +19,9 @@ notes: It's the room with the elk in it.
 
 ## Wireless Info
 
-Check back the day of the meeting
+UW NetID: event0533
+Password: 38LC:66MJ:95DN
+
 
 ## Notes
 
