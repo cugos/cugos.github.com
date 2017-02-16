@@ -24,10 +24,40 @@ Password: 38LC:66MJ:95DN
 
 ## Notes
 
-**Matt Stevenson & Eldan Goldenberg**
+**Matt Stevenson & Eldan Goldenberg** - [map](https://coregis.github.io/alternative-voting/) - [slides](https://coregis.github.io/cugos_2017_02_15/#/)
+
+Looking at Alternative Voting Systems, a mapping system driven by spreadsheets. This was produced for the Sightline Institute.
+
+Some background:
+
+Sightline Institute is a thinktank in Seattle that focus on all issues related to sustainability and communities, and champion public policies. They approached Matt with a project that promotes "alternative voting systems" than plurality voting (i.e. the USA's current system).
+
+Map requirements:
+
+* Dynamically updating map
+* Data stored in a Google sheet
+* Clearly distinguish 14 categories of data
+* Include popups containing images, videos, text, links
+* Branded to match Sightline's website
+
+Seeking help & iterating:
+
+* Found some folks to help him out, and that led him to a project called ["GUS"](https://github.com/mapsam/gus) which allows you to create a map from a spreadsheet - here's the project on GitHub. This left Matt with a map that had points, but didn't fulfill the rest of the requirements.
+* He reached out to Eldan to help take GUS to a more sustainable project specifically for Sightline. Eldan was able to work with the data from the spreadsheet to categorize into Leaflet using `featureLayers`, which led to being able to work with the 14 classes of data.
+* The classes of data started, originally, at three. There are three categories of data: ranked choice, cumulative choice, or limited choice - these themes varied depending on more specific categories like "school districts" or "state systems".
 
 
+What's gone wrong?
+
+* first, when you're using a spreadsheet to drive a map and someone is working on it, they sometimes do things that you can't anticipate. Things like: transpose coordinates, change the column names, etc. Matt was able to come up with a versioning system with the client to enforce any changes BEFORE publishing the map.
+* The order of layers is entirely dependent on the order of the layers in the GeoJSON, so they had to build in a column to the spreadsheet
+
+So once they had this complete, Matt started making more maps with the same project - such as [a map for his AirBnb renters](https://coregis.github.io/crowsnest/) that shows good restaurants and sight seeing!
 
 **Andrew Powers**
+
+
+
+
 
 ---
