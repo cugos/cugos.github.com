@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-- **You!** Interested in helping with the website, elections, future event planning? Add yourself to [this meeting page on github](https://github.com/cugos/cugos.github.com/edit/master/meetings/_posts/2017-02-15-cugos_monthly.markdown) or hit us up at **hello@cugos.org**.
+- "You, Me, and JSONB" from [ARSimmons](https://github.com/ARSimmons)... I will talk (briefly) about some performance gains and optimizations that I discovered by using JSONB with PostgreSQL. I will show some (boring) legacy SQL functions that I cast into the JSONB format and created laser fast returns. Think geriatric Terminator getting a facelift and starring in (yet another) sequel. JSONB + your bad, slow code = "I WILL BE BACK". 
 
 ## Wireless Info
 
