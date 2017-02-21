@@ -13,7 +13,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-- Lightening Talk: "You, Me, and JSONB"
+- "You, Me, and JSONB" from [ARSimmons](https://github.com/ARSimmons)... I will talk (briefly) about some performance gains and optimizations that I discovered by using JSONB with PostgreSQL. I will show some (boring) legacy SQL functions that I cast into the JSONB format and created laser fast returns. Think geriatric Terminator getting a facelift and starring in (yet another) sequel. JSONB + your bad, slow code = "I WILL BE BACK". 
 
 ## Wireless Info
 
