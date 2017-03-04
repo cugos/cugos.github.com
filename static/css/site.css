@@ -570,7 +570,7 @@ nav {
           transition: .3s;
 }
 .event-register-button:hover {
-  background-color:#9ebd78;
+  /*background-color:#9ebd78;*/
 }
 .event-register-button .fa {
   margin-left:15px;
