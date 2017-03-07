@@ -84,7 +84,7 @@ schedule:
     title: "Analyzing Geospatial Patterns Derived from Mobile Ad Bid Data"
     description: "A variety of new technologies related to health, city planning, and commerce, etc. rely on human location data from large swaths of the population. A tempting source is location data sent from mobile phones when in-app or mobile web advertising space on the device is sent to ad exchanges for bidding. These \"bid-call\" locations have significant limitations. I will examine how geospatial patterns reveal these limitations in this presentation"
     length: "20"
-    speakers: 
+    speakers:
         -
             name: Marcus Collins
             image: https://media.licdn.com/media/p/6/000/201/380/2468ccd.jpg
@@ -96,7 +96,7 @@ schedule:
     title: "POSM Goes to Ecuador"
     description: "The American Red Cross invited OpenStreetMap, OpenMapKit, and Field Papers on a mapping expedition to Ecuador. We chaperoned. This is what transpired. Now filming, 'POSM Goes to West Africa'"
     length: "20"
-    speakers: 
+    speakers:
         -
             name: Seth Fitzsimmons
             image: https://avatars1.githubusercontent.com/u/45?v=3&s=460
@@ -127,7 +127,7 @@ schedule:
     title: 1:00 PM - Lightning Talks (10 min each)
     description: Wake me up after pizza
   -
-    type: talk 
+    type: talk
     profile: ""
     title: "SOTM-US"
     description: "SOTM-US is coming to Seattle this year. Help!"
@@ -165,7 +165,7 @@ schedule:
         -
             name: Evan Derickson
             image: /image/derickson_evan.jpg
-            company: 
+            company:
   -
     type: talk
     profile: ""
@@ -186,7 +186,7 @@ schedule:
     title: Introduction to Mapbox Studio
     description: Mapbox Studio allows you to style your own data ready to be served as map tiles for the web and mobile platforms. This introduction will go through an overview of Mapbox tools, how to upload your own data, style it, and visualize it. Great for beginners and experts alike!
     speakers:
-        - 
+        -
             name: Rafa Gutierrez
             image: https://avatars2.githubusercontent.com/u/134753?v=3&s=460
             company: Mapbox

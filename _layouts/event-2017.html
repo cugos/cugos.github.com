@@ -90,6 +90,26 @@ nav {
 .spring-fling-section.white {
   background: white;
 }
+
+/* schedule */
+.sf-schedule-block {}
+.sf-schedule-left,
+.sf-schedule-right {
+  padding: 1em;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.sf-schedule-title {
+  font-weight: 900;
+}
+.sf-schedule-speaker {
+  color: #999;
+}
+@media screen and (min-width:41em) {
+  .sf-schedule-left { float: left; width: 15%; text-align: right; }
+  .sf-schedule-right { float: right; width: 85%; }
+}
 </style>
 
 <header class="spring-fling-header">
@@ -118,19 +138,18 @@ nav {
     <span class="spring-fling-section-header">schedule</span>
     <p>Stay tuned for the schedule!</p>
 
-    <!-- {% for item in page.schedule %}
-    <div class="schedule-block {{ item.type }}">
-        {% for s in item.speakers %}
-        <div class="speaker">
-          {% if s.image %}<div class="speaker-image"><img src="{{ s.image }}"></div>{% endif %}
-          {% if s.name %}<p class="speaker-name">{{ s.name }}</p>{% endif %}
-          {% if s.company %}<p class="speaker-company">{{ s.company }}</p>{% endif %}
-        </div>
-        {% endfor %}
-        <h2 class="schedule-block-title">{{ item.title }}</h2>
-        <p class="schedule-block-description">{{ item.description }}</p>
+    {% for item in page.schedule %}
+    <div class="sf-schedule-block cf {{ item.type }}">
+      <div class="sf-schedule-left">
+        {{ item.time }}
+      </div>
+      <div class="sf-schedule-right">
+        <span class="sf-schedule-title">{{ item.title }}</span>
+        {% if item.speaker %}<br><span class="sf-schedule-speaker">{{ item.speaker }}</span>{% endif %}
+        <p>{{ item.description }}</p>
+      </div>
     </div>
-    {% endfor %} -->
+    {% endfor %}
 
   </div>
 </section>
