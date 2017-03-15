@@ -4,6 +4,9 @@
 {% include head.html %}
 
 <style>
+
+/*@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');*/
+
 /*
 https://color.adobe.com/Car-color-theme-9282872
 */
@@ -12,8 +15,12 @@ h1,
 h2,
 h3,
 p {
-  font-family: monospace;
+  font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
   font-size: 16px;
+  line-height: 1.4em;
+}
+p a {
+  color: #4A49F1;
 }
 nav {
   position: absolute;
@@ -92,23 +99,33 @@ nav {
 }
 
 /* schedule */
-.sf-schedule-block {}
+.sf-schedule-block {
+  margin-bottom: 3em;
+}
 .sf-schedule-left,
 .sf-schedule-right {
-  padding: 1em;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+.sf-schedule-time {
+  border-bottom: 2px solid white;
+}
 .sf-schedule-title {
   font-weight: 900;
+  color: #B81C3A;
 }
 .sf-schedule-speaker {
   color: #999;
 }
+.sf-schedule-block p {
+  margin: 0;
+}
 @media screen and (min-width:41em) {
-  .sf-schedule-left { float: left; width: 15%; text-align: right; }
-  .sf-schedule-right { float: right; width: 85%; }
+  .sf-schedule-block { margin-bottom: 1em; }
+  .sf-schedule-left { float: left; padding: 1em; width: 15%; text-align: right; }
+  .sf-schedule-right { float: right; padding: 1em; width: 85%; }
+
 }
 </style>
 
@@ -120,13 +137,13 @@ nav {
     <p>
       <strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>
       <strong>Where?</strong> {{ page.event_location }}<br>
-      <strong>How?</strong> <a class="spring-fling-register" href="{{ page.event_register-url }}">Register here!</a><br>
+      <strong>How?</strong> <a class="spring-fling-register" href="{{ page.event_register-url }}">Registration coming soon</a><br>
     </p>
   </div>
 </header>
 
 <div class="spring-fling-nav">
-  <a href="{{ page.event_register-url }}">Register</a>
+  <!-- <a href="{{ page.event_register-url }}">Register</a> -->
   <a href="#schedule">Schedule</a>
   <a href="#sponsors">Sponsors</a>
   <a href="#volunteer">Volunteer</a>
@@ -136,17 +153,17 @@ nav {
 <section id="schedule" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">schedule</span>
-    <p>Stay tuned for the schedule!</p>
+    <p>We're working on a great schedule for this year. Take a peak at the schedule from the <a href="/2016-spring-fling">2016 Spring Fling</a> to get a sense of what to expect. Below is the general idea (subject to change):</p>
 
     {% for item in page.schedule %}
     <div class="sf-schedule-block cf {{ item.type }}">
       <div class="sf-schedule-left">
-        {{ item.time }}
+        <span class="sf-schedule-time">{{ item.time }}</span>
       </div>
       <div class="sf-schedule-right">
-        <span class="sf-schedule-title">{{ item.title }}</span>
-        {% if item.speaker %}<br><span class="sf-schedule-speaker">{{ item.speaker }}</span>{% endif %}
-        <p>{{ item.description }}</p>
+        <p><span class="sf-schedule-title">{{ item.title }}</span><br>
+        {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
+        {{ item.description }}</p>
       </div>
     </div>
     {% endfor %}
@@ -157,7 +174,12 @@ nav {
 <section id="sponsors" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">sponsors</span>
-    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>.</p>
+    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>. Sponsorship levels include:</p>
+
+    <p>Platinum sponsorship: <strong>$1000</strong><br>
+       Gold sponsorship: $500<br>
+       Silver sponsorship: $250<br>
+       Community sponsorship: $100<p>
 
     <!-- {% if page.event_sponsors_platinum %}
       {% include event-sponsor.html sponsors=page.event_sponsors_platinum title="Platinum Sponsors" color="text-blue" %}
@@ -193,6 +215,9 @@ nav {
   <div class="container">
     <span class="spring-fling-section-header">location</span>
     <h2>General Assembly</h2>
+    <p><strong>Address</strong><br>
+      1218 Third Ave 3rd Fl<br>
+      Seattle, WA 98101<p>
     <p>General Assembly fosters an elite professional community of individuals and companies through education and strategic career connections. They provide innovative training for lifelong learning and success in the in-demand fields of today’s rapidly changing technological economy.</p>
 
     {% if page.markers %}
