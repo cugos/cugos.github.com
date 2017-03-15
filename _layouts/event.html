@@ -37,7 +37,7 @@
       {% endfor %}
       </div>
     {% else %}
-      <div id="event-map" 
+      <div id="event-map"
            class="map-marker"
            data-latitude="{{ page.lat }}"
            data-longitude="{{ page.lng }}"
@@ -47,7 +47,7 @@
     {% if page.schedule %}
       <h2 class="event-content-title">Schedule</h2>
       <div class="schedule cf">
-        
+
         {% for item in page.schedule %}
         <div class="schedule-block {{ item.type }}">
             {% for s in item.speakers %}
@@ -64,7 +64,7 @@
 
       </div>
     {% endif %}
-    
+
     <div class="event-sponsors">
 
       {% if page.event_sponsors_platinum %}

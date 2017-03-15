@@ -1,0 +1,238 @@
+---
+---
+
+{% include head.html %}
+
+<style>
+
+/*@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');*/
+
+/*
+https://color.adobe.com/Car-color-theme-9282872
+*/
+body,
+h1,
+h2,
+h3,
+p {
+  font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+p a {
+  color: #4A49F1;
+}
+nav {
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+  background: transparent;
+}
+.spring-fling-header {
+  padding: 10em 0 3em;
+  background: #ED2B4F;
+  text-align: left;
+  color: #f6f6f6;
+  border-bottom: 20px solid #B81C3A;
+}
+.spring-fling-header h1 {
+  font-size: 3em;
+  font-family: monospace;
+}
+.spring-fling-header p {
+  line-height: 1.7em;
+}
+.spring-fling-header strong {
+  width: 80px;
+  display: inline-block;
+  text-align: right;
+  margin-right: 15px;
+}
+.spring-fling-register {
+  color: #1F3C3D;
+  background: #DCF81F;
+}
+
+.spring-fling-nav {
+  text-align: center;
+  background: white;
+  padding: 1em;
+}
+.spring-fling-nav a {
+  color: #4A49F1;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin: 0 10px;
+}
+.spring-fling-nav a:hover {
+  text-decoration: underline;
+}
+
+.spring-fling-announcement {
+  background: #f8fdd2;
+  width: 100%;
+  padding: 2em 1em;
+  text-align: center;
+  color: #1F3C3D;
+}
+
+.spring-fling-map {
+  width: 100%;
+  height: 300px;
+}
+
+.spring-fling-section {
+  padding: 3em 1em;
+}
+.spring-fling-section-header {
+  display: inline-block;
+  background: #4A49F1;
+  color: white;
+  padding: 5px;
+  text-transform: lowercase;
+}
+.spring-fling-section h2 {
+  font-size: 2.5em;
+}
+.spring-fling-section.white {
+  background: white;
+}
+
+/* schedule */
+.sf-schedule-block {
+  margin-bottom: 3em;
+}
+.sf-schedule-left,
+.sf-schedule-right {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.sf-schedule-time {
+  border-bottom: 2px solid white;
+}
+.sf-schedule-title {
+  font-weight: 900;
+  color: #B81C3A;
+}
+.sf-schedule-speaker {
+  color: #999;
+}
+.sf-schedule-block p {
+  margin: 0;
+}
+@media screen and (min-width:41em) {
+  .sf-schedule-block { margin-bottom: 1em; }
+  .sf-schedule-left { float: left; padding: 1em; width: 15%; text-align: right; }
+  .sf-schedule-right { float: right; padding: 1em; width: 85%; }
+
+}
+</style>
+
+<header class="spring-fling-header">
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+    {% if page.announcement %}<div class="spring-fling-announcement">{{ page.announcement }}</div>{% endif %}
+    <p>{{ page.event_description }}</p>
+    <p>
+      <strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>
+      <strong>Where?</strong> {{ page.event_location }}<br>
+      <strong>How?</strong> <a class="spring-fling-register" href="{{ page.event_register-url }}">Registration coming soon</a><br>
+    </p>
+  </div>
+</header>
+
+<div class="spring-fling-nav">
+  <!-- <a href="{{ page.event_register-url }}">Register</a> -->
+  <a href="#schedule">Schedule</a>
+  <a href="#sponsors">Sponsors</a>
+  <a href="#volunteer">Volunteer</a>
+  <a href="#location">Location</a>
+</div>
+
+<section id="schedule" class="spring-fling-section">
+  <div class="container">
+    <span class="spring-fling-section-header">schedule</span>
+    <p>We're working on a great schedule for this year. Take a peak at the schedule from the <a href="/2016-spring-fling">2016 Spring Fling</a> to get a sense of what to expect. Below is the general idea (subject to change):</p>
+
+    {% for item in page.schedule %}
+    <div class="sf-schedule-block cf {{ item.type }}">
+      <div class="sf-schedule-left">
+        <span class="sf-schedule-time">{{ item.time }}</span>
+      </div>
+      <div class="sf-schedule-right">
+        <p><span class="sf-schedule-title">{{ item.title }}</span><br>
+        {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
+        {{ item.description }}</p>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+
+<section id="sponsors" class="spring-fling-section">
+  <div class="container">
+    <span class="spring-fling-section-header">sponsors</span>
+    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>. Sponsorship levels include:</p>
+
+    <p>Platinum sponsorship: <strong>$1000</strong><br>
+       Gold sponsorship: $500<br>
+       Silver sponsorship: $250<br>
+       Community sponsorship: $100<p>
+
+    <!-- {% if page.event_sponsors_platinum %}
+      {% include event-sponsor.html sponsors=page.event_sponsors_platinum title="Platinum Sponsors" color="text-blue" %}
+    {% endif %}
+
+    {% if page.event_sponsors_gold %}
+      {% include event-sponsor.html sponsors=page.event_sponsors_gold title="Gold Sponsors" color="text-gold" %}
+    {% endif %}
+
+    {% if page.event_sponsors_silver %}
+      {% include event-sponsor.html sponsors=page.event_sponsors_silver title="Silver Sponsors" color="text-silver" %}
+    {% endif %}
+
+    {% if page.event_sponsors_bronze %}
+      {% include event-sponsor.html sponsors=page.event_sponsors_bronze title="Bronze Sponsors" color="text-bronze" %}
+    {% endif %}
+
+    {% if page.event_sponsors_comm %}
+      {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
+    {% endif %} -->
+
+  </div>
+</section>
+
+<section id="volunteer" class="spring-fling-section">
+  <div class="container">
+    <span class="spring-fling-section-header">volunteer</span>
+    <p>We are a small team of CUGOS regulars focused on putting together a great event for the broader geospatial community. Interested in helping out? Send us a message at <a href="">hello@cugos.org</a> with how you'd like to participate. Thanks for making CUGOS great!</p>
+  </div>
+</section>
+
+<section id="location" class="spring-fling-section white">
+  <div class="container">
+    <span class="spring-fling-section-header">location</span>
+    <h2>General Assembly</h2>
+    <p><strong>Address</strong><br>
+      1218 Third Ave 3rd Fl<br>
+      Seattle, WA 98101<p>
+    <p>General Assembly fosters an elite professional community of individuals and companies through education and strategic career connections. They provide innovative training for lifelong learning and success in the in-demand fields of today’s rapidly changing technological economy.</p>
+
+    {% if page.markers %}
+      <div id="event-map" class="map-marker">
+      {% for m in page.markers %}
+        <span class="marker-elem"
+              data-latitude="{{ m.lat }}"
+              data-longitude="{{ m.lng }}"
+              data-icon="{{ m.icon }}"
+              data-color="{{ m.color }}"
+              data-popup="{{ m.name }}"></span>
+      {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</section>
+
+{% include footer.html %}
