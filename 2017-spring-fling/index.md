@@ -1,7 +1,7 @@
 ---
 layout: event-2017
 title: "2017 Spring Fling"
-event_date: "Saturday May 20th"
+event_date: "Saturday, May 20th"
 event_time: "9:00am - 5:00pm"
 event_description: "The CUGOS Spring Fling is a full-day event centered around open source geography. This is a great way to learn about new mapping software, hear how companies are integrating location into their products, and get some hands-on experience with important tools like Leaflet, AWS, Turf.js, and QGIS. We welcome students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information. The Spring Fling is designed for anyone with an interest in maps and open source software."
 event_location: "General Assembly, Downtown Seattle (Seattle Tower)"
@@ -31,7 +31,7 @@ schedule:
     title: "Morning talks"
     time: 9:45 AM
     speaker:
-    description: 30-45 minute talks from all corners of the geospatial community
+    description: 15-20 minute talks from all corners of the geospatial community
   -
     type: talk
     title: "Lunch"
