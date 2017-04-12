@@ -725,17 +725,16 @@ nav {
   margin:.3em auto;
 }
 .alert.event {
-  font-family: 'Dosis', sans-serif;
+  font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
   font-weight:100;
-  font-size:1.4em;
+  font-size:1.2em;
   letter-spacing:.15em;
-  padding:3em;
+  margin: 1em 0;
+  padding:1em;
   text-transform:uppercase;
-  background:#333;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  color: #333;
+  background-color:#f8fdd2;
+  border-top: 5px solid #ED2B4F;
 }
 .alert.blue {
   background: #3f75a2;
@@ -763,10 +762,10 @@ nav {
 .alert.no-bump {
   font-size: 1em;
 }
-.alert:hover {
+/*.alert:hover {
   background-color:#333;
   color:#f6f6f6;
-}
+}*/
 
 /* MAIL NOTIFICATION */
 .mailing {
