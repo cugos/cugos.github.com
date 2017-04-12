@@ -70,6 +70,13 @@ schedule:
     speaker:
     description: |
       No better way to close out an action packed day than by cheersing your soda or beer with new friends. Location TBD.
-
-
+event_sponsors_comm:
+  -
+    image: /image/2015springfling/sponsor-coregis.png
+    width: 175px
+    link: http://coregis.net/
+  -
+    image: /image/2015springfling/sponsor-soundgis.png
+    width: 150px
+    link: http://www.soundgis.com/
 ---

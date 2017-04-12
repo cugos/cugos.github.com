@@ -127,6 +127,13 @@ nav {
   .sf-schedule-right { float: right; padding: 1em; width: 85%; }
 
 }
+
+.sponsor-level-title {
+  font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
+  font-weight: 100;
+  font-size: 1em;
+  text-transform: capitalize;
+}
 </style>
 
 <header class="spring-fling-header">
@@ -154,7 +161,7 @@ nav {
 <section id="schedule" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">schedule</span>
-    <p>We're working on a great schedule for this year. Take a peak at the schedule from the <a href="/2016-spring-fling">2016 Spring Fling</a> to get a sense of what to expect. Below is the general idea (subject to change):</p>
+    <p>We're working on a great schedule for this year. Take a peek at the schedule from the <a href="/2016-spring-fling">2016 Spring Fling</a> to get a sense of what to expect. Below is the general idea (subject to change):</p>
 
     {% for item in page.schedule %}
     <div class="sf-schedule-block cf {{ item.type }}">
@@ -175,14 +182,8 @@ nav {
 <section id="sponsors" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">sponsors</span>
-    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>. Sponsorship levels include:</p>
 
-    <p>Platinum sponsorship: <strong>$1000</strong><br>
-       Gold sponsorship: $500<br>
-       Silver sponsorship: $250<br>
-       Community sponsorship: $100<p>
-
-    <!-- {% if page.event_sponsors_platinum %}
+    {% if page.event_sponsors_platinum %}
       {% include event-sponsor.html sponsors=page.event_sponsors_platinum title="Platinum Sponsors" color="text-blue" %}
     {% endif %}
 
@@ -200,7 +201,9 @@ nav {
 
     {% if page.event_sponsors_comm %}
       {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
-    {% endif %} -->
+    {% endif %}
+
+    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>.</p>
 
   </div>
 </section>
