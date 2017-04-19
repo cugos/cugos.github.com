@@ -70,6 +70,11 @@ schedule:
     speaker:
     description: |
       No better way to close out an action packed day than by cheersing your soda or beer with new friends. Location TBD.
+event_sponsors_silver:
+  -
+    image: https://static1.squarespace.com/static/513788d5e4b0988e47dbf980/t/5138fe25e4b0d066f2359658/1492553473728/?format=1500w
+    width: 175px
+    link: https://www.aspectconsulting.com/
 event_sponsors_comm:
   -
     image: /image/2015springfling/sponsor-coregis.png
@@ -79,4 +84,8 @@ event_sponsors_comm:
     image: /image/2015springfling/sponsor-soundgis.png
     width: 150px
     link: http://www.soundgis.com/
+  -
+    image: /image/2017springfling/rooftop-brewery.png
+    width: 150px
+    link: http://rooftopbrewco.com/
 ---
