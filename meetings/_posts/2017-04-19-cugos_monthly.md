@@ -52,3 +52,27 @@ How do we improve OSM? We could do an import, we could add notes, or... We could
 
 
 **[@jharpster](http://github.com/jharpster)**
+
+Presentation is in PowerPoint on a Surface computer, but he is talking about Open Source. He's relatively new, been spending the last 9 months figuring out where the cohort is hiding.
+
+MS is the largest contributor to open contributor on Github as of last year. 16k contributors to MS repos. They have internal Open Source nights once a month.
+
+[Image Classsification CNTK Machine Learning Framework](https://github.com/Azure/Embarrassingly-Parallel-Image-Classification/tree/master/tf), looks pretty cool.
+
+Open Source in the mapping space? Not so much... but 56% of OSM change-sets have used Bing as a source. 52% of buildings are traced from Bing imagery. Last month released 9.8M building footprints that are ready to be imported to OSM. They're working on releasing several more datasets into the open system.
+
+
+
+**[@mrosen](http://github.com/mrosen)**
+
+Lidar Workflows with PDAL ([Point Data Abstraction Library](https://www.pdal.io/)). As a human being it's easy to look at Lidar data and say that looks like a tree, that looks like a building, but the data doesn't tell you that on its own.
+
+Michael has been working with PDAL at a Lidar production firm in Bellevue... Same kind of thing as GDAL but it's all about point clouds. There are some key differences. You use PDAL to move things from one format to another.
+
+Collection of readers, filters and writers. You hook them together programmatically. Means you have to piece things together yourself. It's called a pipeline.
+
+First stage of the pipeline is a reader. Readers are essentially drivers that let you access data from different formats. The last stage is powered by writers. These let you push your data into any number of formats. Check out the spec.
+
+In the middle, you have a lot of filters. Specify attributes based on criteria. Colorization. Filters for height. There's really a lot here, check out the spec. If you don't see one you need, write one yourself.
+
+Here's some bad news. This library doesn't build that easily. The good news: there's a docker container. All you have to do is set that up and boom, you have pdal access from your console. Oh yeah, the whole tool is command line driven. It expresses itself in JSON. There are a lot of commands, we can't cover them all here. Check out the spec.
