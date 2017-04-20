@@ -36,7 +36,8 @@ Started with a DB of tracts, turned each tract into a graph node, the borders of
 Data is stored in PostGIS, the graph is built in Python.
 
 
-- **[@cliffordsnow](http://github.com/cliffordsnow)**
+
+**[@cliffordsnow](http://github.com/cliffordsnow)**
 
 This whole thing started with the question: How well mapped is Seattle?
 
@@ -47,3 +48,7 @@ In 2011 we were lucky to have connected streets. Today it is very detailed. 95% 
 How bout POIs? Let's compare to real data. Peter, Paul and Debbie came up with an estimate of restaurants based on food inspection data. Clifford reckons we have 50% coverage of restaurant POIs. That's not bad. A rough guess.
 
 How do we improve OSM? We could do an import, we could add notes, or... We could play Maproulette. Clifford went through the process of uploading the data to [Maproulette](http://maproulette.org/). Used that inspection data, cleaned it up in QGIS, then boom: [Get Mapping!](http://maproulette.org/map/2469/2154401)
+
+
+
+**[@jharpster](http://github.com/jharpster)**
