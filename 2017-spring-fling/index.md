@@ -70,6 +70,11 @@ schedule:
     speaker:
     description: |
       No better way to close out an action packed day than by cheersing your soda or beer with new friends. Location TBD.
+event_sponsors_gold:
+  -
+    image: /image/2017springfling/sgsi.png
+    width: 250px
+    link: http://sgsi.com/
 event_sponsors_silver:
   -
     image: https://static1.squarespace.com/static/513788d5e4b0988e47dbf980/t/5138fe25e4b0d066f2359658/1492553473728/?format=1500w
