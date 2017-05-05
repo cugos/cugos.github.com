@@ -15,23 +15,42 @@ markers:
     color: "#ED2B4F"
 schedule:
   -
-    type: time
+    type: title
     title: Doors Open
     time: 8:30 AM
     description: |
       Sign in, get a nametag, drink coffee, eat donuts, mingle
   -
-    type: time
+    type: title
     title: "Opening remarks"
     time: 9:30 AM
     description: |
       Welcome to CUGOS! Let's get settled, discuss what the day looks like, and get excited for the opportunity to share a space together.
   -
-    type: talk
+    type: title
     title: "Morning talks"
     time: 9:45 AM
     speaker:
-    description: 15-20 minute talks from all corners of the geospatial community
+    description: |
+      15-20 minute talks from all corners of the geospatial community.
+  -
+    type: talk
+    title: Reconstructing the history of the Ebola epidemic
+    speaker: Gytis Dudas
+    description: |
+      The 2013-2015 Ebola virus epidemic in West Africa has been unprecedented in its magnitude and duration. Advances in genetic sequencing technologies have given us complete virus genomes from over 5% of known cases and sequence data were employed for the first time to direct near real time healthcare response on the ground. On behalf of my numerous colleagues and international collaborators I will show how our team used state-of-the-art methods to reconstruct the history of the epidemic from sequence data from its inception in late 2013 to its decline and extinction in 2015. I will describe what our model told us about the drivers of the epidemic and issues of logistics and data availability we encountered along the way.
+  -
+    type: talk
+    title: Sightline Institute & CartoDB
+    speaker: Margaret Morales
+    description: |
+      Margaret will showcase Sightline Institute’s maps created in CartoDB linking Seattle city zoning with access to the city’s public schools and parks. The maps show that highly restrictive single-family zoning segregates attendance at the city’s top public elementary schools, making the student body disproportionately white, non-poor, and English speaking. Park access is similarly unbalanced across the city. Mrs. Morales works at the Sightline Institute, Cascadia’s sustainability think tank, where she focuses on housing policy solutions that make Seattle a more walkable, welcoming, and sustainable city.
+  -
+    type: talk
+    title: Mobile @ Mapbox
+    speaker: Justin Miller
+    description: |
+      Justin will share some recent additions to Mapbox's mobile SDKs as well as share some insight into developing mapbox-gl-native in the open.
   -
     type: talk
     title: "Lunch"
@@ -44,18 +63,18 @@ schedule:
     time: 1:00 PM
     description: |
       There are three simultaneous workshops, A1, A2, and A3. They will be split between different rooms throughout the space.<br><br>
-      <strong>Workshop A1</strong>: TBD<br>
-      <strong>Workshop A2</strong>: TBD<br>
-      <strong>Workshop A3</strong>: TBD<br>
+      <strong>Workshop A1</strong>: QGIS: for ArcGIS users<br>
+      <strong>Workshop A2</strong>: Missing Maps<br>
+      <strong>Workshop A3</strong>: Comparing workflow R v Python<br>
   -
     type: workshops
     title: "Workshops B"
     time: 2:45 PM
     description: |
       Second round of workshops. Some will build off each other, some will be completely new.<br><br>
-      <strong>Workshop B1</strong>: TBD<br>
-      <strong>Workshop B2</strong>: TBD<br>
-      <strong>Workshop B3</strong>: TBD<br>
+      <strong>Workshop B1</strong>: QGIS: Cartography<br>
+      <strong>Workshop B2</strong>: Lightning Talks - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeuX89gHBVDLZTqVqgL7tsu_SqWD9hN-NDQST4OtggfQW7cQ/viewform?c=0&w=1" target="_blank">submit yours!</a><br>
+      <strong>Workshop B3</strong>: TBD (opportunity knocks!)<br>
   -
     type: talk
     title: "Closing remarks"

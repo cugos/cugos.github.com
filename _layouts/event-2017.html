@@ -115,6 +115,14 @@ nav {
   font-weight: 900;
   color: #B81C3A;
 }
+.sf-schedule-block.talk .sf-schedule-title {
+  color: #333;
+}
+.sf-schedule-block.talk .sf-schedule-description {
+  font-size: 0.85em;
+  line-height: 0;
+}
+.sf-description.talk {}
 .sf-schedule-speaker {
   color: #999;
 }
@@ -171,7 +179,7 @@ nav {
       <div class="sf-schedule-right">
         <p><span class="sf-schedule-title">{{ item.title }}</span><br>
         {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
-        {{ item.description }}</p>
+        <span class="sf-schedule-description">{{ item.description }}</span></p>
       </div>
     </div>
     {% endfor %}
