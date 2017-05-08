@@ -73,8 +73,8 @@ schedule:
     description: |
       Second round of workshops. Some will build off each other, some will be completely new.<br><br>
       <strong>Workshop B1</strong>: QGIS: Cartography<br>
-      <strong>Workshop B2</strong>: Lightning Talks - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfeuX89gHBVDLZTqVqgL7tsu_SqWD9hN-NDQST4OtggfQW7cQ/viewform?c=0&w=1" target="_blank">submit yours!</a><br>
-      <strong>Workshop B3</strong>: TBD (opportunity knocks!)<br>
+      <strong>Workshop B2</strong>: Map Cubes with Jared & Claire<br>
+      <strong>Workshop B3</strong>: The OSGeo miscellaneous drawer<br>
   -
     type: talk
     title: "Closing remarks"
