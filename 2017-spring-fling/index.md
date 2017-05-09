@@ -65,7 +65,7 @@ schedule:
       There are three simultaneous workshops, A1, A2, and A3. They will be split between different rooms throughout the space.<br><br>
       <strong>Workshop A1</strong>: QGIS: for ArcGIS users<br>
       <strong>Workshop A2</strong>: Missing Maps<br>
-      <strong>Workshop A3</strong>: Comparing workflow R v Python<br>
+      <strong>Workshop A3</strong>: A Simple GIS workflow in Python and R<br>
   -
     type: workshops
     title: "Workshops B"
