@@ -47,6 +47,12 @@ schedule:
       Margaret will showcase Sightline Institute’s maps created in CartoDB linking Seattle city zoning with access to the city’s public schools and parks. The maps show that highly restrictive single-family zoning segregates attendance at the city’s top public elementary schools, making the student body disproportionately white, non-poor, and English speaking. Park access is similarly unbalanced across the city. Mrs. Morales works at the Sightline Institute, Cascadia’s sustainability think tank, where she focuses on housing policy solutions that make Seattle a more walkable, welcoming, and sustainable city.
   -
     type: talk
+    title: Searching for Pokemon Go
+    speaker: Mike Patterson
+    description: |
+      Mike will present how he built a [KDTree](https://en.wikipedia.org/wiki/K-d_tree) in [Apache Spark](http://spark.apache.org/) to find out which coffee shops in Hong Kong have the most Pokemon nearby.
+  -
+    type: talk
     title: Mobile @ Mapbox
     speaker: Justin Miller
     description: |
@@ -57,6 +63,12 @@ schedule:
     speaker: Jill Bodnar
     description: |
       What's better than maps, bikes, and Italy? Combing all 3 in QGIS! The Lombardy region of Lake Como, Italy, has a long history of professional cycling races and is a favored destination for cyclists to train and visit on holiday. Over the past two years it has become my home away from home and I found a need for a comprehensive cycling map of the area. As a personal project I have been exploring the world of QGIS to create a cartographic map of cycling routes in the area. I'll describe the background of the project, the data I've used, and what I've learned about cartography and features in QGIS.
+  -
+    type: talk
+    title: Open Source Geo at Vulcan Capital
+    speaker: Joel Maselink
+    description: |
+      Joel Maselink, of Vulcan Capital, will discuss the role Open Source tools play in the work of large investment company.
   -
     type: talk
     title: "Lunch"
