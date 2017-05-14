@@ -50,7 +50,7 @@ schedule:
     title: Searching for Pokemon Go
     speaker: Mike Patterson
     description: |
-      Mike will present how he built a [KDTree](https://en.wikipedia.org/wiki/K-d_tree) in [Apache Spark](http://spark.apache.org/) to find out which coffee shops in Hong Kong have the most Pokemon nearby.
+      Mike will present how he built a KDTree (https://en.wikipedia.org/wiki/K-d_tree) in Apache Spark (http://spark.apache.org/) to find out which coffee shops in Hong Kong have the most Pokemon nearby.
   -
     type: talk
     title: Mobile @ Mapbox
