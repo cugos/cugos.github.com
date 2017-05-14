@@ -68,7 +68,7 @@ schedule:
     title: Open Source Geo at Vulcan Capital
     speaker: Joel Maselink
     description: |
-      Joel Maselink, of Vulcan Capital, will discuss the role Open Source tools play in the work of large investment company.
+      Joel Maselink, of Vulcan Capital, will discuss the role Open Source tools play in the work of a large investment company.
   -
     type: talk
     title: "Lunch"
