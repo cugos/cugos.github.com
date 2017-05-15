@@ -62,13 +62,13 @@ schedule:
     title: A Cartographic Map of Lake Como Cycling Routes Using QGIS
     speaker: Jill Bodnar
     description: |
-      What's better than maps, bikes, and Italy? Combing all 3 in QGIS! The Lombardy region of Lake Como, Italy, has a long history of professional cycling races and is a favored destination for cyclists to train and visit on holiday. Over the past two years it has become my home away from home and I found a need for a comprehensive cycling map of the area. As a personal project I have been exploring the world of QGIS to create a cartographic map of cycling routes in the area. I'll describe the background of the project, the data I've used, and what I've learned about cartography and features in QGIS.
+      What's better than maps, bikes, and Italy? Combining all 3 in QGIS! The Lombardy region of Lake Como, Italy, has a long history of professional cycling races and is a favored destination for cyclists to train and visit on holiday. Over the past two years it has become my home away from home and I found a need for a comprehensive cycling map of the area. As a personal project I have been exploring the world of QGIS to create a cartographic map of cycling routes in the area. I'll describe the background of the project, the data I've used, and what I've learned about cartography and features in QGIS.
   -
     type: talk
-    title: Open Source Geo at Vulcan Capital
-    speaker: Joel Maselink
+    title: Open Source Geo at Vulcan Technology
+    speaker: Joel Masselink
     description: |
-      Joel Maselink, of Vulcan Capital, will discuss the role Open Source tools play in the work of a large investment company.
+      Joel Masselink, of Vulcan Technology, will discuss the role Open Source tools play in the work of a developing software for philanthropy. Vulcan Tech develops solutions to global challenges as varied as climate change, poaching/wildlife trafficking, illegal fishing, and rural connectivity. Open source software and open data are critical to this work.
   -
     type: talk
     title: "Lunch"
@@ -111,7 +111,7 @@ event_sponsors_platinum:
   -
     image: /image/2017springfling/VulcanTechnology-200sq.png
     width: 250px
-    link: http://vulcan.com/
+    link: http://www.vulcan.com/technology
 event_sponsors_gold:
   -
     image: /image/2017springfling/sgsi.png
