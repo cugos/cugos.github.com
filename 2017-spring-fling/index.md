@@ -44,7 +44,7 @@ schedule:
     title: Seattle zoning and equitable school access
     speaker: Margaret Morales
     description: |
-      Margaret will showcase Sightline Institute’s maps created in CartoDB linking Seattle city zoning with access to the city’s public schools and parks. The maps show that highly restrictive single-family zoning segregates attendance at the city’s top public elementary schools, making the student body disproportionately white, non-poor, and English speaking. Park access is similarly unbalanced across the city. Mrs. Morales works at the Sightline Institute, Cascadia’s sustainability think tank, where she focuses on housing policy solutions that make Seattle a more walkable, welcoming, and sustainable city.
+      Margaret will showcase Sightline Institute’s maps created in CARTO linking Seattle city zoning with access to the city’s public schools and parks. The maps show that highly restrictive single-family zoning segregates attendance at the city’s top public elementary schools, making the student body disproportionately white, non-poor, and English speaking. Park access is similarly unbalanced across the city. Mrs. Morales works at the Sightline Institute, Cascadia’s sustainability think tank, where she focuses on housing policy solutions that make Seattle a more walkable, welcoming, and sustainable city.
   -
     type: talk
     title: Searching for Pokemon Go
