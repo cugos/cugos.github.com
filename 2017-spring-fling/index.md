@@ -50,7 +50,7 @@ schedule:
     title: Searching for Pokemon Go
     speaker: Mike Patterson
     description: |
-      Mike loves catching Pokemon. He will describe how a data structure called KD-Trees (https://en.wikipedia.org/wiki/K-d_tree) can help calculate minimum distances between set of locations, using the example of Pokemon in Hong Kong. Then he will show how to scale these trees to billions of locations using Apache Spark.
+      Mike loves catching Pokemon. He will describe how a data structure called KD-Trees (https://en.wikipedia.org/wiki/K-d_tree) can help calculate minimum distances between sets of locations, using the example of Pokemon in Hong Kong. Then he will show how to scale these trees to billions of locations using Apache Spark.
   -
     type: talk
     title: Mobile @ Mapbox
