@@ -109,7 +109,7 @@ schedule:
       No better way to close out an action packed day than by cheersing your soda or beer with new friends. Location TBD.
 event_sponsors_platinum:
   -
-    image: /image/2017springfling/vulcan.png
+    image: /image/2017springfling/VulcanTechnology-200sq.png
     width: 250px
     link: http://vulcan.com/
 event_sponsors_gold:
