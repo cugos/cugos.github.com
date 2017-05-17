@@ -85,14 +85,73 @@ schedule:
       <strong>Workshop A2</strong>: Missing Maps<br>
       <strong>Workshop A3</strong>: A Simple GIS workflow in Python and R<br>
   -
+    type: talk
+    title: QGIS Quick Start with Tips for ArcGIS Users
+    speaker: Evan Derickson
+    audience: Beginner, new to QGIS
+    preparation: Bring your laptop and make sure to have QGIS 2.16 or later installed.
+    description: |
+      Get oriented to the QGIS interface and references to essential resources for QGIS. Proceed with specific functions of QGIS with tips for users familiar with ArcGIS features: loading data, working with layers, geoprocessing, and how to leverage the vast resource provided with QGIS as plug-ins. Plug-ins are part of the primary toolkit for QGIS, they are also the key to extending QGIS functionality. We'll explore file formats, data entry and forms, and raster processing. This workshop is stands alone as an introduction to QGIS, and is also great preparation for _Cartography with QGIS_ in the second workshop session.   
+  -
+    type: talk
+    title: A Simple GIS Workflow in Python and R
+    speaker: Christy Heaton and Caileigh Shoot
+    audience: Intermediate (we will assume intermediate understanding of GIS and basic understanding of R or Python)
+    preparation: We will be using R and R Studio for the R portion, and Miniconda, Geopandas, and Jupyter Notebooks for the Python portion. If you want to follow along, please come with the following installed
+      -- [R](https://cran.r-project.org/)
+      -- [R Studio](https://www.rstudio.com/products/rstudio/download2/)
+      -- [Miniconda](https://conda.io/miniconda.html)
+      -- [This GitHub Repo](https://github.com/christyheaton/Cugos_SpringFling_2017), and follow the Getting Started section in the README.md to get the conda environment set up
+    description: |
+      Python and R are programming languages commonly used to automate GIS workflows. Join us to learn the very basics of both, their strengths and weaknesses, and use them to automate a simple GIS workflow using vector data. Attendees are welcome to come to watch and learn, and will also be provided necessary code and data if they want to follow along.
+      This workshop is brought to you by [Maptime Seattle](http://maptimesea.github.io/). Join our [Meetup group](https://www.meetup.com/MaptimeSEA/) to be notified of our free talk and social events!
+  -
+    type: talk
+    title: Missing Maps
+    speaker: Chase Stephens
+    audience: Beginner
+    preparation: bring a laptop, charger, and a mouse--for key presses and cursor movement a mouse makes tasks easier. No software installation necessary activities are browser based.
+    description: |
+      [Missing Maps](http://www.missingmaps.org) is an amazing humanitarian project to map the world's most vulnerable places. When natural disasters (like earthquakes/hurricanes) or epidemic disease (like Ebola/Malaria) occur, first responders such as the Red Cross and Doctors Without Borders need to know where people live, and how to get to them. However, most of the world isn't on any map! Please stop in and learn how to help save lives around the world – we'll be looking at aerial photos and drawing in the roads and building outlines that we see into OpenStreetMap.
+  -
     type: workshops
     title: "Workshops B"
-    time: 2:45 PM
+    time: 2:45
     description: |
       Second round of workshops. Some will build off each other, some will be completely new.<br><br>
       <strong>Workshop B1</strong>: QGIS: Cartography<br>
       <strong>Workshop B2</strong>: Map Cubes with Jared & Claire<br>
       <strong>Workshop B3</strong>: The OSGeo miscellaneous drawer<br>
+  -
+    type: talk
+    title: Cartography with QGIS
+    speaker: Matt Stevenson
+    audience: some experience with QGIS expected
+    preparation: Bring your laptop and make sure to have QGIS 2.16 or later installed. Some QGIS experience is expected. 
+    description: |
+      Build on your newfound QGIS knowledge by exploring different cartographic techniques within QGIS. We will briefly review some important cartographic and design concepts, then delve into the Layer Styling panel, various transparency tools, labeling techniques, and layout design to make a map in real time! You can make your map with the data provided, or bring your own data and follow along.    
+  -
+    type: talk
+    title: Map Cubes
+    speaker: Claire and Jared Erickson
+    audience: beginner
+    description: |
+      Get crafty in this hands on workshop.  Learn how to assemble map cubes and then learn how to create your own with G.Projector and QGIS.  Bring a pair of scissors and your laptop with G.Projector and QGIS.  This workshop will be fun for kids and grownups, bring your favorite kid too (if you have one).
+  -
+    type: talk
+    title: The OSGeo Miscellaneous Drawer
+    speaker: Rafa Gutierrez
+    audience: beginner/novice
+    description: |
+      Everyone has that drawer at home - the **everything** drawer. Many geospatial developers have the same - but for day-to-day tools. Jump into this workshop to learn tips and tricks to expedite workflows, manage and validate spatial data, and join in the show and tell of how we all use these tools. We'll cover:
+      -- geojsonio
+      -- GDAL
+      -- geojsonhint
+      -- rasterio
+      -- tippecanoe
+      -- MBUtil
+      -- useful console commands
+      -- and as many others as we can pack in this 90-minute session
   -
     type: talk
     title: "Closing remarks"
