@@ -102,8 +102,8 @@ schedule:
       <ul><li> <a href="https://cran.r-project.org/">R</a></li>
       <li> <a href="https://www.rstudio.com/products/rstudio/download2/">R Studio</a></li>
       <li> <a href="https://conda.io/miniconda.html">Miniconda</a></li>
-      <li> <a href="https://github.com/christyheaton/Cugos_SpringFling_2017"> This GitHub Repo</a>, and follow the Getting Started section in the README.md to get the conda environment set up.
-      </li></ul>
+      <li> <a href="https://github.com/christyheaton/Cugos_SpringFling_2017">This GitHub Repo</a>, and follow the Getting Started section in the README.md to get the conda environment set up.</li>
+      </ul>
       <strong>Description:</strong> Python and R are programming languages commonly used to automate GIS workflows. Join us to learn the very basics of both, their strengths and weaknesses, and use them to automate a simple GIS workflow using vector data. Attendees are welcome to come to watch and learn, and will also be provided necessary code and data if they want to follow along.
       This workshop is brought to you by <a href="http://maptimesea.github.io/">Maptime Seattle</a>. Join our <a href="https://www.meetup.com/MaptimeSEA/">Meetup group</a> to be notified of our free talk and social events!
   -
