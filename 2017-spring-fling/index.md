@@ -19,7 +19,7 @@ schedule:
     title: Doors Open
     time: 8:30 AM
     description: |
-      Sign in, get a nametag, drink coffee, eat donuts, mingle
+      Sign in, get a nametag, drink coffee, eat donuts, mingle, and maybe get a little help with your set up for workshops!
   -
     type: title
     title: "Opening remarks"
@@ -80,7 +80,7 @@ schedule:
     title: "Workshops A"
     time: 1:00 PM
     description: |
-      There are three simultaneous workshops, A1, A2, and A3. They will be split between different rooms throughout the space.<br><br>
+      There are three concurrent workshops. The sessions will be split among different rooms throughout the space. While workshops have statements for target audience and recommended preparations, don't let that deter you from attending the topic that piques your interest. These are fantastic opportunities to learn something new, or to practice with something you might have tried before.<br><br>
       <strong>Workshop A1</strong>: QGIS: for ArcGIS users<br>
       <strong>Workshop A2</strong>: Missing Maps<br>
       <strong>Workshop A3</strong>: A Simple GIS workflow in Python and R<br>
