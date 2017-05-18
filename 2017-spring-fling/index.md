@@ -134,7 +134,7 @@ schedule:
   -
     type: talk
     title: Map Cubes
-    speaker: Claire and Jared Erickson
+    speaker: Claire Erickson and Jared Erickson
     description: |
       <strong>Audience:</strong> Beginner<br>
       <strong>Preparation:</strong> None needed, some materials are provided. Bring scissors (or share what's available), a laptop with <a href="http://qgis.org">QGIS</a> and <a href="https://www.giss.nasa.gov/tools/gprojector/">G.Projector</a> if you want to create your own original map cubes.<br>
