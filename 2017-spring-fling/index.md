@@ -109,7 +109,7 @@ schedule:
   -
     type: talk
     title: Missing Maps
-    speaker: Chase Stephens
+    speaker: American Red Cross, NW Region Missing Maps Team
     description: |
       <strong>Audience:</strong> Beginner<br>
       <strong>Preparation:</strong> Bring a laptop, charger, and a mouse--for key presses and cursor movement a mouse makes editing tasks easier. No software installation is necessary, activities are browser based.<br>
