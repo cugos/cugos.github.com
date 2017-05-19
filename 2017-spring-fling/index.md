@@ -176,6 +176,10 @@ event_sponsors_platinum:
     image: /image/2017springfling/VulcanTechnology-200sq.png
     width: 250px
     link: http://www.vulcan.com/technology
+  -
+    image: /image/2017springfling/placed-logo-400.png
+    width: 250px
+    link: https://www.placed.com/
 event_sponsors_gold:
   -
     image: /image/2017springfling/sgsi.png
