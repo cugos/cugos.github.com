@@ -39,3 +39,21 @@ Bunch of examples pulled from work they did for the PGA Tour/Real Madrid. Bunch 
 They use Unity (OBJ and FBX formats) to render the data. Sounds like they do some of this on the fly.
 
 Lots going on here, gotta get them back for a demo!
+
+**Kellen**
+
+Machine Learning application with a geo component. Utilize data (sat and survey data) to apply deep learning techniques.
+
+Accurate data in developing countries is very scarce. So there's not a lot of data. Which hinders our ability to study those areas and help people.
+
+There's a novel m/l technique that extracts economic data from satellite imagery. The approach was validated on 5 countries for which there are georeferenced survey data.
+
+Satellite data is very unstructured, but you can collect it from space, and it can be really high resolution. Our application has a very small labeled dataset (imagery with survey data).
+
+Transfer learning is a technique that takes an existing model (trained on some detailed and rich data set). These models have already been trained. So you can get it. See ImageNet. Keras is deep learning library.
+
+The data in ImageNet is all object centric. So the model is better at objects than satellite imagery.
+
+Our data. Night (NOAA) and day (Google) satellite imagery for Rwanda. Then we have survey data from an international org (DHS).
+
+There's a bit of correlation between wealth and night lights but night lights definitely are not enough to predict wealth. Add in daylight and results get better.
