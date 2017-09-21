@@ -54,3 +54,31 @@ Technology/GIS
 * panel: how lines are actually drawn and contested
 * Robert Cheetham: "District builder" open source software for collaborative redistricting - check out the [source code here](https://github.com/PublicMapping/DistrictBuilder)
 * openelections.net gathering historical election data which is useful for determining "if gerrymandering happened" - here they are [on github](https://github.com/openelections)
+
+#### FOSS4G overview
+
+Peter's Notes: [here](http://pkgeo.com/2017-09-10-summaryFOSS4G/)
+
+**Julie's Notes:**
+
+MapboxGL
+Everything is triangles underneath, fonts are tough
+Variable colors in the same layer! Yeah!!!!!!
+
+Most folks prefer vectors, but there are still reasons to prefer image tiles if you’re dealing with millions of points in a non-interactive way. Faraday was such a company.
+
+Lots of interest in containers, VMs and tools like Ansible for IT management.
+
+Foss4G was WAY too full of white guys. It needs much more diversity.
+
+Printing Ideas:
+	https://github.com/datadesk/print-map-maker
+	Mapzen has talked about it a bit
+
+Much less presence of Mapbox. They had no booth and only a few speakers. Any idea why?
+
+Vector tile servers are getting easier and easier to create. Soon we may be able to pull vector tiles direct from Postgis!
+
+Folks are interested in redistricting. Azavea and academics especially. Azavea has a system for it, but it has a ton of technical debt since it’s a decade old. Their model is people bringing up versions of their codebase with custom data. My approach is about loading all the data and having one national system.
+
+**Riley** really loved Richard Stallman's talk and is going to work on some R Studio and vector tile visualization work soon!
