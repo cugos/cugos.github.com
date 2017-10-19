@@ -21,4 +21,8 @@ notes: It's the room with the elk in it.
 
 ## Notes
 
+### UW Event Wifi
+UW NetID: event0216
+Password: AYLW=AEDK=AAPW
+
 Ye olde conversation about goings on. If anyone is interested in helping out - let us know!
