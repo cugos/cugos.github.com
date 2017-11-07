@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
+- **[@powersa](https://github.com/powersa)**, current CUGOS president, will refresh the group our board election process ahead of the vote at the December meeting.
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 
