@@ -71,9 +71,3 @@ Want to help? Reach out to Sarah Battersby at sbattersby@tableau.com
 
 
 ## Ryan Small
-
-
-
-
-### UW Event Wifi
-=======
