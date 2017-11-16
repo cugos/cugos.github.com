@@ -60,23 +60,14 @@ Committee is comprised of 50% government, 50% non-government folks.
 - current and future needs for data as a service from Federal data repositories
 
 How can CUGOS (you) contribute?
+- How do you use DaaS?
+- How do you use federal data? Is it a pain? What problems?
+- Standardization concerns?
+- Formatting needs?
+- Share stories related to the data you're using, how you're using it, and concerns you have.
+- Interested in: versioning, access issues?, restrictions to use? stability? network overloads? use in disaster situations? complexity of access? privacy, confidentiality, or security concerns? how do you use the data (basemaps, analytics, etc.)? indexing and search? standards and formats?
 
-<<<<<<< HEAD
-### Sarah Battersby
-
-She's on the Data as a Service board for NGAC this year.
-
-NGAC is the National Geospatial Advisory Committee. It's a Federal Advisory Committee sponsored by the Department of the Interior. They provide advice and recommendations about national geo programs. 28 members from a variety of organizations.
-
-Sarah is vice chair of the Data as a Service committee. They are focused on increasing data holdings and understanding how the community's needs are changing.
-
-Who listens to this? They have a few high up gov types that make sure their recommendations get disseminated.
-
-Sarah wants to know what types of problems the community faces. She's interested in a long list of topics. Versioning. Access issues. Stability (disaster situations). Complexity of access. Privacy/security. Indexing and searching. Standards and formats.
-
-She wants to hear from you! Reach out to share your stories or thoughts.
-
-The national address database is something they talk about but don't have. 
+Want to help? Reach out to Sarah Battersby at sbattersby@tableau.com
 
 
 ## Ryan Small
@@ -86,12 +77,3 @@ The national address database is something they talk about but don't have.
 
 ### UW Event Wifi
 =======
-- How do you use DaaS?
-- How do you use federal data? Is it a pain? What problems?
-- Standardization concerns?
-- Formatting needs?
-- Share stories related to the data you're using, how you're using it, and concerns you have.
-- Interested in: versioning, access issues?, restrictions to use? stability? network overloads? use in disaster situations? complexity of access? privacy, confidentiality, or security concerns? how do you use the data (basemaps, analytics, etc.)? indexing and search? standards and formats?
->>>>>>> d8724e3ec8f6b4f90449f07f85a66b3b287d2cf2
-
-Want to help? Reach out to Sarah Battersby at sbattersby@tableau.com
