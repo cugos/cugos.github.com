@@ -69,5 +69,18 @@ How can CUGOS (you) contribute?
 
 Want to help? Reach out to Sarah Battersby at sbattersby@tableau.com
 
-
 ## Ryan Small
+
+Access aws.amazon.com/earth
+
+What data sets are available? Some really interesting ones like GDELT which ties emotion to news headlines, OpenStreetMap, Landsat 8, and many more.
+
+Why use the data gathered by Amazon?
+- finding data is hard
+- getting it is a pain
+- amazon has made this data easy to access
+- amazon is updating the data and has made it easily to programmatically monitor
+
+Why/why not use their data? (open discussion)
+- They are fulfilling a usability gap that is not fulfilled by the government.
+- It's a vendor lock in scheme, use other AWS services to make it even better! :)
