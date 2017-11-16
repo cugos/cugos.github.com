@@ -44,6 +44,28 @@ They have a lot of imagery but no way to process it quickly. So, in theory, if s
 Elections are coming up.
 
 
+### Sarah Battersby
+
+She's on the Data as a Service board for NGAC this year.
+
+NGAC is the National Geospatial Advisory Committee. It's a Federal Advisory Committee sponsored by the Department of the Interior. They provide advice and recommendations about national geo programs. 28 members from a variety of organizations.
+
+Sarah is vice chair of the Data as a Service committee. They are focused on increasing data holdings and understanding how the community's needs are changing.
+
+Who listens to this? They have a few high up gov types that make sure their recommendations get disseminated.
+
+Sarah wants to know what types of problems the community faces. She's interested in a long list of topics. Versioning. Access issues. Stability (disaster situations). Complexity of access. Privacy/security. Indexing and searching. Standards and formats.
+
+She wants to hear from you! Reach out to share your stories or thoughts.
+
+The national address database is something they talk about but don't have. 
+
+
+## Ryan Small
+
+
+
+
 ### UW Event Wifi
 
 Stay tuned.
