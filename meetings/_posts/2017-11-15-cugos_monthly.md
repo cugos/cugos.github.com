@@ -26,7 +26,7 @@ notes: It's the room with the elk in it.
 
 Derek, CUGOS member at large, has been working at a JFO (Joint Field Office) in Orlando.
 
-It's an Arc shop. It's Federal policy to use Open Source Software due to PII restrictions. Survey 123 to collect data in the field. They do shelter and hotel depopulation to get people in permanent housing solutions.
+It's an Arc shop. It's Federal policy not to use Open Source Software due to PII restrictions. Survey 123 to collect data in the field. They do shelter and hotel depopulation to get people in permanent housing solutions.
 
 He's in the Reporting and Analytics division. They do trends and projections. Derek spends a lot of time in the field. Irma, Harvey, Maria and CA wildfires. They're working on all of them. They spend a lot of time trying to get people housing.
 
