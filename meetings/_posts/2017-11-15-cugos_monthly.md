@@ -19,6 +19,12 @@ notes: It's the room with the elk in it.
 - **[Ryan Small](https://github.com/foundatron)** - How to access and use the data on [aws.amazon.com/earth](https://aws.amazon.com/earth/)
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
+## UW Event Wifi
+
+```
+UW NetID:     event0459
+Password:     WgYa:ZkAo:LsUy
+```
 
 ## Notes
 
@@ -38,12 +44,28 @@ Local Hires are heavily relied on for long term recovery operations.
 
 They have a lot of imagery but no way to process it quickly. So, in theory, if someone were to process that to put it on a map, then you could leverage that data to quantify the damage.
 
-
 ### Andrew Powers
 
 Elections are coming up.
 
+### Sarah Battersby, NGAC Report - Focus on "Data as a Service"
 
-### UW Event Wifi
+NGAC - **National Geospatial Advisory Committee** sponsored by the Dept. of the Interior. Report to the chair of the Federal Geographic Data Committee (FGDC). They provide advice and recommendations related to management of Federal and national geospatial programs.
 
-Stay tuned.
+Committee is comprised of 50% government, 50% non-government folks.
+
+"Data as Services" group is focused on:
+
+- increase in data holdings, changes in user base, changes in needs/uses? How are these services being distributed? How are people using them effectively?
+- current and future needs for data as a service from Federal data repositories
+
+How can CUGOS (you) contribute?
+
+- How do you use DaaS?
+- How do you use federal data? Is it a pain? What problems?
+- Standardization concerns?
+- Formatting needs?
+- Share stories related to the data you're using, how you're using it, and concerns you have.
+- Interested in: versioning, access issues?, restrictions to use? stability? network overloads? use in disaster situations? complexity of access? privacy, confidentiality, or security concerns? how do you use the data (basemaps, analytics, etc.)? indexing and search? standards and formats?
+
+Want to help? Reach out to Sarah Battersby at sbattersby@tableau.com
