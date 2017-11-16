@@ -22,6 +22,28 @@ notes: It's the room with the elk in it.
 
 ## Notes
 
+### Derek Huling
+
+Derek, CUGOS member at large, has been working at a JFO (Joint Field Office) in Orlando.
+
+It's an Arc shop. It's against Federal Law to use Open Source Software due to PII restrictions. Survey 123 to collect data in the field. They do shelter and hotel depopulation.
+
+He's in the Reporting and Analytics division. They do trends and projections. Derek spends a lot of time in the field. Irma, Harvey, Maria and CA wildfires. They're working on all of them. They spend a lot of time trying to get people housing.
+
+Started in Orlando. Lots of debris piles. Most of the worst damage was in the Keys. They don't want FEMA personel down there because there is no where to stay. This is a huge issue. A lot FEMA personnel end up on ships, 8 hour shifts in the bed.
+
+Individual Assistance and Public Assistance are the two big categories of disaster recovery. Cutting checks is the easiest way to help people.
+
+There's a revolving door in terms of staffing.
+
+They have a lot of imagery but no way to process it quickly. So, in theory, if someone were to process that to put it on a map, then you could leverage that data to quantify the damage.
+
+
+### Andrew Powers
+
+Elections are coming up.
+
+
 ### UW Event Wifi
 
 Stay tuned.
