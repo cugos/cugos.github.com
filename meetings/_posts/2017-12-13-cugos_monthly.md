@@ -14,6 +14,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 - **[Board Election 2017](http://cugos.org/election/2017/)**
+- [Christy Heaton](https://twitter.com/christytoes) and [Caileigh Shoot](https://twitter.com/caileighshoot) will give an update on [Maptime Seattle](http://maptimesea.github.io/) 
 - **[@you](http://cugos.org/people/)** tell us about what you're trying to solve.
 
 ## UW Event Wifi
