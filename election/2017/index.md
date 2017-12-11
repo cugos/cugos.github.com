@@ -45,4 +45,6 @@ Please include with all nominations:
 
 ## Candidates
 
-- Names and statements go here...
+- **Ryan Small (Current board treasurer)**
+
+- More names and statements go here...
