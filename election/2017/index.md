@@ -45,6 +45,8 @@ Please include with all nominations:
 
 ## Candidates
 
-- **Ryan Small (Current board treasurer)**
+- **Ryan Small (Current board Treasurer)**
+- **Debbie Bull (Current board VP)**
+- **Andrew Powers (Current board President)**
 
 - More names and statements go here...
