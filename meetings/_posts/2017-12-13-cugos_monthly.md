@@ -80,3 +80,49 @@ Sponsors
 Next year
 * More social events, more workshops.
 * What would you like to learn?
+
+
+**[Jason Taylor](https://github.com/JMT2080AD)**
+
+Shiny is an application framework for the programming language R. It's easy to use and packs a lot of features.
+
+There are two components that make up the app. ui.R and server.R. ui.R defines how you want the users to interact with the app. server.R handles variables and functions that power the app.
+
+The work flow is basically, create a visualization. People use R to generate static plots from data. So if you already do that, then you're done with your first step. You can wrap Shiny components around that visualization.
+
+You can start with really simple visualizations. Once you gain some experience, you can get into some really fancy web apps.
+
+Jason built a really cool Bureau of Labor Statistics app, that uses a county map selector to filter labor statistics. Very neat.
+
+Shiny works really well with maps and all that. We'll be seeing more of this.
+
+Thanks, Jason!
+
+
+**[Kate L](https://github.com/kateler) [Slides](bit.ly/kate-nacis2017)**
+
+Kate went to NACIS this year. It's a very approachable and intimate conference.
+
+The conference was in Quebec this year, an added bonus. They even had a poutine bar.
+
+There was a map gallery. Students and professionals.
+
+Jeffery Mandel was the keynote. He creates maps for movie and TV. He's done a lot of really cool scifi works. Also created the map of Pawnee from Parks and Rec (based off of Chistchurch, New Zealand)
+
+Kate gave a talk about making a vector tile basemap for the City of Seattle (or was it King County)
+
+Vendor updates (esri and mapbox).
+
+Tools... Mapshaper has added a lot of tools. mR-V is a new technique for line simplification that works really well for cartography. Illustrator keyboard shortcuts. Shp escape converts .shp files to other formats in the browser.
+
+Data + resources... New version of Natural Earth, they've added more languages/current politcal data. Tom Patterson gave a talk about park maps, they make a lot of free data available. Who's on First -- gazateer (list of places), covers the world (mapzen). gistbok.ucgis.org is the GIS&T Body of Knowledge, wikipedia for geography knowledge. Free images.
+
+Cartographic Techniques... Flow mapping -- shows movement through time and space. Cartographic perspectives, North at the top doesn't always make sense. Fake/Real landscapes -- adventuresinmapping.com. Color and contrast. Navigation UX (save a diverse list of geographies to check when you design a map). Multilingual maps.
+
+Tips + Tricks... Does the 3 act narrative structure apply to story maps? Yes. Trust your initial sketches - Alan McConchie. Save pdfs of webmaps, cuase they won't work in 3 years -- Kelso.
+
+Other things... spacetime.nypl.org. 3D printing vector tiles.
+
+bit.ly/kate-nacis2017
+
+Thanks, Kate!
