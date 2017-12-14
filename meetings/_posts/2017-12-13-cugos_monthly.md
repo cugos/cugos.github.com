@@ -22,7 +22,8 @@ notes: It's the room with the elk in it.
 ## UW Event Wifi
 
 ```
-tune in at the event...
+event0212
+R9x2+U4r4+S6f8
 ```
 
 ## Notes
