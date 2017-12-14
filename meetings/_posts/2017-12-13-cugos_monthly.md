@@ -99,7 +99,7 @@ Shiny works really well with maps and all that. We'll be seeing more of this.
 Thanks, Jason!
 
 
-**[Kate L](https://github.com/kateler) [Slides](bit.ly/kate-nacis2017)**
+**[Kate L](https://github.com/kateler) -- [Slides](bit.ly/kate-nacis2017)**
 
 Kate went to NACIS this year. It's a very approachable and intimate conference.
 
