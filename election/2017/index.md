@@ -48,5 +48,16 @@ Please include with all nominations:
 - **Ryan Small (Current board Treasurer)**
 - **Debbie Bull (Current board VP)**
 - **Andrew Powers (Current board President)**
+- **Jacob Lesser**
 
-- More names and statements go here...
+------------
+
+The election was held with a quorum of 19 cugos members on 12/13/17 at Anderson Hall at the University of Washington
+
+The slate of 4 nominees where presented to the cugos members in attendance.
+
+A vote of the entire slate was taken and the vote count of 19 in favor of all four members was counted with 0 against.
+
+The full slate of board members was accepted and will be seated for the fiscal year of 2018
+
+Congratulations (and thanks for stepping up) Ryan, Debbie, Andrew and Jacob!!!! 
