@@ -17,6 +17,8 @@ notes: It's the room with the elk in it.
 
 - **[Ariel](https://github.com/akadouri)** Will update CUGOS on the [UW Geography Hackathon](https://maphacks.github.io/) and talk a little (and seek advice) about the project he's been working on that involes combining a bunch of datasets to create a financial inclusion map/dashboard of Nigeria. 
 
+- **[Ryan](https://github.com/foundatron)** Will bring a bunch of electronic stuff that he's giving away to make room for a new baby. Everything you need to start your next hack project: network routers, network switches, sensors, gps devices, raspberry pi, an old laptop, and cables of all types. 
+
 ## UW Event Wifi
 
 ```
