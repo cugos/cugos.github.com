@@ -22,7 +22,8 @@ notes: It's the room with the elk in it.
 ## UW Event Wifi
 
 ```
-TBD
+UW NetID:   event0320
+Password:   9h7H-8s2J-7u3Z
 ```
 
 ## Notes
