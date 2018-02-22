@@ -36,3 +36,6 @@ Ariel has his first Real GIS Job.  He used to be an Android programmer.  He will
 *Special Note: **[Ariel's](https://github.com/akadouri)** is graduating at the end of the quarter.  Congratulations!
 
 [Catherine Kuhn](http://www.thebutmanlab.com/catherine-kuhn/) is a ph.D candidate at UW.  She does a lot of sattelite remote sensing of water.  She and her team are building remotely sensed flood maps for a newly found startup.  They are working with the Dartmouth flood repository.  Historical data includes dates and locations of floods.  Often contains polygons and newspaper articles.  They are building maps of these historic floods using MODIS satellite data.  They are using Google Earth Engine.  They now have a database of 5000 mapped database.  They are QA/QCing the data.  They have a team of 6 and have checked about 600 of the floods.  She is reaching out to the community to look for help reviewing the data.  Thinking about having a hackathon.  Please contact her if you would like to help.
+
+
+Ryan is looking for GIS data on where you can legally fish in Washington state.  The paper pamphlet is very long and confusing and he would like to make a map to simplify identifying areas where you can legally fish.  Ryan also gave away lots of old gear.
