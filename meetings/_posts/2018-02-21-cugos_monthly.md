@@ -28,4 +28,7 @@ Password:   9h7H-8s2J-7u3Z
 
 ## Notes
 
-Notes will be posted during the meeting.
+Ariel presented on UW Map Hackathon.   It will be April 28th and 29th in Denny 303 at University of Washington.  You can visit the MapHacks website at [https://maphacks.github.io](https://maphacks.github.io).  They are looking for teachers to present workshops.  If interested, contact Ariel.  
+
+Ariel has his first Real GIS Job.  He used to be an Android programmer.  He will be pulling in data from many financial organizations and start mapping risk in Nigeria.  The project is for BFA, CBN, NIBSS and the Bill and Melinda Gates Foundation.  The output will be an Atlas and digital Dashboard.  He imported all the various data sources into a PostgreSQL database and built maps that visualized access to banks using QGIS.  One of the challenges he faced was that place names in Nigeria had many different spellings, so joining data was difficult.
+*Special Note: **[Ariel's](https://github.com/akadouri)** is graduating at the end of the quarter.  Congratulations!
