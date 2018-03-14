@@ -13,5 +13,5 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
-- **[Ryan Small](https://github.com/foundatron)** An Introduction to [GeoAlchemy2](http://geoalchemy-2.readthedocs.io/en/latest/), which adds geosptial support to [SQLAlachemy](http://www.sqlalchemy.org/)...because sometimes ORMS are nice.
+- **[Ryan Small](https://github.com/foundatron)** An Introduction to [GeoAlchemy2](http://geoalchemy-2.readthedocs.io/en/latest/). Getting geosptial support in [SQLAlachemy](http://www.sqlalchemy.org/)...because sometimes ORMS are nice.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
