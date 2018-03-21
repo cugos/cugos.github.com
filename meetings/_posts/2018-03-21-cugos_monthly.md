@@ -13,7 +13,6 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
-- **[Ryan Small](https://github.com/foundatron)** An Introduction to [GeoAlchemy2](http://geoalchemy-2.readthedocs.io/en/latest/). Getting geosptial support in [SQLAlachemy](http://www.sqlalchemy.org/)...because sometimes ORMS are nice.
 - **[Mike Rosen](https://github.com/mrosen)** Toward Machine Learning of Lidar Classifications.  When you look at a Lidar point cloud it's clear to you what you're looking at:  trees, cars, wires, etc. Sadly, the best the industry can do right now to tag those points is have human operators
 do that manually.  I've been working on this problem for while and will show you a bit about what I've learned and how far we have to go.
 - **[@Kate Leroux](https://github.com/kateler)** I'll talk about how I recently dug into how to improve performance in a Mapbox stylesheet.
