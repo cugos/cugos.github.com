@@ -13,5 +13,5 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
-- **[Ryan Small](https://github.com/foundatron)** That Geoalchemy2 talk I was supposed to in March!
+- **[Ryan Small](https://github.com/foundatron)** That Geoalchemy2 talk I was supposed to do in March!
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
