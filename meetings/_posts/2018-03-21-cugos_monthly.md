@@ -28,3 +28,12 @@ do that manually.  I've been working on this problem for while and will show you
 UW NetID:   event0963
 Password:   eURj=oYZd=eENj
 ```
+
+## Meeting Notes 
+
+Kate Leroux - Kate has learned some interesting undocumented tips for Mapbox map styles.  She has a style with 15000 lines of JSON and 164 layers.  It runs a little slow, especially on slower Android devices.  Kate had many theories about what might be slowing it down.  According to some tips in the Mapbox documentation, it suggested to many layers, or layers with too many verticies could cause problems, but which layers were causing problems in her style.  She used the Chrome developer tools to benchmark her existing stylesheet.  She picked several landmarks in her perforance profile and tracked them in an excel spreadsheet for several runs.  She then created stylesheets that tested some of her initial theories and ran the same performance tests.  She used conditional formatting in excel to quickly identify components that were faster and slower in different iterations of her stylesheets.  One surprise was that her hillshade layer did not have significant performance impacts.  She then ran a memory profile.  She started exploring the memory output and noticing lots of spikes.  Things that stood out were POI labels and the line features from buildings.  Pedestrian paths were also standing out.  These were not supposed to display at the zoom level she had set and were not visible on the page, but they were still impacting performance.  She has several lessons.  
+- 1. Lots of olittle things add up.  Point of interest labels while small, took a lot of memory as a group.  
+- 2. Always set the mi zome for every layer.  Even if opacity is set to 0, it's not display, but still loaded into memory.  
+- 3. Bring in building lines later so other components render first.  
+
+She had big improvements.  The map was between 26 and 31 percent faster and used between 42 and 51% less memory.  
