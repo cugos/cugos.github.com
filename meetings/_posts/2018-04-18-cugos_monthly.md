@@ -15,4 +15,5 @@ notes: It's the room with the elk in it.
 ## Agenda
 - **[Ryan Small](https://github.com/foundatron)** - That Geoalchemy2 talk I was supposed to do in March!
 - **[Sam Matthews](https://github.com/mapsam)** - a quick runthrough of a small experiment generating vector tiles on the fly and saving to a cache [github.com/mapsam/get-or-tile](https://github.com/mapsam/get-or-tile)
+- **[Christy Heaton](https://github.com/christyheaton)** - will talk about her adventures making maps in Jupyter Notebooks
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
