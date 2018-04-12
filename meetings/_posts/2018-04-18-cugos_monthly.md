@@ -17,4 +17,5 @@ notes: It's the room with the elk in it.
 - **[Sam Matthews](https://github.com/mapsam)** - a quick runthrough of a small experiment generating vector tiles on the fly and saving to a cache [github.com/mapsam/get-or-tile](https://github.com/mapsam/get-or-tile)
 - **[Christy Heaton](https://github.com/christyheaton)** - will talk about her adventures making maps in Jupyter Notebooks
 - **[Andrew Powers](https://github.com/powersa)** - will walk through a [Udacity](https://www.udacity.com/) class project that runs in a Jypyter Notebook on AWS EC2.
+- **[Stephen Mangum](https://github.com/maneaba)** - will present a vector tile map of King County.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
