@@ -18,4 +18,5 @@ notes: It's the room with the elk in it.
 - **[Christy Heaton](https://github.com/christyheaton)** - will talk about her adventures making maps in Jupyter Notebooks
 - **[Andrew Powers](https://github.com/powersa)** - will walk through a [Udacity](https://www.udacity.com/) class project that runs in a Jypyter Notebook on AWS EC2.
 - **[Stephen Mangum](https://github.com/maneaba)** - will present a vector tile map of King County.
+- **[Peter Keum](http://pkgeo.com/)** If there's enough time at the end of this meeting, I can share my "drone talk" and I promise to drone on about my "drone" work.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
