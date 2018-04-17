@@ -19,4 +19,5 @@ notes: It's the room with the elk in it.
 - **[Andrew Powers](https://github.com/powersa)** - will walk through a [Udacity](https://www.udacity.com/) class project that runs in a Jypyter Notebook on AWS EC2.
 - **[Stephen Mangum](https://github.com/maneaba)** - will present a vector tile map of King County.
 - **[Peter Keum](http://pkgeo.com/)** If there's enough time at the end of this meeting, I can share my "drone talk" and I promise to drone on about my "drone" work.
+- **[Ariel Kadouri](https://github.com/akadouri)** - If there's still enough time, I will solicit volunteers/mentors for the [UW MapHacks Geography Hackathon](https://maphacks.github.io/) on April 28th/29th. 
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
