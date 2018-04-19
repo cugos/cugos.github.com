@@ -20,3 +20,11 @@ notes: It's the room with the elk in it.
 - **[Peter Keum](http://pkgeo.com/)** If there's enough time at the end of this meeting, I can share my "drone talk" and I promise to drone on about my "drone" work.
 - **[Ariel Kadouri](https://github.com/akadouri)** - If there's still enough time, I will solicit volunteers/mentors for the [UW MapHacks Geography Hackathon](https://maphacks.github.io/) on April 28th/29th. 
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
+
+
+## UW Event Wifi
+
+```
+UW NetID:     event0142
+Password:     p3L7/u7C9/q8T5
+```
