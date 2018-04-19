@@ -67,3 +67,25 @@ To get Jupyter running, kick it into developer mode (escape key + refresh -- rea
 To work with R, you can run an interactive shell. You could also try Rscript, which let's you execute a script in this environment.
 
 Run Jupyter. Download and install Anaconda. Tell the installer to put it somewhere in your home directory. Don't let it update your path for you. It'll ruin everything. Use conda to install Jupyter. Then you can run a local service that you access through your browser.
+
+## Sam Matthews -- Making a tile server
+
+Sam's been a deadbeat and hasn't presented in a minute. He's gonna make it up to everyone by showing us how to build and run a basic tileserver. Three pieces. Serving. Returning. Creating. Caching. However, this isn't a suggested architecture.
+
+Built with node.js with express.js, mapnik, local filesystem and mapbox-gl-js for map-rendering.
+
+When you go to load a web map on a website... We want to load specific sources. Then mapbox-gl-js is going to make a request to wherever you said those tiles live. Then your browser gets a response back in the form of a buffer (data). Then your browser renders that data.
+
+When the tile server recieves a request, it checks to see if the tile already exists. If it doesn't, then the server loads the data needed to generate the tile, then the server generates the tile, saves it to the cache and presumably sends it back to the client.
+
+Check out the project from [mapsam](https://github.com/mapsam/get-or-tile). The repo has a nice readme that describes how to run it locally.
+
+When you load the page, this line tells it where your tile server is running [index.html#L32](https://github.com/mapsam/get-or-tile/blob/master/viz/index.html#L32). The browser is making requests.
+
+Meanwhile, over on the server, we're routing these requests to this codepath: [index.js#L24](https://github.com/mapsam/get-or-tile/blob/master/index.js#L24). [getTile](https://github.com/mapsam/get-or-tile/blob/master/index.js#L45-L64) checks the local file cache (z/x/y file directory structure). If we don't file the tile there, we try to generate the tile over at [generateTile](https://github.com/mapsam/get-or-tile/blob/master/index.js#L66-L92) which reads the source data and uses mapnik to generate the tile. Then we return the tile and save it to the cache.
+
+The browser gets a tile no matter what. It gets it really fast if it's in the cache and slower if it has to generate it on the fly.
+
+Sam added a bunch of logging, so take a look if you want a better idea of what's going on. When you refresh the page (after browsing around), the logs will contain a lot more gets, until you start looking at areas outside of the cache.
+
+Hit http://69.91.158.123:8000/ to see this in action.
