@@ -31,7 +31,7 @@ Password:     p3L7/u7C9/q8T5
 
 ## Meeting Notes
 
-## Ryan Small -- Using a Chromebook for Real Stuff
+## [Ryan Small](https://media.giphy.com/media/AuQm5kCePSfiE/giphy.gif) -- Using a Chromebook for Real Stuff
 
 He uses a Chromebook and also an old busted laptop. His company is based in Amsterdam, so he winds up spending most of his time working on remote machines (ie servers somewhere in the cloud). He's gonna tell us how he makes the Chromebook work for him.
 
@@ -68,7 +68,7 @@ To work with R, you can run an interactive shell. You could also try Rscript, wh
 
 Run Jupyter. Download and install Anaconda. Tell the installer to put it somewhere in your home directory. Don't let it update your path for you. It'll ruin everything. Use conda to install Jupyter. Then you can run a local service that you access through your browser.
 
-## Sam Matthews -- Making a tile server
+## Sam Matthews -- [Making a tile server](https://gist.github.com/mapsam/21c5da1d14e349c0d6e026cc55be9e3a)
 
 Sam's been a deadbeat and hasn't presented in a minute. He's gonna make it up to everyone by showing us how to build and run a basic tileserver. Three pieces. Serving. Returning. Creating. Caching. However, this isn't a suggested architecture.
 
@@ -90,4 +90,29 @@ Sam added a bunch of logging, so take a look if you want a better idea of what's
 
 Hit http://69.91.158.123:8000/ to see this in action.
 
-This isn't how you'd do it to scale. You'd want to use tilers (geojson-vt, postgis), caches (s3, databases) and lots of vector tile servers. For example, big data sources will crush this local server. How do we invalidate the cache? For example, you could include a version in your tile path. 
+This isn't how you'd do it to scale. You'd want to use tilers (geojson-vt, postgis), caches (s3, databases) and lots of vector tile servers. For example, big data sources will crush this local server. How do we invalidate the cache? For example, you could include a version in your tile path.
+
+
+## Christy Heaton --
+
+Giving a tutorial at PyCon 2018, woot woot! Intro to Spatial Analysis and Maps with Python. Python is a general purpose programming language. It's free and open source and it can do a lot of different things. Including GIS.
+
+Geopandas is an open source project to make using geo data in Python as easy as possible. It pulls in a lot of powerful tools.
+
+Conda is a package management system for Python. This will save you a lot of time and energy. Comes with a lot of packages. Miniconda doesn't have any data science packages installed with it, so that's quick if you don't want a lot of bells and whistles.
+
+Jypyter Notebooks -- an open source web application that lets you create and share documents that contain live code, equations, visualizations and narrative text. They are everywhere.
+
+Why would we want to do GIS in a Jupyter Notebook? It's compact and reproducible. Easy to demo. Easy to customize and change. Easy to share with anyone, you don't need to be technical.
+
+Check out Christy's presentation for Maptime -- [Maptime_20180411](https://github.com/christyheaton/Maptime_20180411). This project shows you everything you need to know to get Jupyter up and running locally.
+
+Notebooks are composed of cells. They can be markdown or they can be code. It's super easy to execute a cell. You can also move them around. It doesn't matter what over the cells are arranged, the only thing that matters is the order in which they run. Watch out for that.
+
+You can download notebooks into html files, or into slide shows. Did she mention the slideshow export is really awesome?
+
+But, what can you do with maps? Turns out pretty thing you can do with Python, you can do with Jupyter. It really doesn't take a lot of code to plot with Geopandas in Jupyter. Really, everything you can do with Geopandas (coordinate reference systems anyone?) you can do in a browser with Jupyter, checkout the [DEMO](https://github.com/christyheaton/Maptime_20180411/blob/master/Notebook/01_Geopandas_Intro_Maptime_20180411.ipynb).
+
+If you like eclipses, checkout this [notebook](https://github.com/christyheaton/Maptime_20180411/blob/master/Notebook/02_Geopandas_Advanced_Maptime_20180411.ipynb)! This notebook let's make a basemap with all of the eclipse paths. Pretty slick. You can also plot cities to figure out which cities are in the path of the eclipse. You can change the extent of your map and the styling to get a better view of the eclipse you're interested in. This is really cool.
+
+The grand finale, you can turn your awesome eclipse map into a slippy map, all in the notebook!
