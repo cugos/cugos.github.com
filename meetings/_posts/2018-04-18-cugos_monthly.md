@@ -89,3 +89,5 @@ The browser gets a tile no matter what. It gets it really fast if it's in the ca
 Sam added a bunch of logging, so take a look if you want a better idea of what's going on. When you refresh the page (after browsing around), the logs will contain a lot more gets, until you start looking at areas outside of the cache.
 
 Hit http://69.91.158.123:8000/ to see this in action.
+
+This isn't how you'd do it to scale. You'd want to use tilers (geojson-vt, postgis), caches (s3, databases) and lots of vector tile servers. For example, big data sources will crush this local server. How do we invalidate the cache? For example, you could include a version in your tile path. 
