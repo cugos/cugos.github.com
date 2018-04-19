@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
+- **[Peter Keum](http://pkgeo.com/)** will share his "drone talk" and he promises to drone on about his "drone" work.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 
