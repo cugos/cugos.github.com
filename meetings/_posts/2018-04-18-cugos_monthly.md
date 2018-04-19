@@ -116,3 +116,16 @@ But, what can you do with maps? Turns out pretty thing you can do with Python, y
 If you like eclipses, checkout this [notebook](https://github.com/christyheaton/Maptime_20180411/blob/master/Notebook/02_Geopandas_Advanced_Maptime_20180411.ipynb)! This notebook let's make a basemap with all of the eclipse paths. Pretty slick. You can also plot cities to figure out which cities are in the path of the eclipse. You can change the extent of your map and the styling to get a better view of the eclipse you're interested in. This is really cool.
 
 The grand finale, you can turn your awesome eclipse map into a slippy map, all in the notebook!
+
+
+## Stephen Mangum -- Vector Tiles with Tegola and PostGIS
+
+Longtime CUGOS member, has learned a lot along the way.
+
+Stephen likes to use King County parcel data for data visualizations. His goal: create a self-hosted parcel data map. Self-hosted because it's a lot of data.
+
+He started in QGIS, put it all into a shapefile. But it crashed a lot. So, he started to learn some other tools. Mapnik, tippecanoe. In the end he came out with [Iteration 1](http://www.maneaba.com/slippy2.html).
+
+He took a break and when he came back he found Tegola, a Go vector tile renderer. Really easy to use, works really well, backed by OSM. Here's the next step [Iteration 2](http://www.maneaba.com/map/#10/47.6151/-122.3315). Really nice map.
+
+Next steps... Stephen is going to add Snohomish County. Make the legends responsive. Also, more information. There's a lot of detailed data out there. All of it would be great in the map, including additional layers that help explain why the world is how it is today.
