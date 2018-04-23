@@ -14,6 +14,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 - **[Peter Keum](http://pkgeo.com/)** Will share his "drone talk" and promises to drone on about his "drone" work.
+- **[@cliffordsnow](http://github.com/cliffordsnow)** Preview is OpenStreetMap presentation at WAURISA.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 
