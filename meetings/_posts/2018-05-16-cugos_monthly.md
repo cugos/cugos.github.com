@@ -15,6 +15,7 @@ notes: It's the room with the elk in it.
 ## Agenda
 - **[Peter Keum](http://pkgeo.com/)** Will share his "drone talk" and promises to drone on about his "drone" work.
 - **[@cliffordsnow](http://github.com/cliffordsnow)** Preview is OpenStreetMap presentation at WAURISA.
+- **[@mapsam](http://github.com/mapsam)** will present a new CUGOS project, the [GUS API](https://github.com/cugos/gus-api), which is an API to convert google spreadsheets into GeoJSON for your geo snacking needs
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 
