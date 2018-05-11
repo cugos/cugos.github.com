@@ -17,6 +17,7 @@ notes: It's the room with the elk in it.
 - **[@cliffordsnow](http://github.com/cliffordsnow)** Preview is OpenStreetMap presentation at WAURISA.
 - **[@mapsam](http://github.com/mapsam)** will present a new CUGOS project, the [GUS API](https://github.com/cugos/gus-api), which is an API to convert google spreadsheets into GeoJSON for your geo snacking needs
 - **[@powersa](http://github.com/powersa)** will show you how to launch a Jupyter notebook on AWS!
+- **[@sarahbat](http://github.com/sarahbat)** will talk about Tableau + PostGIS to add some extra spatial spice to a Tableau workflow
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 
