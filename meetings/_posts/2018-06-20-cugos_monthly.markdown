@@ -1,16 +1,16 @@
 ---
 layout: meeting
-title: June 20th, 2018, 6pm - Anderson Hall, UW
-location: University of Washington
-address: UW Anderson Hall, Forest Club room 207
+title: June 20th, 2018, 6pm - Meridian Park
+location: Wallingford
+address: Meridian Avenue N and N 50th
 time: 6:00pm
-excerpt: June 20 2018 CUGOS Monthly Meeting
-lat: 47.651737
-lng: -122.307540
+excerpt: CUGOS Picnic.
+lat: 47.6638266
+lng: -122.3328602
 category: meetings
-notes: It's the room with the elk in it, second floor
+notes: Picnic and food at Meridian Park
 ---
 
 
 ## Agenda
-- **[@you](http://cugos.org/people/)** tell us about something cool you are working on
+- ** Meeting for Eating: CUGOS Picnic at Meridian Park. Bring something to sit on and food, or pick something up at the [Wallingford farmers market](http://www.sfmamarkets.com/visit-wallingford-farmers-market/).  The weather is forcasted to be sunny and hot. 
