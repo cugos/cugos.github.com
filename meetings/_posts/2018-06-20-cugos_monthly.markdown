@@ -13,4 +13,4 @@ notes: Picnic and food at Meridian Park
 
 
 ## Agenda
-- ** Meeting for Eating: CUGOS Picnic at Meridian Park ** . Bring something to sit on and food, or pick something up at the [Wallingford farmers market](http://www.sfmamarkets.com/visit-wallingford-farmers-market/).  The weather is forcasted to be sunny and hot. 
+- **Meeting for Eating: CUGOS Picnic at Meridian Park** . Bring something to sit on and food, or pick something up at the [Wallingford farmers market](http://www.sfmamarkets.com/visit-wallingford-farmers-market/).  The weather is forcasted to be sunny and hot. 
