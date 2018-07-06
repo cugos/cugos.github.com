@@ -1,9 +1,8 @@
 ---
- 
 title: Matt Kenny
 category: people
-lat: 47.649666
-lng: -122.352907
+lat: 47.590022
+lng: -122.296146
 image: https://avatars1.githubusercontent.com/u/459007?v=2&s=400
 github: mattmakesmaps
 twitter: mattmakesmaps

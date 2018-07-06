@@ -1,42 +1,36 @@
 ---
+layout: default
 ---
-{% include head.html %}
 
-<div class="container">
-
-  <header class="page-header" style="background-image:url({{ site.baseurl }}/image/{{ page.header_img }});">
-    <div class="header-info">
-      <h1>MEETINGS</h1>
-    </div>
-  </header>
-
-  <div class="main">
-    <div class="content">
-      <p>CUGOS meetings are an opportunity to learn about open source geospatial software and to showcase your own projects. Typical meeting topics include <a href="http://www.openstreetmap.org/">Open Street Map</a>, <a href="http://www.qgis.org/en/site/">QGIS</a>, <a href="http://leafletjs.com/">Leaflet</a>, and even quadcopters. All technical levels are welcome and we encourage everybody to share their interests with the group.</p>
-
-      <p>Meetings take place <em>the third Wednesday of every month at 6:00 PM</em>. The meeting location changes, but is updated promptly on individual meeting pages. Meetings last for approximately two hours and typically involve a post-meeting social at one of our local breweries or pubs.</p>
-
-      <p>If you're interested in speaking at CUGOS, feel free to drop us an email at <em>hello@cugos.org</em> or find us on IRC - <strong>freenode</strong> network, <strong>#cugos</strong> channel.</p>
-    </div>
-    
-    {% include next-meeting.html %}
-
-    <h2>All Meetings</h2>
-    <ul id="meetings-list" class="cf">
-      {% for meeting in site.categories.meetings %}
-        <li><a href="{{ meeting.url }}">
-          <img src="http://api.tiles.mapbox.com/v4/cugos.jole6im1/pin-m-commercial+f44({{ meeting.lng }},{{ meeting.lat }},18)/{{ meeting.lng }},{{ meeting.lat }},14/150x150.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q">
-          <p class="meeting-list-info"><span class="meeting-list-date">{{ meeting.date | date: "%m/%d/%Y" }}</span><br>
-          Host: {{ meeting.location }}<br>
-          <span class="meeting-list-address">Address: {{ meeting.address }}</span></p>
-          <div class="cf"></div>
-        </a></li>
-      {% endfor %}
-      <div class="clearfix"></div>
-    </ul>
-
+<header class="page-header" style="background-image:url({{ site.baseurl }}/image/{{ page.header_img }});">
+  <div class="header-info">
+    <h1>MEETINGS</h1>
   </div>
+</header>
+
+<div class="main">
+  <div class="content">
+    <p>CUGOS meetings are an opportunity to learn about open source geospatial software and to showcase your own projects. Typical meeting topics include <a href="http://www.openstreetmap.org/">Open Street Map</a>, <a href="http://www.qgis.org/en/site/">QGIS</a>, <a href="http://leafletjs.com/">Leaflet</a>, and even quadcopters. All technical levels are welcome and we encourage everybody to share their interests with the group.</p>
+
+    <p>Meetings take place <em>the third Wednesday of every month at 6:00 PM</em>. The meeting location changes, but is updated promptly on individual meeting pages. Meetings last for approximately two hours and typically involve a post-meeting social at one of our local breweries or pubs.</p>
+
+    <p>If you're interested in speaking at CUGOS, feel free to drop us an email at <em>hello@cugos.org</em> or find us on IRC - <strong>freenode</strong> network, <strong>#cugos</strong> channel.</p>
+  </div>
+  
+  {% include next-meeting.html %}
+
+  <h2>All Meetings</h2>
+  <ul id="meetings-list" class="cf">
+    {% for meeting in site.categories.meetings %}
+      <li><a href="{{ meeting.url }}">
+        <img src="http://api.tiles.mapbox.com/v4/cugos.ma6ck6l4/pin-m-commercial+f44({{ meeting.lng }},{{ meeting.lat }},18)/{{ meeting.lng }},{{ meeting.lat }},14/150x150.png?access_token=pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g">
+        <p class="meeting-list-info"><span class="meeting-list-date">{{ meeting.date | date: "%m/%d/%Y" }}</span><br>
+        Host: {{ meeting.location }}<br>
+        <span class="meeting-list-address">Address: {{ meeting.address }}</span></p>
+        <div class="cf"></div>
+      </a></li>
+    {% endfor %}
+    <div class="clearfix"></div>
+  </ul>
 
 </div>
-
-{% include footer.html %}

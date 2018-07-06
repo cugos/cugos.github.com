@@ -3,61 +3,93 @@
 
 {% include head.html %}
 
-<header class="event-header" style="background-image:url({{ site.baseurl }}/image/2015springfling/{{ page.event_header-image }});">
+<header class="event-header" style="background-image:url({{ site.baseurl }}/image/{{ page.event_header-image }});">
   <div class="outer">
     <div class="inner">
       <h1 class="event-title">{{ page.title }}</h1>
       <p class="event-date"><i class="fa fa-calendar"></i>{{ page.event_date }}</p>
-      <a class="event-register-button" target="_blank" href="{{ page.event_register-url }}">Register, it's free!<i class="fa fa-thumbs-o-up"></i></a>
+      <a class="event-register-button" target="_blank" href="#">Sold out!<i class="fa fa-smile-o"></i><i class="fa fa-frown-o"></i></a>
     </div>
   </div>
   <!-- remove this after event! -->
-  <div class="event-header-credits">credit: <a target="_blank" href="https://www.mapbox.com/">mapbox satellite</a></div>
+  <div class="event-header-credits">credit: <a target="_blank" href="https://www.mapbox.com/">{{ page.event_header-credit }}</a></div>
 </header>
+
+{% if page.announcement %}
+<div class="alert blue no-hover no-margin no-bump">
+  <div class="container"><p>{{ page.announcement }}</p></div>
+</div>
+{% endif %}
 
 <div class="container">
   <div class="main event">
     <div class="event-content">{{ content }}</div>
-    <h2 class="event-content-title">Location</h2>
-    
-    <div id="event-map" 
-         class="map-marker"
-         data-latitude="{{ page.lat }}"
-         data-longitude="{{ page.lng }}"
-         data-popup="{{ page.address }}"></div>
 
-    <div class="event-content">{{ page.event_location }}</div>
-    
-    <h2 class="event-content-title">Schedule</h2>
-    <div class="schedule cf">
-      {% for item in page.schedule %}
-      <div class="schedule-block {{ item.type }}">
-        <h3 class="schedule-block-title">{{ item.title }}</h3>
-        {% if item.name %}
-        <p class="schedule-block-name">{{ item.name }}</p>
-        {% endif %}
-        <p class="schedule-block-description">{{ item.description }}</p>
-      </div>
+    {% if page.markers %}
+      <div id="event-map" class="map-marker">
+      {% for m in page.markers %}
+        <span class="marker-elem"
+              data-latitude="{{ m.lat }}"
+              data-longitude="{{ m.lng }}"
+              data-icon="{{ m.icon }}"
+              data-color="{{ m.color }}"
+              data-popup="{{ m.name }}"></span>
       {% endfor %}
-    </div>
+      </div>
+    {% else %}
+      <div id="event-map"
+           class="map-marker"
+           data-latitude="{{ page.lat }}"
+           data-longitude="{{ page.lng }}"
+           data-popup="{{ page.address }}"></div>
+    {% endif %}
+
+    {% if page.schedule %}
+      <h2 class="event-content-title">Schedule</h2>
+      <div class="schedule cf">
+
+        {% for item in page.schedule %}
+        <div class="schedule-block {{ item.type }}">
+            {% for s in item.speakers %}
+            <div class="speaker">
+              {% if s.image %}<div class="speaker-image"><img src="{{ s.image }}"></div>{% endif %}
+              {% if s.name %}<p class="speaker-name">{{ s.name }}</p>{% endif %}
+              {% if s.company %}<p class="speaker-company">{{ s.company }}</p>{% endif %}
+            </div>
+            {% endfor %}
+            <h2 class="schedule-block-title">{{ item.title }}</h2>
+            <p class="schedule-block-description">{{ item.description }}</p>
+        </div>
+        {% endfor %}
+
+      </div>
+    {% endif %}
 
     <div class="event-sponsors">
-      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-gold push-right"></i>Gold Sponsors</h4>
-      {% for sponsor in page.event_sponsors_gold %}
-        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-      {% endfor %}
 
-      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-silver push-right"></i>Silver Sponsors</h4>
-      {% for sponsor in page.event_sponsors_silver %}
-        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-      {% endfor %}
+      {% if page.event_sponsors_platinum %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_platinum title="Platinum Sponsors" color="text-blue" %}
+      {% endif %}
 
-      <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o text-bronze push-right"></i>Bronze Sponsors</h4>
-      {% for sponsor in page.event_sponsors_bronze %}
-        <a target="_blank" href="{{ sponsor.link }}"><img class="event-sponsor" src="{{ site.baseurl }}/image/2015springfling/{{ sponsor.image }}" style="width:{{ sponsor.width }}"></a>
-      {% endfor %}
+      {% if page.event_sponsors_gold %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_gold title="Gold Sponsors" color="text-gold" %}
+      {% endif %}
+
+      {% if page.event_sponsors_silver %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_silver title="Silver Sponsors" color="text-silver" %}
+      {% endif %}
+
+      {% if page.event_sponsors_bronze %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_bronze title="Bronze Sponsors" color="text-bronze" %}
+      {% endif %}
+
+      {% if page.event_sponsors_comm %}
+        {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
+      {% endif %}
+
+      <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
+
     </div>
-    <p>Want to support this event? Email <a href="mailto:hello@cugos.org">hello@cugos.org</a> for information about how to get involved.</p>
   </div>
 </div>
 

@@ -23,20 +23,27 @@
       li { display: table-cell; font-weight: bold; width: 1%; }
       .divider { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #fafafa;}
 
-
     </style>
   </head>
   <body>
 
-    <div class="container">
 
-      <center><img src="/image/base/cugos_404.png"></center>
-      <h1>404</h1>
-      <p><strong>There isn't a CUGOS Page here.</strong></p>
-      <p>
-        <a href="http://cugos.org/">Head back to cugos.org</a>
-      </p>
 
-    </div>
+    <script>
+    if (window.location.search !== '?ref=404redirect') {
+      var url = window.location.pathname;
+      var items = url.split('/');
+      console.log(items);
+      window.location = '/' + items[1] + '/' + items[2] + '-' + items[3] + '-' + items[4] + '/?ref=404redirect';
+    } else {
+      document.body.innerHTML = '<div class="container">\
+        <center><img src="/image/base/cugos_404.png"></center>\
+        <h1>404</h1>\
+        <p><strong>There isn\'t a CUGOS Page here.</strong></p>\
+        <p><a href="http://cugos.org/">Head back to cugos.org</a></p>\
+        </div>';
+    }
+    </script>
+
   </body>
 </html>

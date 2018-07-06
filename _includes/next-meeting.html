@@ -1,5 +1,5 @@
 {% for meeting in site.categories.meetings limit: 1  %}
-<a class="alert" href={{ meeting.url }}>
+<a class="alert red" href={{ meeting.url }}>
   Next CUGOS meeting: <span class="alert-meeting-title">{{ meeting.title }}</span></a>
 </a>
 {% endfor %}

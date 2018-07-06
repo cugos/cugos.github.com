@@ -27,13 +27,16 @@ Command line steps after forking the repository:
 git clone https://github.com/YOUR-USERNAME/cugos.github.com.git
 cd cugos.github.com
 jekyll serve --watch
-```   
+```
+
 *...make changes...*   
+
 ```
 git add --all
 git commit -m 'YOUR COMMIT MESSAGE'
 git push origin master
-```   
+```
+
 *Create a pull request between your repository and this repository.*
 
 ## Attribution
@@ -41,6 +44,7 @@ git push origin master
 * Group Shots by Aaron Racicot
 * Font-Awesome
 * Jekyll
-* Google Feed API
 * jQuery
 * [Homepage Mountains](https://flic.kr/p/5UJi5S) photo by [Jeff P](https://www.flickr.com/photos/jeffpang/) | CC Attribution 2.0 Generic[*](https://creativecommons.org/licenses/by/2.0/)
+
+:+1:

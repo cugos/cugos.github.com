@@ -1,22 +1,21 @@
 ---
-layout: default
+layout: page
 title: Blog
 weight: 4
-permalink: 
+sidebar:
+  - about
+  - coc
+extra_js: /static/js/feed.js
 ---
 
-<div class="content">
-  {% for recent in site.categories.blog limit:1 %}
-  <p class="recent-post-header">Recent</p>
-  <h2 class="recent-title"><a href="{{ recent.url }}">{{ recent.title }}</a></h2>
-  <span class="recent-date">{{ recent.date | date: "%m/%d/%Y" }}</span>
-  {{ recent.content }}
-  {% endfor %}
-</div>
+<h2>Google group write board</h2>
 
-<h2>More Blog Posts</h2>
-<ul id="blog-posts">
-  {% for blog in site.categories.blog offset:1 %}
-  <li class="blog-post"><a href={{ blog.url }}><span class="blog-date">{{ blog.date | date: "%m/%d/%Y" }}</span>{{ blog.title }}</a></li>
+<ul class="posts" id="feed"></ul>
+
+<h2>Blog posts</h2>
+
+<ul class="posts">
+  {% for blog in site.categories.blog %}
+  <li class="post"><a href={{ blog.url }}><span class="post-date">{{ blog.date | date: "%m/%d/%Y" }}</span>{{ blog.title }}</a></li>
   {% endfor %}
 </ul>

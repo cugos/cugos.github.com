@@ -1,42 +1,9 @@
-# Name of your site 
 name: CUGOS
-
-# Short description (goes below the title; it will also be used in the RSS feed)
 description: Cascadia Users of GeoSpatial Open Source
-
-# Your name, as you want it to appear underneath each post and in the footer
 author: Aaron Racicot
-
-# Uncomment if you are planning to run the blog in a subdirectory
-# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
-# Example, you must use http://localhost:4000/path/to/blog
 baseurl:
-
-# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://cugos.org/
-
-
-
-#### Under the Hood Stuff #####
-
-# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
-# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
-# If you don't have it install it via gem install rdiscount
-markdown: rdiscount
-
-highlighter: pygments
-
-# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-#auto: false
-
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
-
-# Opt in to relative_permalinks. default is opt out as of Jekyll v2.0
-relative_permalinks: true
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.md]
-
-gems:
-  - jekyll-sitemap
+future: true
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year-:month-:day/

@@ -2,9 +2,9 @@
  
 title: Nicholas Hallahan
 category: people
-lng: -122.351453
-lat: 47.660566
-image: https://raw.githubusercontent.com/cugos/cugos.github.com/master/people/image/nicholas_hallahan.jpg
+lng: -121.369487
+lat: 38.649388
+image: https://avatars2.githubusercontent.com/u/556367
 github: hallahan
 twitter: OgSempervirens
 permalink: /people/nicholas_hallahan
