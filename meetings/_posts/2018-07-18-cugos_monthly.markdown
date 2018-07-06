@@ -13,6 +13,7 @@ notes: It's the room with the elk in it.
 
 
 ## Agenda
+- **[@eldang](https://eldang.xyz/)** will talk about [generating](https://github.com/eldang/textgen-all-the-places) fictional English place names.
 - **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 
