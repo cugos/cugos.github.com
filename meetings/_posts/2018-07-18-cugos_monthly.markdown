@@ -14,8 +14,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 - **[@eldang](https://eldang.xyz/)** will talk about [generating](https://github.com/eldang/textgen-all-the-places) fictional English place names.
-- **[@you](http://cugos.org/people/)** tell us about something cool you are working on
-
+- **[@jmt2080ad](https://github.com/jmt2080ad/)** will talk about two short unrelated topics: tiling window managers and the `data.table` library in R. Both talks come out of recent work experiences.
 
 ## UW Event Wifi
 
