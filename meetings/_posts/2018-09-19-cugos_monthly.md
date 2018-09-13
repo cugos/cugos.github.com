@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **[@powersa](https://github.com/powersa)** will walk through how to use [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation) to understand PostGIS query performance and scaleability in the pursuit of faster spatial operations. 
 
+**[@cliffordsnow](https://github.com/cliffordsnow)** will give a Summary of State of the Map Milano
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
