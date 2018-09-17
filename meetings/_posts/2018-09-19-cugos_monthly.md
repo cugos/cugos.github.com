@@ -18,6 +18,8 @@ notes: It's the room with the elk in it.
 
 **[@cliffordsnow](https://github.com/cliffordsnow)** will give a Summary of State of the Map Milano
 
+**[@mccombsp-kingco](https://github.com/mccombsp-kingco)** will catch us up on what they've been talking about at the [Puget Sound QGIS Meetup](http://psqgis.org/).
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
