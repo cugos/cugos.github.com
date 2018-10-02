@@ -14,7 +14,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-**[@powersa](https://github.com/powersa)** will discuss the boards efforts to create CUGOS T-Shirts.
+**[@powersa](https://github.com/powersa)** will discuss efforts to create CUGOS T-Shirts.
 
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
