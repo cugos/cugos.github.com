@@ -23,3 +23,4 @@ notes: It's the room with the elk in it.
 ```
 UW NetID:      TBD
 Password:      TBD
+```
