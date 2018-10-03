@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **[@powersa](https://github.com/powersa)** will discuss efforts to create CUGOS T-Shirts.
 
+**[@christyheaton](https://github.com/christyheaton)** will give a practice run of her North Bay Python talk, [Map it with Python! Intro to GIS and Python mapping modules.](https://2018.northbaypython.org/schedule/presentation/14/) featuring Jupyter Notebooks as a fabulous open source mapping application.
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
