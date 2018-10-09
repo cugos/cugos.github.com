@@ -18,6 +18,8 @@ notes: It's the room with the elk in it.
 
 **[@christyheaton](https://github.com/christyheaton)** will give a practice run of her North Bay Python talk, [Map it with Python! Intro to GIS and Python mapping modules.](https://2018.northbaypython.org/schedule/presentation/14/) featuring Jupyter Notebooks as a fabulous open source mapping application.
 
+**[@jharpster](https://github.com/jharpster)** will provide a re-cap of [Microsoft OpenMaps](https://github.com/Microsoft/Open-Maps/) team and ongoing work in OpenStreetMap in Australia and the latest on building footprint extractions.
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
