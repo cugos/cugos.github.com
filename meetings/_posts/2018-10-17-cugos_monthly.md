@@ -20,6 +20,8 @@ notes: It's the room with the elk in it.
 
 **[@jharpster](https://github.com/jharpster)** will provide a re-cap of [Microsoft OpenMaps](https://github.com/Microsoft/Open-Maps/) team and ongoing work in OpenStreetMap in Australia and the latest on building footprint extractions.
 
+**[@shaybstrong](https://twitter.com/shaybstrong)** Shay Strong, Director of Data Science and Machine Learning at EagleView, will talk about disaster response using Deep Learning with satellite and aerial imagery.
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
