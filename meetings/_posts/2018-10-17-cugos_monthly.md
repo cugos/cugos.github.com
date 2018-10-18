@@ -32,7 +32,9 @@ Password:      4a5V/6f4H/6o4H
 ```
 
 
-## Christy Heaton -- North Bay Python Conference
+# Meeting Notes
+
+## [Christy Heaton](https://github.com/christyheaton) -- North Bay Python Conference Presentation
 
 Christy is giving a talk at the [North Bay Python Conference](https://2018.northbaypython.org/schedule/presentation/14/). This is a preview. 
 
@@ -43,7 +45,7 @@ On to Python. Matplotlib: plotting library that is very powerful. Shapely: manip
 GeoPandas installs come with a few sample datasets. They're a really good place to start. Check out Christy's [Notebook](https://github.com/christyheaton/mapitwithpython) to see what she did.
 
 
-## Jubal Harpster -- [Microsoft OpenMaps](https://github.com/Microsoft/Open-Maps/)
+## [Jubal Harpster](https://github.com/jharpster) -- [Microsoft OpenMaps](https://github.com/Microsoft/Open-Maps/)
 
 Their goal at Microsoft is to have the best data for the end user. OSM is part of that. They don't have fleets of cars, they don't have a lot mobile but they do have a lot of engineers and a lot of compute. Is OSM good enough? It's become a lot easier to open source at Microsoft.
 
@@ -56,7 +58,7 @@ They also do roads, including paved/unpaved attribution. They haven't released t
 Australia is a big market for them. Really good community down there. They've been receptive to MS data. 
 
 
-## Shay Strong -- Data Science @ EagleView
+## [Shay Strong](https://twitter.com/shaybstrong) -- Data Science @ [EagleView](https://www.eagleview.com/)
 
 Shay is the Director of Data Science and Machine Learning at EagleView. New to Seattle, has a PhD in Astronomy and did a lot of atmospheric monitoring at government agencies. Wanted to make a change. Moved to OmniEarth, a DC startup. They did a lot of cool work around analytics with aerial/satellite imagery. They got acquired by EagleView.
 
