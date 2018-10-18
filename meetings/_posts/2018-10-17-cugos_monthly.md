@@ -32,7 +32,7 @@ Password:      4a5V/6f4H/6o4H
 ```
 
 
-## Christy Heaton - North Bay Python Conference
+## Christy Heaton -- North Bay Python Conference
 
 Christy is giving a talk at the [North Bay Python Conference](https://2018.northbaypython.org/schedule/presentation/14/). This is a preview. 
 
@@ -55,4 +55,16 @@ They also do roads, including paved/unpaved attribution. They haven't released t
 
 Australia is a big market for them. Really good community down there. They've been receptive to MS data. 
 
+
+## Shay Strong -- Data Science @ EagleView
+
+Shay is the Director of Data Science and Machine Learning at EagleView. New to Seattle, has a PhD in Astronomy and did a lot of atmospheric monitoring at government agencies. Wanted to make a change. Moved to OmniEarth, a DC startup. They did a lot of cool work around analytics with aerial/satellite imagery. They got acquired by EagleView.
+
+EagleView has been around for 18 years and is an aerial imagery provider at 3-1 inch per pixel. Machine learning helps them derive insight from imagery. 
+
+The state of California wanted to identify over users of water, and EagleView was able to get down to the parcel level using a neural network. They apply the same technologies to a bunch of different problems. The nice thing about Machine Learning is that it's a good way to scale robustly and consistently.
+
+They're working on tools and pipelines to get information out as quickly as possible after a major storm. They need 0.5 meter to 0.3 meter resolution imagery. They generally start with satellite imagery. Once the weather clears, they can send out planes or drones to collect more accurate imagery. All these different data types add complexity to scalable processing.
+
+Different models, for different sensors, for different conditions is not ideal. However, you can still drive a lot of value for the customers.
 
