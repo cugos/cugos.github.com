@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **Annual Board Elections** stay tuned for information about how to get involved.
 
+**[@halm](https://github.com/halmueller)** will demonstrate using Wikidata, SPARQL, and the Wikidata Query Generator to extract maps and tabular data from Wikipedia.
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
