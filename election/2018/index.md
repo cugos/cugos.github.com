@@ -45,6 +45,8 @@ Please include with all nominations:
 
 ## Candidates
 
-TBD
+- **Ryan Small (Current board Treasurer)**
+- **Debbie Bull (Current board President)**
+- **Jacob Lesser (Current board Secretary)**
 
 ------------
