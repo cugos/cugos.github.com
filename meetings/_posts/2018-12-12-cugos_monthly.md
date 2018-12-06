@@ -18,6 +18,12 @@ notes: It's the room with the elk in it.
 
 **[@halm](https://github.com/halmueller)** will demonstrate using Wikidata, SPARQL, and the Wikidata Query Generator to extract maps and tabular data from Wikipedia.
 
+**[@keum](http://pkgeo.com/)** Peter will present to the group about planning 2019 Spring Fling!
+
+He’ll present to the group about idea of having geo-palooza and wants everyone from cugos new and old members to get involve.
+What is **Spring Fling?** Come to the meeting to find out about this fantastically organized event where everyone goes home with a brain full of amazing ideas. 
+
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
