@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **[Annual Board Elections](http://cugos.org/election/2018/)** stay tuned for information about how to get involved.
 
+# Pizza :pizza: will be served! :boom: #
+
 **[@halm](https://github.com/halmueller)** will demonstrate using Wikidata, SPARQL, and the Wikidata Query Generator to extract maps and tabular data from Wikipedia.
 
 **[@keum](http://pkgeo.com/)** Peter will present to the group about planning 2019 Spring Fling!
