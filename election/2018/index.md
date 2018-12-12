@@ -48,5 +48,6 @@ Please include with all nominations:
 - **Ryan Small (Current board Treasurer)**
 - **Debbie Bull (Current board President)**
 - **Jacob Lesser (Current board Secretary)**
+- **Ariel Kadouri (Long time contributor, recent UW Geo Grad)**
 
 ------------
