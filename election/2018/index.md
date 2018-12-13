@@ -25,7 +25,8 @@ As defined in section 2 of the [CUGOS Bylaws](/about/bylaw/cugos_bylaws_2016.pdf
 The process for the election is defined in section 9b of the bylaws and will be carried out accordingly.  This page will be used to collect the slate of nominees.  For this 2018 election the following people comprise the Nominating
 Committee:
 
-- TBD
+- Sam Matthews
+- Peter Keum
 
 Votes will be taken on December 12th by a quorum of CUGOS members by secret ballot.  Each member in good standing present at the meeting will have a slip of paper with one space per board opening and will fill in a single name for each opening.  Members are not designating the position for each member, as that will be determined by the board itself as described above. Members may NOT fill in the same name for multiple openings and duplicates will be removed with only a single vote counted if duplicate names are encountered when counting the votes.  Members in good standing who can not physically be at the December 12th meeting can cast a ballot by sending an email to <election@cugos.org> **on December 12th** indicating one vote per open position from the slate of nominees.  A total of four of the nominees can be selected for the board per vote. Only emails received on December 12th and prior to the start of the meeting (6pm Pacific Time) will be counted.
 
