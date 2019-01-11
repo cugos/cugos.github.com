@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **First Meeting of 2019!!!**
 
+**[Scott Henderson](http://scottyhq.github.io/index.html)** will talk about the Pangeo project [pangeo.io](https://pangeo.io)
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
