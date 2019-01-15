@@ -18,6 +18,8 @@ notes: It's the room with the elk in it.
 
 **[Scott Henderson](http://scottyhq.github.io/index.html)** will talk about the Pangeo project [pangeo.io](https://pangeo.io)
 
+**Jonathan Callahan** of [Mazama Science](http://mazamascience.com/) will talk about how they are building tools to simplify and regularize spatial datasets, how this process enhances the metadata associated with environmental monitoring data, and how this allows them to pose new questions of those monitoring datasets.
+
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
