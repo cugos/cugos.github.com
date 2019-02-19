@@ -16,6 +16,8 @@ notes: It's the room with the elk in it.
 
 **[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
+[Ariel](https://twitter.com/akadouri) will talk about creating GeoGIFFs in QGIS with the [QGIS Time Manager plugin](https://plugins.qgis.org/plugins/timemanager/). 
+
 ## UW Event Wifi
 
 ```
