@@ -40,3 +40,12 @@ Room Change?
  * Startup Hall in Condon Hall
  
 ~Spring~ Fall Fling updates. Looking for a venue, several candiates. Time frame is late Sept/Early Oct on a weekend day. 
+
+Ariel spoke about animating bus routes in QGIS, going from a line to verticices to ordered vertices. 
+
+Matt spoke about a project collecting WiFi signal strength on UW Tacoma's campus, and displaying the data on a 3D-Webmap using three.js.
+
+Reminder about the other cool geo-meetups in the area.
+https://www.meetup.com/MaptimeSEA/
+https://www.meetup.com/OpenStreetMap-Seattle/
+https://www.meetup.com/Puget-Sound-QGIS-Users-Group/
