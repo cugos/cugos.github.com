@@ -24,3 +24,19 @@ notes: It's the room with the elk in it.
 UW NetID:     tbd
 Password:     tbd
 ```
+
+## Meeting Recap
+
+Board Meeting Review
+
+Positions:
+
+* President: Debbie Bull
+* Vice: Ryan Small
+* Treasurer: Jacob Lesser
+* Secretary: Ariel Kadouri
+
+Room Change?
+ * Startup Hall in Condon Hall
+ 
+~Spring~ Fall Fling updates. Looking for a venue, several candiates. Time frame is late Sept/Early Oct on a weekend day. 
