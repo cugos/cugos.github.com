@@ -14,6 +14,8 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
+**[Eldan Goldenberg](https://eldang.xyz/)** will demo the [Allen Coral Atlas](http://allencoralatlas.org/), which uses newly available satellite imagery for coral reef monitoring.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
