@@ -14,8 +14,10 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 - **[@eldang](https://eldang.xyz/)** will talk about [generating](https://github.com/eldang/textgen-all-the-places) fictional English place names.
-- **[@you](http://cugos.org/people/)** tell us about something cool you are working on
+- **[@jmt2080ad](https://github.com/jmt2080ad/)** will talk about two short unrelated topics: tiling window managers and the `data.table` library in R. Tiling window managers offer fast automatic ways of organizing windows from key commands instead of using the mouse. `data.table` offers fast tabular data operations, both in how we type the operations and how the operations are run. Jason will talk about one example of `data.table` syntax that is very concise and powerful, but a bit confusing at first.  
+- **[@mattmakesmaps](https://github.com/mattmakesmaps)** will describe a workflow for intercepting weather satellite signals with amateur radio equipment and processing them into images [like this](https://twitter.com/mattmakesmaps/status/1018363644176826368).
 
+**[@you](http://cugos.org/people/)** tell us about something cool you are working on
 
 ## UW Event Wifi
 
