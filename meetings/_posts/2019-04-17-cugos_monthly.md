@@ -25,10 +25,10 @@ Password: tbd
 
 Reminder about the other cool geo-meetups in the area:
 
-https://www.meetup.com/MaptimeSEA/
+[Maptime Seattle](https://www.meetup.com/MaptimeSEA/)
 
-https://www.meetup.com/OpenStreetMap-Seattle/
+[OpenStreetMap Seattle](https://www.meetup.com/OpenStreetMap-Seattle/)
 
-https://www.meetup.com/Puget-Sound-QGIS-Users-Group/
+[Puget Sound QGIS Users](https://www.meetup.com/Puget-Sound-QGIS-Users-Group/)
 
 ## Meeting notes
