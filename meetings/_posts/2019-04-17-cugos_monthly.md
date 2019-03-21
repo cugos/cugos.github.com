@@ -23,7 +23,6 @@ UW NetID: tbd
 Password: tbd
 ```
 
-## Notes:
 Reminder about the other cool geo-meetups in the area:
 
 https://www.meetup.com/MaptimeSEA/
