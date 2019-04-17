@@ -14,9 +14,9 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-**Kate Leroux** Have you ever wondered what goes into designing a map? In this example-packed talk, I will take you ‘under the hood’ of the a map style. You’ll leave with a better understanding of cartographic decision-making, including necessary trade-offs and the logical framework underneath seemingly simple style choices.
+**Kate Leroux** - Have you ever wondered what goes into designing a map? In this example-packed talk, I will take you ‘under the hood’ of the a map style. You’ll leave with a better understanding of cartographic decision-making, including necessary trade-offs and the logical framework underneath seemingly simple style choices.
 
-**Stump the GNUmp** [Ryan Small](https://github.com/foundatron) attempts to answer your linux questions
+**Stump the GNUmp** - [Ryan Small](https://github.com/foundatron) attempts to answer your linux questions
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
