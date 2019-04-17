@@ -14,6 +14,8 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
+**Stephen Magnum** - Getting contour line SVGs out of SRTM files
+
 **Kate Leroux** - Have you ever wondered what goes into designing a map? In this example-packed talk, I will take you ‘under the hood’ of the a map style. You’ll leave with a better understanding of cartographic decision-making, including necessary trade-offs and the logical framework underneath seemingly simple style choices.
 
 **Stump the GNUmp** - [Ryan Small](https://github.com/foundatron) attempts to answer your linux questions
