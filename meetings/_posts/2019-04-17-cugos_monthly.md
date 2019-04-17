@@ -21,8 +21,8 @@ notes: It's the room with the elk in it.
 ## UW Event Wifi
 
 ```
-UW NetID: tbd
-Password: tbd
+UW NetID: event0217
+Password: mS85;qL26;bH56
 ```
 
 Reminder about the other cool geo-meetups in the area:
