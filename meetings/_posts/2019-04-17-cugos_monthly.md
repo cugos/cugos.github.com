@@ -14,7 +14,8 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
-**Kate Leroux** The logical framework behind cartographic decision-making (with lots of examples)!
+**Kate Leroux** Have you ever wondered what goes into designing a map? In this example-packed talk, I will take you ‘under the hood’ of the a map style. You’ll leave with a better understanding of cartographic decision-making, including necessary trade-offs and the logical framework underneath seemingly simple style choices.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
