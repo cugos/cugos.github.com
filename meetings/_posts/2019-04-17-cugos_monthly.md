@@ -14,6 +14,7 @@ notes: It's the room with the elk in it.
 
 ## Agenda
 
+**Kate Leroux** The logical framework behind cartographic decision-making (with lots of examples)!
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
