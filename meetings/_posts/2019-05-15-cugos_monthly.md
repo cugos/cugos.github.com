@@ -15,6 +15,7 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 ## Agenda
 
 **[@powersa](https://github.com/powersa)** & **[@akadouri](https://github.com/akadouri)** will provide a recap of their recent trip to San Diego, where they ate too many tacos and attended [FOSS4G-NA 2019](https://2019.foss4g-na.org/).
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
