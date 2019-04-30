@@ -18,6 +18,9 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
+**[Atlas of the PNW:](http://pnwatlas.oregonstate.edu/#/)** **[Gareth Baldrica-Franklin](baldricg@oregonstate.edu)** of Oregon State University will be discussing the background and creation of the 2018/2019 Atlas of the Pacific Northwest, a project created entirely using open source data, software, and code, and designed for education and use by the geographically curious.
+
+
 ## UW Event Wifi
 
 ```
