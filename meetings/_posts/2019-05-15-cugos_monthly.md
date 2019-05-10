@@ -20,6 +20,8 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 
 **[@flott](https://github.com/flott)** will talk about [some tools](https://github.com/flott/kingco-opengeodata) for downloading data from King County's GIS Data Hub and doing batch conversions from Esri File Geodatabase to GeoPackage or PostgreSQL/PostGIS.
 
+**[@dabreegster](https://github.com/dabreegster)** will give a demo of [A/B Street](https://github.com/dabreegster/abstreet/blob/master/docs/articles/features/article.md), a traffic simulation game set in Seattle, and describe ongoing work with it.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
