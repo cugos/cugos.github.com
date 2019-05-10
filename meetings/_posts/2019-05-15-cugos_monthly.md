@@ -22,6 +22,8 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 
 **[@dabreegster](https://github.com/dabreegster)** will give a demo of [A/B Street](https://github.com/dabreegster/abstreet/blob/master/docs/articles/features/article.md), a traffic simulation game set in Seattle, and describe ongoing work with it.
 
+**Clinton Stipek** With seagrass populations declining worldwide, more research is needed to understand their population dynamics. This project utilized ArcGIS, R, and python to analyze and create projections for different size-based seagrass populations in a study area adjacent to a major city (Miami) using a landscape approach. 
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
