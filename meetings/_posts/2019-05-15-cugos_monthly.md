@@ -41,3 +41,13 @@ Reminder about the other cool geo-meetups in the area:
 [Puget Sound QGIS Users](https://www.meetup.com/Puget-Sound-QGIS-Users-Group/)
 
 ## Meeting notes
+
+**Clinton Stipek** presented [this great story map](https://umiami.maps.arcgis.com/apps/MapSeries/index.html?appid=0dd94072a97d4bd7b4715aa28072c508) on his research.
+
+**Garteh** showed off http://pnwatlas.oregonstate.edu remotely. The project started in the 1950s as a print publication, and was revived in the last couple years as a webiste. Built using tools like Vue and Leaflet, it brings a modern web-based approach to the regional atlas. 
+
+**Ariel and Andrew** went to [FOSS4G-NA](https://twitter.com/akadouri/status/1118365772248522753) and typed up some notes you can find [here](https://docs.google.com/document/d/1m1MwV3ACJnJw1tJaah_zXm3c1s5QL4Zv2ETwnzMxnec/edit?usp=sharing). 
+
+**Fred** presented the motivations and creation of https://github.com/flott/kingco-opengeodata, a tool for bulk conversion and updating copies of KC GIs open data. It's a wrapper for ogr2ogr, and supports FileGDB to GeoPackage or PostGIS. The project also includes a list of the 590 public datasets with links to their metadata. Fun feature: being able to download everything, or download by KC themes. 
+
+**[@dabreegster](https://github.com/dabreegster)** will gave a great demo of [A/B Street](https://github.com/dabreegster/abstreet/blob/master/docs/articles/features/article.md) a traffic simulator built in Rust.
