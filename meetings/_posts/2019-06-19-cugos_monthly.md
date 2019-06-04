@@ -14,6 +14,8 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 
 ## Agenda
 
+**[@sethvincent](https://github.com/sethvincent)** will talk about an OpenStreetMap field-mapping app for iOS & Android called [Observe](https://github.com/developmentseed/observe).
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 
 ## UW Event Wifi
