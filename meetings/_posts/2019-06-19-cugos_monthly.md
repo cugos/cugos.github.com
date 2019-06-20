@@ -26,6 +26,10 @@ notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at
 TBP
 ```
 
+## Event Recap:
+
+**[@sethvincent](https://github.com/sethvincent)** [Observe](https://github.com/developmentseed/observe) is an OSM mobile editor for both android and ios. It works offline, has conflict handling, and is "easy to hack on". Built using react native, caches data from osm api with quadkey, handles offline tiles via react-native-mapbox-gl's offline tiles manager. It's for new & casual mappers, mapping paries, and users with a wide range of tech literacy. Another OSM related project to checkout- [Scoreboard](https://github.com/developmentseed/scoreboard), stat tracking for OSM mapping teams.   
+
 Reminder about the other cool geo-meetups in the area:
 
 [Maptime Seattle](https://www.meetup.com/MaptimeSEA/)
