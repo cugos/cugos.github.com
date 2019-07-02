@@ -153,6 +153,7 @@ nav {
       <strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>
       <strong>Where?</strong> {{ page.event_location }}<br>
       <strong>How?</strong> <a class="spring-fling-register" href="{{ page.event_register-url }}">Sign up to be notified here!</a><br>
+      <strong>Speak!</strong> <a class="spring-fling-register" href="{{ page.event_submit-talk-url }}">Submit an application to give a talk or workshop!</a><br>
     </p>
   </div>
 </header>
@@ -169,7 +170,7 @@ nav {
 <section id="schedule" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">schedule</span>
-    <p>We're working on a great schedule for this year. Take a peek at the schedule from the <a href="/2017-spring-fling">2017 Spring Fling</a> to get a sense of what to expect. If you'd like to give a talk or think you know someone who would give a great talk feel free to reach out to <a href="">hello@cugos.org</a>.</p>
+    <p>We're working on a great schedule for this year. Take a peek at the schedule from the <a href="/2017-spring-fling">2017 Spring Fling</a> to get a sense of what to expect. If you'd like to give a talk or think you know someone who would give a great talk <a href="{{ page.event_submit-talk-url }}">submit an application here</a>.</p>
 
     {% for item in page.schedule %}
     <div class="sf-schedule-block cf {{ item.type }}">
@@ -211,7 +212,7 @@ nav {
       {% include event-sponsor.html sponsors=page.event_sponsors_comm title="Community Sponsors" color="text-bronze" %}
     {% endif %}
 
-    <p>Interested in sponsoring this event? Send us a message at <a href="">hello@cugos.org</a>.</p>
+    <p>Interested in sponsoring this event? Send us a message at <a href="mailto:hello@cugos.org">hello@cugos.org</a>.</p>
 
   </div>
 </section>
@@ -219,7 +220,7 @@ nav {
 <section id="volunteer" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">volunteer</span>
-    <p>We are a small team of CUGOS regulars focused on putting together a great event for the broader geospatial community. Interested in helping out? Sign up <a href=""https://docs.google.com/forms/d/e/1FAIpQLSc184HO6ZtIgZ28hPFS4oN0l8JP1BbCEAUVljTARj92ukJ6dA/viewform>here.</a></p>
+    <p>We are a small team of CUGOS regulars focused on putting together a great event for the broader geospatial community. Interested in helping out? Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSc184HO6ZtIgZ28hPFS4oN0l8JP1BbCEAUVljTARj92ukJ6dA/viewform">here.</a></p>
   </div>
 </section>
 
