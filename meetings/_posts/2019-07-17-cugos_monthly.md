@@ -11,6 +11,7 @@ category: meetings
 notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at 5 PM. Someone from CUGOS will be there to let you in.
 ---
 ## Agenda
+**[@kate](http://cugos.org/people/)** will share her experiences and printed results from working with online print services.  
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on
 ## UW Event Wifi
 ```
