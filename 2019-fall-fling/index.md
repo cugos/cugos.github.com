@@ -9,6 +9,8 @@ event_description: "Please join CUGOS, the UW Taskar Center for Accessible Techn
 The event promises to be the largest Fling in CUGOS history, and will provide unprecedented opportunities for open geospatial software and open data collaboration. The Fall Fling is designed for anyone with an interest in maps, open source software, or open data.
 <br><br>
 This conference is a great opportunity to:
+
+- fake
 - Learn about new mapping software,
 - Find out how open geospatial tools can improve access to pedestrian navigation, for all people including people with disabilities.
 - Discover how companies are integrating location into their products, and
