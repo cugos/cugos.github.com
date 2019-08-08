@@ -77,7 +77,7 @@ function buildMapMarker(elem, markers) {
   var map;
   if (!markers) {
     var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
-    map = L.mapbox.map(elem.id, 'mapbox.streets').setView(coordinates, 12);
+    map = L.mapbox.map(elem.id).addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11')).setView(coordinates, 12);
     var marker = L.marker(coordinates, {
       icon: L.mapbox.marker.icon({
         'marker-size': 'large',
@@ -87,7 +87,7 @@ function buildMapMarker(elem, markers) {
     }).addTo(map);
     if (elem.getAttribute('data-popup')) marker.bindPopup(elem.getAttribute('data-popup'));
   } else {
-    map = L.mapbox.map(elem.id, 'mapbox.streets').setView([0,0], 3);
+    map = L.mapbox.map(elem.id).addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11')).setView([0,0], 3);
     var group = L.mapbox.featureLayer();
     for (var l = 0; l < markers.length; l++) {
       var mark = createMarker(markers[l]);
