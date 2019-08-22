@@ -29,3 +29,4 @@ Reminder about some other cool geo-meetups in the area:
 [Maptime Seattle](https://www.meetup.com/MaptimeSEA/)  
 [OpenStreetMap Seattle](https://www.meetup.com/OpenStreetMap-Seattle/)  
 [Puget Sound QGIS Users](https://www.meetup.com/Puget-Sound-QGIS-Users-Group/)  
+[Seattle Postgres Users)(https://www.meetup.com/Seattle-Postgres/)
