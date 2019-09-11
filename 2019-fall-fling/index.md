@@ -17,7 +17,7 @@ This conference is a great opportunity to:
 </ul>
 We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
-event_register-url: "https://docs.google.com/forms/d/e/1FAIpQLSc184HO6ZtIgZ28hPFS4oN0l8JP1BbCEAUVljTARj92ukJ6dA/viewform"
+event_register-url: "https://www.eventbrite.com/e/cugos-fall-fling-tickets-71012136211"
 event_submit-talk-url: "https://docs.google.com/forms/d/e/1FAIpQLSeSnQIMG-95JM2eL_E-dlG_f3ZI0M_S1l9vUvyMCUZbN3_xdA/viewform"
 markers:
   -
