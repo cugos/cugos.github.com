@@ -10,7 +10,7 @@ The event promises to be the largest Fling in CUGOS history, and will provide un
 <br><br>
 This conference is a great opportunity to:
 <ul>
-  <li>Learn about new mapping software,</li> 
+  <li>Learn about new mapping software,</li>
   <li>Find out how open geospatial tools can improve access to pedestrian navigation, for all people including people with disabilities.</li>
   <li>Discover how companies are integrating location into their products, and</li>
   <li>Get hands on experience in one of the many workshops being offered.</li>
@@ -30,5 +30,9 @@ markers:
 event_sponsors_platinum:
 event_sponsors_gold:
 event_sponsors_silver:
+  -
+    image: https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png
+    width: 175px
+    link: https://www.rstudio.com/
 event_sponsors_comm:
 ---
