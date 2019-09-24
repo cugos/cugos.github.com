@@ -84,7 +84,7 @@ schedule:
  -
     type: Lightning Talks
     title: Lightning Talks
-    time:
+    time: 10:20 AM
     speaker:
     description: 5 minutes each.
  -
@@ -123,6 +123,14 @@ UW alumni -- majored in Atmospheric Science"
     bio: Andrew is a software engineer at CARMERA.
     description: |
         Andrew uses Shapely, a python library for vector data, to build high definition maps at CARMERA. In this talk, he’ll take you on a tour of his favorite features and illustrate how the library is integral to buildings maps for autonomous vehicles.
+ -
+    type: Lightning Talk
+    title: Software performance & the climate crisis- Thoughts on our thirst for speed and oil
+    time:
+    speaker: Dane Springmeyer
+    bio: Dane is a software engineer at Mapbox.
+    description: |
+      Dane has recently been diving deep on performance optimizations in his work at Mapbox and spending evenings learning about energy efficiency as he renovates an old home. This talk will explore his lingering questions about how to live ethically as our climate warms and what this means for how we optimize software.
  -
     type: Talk
     title: "OSM Water: How well are Minnesota’s water features mapped?"
@@ -205,12 +213,38 @@ UW alumni -- majored in Atmospheric Science"
       Clifford has been editing OpenStreetMap since 2011 and first started using JOSM seriously when importing buildings and addresses in Seattle over six years ago.
     description: |
         JOSM is a java based advanced OSM editor available for Windows, Mac and Linux. This is a guided session on how to become a power user using JOSM to edit OpenStreetMap. This session will cover plugins, map paint styles, relations, filters and more. Before attending this workshop, please install <a href="https://josm.openstreetmap.de">JOSM</a> on your laptop.
+ -
+    type: title
+    title: Event Ends
+    time: 4:00 PM
 event_sponsors_platinum:
+  -
+    image: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt953f74da22884857/5d02ca0a4234d7fc42c505bf/elastic-logo-reverse.svg
+    width: 175px
+    link: https://www.elastic.co
+    background_color: "#007bff"
 event_sponsors_gold:
+  -
+    image: https://www.eagleview.com/wp-content/themes/eagleview/assets/svg/svgs/eagleview_logo-color.svg
+    width: 175px
+    link: https://www.eagleview.com/
+  -
+    image: https://static1.squarespace.com/static/579a34a98419c24fcccb6be1/t/57a3f243893fc0b30a4779aa/1569014775149/?format=1500w
+    width: 175px
+    link: https://www.micasense.com/
+    background_color: "#505153"
+  -
+    image: https://assets.website-files.com/5d3ef00c73102c436bc83996/5d3ef00c73102c1f23c83a2a_logo-reversed-p-800.png
+    width: 175px
+    link: https://www.mapbox.com/
 event_sponsors_silver:
   -
     image: https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png
     width: 175px
     link: https://www.rstudio.com/
+  -
+    image: http://gisonline.pl/wp-content/uploads/2018/10/CRITIGEN.jpg
+    width: 175px
+    link: https://www.critigen.com/
 event_sponsors_comm:
 ---
