@@ -47,7 +47,7 @@ schedule:
     bio: |
       Nick Peihl is a Senior Software Engineer working on geospatial data and visualizations for Elastic. Prior to joining Elastic, Nick created problems and then developed geospatial solutions for public sector agencies.
     description: |
-        The Command Line is a powerful place to quickly transform and analyze Geospatial data. We'll blaze through using open source tools like fiona, rasterio, and mercantile to work with data on the command line.
+        "Where" is a critical question for many users of the Elastic Stack. Whether you're protecting your network from attackers, investigating slow application response times in specific locations, or simply hailing a ride home, geo data — and search — play an important role. Discover how Elastic builds on and contributes to open source geospatial software and open data.
  -
     type: Talk
     title: Challenges of building a traffic simulation on open GIS data
@@ -147,7 +147,7 @@ UW alumni -- majored in Atmospheric Science"
     bio: |
       Dr. Shay Strong is the Director of Data Science and Machine Learning at EagleView. She received her Ph.D in Astrophysics from the University of Texas at Austin, focused on planetary atmospheric modeling. Prior to EagleView, she worked at The Johns Hopkins University Applied Physics Lab as a Senior Scientist for both National Security and NASA spacecraft development and design. She left Johns Hopkins to be a part of a small D.C.-based startup called OmniEarth, focused on machine learning from aerial and satellite imagery. There she developed a system to evaluate residential water usage, at scale in the cloud, for the desert U.S. Southwest with neural networks & deep learning. She joined EagleView as part of the successful EagleView acquisition of OmniEarth in May 2017, where she leads the machine learning data extraction of information from imagery for insurance and government applications.
     description: |
-        The Command Line is a powerful place to quickly transform and analyze Geospatial data. We'll blaze through using open source tools like fiona, rasterio, and mercantile to work with data on the command line.
+        How can we democratize the development of geospatial machine learning models, lower the barrier to entry for students and practitioners in this space, and obliterate the ‘practice’ of geospatial platform commercialization? Leveraging OSM vector data and cloud compute, through such programs such as the University of Washington’s GeoHackweek, we are able to further the removal of the knowledge barrier for scaling ML applications and flood a commercialized marketplace with models leverage-able by a broader community.
  -
     type: Talk
     title: Getting weird with geospatial data and the web
