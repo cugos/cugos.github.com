@@ -200,7 +200,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Workshop
     title: Solving spatial problems with queries
     time: 2:35 PM
-    speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx"King County WLRD</a>
+    speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx">King County WLRD</a>
     bio: Fred Lott has a background in hydrology and currently works for King County.
     description: |
         Solving Spatial Problems with Queries is an introduction to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use QGIS 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on Spatialite, but the concepts are applicable to PostGIS and to some extent, MySQL and SQL Server. Please bring your laptop with QGIS 3.8 installed. Some familiarity with SQL, QGIS, and spatial concepts will come in handy, but beginners are welcome.
