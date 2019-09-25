@@ -2,8 +2,14 @@
 <h4 class="sponsor-level-title"><i class="fa fa-bookmark-o {{ include.color }} push-right"></i>{{ include.title }}</h4>
 {% for s in include.sponsors %}
   <a target="_blank" href="{{ s.link }}">
-  	<img class="event-sponsor" 
-  		 src="{{ s.image }}" 
-  		 style="width:{{ s.width }}">
+    {% if s.background_color %}
+      <img class="event-sponsor"
+         src="{{ s.image }}"
+         style="width:{{ s.width }}; background:{{s.background_color}}; padding: 15px">
+    {% else %}
+    	<img class="event-sponsor"
+    		 src="{{ s.image }}"
+    		 style="width:{{ s.width }}">
+    {% endif %}
   </a>
 {% endfor %}

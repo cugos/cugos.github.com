@@ -139,7 +139,7 @@ nav {
 .sponsor-level-title {
   font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
   font-weight: 100;
-  font-size: 1em;
+  font-size: 1.5em;
   text-transform: capitalize;
 }
 </style>
@@ -153,7 +153,6 @@ nav {
       <strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>
       <strong>Where?</strong> {{ page.event_location }}<br>
       <strong>How?</strong> <a class="spring-fling-register" href="{{ page.event_register-url }}">Register here!</a><br>
-      <strong>Speak!</strong> <a class="spring-fling-register" href="{{ page.event_submit-talk-url }}">Submit an application to give a talk or workshop!</a><br>
     </p>
   </div>
 </header>
@@ -170,8 +169,6 @@ nav {
 <section id="schedule" class="spring-fling-section">
   <div class="container">
     <span class="spring-fling-section-header">schedule</span>
-    <p>We're working on a great schedule for this year. Take a peek at the schedule from the <a href="/2017-spring-fling">2017 Spring Fling</a> to get a sense of what to expect. If you'd like to give a talk or think you know someone who would give a great talk <a href="{{ page.event_submit-talk-url }}">submit an application here</a>.</p>
-
     {% for item in page.schedule %}
     <div class="sf-schedule-block cf {{ item.type }}">
       <div class="sf-schedule-left">
@@ -180,6 +177,7 @@ nav {
       <div class="sf-schedule-right">
         <p><span class="sf-schedule-title">{{ item.title }}</span><br>
         {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
+        <span class="sf-schedule-description">{{ item.bio }}</span></p><br>
         <span class="sf-schedule-description">{{ item.description }}</span></p>
       </div>
     </div>
