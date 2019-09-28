@@ -3,8 +3,8 @@ layout: event-2019
 title: "2019 Fall Fling"
 weight: 0
 event_date: "Sunday October 6th,  2019"
-event_time: "8:30 AM - 4:30 PM"
-event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting one-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools and data and Social Justice in and beyond the Puget Sound region.
+event_time: "8:30 AM - 4:00 PM"
+event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting one-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region.
 <br><br>
 The event promises to be the largest Fling in CUGOS history, and will provide unprecedented opportunities for open geospatial software and open data collaboration. The Fall Fling is designed for anyone with an interest in maps, open source software, or open data.
 <br><br>
@@ -43,7 +43,7 @@ schedule:
     type: Talk
     title: Geo Exploration Simplified with Elastic Maps
     time: 8:40 AM
-    speaker: Nick Peihl
+    speaker: Nick Peihl,<a href="https://elastic.co">Elastic</a>
     bio: |
       Nick Peihl is a Senior Software Engineer working on geospatial data and visualizations for Elastic. Prior to joining Elastic, Nick created problems and then developed geospatial solutions for public sector agencies.
     description: |
@@ -52,7 +52,7 @@ schedule:
     type: Talk
     title: Challenges of building a traffic simulation on open GIS data
     time: 9:00 AM
-    speaker: Dustin Carlino
+    speaker: Dustin Carlino, <a href="http://github.com/dabreegster/abstreet">Project A/B Street</a>
     bio: |
       I'm an independent software engineer building <a href="http://github.com/dabreegster/abstreet">A/B Street</a>, a traffic simulation game aiming to empower Seattlites with the ability to explore how small changes to road infrastructure could improve their commute. I've previously wrangled OpenStreetMap data at university for an autonomous vehicles simulator.
     description: |
@@ -70,7 +70,7 @@ schedule:
     type: Talk
     title: "Orcamap: an open-source mapping system for endangered orcas"
     time: 9:40 AM
-    speaker: Scott Veirs
+    speaker: Scott Veirs, <a href="http://www.orcasound.net/">Orcasound</a>
     bio: |
       Scott Veirs is an oceanographer turned marine biologist who coordinates the Orcasound -- an open-source project that makes it easy to listen for whales via a network of live underwater microphones (hydrophones). Dr. Veirs specializes in orca bioacoustics and is dedicated to using cutting-edge technologies to catalyze killer whale conservation. He is also chair of the marine mammal work group within the Puget Sound Ecosystem Monitoring Program where he promotes adoption of new data acquisition and mapping tools to advance science and recovery throughout the Salish Sea.
     description: |
@@ -91,7 +91,7 @@ schedule:
     type: Lightning Talks
     title: Lessons Learned from Teaching GIS in Vietnam
     time:
-    speaker: Robert Catherman
+    speaker: Robert Catherman, <a href="http://medrix.org/">Medrix</a>
     bio: "Author of open source GIS curriculum for ESL students
 Volunteer working with MEDRIX in Vietnam for 20+ years
 UW alumni -- majored in Atmospheric Science"
@@ -101,7 +101,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Lightning Talk
     title: "Map Quality Measurement (MQM): US Cities Road Data Quality on OpenStreetMap"
     time:
-    speaker: Monica Brandeis
+    speaker: Monica Brandeis, <a href="https://www.critigen.com/">Critigen</a>
     bio: |
       Map is her passion! Monica owns a PHD on crowdsourced mapping projects after many years experiences in GIS and Remote Sensing fields. She believes map should be made and used by everyone. As a senior data analyst, she dedicated a lot of her time on big pictures and finding directions to enhance map quality from different angles so more and more users can be benefit from it.
     description: |
@@ -110,7 +110,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Lightning Talk
     title: One-line GIS; Spatial Analysis with the CLI
     time:
-    speaker: Damon Burgett
+    speaker: Damon Burgett, <a href="https://www.mapbox.com/">Mapbox</a>
     bio: |
       Damon is a Geographer at Mapbox who has worked in Satellite imagery, geospatial data processing, user facing APIs, and creative frontend client applications.
     description: |
@@ -119,7 +119,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Lightning Talk
     title: The Sound of Shapely
     time:
-    speaker: Andrew Powers
+    speaker: Andrew Powers, <a href="https://www.carmera.com/">CARMERA</a>
     bio: Andrew is a software engineer at CARMERA.
     description: |
         Andrew uses Shapely, a python library for vector data, to build high definition maps at CARMERA. In this talk, he’ll take you on a tour of his favorite features and illustrate how the library is integral to buildings maps for autonomous vehicles.
@@ -127,7 +127,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Lightning Talk
     title: Software performance & the climate crisis- Thoughts on our thirst for speed and oil
     time:
-    speaker: Dane Springmeyer
+    speaker: Dane Springmeyer, <a href="https://www.mapbox.com/">Mapbox</a>
     bio: Dane is a software engineer at Mapbox.
     description: |
       Dane has recently been diving deep on performance optimizations in his work at Mapbox and spending evenings learning about energy efficiency as he renovates an old home. This talk will explore his lingering questions about how to live ethically as our climate warms and what this means for how we optimize software.
@@ -135,7 +135,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: "OSM Water: How well are Minnesota’s water features mapped?"
     time: 10:45 AM
-    speaker: Matthew Manley
+    speaker: Matthew Manley, <a href="https://www.critigen.com/">Critigen</a>
     bio: GIS Data Analyst at Critigen
     description: |
         Water-related features are an often-overlooked part of the OpenStreetMap model. These features help create the natural context for the map and add important reference information. In Minnesota, a large proportion of these features are derived from bulk imports of data from the United States Geological Survey (USGS) National Hydrography Dataset (NHD). Our project seeks to understand the degree to which OSM water data in Minnesota has “moved beyond” NHD through edits or the addition of new features derived from additional sources. This project will identify differences between OSM water features and NHD water features in the hopes of identifying how data evolves from the bulk import phase to the current state of the map. Our presentation will include a discussion of the methodology we used for data preparation and analysis, as well as our proposal for improving the quality of OSM water data in Minnesota in the future. This research will be relevant for those interested in identifying gaps in OSM data, mapping natural features, and mapping in Minnesota more generally.
@@ -143,7 +143,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: Geo-Machine Learning (geoML) & Model Democratization with OSM Data
     time: 11:05 AM
-    speaker: Shay Strong
+    speaker: Shay Strong, <a href="https://www.eagleview.com/">EagleView</a>
     bio: |
       Dr. Shay Strong is the Director of Data Science and Machine Learning at EagleView. She received her Ph.D in Astrophysics from the University of Texas at Austin, focused on planetary atmospheric modeling. Prior to EagleView, she worked at The Johns Hopkins University Applied Physics Lab as a Senior Scientist for both National Security and NASA spacecraft development and design. She left Johns Hopkins to be a part of a small D.C.-based startup called OmniEarth, focused on machine learning from aerial and satellite imagery. There she developed a system to evaluate residential water usage, at scale in the cloud, for the desert U.S. Southwest with neural networks & deep learning. She joined EagleView as part of the successful EagleView acquisition of OmniEarth in May 2017, where she leads the machine learning data extraction of information from imagery for insurance and government applications.
     description: |
@@ -152,7 +152,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: Getting weird with geospatial data and the web
     time: 11:25 AM
-    speaker: Damon Burgett
+    speaker: Damon Burgett, <a href="https://www.mapbox.com/">Mapbox</a>
     bio: |
       Damon is a Geographer at Mapbox who has worked in Satellite imagery, geospatial data processing, user facing APIs, and creative frontend client applications.
     description: |
@@ -161,7 +161,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: Virtual Rasters - Tiny files with a big impact
     time: 11:45 AM
-    speaker: Justin McAllister
+    speaker: Justin McAllister, <a href="https://www.micasense.com/">MicaSense</a>
     bio: |
       As the CTO of MicaSense, Justin manages development of new remote sensing technologies and works with customers to find new value in their data. With 15 years experience in the drone industry and 5 years in the remote sensing community, Justin enjoys combining hardware and software to get the the real point: finding the information buried in troves of remote sensing data.
     description: |
@@ -176,7 +176,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: Using Redis for Geospatial Data
     time: 1:30 PM
-    speaker: Rock Pereira
+    speaker: Rock Pereira, Astratta.io
     bio: |
       Rock is with a startup, Astratta.io, that helps content marketers create video abstracts. They use a PostgreSQL / Redis hybrid for long-term storage / caching of edits. He regularly attends MaptimeSEA. He used the AIS data in a study of collision avoidance at sea. At the City of Seattle Hackathon, his team used Census Tract data and OSRM to study access to Social Services in Seattle.
     description: |
@@ -185,7 +185,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Talk
     title: Dynamic EV Charging Infrastructure Prioritization
     time: 1:55 PM
-    speaker: Corwin Bell
+    speaker: Corwin Bell, <a href="https://www.fehrandpeers.com/">Fehr & Peers</a>
     bio: |
       Corwin is a transportation planner with experience in transportation equity, shared mobility, transit planning, traffic operations, travel demand forecasting, and benefit cost analysis. Prior to joining Fehr & Peers, Corwin was a staff researcher at UC Berkeley’s Transportation Sustainability Research Center (TSRC), where he managed projects on transportation equity, smart cities, and shared mobility.
     description: |
@@ -200,7 +200,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Workshop
     title: Solving spatial problems with queries
     time: 2:35 PM
-    speaker: Fred Lott
+    speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx">King County WLRD</a>
     bio: Fred Lott has a background in hydrology and currently works for King County.
     description: |
         Solving Spatial Problems with Queries is an introduction to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use QGIS 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on Spatialite, but the concepts are applicable to PostGIS and to some extent, MySQL and SQL Server. Please bring your laptop with QGIS 3.8 installed. Some familiarity with SQL, QGIS, and spatial concepts will come in handy, but beginners are welcome.
@@ -208,7 +208,7 @@ UW alumni -- majored in Atmospheric Science"
     type: Workshop
     title: Introduction to editing OSM with JOSM
     time: 2:35 PM
-    speaker: Clifford Snow
+    speaker: Clifford Snow, <a href="https://www.snowandsnow.us/">OSM Washington</a>
     bio: |
       Clifford has been editing OpenStreetMap since 2011 and first started using JOSM seriously when importing buildings and addresses in Seattle over six years ago.
     description: |
