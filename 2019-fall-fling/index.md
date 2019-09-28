@@ -237,6 +237,11 @@ event_sponsors_gold:
     image: https://assets.website-files.com/5d3ef00c73102c436bc83996/5d3ef00c73102c1f23c83a2a_logo-reversed-p-800.png
     width: 175px
     link: https://www.mapbox.com/
+  -
+    image: https://www.carmera.com/img/logos/Logo_Gradient_White_Horizontal.png
+    link: https://www.carmera.com/
+    width: 175px
+    background_color: "#3d3a4a"
 event_sponsors_silver:
   -
     image: https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png
