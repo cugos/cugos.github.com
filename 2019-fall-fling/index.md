@@ -61,7 +61,7 @@ schedule:
     type: Talk
     title: Programs for geomorphic analysis
     time: 9:20 AM
-    speaker: Dan Miller
+    speaker: Dan Miller <a href="https://www.netmapportal.com/">NetMap Portal</a>
     bio: |
       I think of myself as a geomorphologist (I do have a PhD in geology), and geomorphology involves processes that span a vast range of spatial and temporal scales. To understand geomorphic processes requires thinking beyond the range of features and events observable in a lifespan. Computer simulations and analyses offer a means of posing hypotheses that one may not consider using field observations alone. Since coming to Washington in 1987, I've sought synergy using both what we can see and what we can model, first as a graduate student, then a post doc, and since 1997 working with a small nonprofit research organization and now with a small for-profit consulting firm.
     description: |
