@@ -82,13 +82,13 @@ schedule:
     speaker:
     description:
  -
-    type: Lightning Talks
+    type: title
     title: Lightning Talks
     time: 10:20 AM
     speaker:
     description: 5 minutes each.
  -
-    type: Lightning Talks
+    type: Lightning Talk
     title: Lessons Learned from Teaching GIS in Vietnam
     time:
     speaker: Robert Catherman, <a href="http://medrix.org/">Medrix</a>
@@ -251,5 +251,13 @@ event_sponsors_silver:
     image: http://gisonline.pl/wp-content/uploads/2018/10/CRITIGEN.jpg
     width: 175px
     link: https://www.critigen.com/
+  -
+    image: https://cugos.org/2019-fall-fling/osmus_logo.png
+    width: 75px
+    link: https://www.openstreetmap.us/
+  -
+    image: https://static1.squarespace.com/static/513788d5e4b0988e47dbf980/t/5138fe25e4b0d066f2359658/1492553473728/?format=1500w
+    width: 175px
+    link: https://www.aspectconsulting.com/
 event_sponsors_comm:
 ---
