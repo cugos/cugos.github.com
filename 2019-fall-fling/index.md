@@ -203,7 +203,7 @@ UW alumni -- majored in Atmospheric Science"
     speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx">King County WLRD</a>
     bio: Fred Lott has a background in hydrology and currently works for King County.
     description: |
-        Solving Spatial Problems with Queries is an introduction to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use QGIS 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on Spatialite, but the concepts are applicable to PostGIS and to some extent, MySQL and SQL Server. Please bring your laptop with QGIS 3.8 installed. Some familiarity with SQL, QGIS, and spatial concepts will come in handy, but beginners are welcome.
+        *Solving Spatial Problems with Queries* is an introductory workshop to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use [QGIS](https://www.qgis.org/) 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index), but the concepts are applicable to [PostGIS](https://postgis.net/) and to some extent, MySQL and SQL Server. Please bring your laptop with [QGIS 3.8](https://www.qgis.org/en/site/forusers/download.html) installed. Some familiarity with SQL, QGIS, and spatial concepts will come in handy, but beginners are welcome. [Download the workshop data here](https://github.com/flott/sql_workshop_cugos19/archive/master.zip), or [view it on GitHub](https://github.com/flott/sql_workshop_cugos19).
  -
     type: Workshop
     title: Introduction to editing OSM with JOSM
