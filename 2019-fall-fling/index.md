@@ -82,13 +82,13 @@ schedule:
     speaker:
     description:
  -
-    type: Lightning Talks
+    type: title
     title: Lightning Talks
     time: 10:20 AM
     speaker:
     description: 5 minutes each.
  -
-    type: Lightning Talks
+    type: Lightning Talk
     title: Lessons Learned from Teaching GIS in Vietnam
     time:
     speaker: Robert Catherman, <a href="http://medrix.org/">Medrix</a>
