@@ -219,10 +219,9 @@ UW alumni -- majored in Atmospheric Science"
     time: 4:00 PM
 event_sponsors_platinum:
   -
-    image: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt953f74da22884857/5d02ca0a4234d7fc42c505bf/elastic-logo-reverse.svg
+    image: https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6ae3d6980b5fd629/5bbca1d1af3a954c36f95ed3/logo-elastic.svg
     width: 175px
     link: https://www.elastic.co
-    background_color: "#005571"
 event_sponsors_gold:
   -
     image: https://www.eagleview.com/wp-content/themes/eagleview/assets/svg/svgs/eagleview_logo-color.svg
