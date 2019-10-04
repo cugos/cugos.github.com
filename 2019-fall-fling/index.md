@@ -28,13 +28,13 @@ markers:
 schedule:
  -
     type: title
-    title: Doors Open
+    title: Doors Open, Steve & Heather Singh Gallery, 4th Floor Foyer
     time: 8:00 AM
     Description: |
       Sign in, get a name-tag, drink coffee, eat donuts, and meet new people.
  -
     type: title
-    title: Welcome
+    title: Welcome, <em>Zillow Commons, 4th Floor Auditorium</em>
     time: 8:30 AM
     speaker:
     description: |
