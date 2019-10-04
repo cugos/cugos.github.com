@@ -41,7 +41,7 @@ schedule:
         Welcome to the 2019 Fall Fling.
  -
     type: Talk
-    title: Geo Exploration Simplified with Elastic Maps <em>Zillow Commons</em>
+    title: Geo Exploration Simplified with Elastic Maps, <em>Zillow Commons</em>
     time: 8:40 AM
     speaker: Nick Peihl, <a href="https://elastic.co">Elastic</a>
     bio: |
@@ -50,7 +50,7 @@ schedule:
         "Where" is a critical question for many users of the Elastic Stack. Whether you're protecting your network from attackers, investigating slow application response times in specific locations, or simply hailing a ride home, geo data — and search — play an important role. Discover how Elastic builds on and contributes to open source geospatial software and open data.
  -
     type: Talk
-    title: Challenges of building a traffic simulation on open GIS data <em>Zillow Commons</em>
+    title: Challenges of building a traffic simulation on open GIS data, <em>Zillow Commons</em>
     time: 9:00 AM
     speaker: Dustin Carlino, <a href="http://github.com/dabreegster/abstreet">Project A/B Street</a>
     bio: |
@@ -59,7 +59,7 @@ schedule:
         This talk will discuss how open data from OpenStreetMap, King County GIS, and Puget Sound Regional Council can be used to build a highly detailed model of Seattle for simulating cars, pedestrians, cyclists, and transit. We'll cover challenges such as how map boundaries affect parking for multi-modal trips, inferring traffic signal policies, interpreting turn and lane restrictions from OpenStreetMap, and handling complex intersections.
  -
     type: Talk
-    title: Programs for geomorphic analysis <em>Zillow Commons</em>
+    title: Programs for geomorphic analysis, <em>Zillow Commons</em>
     time: 9:20 AM
     speaker: Dan Miller, <a href="https://www.netmapportal.com/">NetMap Portal</a>
     bio: |
@@ -68,7 +68,7 @@ schedule:
         Over the past 20 years I've collaborated on many projects to develop software for analysis of Earth's surface. This has resulted in a large library of analysis tools, all open source, and all written in Fortran. The software is used for tasks such as channel network extraction from digital elevation data, landslide hazard assessment, wetland and riparian zone delineation, aquatic habitat assessment, and analysis of sediment delivery to channel networks from road systems. It is used in the U.S., Canada, and Europe, but I have not been diligent at communicating with folks in my own back yard. I'd like to show what I've got, describe how it's used, see what might prove useful for folks working locally, and hear about other similar efforts.   
  -
     type: Talk
-    title: "Orcamap: an open-source mapping system for endangered orcas <em>Zillow Commons</em>"
+    title: "Orcamap: an open-source mapping system for endangered orcas, <em>Zillow Commons</em>"
     time: 9:40 AM
     speaker: Scott Veirs, <a href="http://www.orcasound.net/">Orcasound</a>
     bio: |
@@ -83,7 +83,7 @@ schedule:
     description:
  -
     type: title
-    title: Lightning Talks <em>Zillow Commons</em>
+    title: Lightning Talks, <em>Zillow Commons</em>
     time: 10:20 AM
     speaker:
     description: 5 minutes each.
@@ -133,7 +133,7 @@ UW alumni -- majored in Atmospheric Science"
       Dane has recently been diving deep on performance optimizations in his work at Mapbox and spending evenings learning about energy efficiency as he renovates an old home. This talk will explore his lingering questions about how to live ethically as our climate warms and what this means for how we optimize software.
  -
     type: Talk
-    title: "OSM Water: How well are Minnesota’s water features mapped? <em>Zillow Commons</em>"
+    title: "OSM Water: How well are Minnesota’s water features mapped?, <em>Zillow Commons</em>"
     time: 10:45 AM
     speaker: Matthew Manley, <a href="https://www.critigen.com/">Critigen</a>
     bio: GIS Data Analyst at Critigen
@@ -141,7 +141,7 @@ UW alumni -- majored in Atmospheric Science"
         Water-related features are an often-overlooked part of the OpenStreetMap model. These features help create the natural context for the map and add important reference information. In Minnesota, a large proportion of these features are derived from bulk imports of data from the United States Geological Survey (USGS) National Hydrography Dataset (NHD). Our project seeks to understand the degree to which OSM water data in Minnesota has “moved beyond” NHD through edits or the addition of new features derived from additional sources. This project will identify differences between OSM water features and NHD water features in the hopes of identifying how data evolves from the bulk import phase to the current state of the map. Our presentation will include a discussion of the methodology we used for data preparation and analysis, as well as our proposal for improving the quality of OSM water data in Minnesota in the future. This research will be relevant for those interested in identifying gaps in OSM data, mapping natural features, and mapping in Minnesota more generally.
  -
     type: Talk
-    title: Geo-Machine Learning (geoML) & Model Democratization with OSM Data <em>Zillow Commons</em>
+    title: Geo-Machine Learning (geoML) & Model Democratization with OSM Data, <em>Zillow Commons</em>
     time: 11:05 AM
     speaker: Shay Strong, <a href="https://www.eagleview.com/">EagleView</a>
     bio: |
@@ -150,7 +150,7 @@ UW alumni -- majored in Atmospheric Science"
         How can we democratize the development of geospatial machine learning models, lower the barrier to entry for students and practitioners in this space, and obliterate the ‘practice’ of geospatial platform commercialization? Leveraging OSM vector data and cloud compute, through such programs such as the University of Washington’s GeoHackweek, we are able to further the removal of the knowledge barrier for scaling ML applications and flood a commercialized marketplace with models leverage-able by a broader community.
  -
     type: Talk
-    title: Getting weird with geospatial data and the web
+    title: Getting weird with geospatial data and the web, <em>Zillow Commons</em>
     time: 11:25 AM
     speaker: Damon Burgett, <a href="https://www.mapbox.com/">Mapbox</a>
     bio: |
@@ -159,7 +159,7 @@ UW alumni -- majored in Atmospheric Science"
         The pluggability and flexibility of Open Source data processing and visualization tools enable left-field "misuse cases" for geospatial data. These "misuses" have led to a number of both fantastically frivolous AND incredibly useful projects. This presentation will explore some of my successful and failed experiments in creatively getting weird, including: Encoding elevation data into pictures - Post-punk elevation visualization (Joy Division elevation maps) - Visualizing when we'll be underwater - Animating weather data - Tiling non-geospatial data - Encoding data into efficiently striking formats.
  -
     type: Talk
-    title: Virtual Rasters - Tiny files with a big impact  <em>Zillow Commons</em>
+    title: Virtual Rasters - Tiny files with a big impact,  <em>Zillow Commons</em>
     time: 11:45 AM
     speaker: Justin McAllister, <a href="https://www.micasense.com/">MicaSense</a>
     bio: |
@@ -174,7 +174,7 @@ UW alumni -- majored in Atmospheric Science"
     description:
  -
     type: Talk
-    title: Using Redis for Geospatial Data <em>Zillow Commons</em>
+    title: Using Redis for Geospatial Data, <em>Zillow Commons</em>
     time: 1:30 PM
     speaker: Rock Pereira, Astratta.io
     bio: |
@@ -183,7 +183,7 @@ UW alumni -- majored in Atmospheric Science"
         Redis is an in-memory, key-value database. But it has basic geospatial functions that make it useful for building real-time, location-based apps. This talk is an introduction to Redis, when to use it, and its limitations. In the demo we'll work with AIS data, for the locations of sea vessels.
  -
     type: Talk
-    title: Dynamic EV Charging Infrastructure Prioritization <em>Zillow Commons</em>
+    title: Dynamic EV Charging Infrastructure Prioritization, <em>Zillow Commons</em>
     time: 1:55 PM
     speaker: Corwin Bell, <a href="https://www.fehrandpeers.com/">Fehr & Peers</a>
     bio: |
@@ -198,7 +198,7 @@ UW alumni -- majored in Atmospheric Science"
     description:
  -
     type: Workshop
-    title: Solving spatial problems with queries <em>TBD</em>
+    title: Solving spatial problems with queries, <em>TBD</em>
     time: 2:35 PM
     speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx">King County WLRD</a>
     bio: Fred Lott has a background in hydrology and currently works for King County.
@@ -206,7 +206,7 @@ UW alumni -- majored in Atmospheric Science"
         Solving Spatial Problems with Queries is an introduction to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use <a href="https://qgis.org/en/site/">QGIS</a> 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on <a href="http://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html">Spatialite</a>, but the concepts are applicable to <a href="https://postgis.net/">PostGIS</a> and to some extent, MySQL and SQL Server. Please bring your laptop with <a href="https://qgis.org/en/site/forusers/download.html">QGIS 3.8</a> installed. Some familiarity with <a href="https://sqlbolt.com/">SQL</a>, <a href="https://docs.qgis.org/3.4/en/docs/training_manual/index.html">QGIS</a>, and spatial concepts will come in handy, but beginners are welcome. <a href="https://github.com/flott/sql_workshop_cugos19">Workshop materials are available here</a>.
  -
     type: Workshop
-    title: Introduction to editing OSM with JOSM  <em>TBD</em>
+    title: Introduction to editing OSM with JOSM,  <em>TBD</em>
     time: 2:35 PM
     speaker: Clifford Snow, <a href="https://www.snowandsnow.us/">OSM Washington</a>
     bio: |
