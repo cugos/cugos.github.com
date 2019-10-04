@@ -173,6 +173,14 @@ UW alumni -- majored in Atmospheric Science"
     speaker:
     description:
  -
+    type: Workshop
+    title: OpenSidewalks, <em>Bezos Seminar - Gates G04</em>
+    time: 1:30 PM
+    speaker: TBD 
+    bio: ~
+    description: |
+         Organizing your community around data collection for accessible, sustainable and resilient neighborhoods.
+ -
     type: Talk
     title: Using Redis for Geospatial Data, <em>Zillow Commons</em>
     time: 1:30 PM
