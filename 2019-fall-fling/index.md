@@ -206,7 +206,7 @@ UW alumni -- majored in Atmospheric Science"
     description:
  -
     type: Workshop
-    title: Solving spatial problems with queries, <em>TBD</em>
+    title: Solving spatial problems with queries, <em>Room 271</em>
     time: 2:35 PM
     speaker: Fred Lott, <a href="https://kingcounty.gov/depts/dnrp/wlr.aspx">King County WLRD</a>
     bio: Fred Lott has a background in hydrology and currently works for King County.
@@ -214,7 +214,7 @@ UW alumni -- majored in Atmospheric Science"
         Solving Spatial Problems with Queries is an introduction to using SQL with spatial extensions to create reports, summarize data, and explore spatial relationships. We will use <a href="https://qgis.org/en/site/">QGIS</a> 3.8 to conduct SQL queries on tabular and spatial data. This workshop will focus on <a href="http://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html">Spatialite</a>, but the concepts are applicable to <a href="https://postgis.net/">PostGIS</a> and to some extent, MySQL and SQL Server. Please bring your laptop with <a href="https://qgis.org/en/site/forusers/download.html">QGIS 3.8</a> installed. Some familiarity with <a href="https://sqlbolt.com/">SQL</a>, <a href="https://docs.qgis.org/3.4/en/docs/training_manual/index.html">QGIS</a>, and spatial concepts will come in handy, but beginners are welcome. <a href="https://github.com/flott/sql_workshop_cugos19">Workshop materials are available here</a>.
  -
     type: Workshop
-    title: Introduction to editing OSM with JOSM,  <em>TBD</em>
+    title: Introduction to editing OSM with JOSM,  <em>Room 371</em>
     time: 2:35 PM
     speaker: Clifford Snow, <a href="https://www.snowandsnow.us/">OSM Washington</a>
     bio: |
