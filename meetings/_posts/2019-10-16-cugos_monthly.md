@@ -19,7 +19,7 @@ collection. CUGOSers who do field work or manage field collected data
 will appreciate this introduction and demo. This talk will be given in
 a workshop style, so those that want to follow along with thier own
 access to an ODK server can do so. [Email
-Florian](florian.wendelin.mayer@gmail.com) for access to the the ODK
+Florian](mailto:florian.wendelin.mayer@gmail.com) for access to the the ODK
 sandbox server before the talk to follow along.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you
