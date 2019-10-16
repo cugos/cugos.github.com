@@ -42,6 +42,7 @@ schedule:
  -
     type: Talk
     title: Geo Exploration Simplified with Elastic Maps
+    slides: https://ela.st/cugos2019
     time: 8:40 AM
     speaker: Nick Peihl,<a href="https://elastic.co">Elastic</a>
     bio: |
@@ -51,6 +52,7 @@ schedule:
  -
     type: Talk
     title: Challenges of building a traffic simulation on open GIS data
+    slides: https://docs.google.com/presentation/d/1cF7qFtjAzkXL_r62CjxBvgQnLvuQ9I2WTE2iX_5tMCY/edit?usp=sharing
     time: 9:00 AM
     speaker: Dustin Carlino, <a href="http://github.com/dabreegster/abstreet">Project A/B Street</a>
     bio: |
@@ -60,6 +62,7 @@ schedule:
  -
     type: Talk
     title: Programs for geomorphic analysis
+    slides: DanMiller_Cugos_2019.pdf
     time: 9:20 AM
     speaker: Dan Miller
     bio: |
@@ -69,6 +72,7 @@ schedule:
  -
     type: Talk
     title: "Orcamap: an open-source mapping system for endangered orcas"
+    slides: http://orcasound.net/data/talks/2019-cugos-orcamap/
     time: 9:40 AM
     speaker: Scott Veirs, <a href="http://www.orcasound.net/">Orcasound</a>
     bio: |
@@ -90,6 +94,7 @@ schedule:
  -
     type: Lightning Talk
     title: Lessons Learned from Teaching GIS in Vietnam
+    slides: https://docs.google.com/presentation/d/1ywF0XzqBD5rO7QuXfRslm-aqa384h4BcYouYBCIWRn4/edit?ts=5d963e14
     time:
     speaker: Robert Catherman, <a href="http://medrix.org/">Medrix</a>
     bio: "Author of open source GIS curriculum for ESL students
@@ -100,6 +105,7 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Lightning Talk
     title: "Map Quality Measurement (MQM): US Cities Road Data Quality on OpenStreetMap"
+    slides: MonicaBrandeis_Cugos_2019.pdf
     time:
     speaker: Monica Brandeis, <a href="https://www.critigen.com/">Critigen</a>
     bio: |
@@ -134,6 +140,7 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Talk
     title: "OSM Water: How well are Minnesota’s water features mapped?"
+    slides: MattManley_Cugos_2019.pptx
     time: 10:45 AM
     speaker: Matthew Manley, <a href="https://www.critigen.com/">Critigen</a>
     bio: GIS Data Analyst at Critigen
@@ -142,6 +149,7 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Talk
     title: Geo-Machine Learning (geoML) & Model Democratization with OSM Data
+    slides: ShayStrong_Cugos_2019.pdf
     time: 11:05 AM
     speaker: Shay Strong, <a href="https://www.eagleview.com/">EagleView</a>
     bio: |
@@ -160,6 +168,7 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Talk
     title: Virtual Rasters - Tiny files with a big impact
+    slides: JustinMcAllister_Cugos_2019.pdf
     time: 11:45 AM
     speaker: Justin McAllister, <a href="https://www.micasense.com/">MicaSense</a>
     bio: |
@@ -175,15 +184,17 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Talk
     title: Using Redis for Geospatial Data
+    slides: RockPereira_Cugos_2019.pdf
     time: 1:30 PM
     speaker: Rock Pereira, Astratta.io
     bio: |
       Rock is with a startup, Astratta.io, that helps content marketers create video abstracts. They use a PostgreSQL / Redis hybrid for long-term storage / caching of edits. He regularly attends MaptimeSEA. He used the AIS data in a study of collision avoidance at sea. At the City of Seattle Hackathon, his team used Census Tract data and OSRM to study access to Social Services in Seattle.
     description: |
-        Redis is an in-memory, key-value database. But it has basic geospatial functions that make it useful for building real-time, location-based apps. This talk is an introduction to Redis, when to use it, and its limitations. In the demo we'll work with AIS data, for the locations of sea vessels.
+        Redis is an in-memory, key-value database. But it has basic geospatial functions that make it useful for building real-time, location-based apps. This talk is an introduction to Redis, when to use it, and its limitations. In the demo we'll work with AIS data, for the locations of sea vessels. <a href="https://github.com/rockper/ship-safety/tree/master/redis_geospatial">Checkout the Jupyter notebook.</a>
  -
     type: Talk
     title: Dynamic EV Charging Infrastructure Prioritization
+    slides: CorwinBell_Cugos_2019.pptx
     time: 1:55 PM
     speaker: Corwin Bell, <a href="https://www.fehrandpeers.com/">Fehr & Peers</a>
     bio: |
