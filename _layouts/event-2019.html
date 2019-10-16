@@ -182,7 +182,7 @@ nav {
         {% elsif item.type == "Lightning Talk" %}
         <p>⚡ Lightning Talk</p>
         {% endif %}
-        <p><span class="sf-schedule-title">{{ item.title }}</span><br>
+        <p><span class="sf-schedule-title">{{ item.title }}</span>,{% if item.slides %} <a href="{{ item.slides }}">Slides</a>{% endif %}<br>
         {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
         <span class="sf-schedule-description">{{ item.bio }}</span></p><br>
         <span class="sf-schedule-description">{{ item.description }}</span></p>

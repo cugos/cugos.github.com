@@ -41,6 +41,7 @@ schedule:
         Welcome to the 2019 Fall Fling.
  -
     type: Talk
+    slides: https://ela.st/cugos2019
     title: Geo Exploration Simplified with Elastic Maps, <em>Zillow Commons</em>
     time: 8:40 AM
     speaker: Nick Peihl, <a href="https://elastic.co">Elastic</a>
@@ -50,6 +51,7 @@ schedule:
         "Where" is a critical question for many users of the Elastic Stack. Whether you're protecting your network from attackers, investigating slow application response times in specific locations, or simply hailing a ride home, geo data — and search — play an important role. Discover how Elastic builds on and contributes to open source geospatial software and open data.
  -
     type: Talk
+    slides: https://docs.google.com/presentation/d/1cF7qFtjAzkXL_r62CjxBvgQnLvuQ9I2WTE2iX_5tMCY/edit?usp=sharing
     title: Challenges of building a traffic simulation on open GIS data, <em>Zillow Commons</em>
     time: 9:00 AM
     speaker: Dustin Carlino, <a href="http://github.com/dabreegster/abstreet">Project A/B Street</a>
@@ -59,6 +61,7 @@ schedule:
         This talk will discuss how open data from OpenStreetMap, King County GIS, and Puget Sound Regional Council can be used to build a highly detailed model of Seattle for simulating cars, pedestrians, cyclists, and transit. We'll cover challenges such as how map boundaries affect parking for multi-modal trips, inferring traffic signal policies, interpreting turn and lane restrictions from OpenStreetMap, and handling complex intersections.
  -
     type: Talk
+    slides: DanMiller_Cugos_2019.pdf
     title: Programs for geomorphic analysis, <em>Zillow Commons</em>
     time: 9:20 AM
     speaker: Dan Miller, <a href="https://www.netmapportal.com/">NetMap Portal</a>
@@ -68,6 +71,7 @@ schedule:
         Over the past 20 years I've collaborated on many projects to develop software for analysis of Earth's surface. This has resulted in a large library of analysis tools, all open source, and all written in Fortran. The software is used for tasks such as channel network extraction from digital elevation data, landslide hazard assessment, wetland and riparian zone delineation, aquatic habitat assessment, and analysis of sediment delivery to channel networks from road systems. It is used in the U.S., Canada, and Europe, but I have not been diligent at communicating with folks in my own back yard. I'd like to show what I've got, describe how it's used, see what might prove useful for folks working locally, and hear about other similar efforts.   
  -
     type: Talk
+    slides: http://orcasound.net/data/talks/2019-cugos-orcamap/
     title: "Orcamap: an open-source mapping system for endangered orcas, <em>Zillow Commons</em>"
     time: 9:40 AM
     speaker: Scott Veirs, <a href="http://www.orcasound.net/">Orcasound</a>
@@ -90,6 +94,7 @@ schedule:
  -
     type: Lightning Talk
     title: Lessons Learned from Teaching GIS in Vietnam
+    slides: https://docs.google.com/presentation/d/1ywF0XzqBD5rO7QuXfRslm-aqa384h4BcYouYBCIWRn4/edit?ts=5d963e14
     time:
     speaker: Robert Catherman, <a href="http://medrix.org/">Medrix</a>
     bio: "Author of open source GIS curriculum for ESL students
@@ -100,6 +105,7 @@ UW alumni -- majored in Atmospheric Science"
  -
     type: Lightning Talk
     title: "Map Quality Measurement (MQM): US Cities Road Data Quality on OpenStreetMap"
+    slides: MonicaBrandeis_Cugos_2019.pdf
     time:
     speaker: Monica Brandeis, <a href="https://www.critigen.com/">Critigen</a>
     bio: |
@@ -133,6 +139,7 @@ UW alumni -- majored in Atmospheric Science"
       Dane has recently been diving deep on performance optimizations in his work at Mapbox and spending evenings learning about energy efficiency as he renovates an old home. This talk will explore his lingering questions about how to live ethically as our climate warms and what this means for how we optimize software.
  -
     type: Talk
+    slides: MattManley_Cugos_2019.pptx
     title: "OSM Water: How well are Minnesota’s water features mapped?, <em>Zillow Commons</em>"
     time: 10:45 AM
     speaker: Matthew Manley, <a href="https://www.critigen.com/">Critigen</a>
@@ -141,6 +148,7 @@ UW alumni -- majored in Atmospheric Science"
         Water-related features are an often-overlooked part of the OpenStreetMap model. These features help create the natural context for the map and add important reference information. In Minnesota, a large proportion of these features are derived from bulk imports of data from the United States Geological Survey (USGS) National Hydrography Dataset (NHD). Our project seeks to understand the degree to which OSM water data in Minnesota has “moved beyond” NHD through edits or the addition of new features derived from additional sources. This project will identify differences between OSM water features and NHD water features in the hopes of identifying how data evolves from the bulk import phase to the current state of the map. Our presentation will include a discussion of the methodology we used for data preparation and analysis, as well as our proposal for improving the quality of OSM water data in Minnesota in the future. This research will be relevant for those interested in identifying gaps in OSM data, mapping natural features, and mapping in Minnesota more generally.
  -
     type: Talk
+    slides: ShayStrong_Cugos_2019.pdf
     title: Geo-Machine Learning (geoML) & Model Democratization with OSM Data, <em>Zillow Commons</em>
     time: 11:05 AM
     speaker: Shay Strong, <a href="https://www.eagleview.com/">EagleView</a>
@@ -159,6 +167,7 @@ UW alumni -- majored in Atmospheric Science"
         The pluggability and flexibility of Open Source data processing and visualization tools enable left-field "misuse cases" for geospatial data. These "misuses" have led to a number of both fantastically frivolous AND incredibly useful projects. This presentation will explore some of my successful and failed experiments in creatively getting weird, including: Encoding elevation data into pictures - Post-punk elevation visualization (Joy Division elevation maps) - Visualizing when we'll be underwater - Animating weather data - Tiling non-geospatial data - Encoding data into efficiently striking formats.
  -
     type: Talk
+    slides: JustinMcAllister_Cugos_2019.pdf
     title: Virtual Rasters - Tiny files with a big impact,  <em>Zillow Commons</em>
     time: 11:45 AM
     speaker: Justin McAllister, <a href="https://www.micasense.com/">MicaSense</a>
@@ -182,15 +191,17 @@ UW alumni -- majored in Atmospheric Science"
          Organizing your community around data collection for accessible, sustainable and resilient neighborhoods.
  -
     type: Talk
+    slides: RockPereira_Cugos_2019.pdf
     title: Using Redis for Geospatial Data, <em>Zillow Commons</em>
     time: 1:30 PM
     speaker: Rock Pereira, Astratta.io
     bio: |
       Rock is with a startup, Astratta.io, that helps content marketers create video abstracts. They use a PostgreSQL / Redis hybrid for long-term storage / caching of edits. He regularly attends MaptimeSEA. He used the AIS data in a study of collision avoidance at sea. At the City of Seattle Hackathon, his team used Census Tract data and OSRM to study access to Social Services in Seattle.
     description: |
-        Redis is an in-memory, key-value database. But it has basic geospatial functions that make it useful for building real-time, location-based apps. This talk is an introduction to Redis, when to use it, and its limitations. In the demo we'll work with AIS data, for the locations of sea vessels.
+        Redis is an in-memory, key-value database. But it has basic geospatial functions that make it useful for building real-time, location-based apps. This talk is an introduction to Redis, when to use it, and its limitations. In the demo we'll work with AIS data, for the locations of sea vessels. <a href="https://github.com/rockper/ship-safety/tree/master/redis_geospatial">Checkout the Jupyter notebook.</a>
  -
     type: Talk
+    slides: CorwinBell_Cugos_2019.pptx
     title: Dynamic EV Charging Infrastructure Prioritization, <em>Zillow Commons</em>
     time: 1:55 PM
     speaker: Corwin Bell, <a href="https://www.fehrandpeers.com/">Fehr & Peers</a>
