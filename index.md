@@ -2,7 +2,7 @@
 layout: home
 title: Home
 extra_js: /static/js/feed.js
-alert_text: "The 2019 Fall Fling is on October 6th - Register Now!"
+alert_text: "2019 Fall Fling Happened October 6th - Check out notes and slides!"
 alert_url: /2019-fall-fling
 ---
 
