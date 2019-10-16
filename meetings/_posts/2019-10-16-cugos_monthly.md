@@ -10,6 +10,9 @@ lng: -122.315812
 category: meetings
 notes: Startup Hall is on the second floor of Condon Hall. The elevator locks at 5 PM. Someone from CUGOS will be there to let you in.
 ---
+## Note 7pm start time
+Doors lock at 5pm, please text or call the phone number noted on the door when you arrive. 
+
 ## Agenda  
 
 **Florian Mayer**, an Ecoinformatician at the Western Australian
