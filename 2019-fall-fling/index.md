@@ -41,7 +41,6 @@ schedule:
         Welcome to the 2019 Fall Fling.
  -
     type: Talk
-    title: Geo Exploration Simplified with Elastic Maps
     slides: https://ela.st/cugos2019
     title: Geo Exploration Simplified with Elastic Maps, <em>Zillow Commons</em>
     time: 8:40 AM
