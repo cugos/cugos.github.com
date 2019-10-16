@@ -3,7 +3,7 @@ layout: meeting
 title: October 16th 2019, 6pm - Startup Hall, UW
 location: University of Washington
 address: Startup Hall, 1100 NE Campus Parkway, Suite 200, Seattle, WA 98195
-time: 6:00pm
+time: 7:00pm
 excerpt: October 16th 2019 CUGOS Monthly Meeting
 lat: 47.656439
 lng: -122.315812
