@@ -15,9 +15,9 @@ Doors lock at 5pm, please text or call the phone number noted on the door when y
 
 ## Agenda  
 
-**Aditya Agrawal** Digital Earth Africa – using open data cube technology and analysis-ready data to democratize access to earth observation data at an operational level for all of Africa.
+**[Aditya Agrawal](https://twitter.com/D4DInsights)** [Digital Earth Africa](https://www.digitalearthafrica.org/) – using open data cube technology and analysis-ready data to democratize access to earth observation data at an operational level for all of Africa. [Github](https://github.com/digitalearthafrica)  [Maps](http://maps.digitalearth.africa/)
 
-**Dustin Carlino** Move fast and map things: how the parkour community can use cartography to communicate movements through urban environments. (This is a talk presented at the [Art of Retreat](http://artofretreat.com/) back in 2018.
+**Dustin Carlino** Move fast and map things: how the parkour community can use cartography to communicate movements through urban environments. (This is a talk presented at the [Art of Retreat](http://artofretreat.com/) back in 2018.)
 
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2019-12-18-cugos_monthly.md) or email us at hello@cugos.org.
