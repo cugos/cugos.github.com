@@ -13,6 +13,8 @@ notes: The Astronomy/Physics Tower on UW Campus near the intersection of 15th Av
 
 ## Agenda  
 
+**[Ariel Kadouri](https://arielsartistry.com/)** will talk about the [#30DayMapChallenge](https://twitter.com/hashtag/30DayMapChallenge), and how I made nearly a map a day until day 17.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you
 
 ## Event Wifi
