@@ -11,7 +11,7 @@ category: meetings
 notes: The Astronomy/Physics Tower on UW Campus near the intersection of 15th Ave NE and NE Pacific St.
 ---
 
-## Agenda  
+## THIS MEETING IS CANCELLED
 
 **[Ariel Kadouri](https://arielsartistry.com/)** will talk about the [#30DayMapChallenge](https://twitter.com/hashtag/30DayMapChallenge), and how I made nearly a map a day until day 17.
 
