@@ -1,8 +1,6 @@
 ---
 layout: home
 title: Home
-extra_js: /static/js/feed.js
-alert_text: "January CUGOS meeting has been cancelled due to inclement weather and modified UW building hours"
 alert_url: /2019-fall-fling
 ---
 
