@@ -13,6 +13,8 @@ notes: The Astronomy/Physics Tower on UW Campus near the intersection of 15th Av
 
 **[Ariel Kadouri](https://arielsartistry.com/)** will talk about the [#30DayMapChallenge](https://twitter.com/hashtag/30DayMapChallenge), and how I made nearly a map a day until day 17.
 
+**[Peter Keum](https://pkgeo.com/)** will talk about WA State Parcel Viewer using data from [WA GIS Portal](http://geo.wa.gov/). I'll talk about various open source tools (GDAL, QGIS, Tippecanoe etc..) to convert, assemble, create, and deploy this web app. I'll share the draft web map link at the meeting. (30 min)
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-02-19-cugos_monthly.md)
 
 ## Event Wifi
