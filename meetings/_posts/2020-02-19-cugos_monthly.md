@@ -17,6 +17,8 @@ notes: The Astronomy/Physics Tower on UW Campus near the intersection of 15th Av
 
 Michael Patrick, who is a long time member of CUGOS, will share his experience of mentoring a graduate CS class tasked to build a project for a  non-profit group via Democracy Lab. (30 min)
 
+**Dustin Carlino** will brainstorm how recent advancements in [A/B Street](https://abstreet.org)'s infrastructure could be used for other OpenStreetMap-based tools. Ideas include a city "bug tracker", a restaurant menu search using open data, and an OSM viewer making node/way inspection easier. This is a brainstorming / discussion session. (20 min)
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-02-19-cugos_monthly.md)
 
 ## Event Wifi
