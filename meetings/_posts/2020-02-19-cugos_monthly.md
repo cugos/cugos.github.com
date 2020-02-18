@@ -19,7 +19,7 @@ Michael Patrick, who is a long time member of CUGOS, will share his experience o
 
 **Dustin Carlino** will brainstorm how recent advancements in [A/B Street](https://abstreet.org)'s infrastructure could be used for other OpenStreetMap-based tools. Ideas include a city "bug tracker", a restaurant menu search using open data, and an OSM viewer making node/way inspection easier. This is a brainstorming / discussion session. (20 min)
 
-Elect CUGOS Board of Directors. We have pending Board retirements; and we have nominees. (20 min)
+Elect CUGOS Board of Directors. We have pending Board retirements; and we have nominees.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-02-19-cugos_monthly.md)
 
