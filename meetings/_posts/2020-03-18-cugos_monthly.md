@@ -11,7 +11,7 @@ category: meetings
 notes: The Astronomy/Physics Tower on UW Campus near the intersection of 15th Ave NE and NE Pacific St.
 ---
 
-**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-02-19-cugos_monthly.md)
+**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-03-18-cugos_monthly.md)
 
 ## Event Wifi
 ```
