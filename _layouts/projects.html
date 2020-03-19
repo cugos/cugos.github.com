@@ -11,7 +11,7 @@ layout: default
   <div class="project">
     <h1> {{ p.title }} </h1>
     <h2> {{ p.description}} </h2>
-    <h3> Check it out: <a href={{ p.url}}> {{ p.url }} </a>  </h3>
-    <h3> Contribute: <a href={{ p.github}}> {{ p.github }} </a> </h3>
+    <h3> Check it out: <a href="{{ p.url }}"> {{ p.url }} </a>  </h3>
+    <h3> Contribute: <a href="{{ p.github }}"> {{ p.github }} </a> </h3>
   </div>
 {% endfor %}
