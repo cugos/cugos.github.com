@@ -1,7 +1,6 @@
 ---
 layout: event-2019
 title: "2019 Fall Fling"
-weight: 0
 event_date: "Sunday October 6th,  2019"
 event_time: "8:30 AM - 4:00 PM"
 event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting one-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region.
