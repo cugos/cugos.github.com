@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-alert_url: /2019-fall-fling
+extra_js: /static/js/feed.js
 ---
 
 We're a group of developers, GIS specialists, designers, and geographers all gathering under one roof in the name of maps. CUGOS is the official Cascadia chapter of OSGeo. We are active in the spatial community because we believe in the power maps and data hold, and enjoy exploring their interaction from every perspective.
