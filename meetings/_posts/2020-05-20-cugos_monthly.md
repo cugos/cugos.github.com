@@ -17,6 +17,8 @@ notes: Zoom meeting details forthcoming
 
 **[Jonny](https://github.com/clubkemp)** Will show off [sheet2map](https://github.com/clubkemp/sheets2map) A tool for connecting google sheets to leaflet using tabletop. Unintentional rip-off of [mapsam](https://github.com/mapsam/gus) :) 
 
+**[Stephen](https://github.com/maneaba)** will present the latest updates to his Puget Sound parcel map that combines attribues from four local counties in static vector tiles vizualised in Mapbox GL JS. If there's time a historic streetcar/interurban railway map project will also be presented. 
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-05-20-cugos_monthly.md)
 
 ## Zoom Connection
