@@ -19,6 +19,8 @@ notes: Zoom meeting details forthcoming
 
 **[Stephen](https://github.com/maneaba)** will present the latest updates to his Puget Sound parcel map that combines attribues from four local counties in static vector tiles vizualised in Mapbox GL JS. If there's time a historic streetcar/interurban railway map project will also be presented. 
 
+**[Rafa](https://github.com/geografa)** will run through a variety of projects that use [Mapbox Navigation APIs](https://docs.mapbox.com/api/navigation/#directions) (Directions, Isochronees, Matrix, etc.) for routing and logistics solutions using GL JS.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-05-20-cugos_monthly.md)
 
 ## Zoom Connection
