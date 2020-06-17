@@ -1,10 +1,10 @@
 ---
 layout: meeting
-title: June 16th 2020, 6pm - Zoom Meeting
+title: July 15th 2020, 6pm - Zoom Meeting
 location: Zoom Meeting (connection details forthcoming)
 address: 
 time: 6:00pm
-excerpt: June 16th 2020 CUGOS Monthly Meeting
+excerpt: July 15th 2020 CUGOS Monthly Meeting
 lat: 
 lng: 
 category: meetings
