@@ -18,7 +18,23 @@ notes: Zoom meeting details forthcoming
 ## Zoom Connection
 
 ```
-TBD
+Topic: CUGOS July Meeting
+Time: Jul 15, 2020 06:00 PM Pacific Time (US and Canada)
+Join Zoom Meeting
+https://zoom.us/j/96747126432
+Meeting ID: 967 4712 6432
+One tap mobile
++12532158782,,96747126432# US (Tacoma)
++13462487799,,96747126432# US (Houston)
+Dial by your location
+     +1 253 215 8782 US (Tacoma)
+     +1 346 248 7799 US (Houston)
+     +1 669 900 9128 US (San Jose)
+     +1 301 715 8592 US (Germantown)
+     +1 312 626 6799 US (Chicago)
+     +1 646 558 8656 US (New York)
+Meeting ID: 967 4712 6432
+Find your local number: https://zoom.us/u/abqitAYvaP
 ```
 
 Reminder about some other cool open source and/or geo-related meetups in the area:
