@@ -11,7 +11,7 @@ category: meetings
 notes: Zoom meeting details forthcoming
 ---
 
-**[Nick Peihl](https://github.com/nickpeihl)** will discuss how his team at [Elastic](https://elastic.co) used OpenStreetMap data to fill in the gaps in the [Natural Earth States and Provinces dataset](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/) and the challenges that came with it.
+**[Nick Peihl](https://github.com/nickpeihl)** will discuss how his team at [Elastic](https://elastic.co) used OpenStreetMap data to fill in the gaps in the [Natural Earth States and Provinces dataset](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/) and the challenges that came with it. [Slides](https://drive.google.com/file/d/1Lncv7Tk80NfG-vrjnfeDBKlXRVWBrBSX/view?usp=sharing)
 
 **[Dustin Carlino](https://github.com/dabreegster)** will demo some of the user interface progress in [A/B Street](https://abstreet.org) since the last presentation. Including but not limited to map dataviz problems like handling Z-order of bridges/tunnels, editing multiple traffic signals at once, and a way to visualize commuter patterns between different neighborhoods.
 
