@@ -20,7 +20,23 @@ notes: Zoom meeting details forthcoming
 ## Zoom Connection
 
 ```
-ZOOM Info TBA
+Join Zoom Meeting
+https://zoom.us/j/95262669243
+
+Meeting ID: 952 6266 9243
+One tap mobile
++12532158782,,95262669243# US (Tacoma)
++16699009128,,95262669243# US (San Jose)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 669 900 9128 US (San Jose)
+        +1 346 248 7799 US (Houston)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 646 558 8656 US (New York)
+Meeting ID: 952 6266 9243
+Find your local number: https://zoom.us/u/adt8hV7z6y
 ```
 
 Reminder about some other cool open source and/or geo-related meetups in the area:
