@@ -19,7 +19,27 @@ notes: Zoom meeting details forthcoming
 ## Zoom Connection
 
 ```
-TBD
+Topic: CUGOS December Meeting
+Time: Dec 16, 2020 06:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/91313362264?pwd=NTVKYW1LaHk1U1BNNHExSTJaWkRTZz09
+
+Meeting ID: 913 1336 2264
+Passcode: 422825
+One tap mobile
++12532158782,,91313362264# US (Tacoma)
++13462487799,,91313362264# US (Houston)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 9128 US (San Jose)
+        +1 646 558 8656 US (New York)
+        +1 301 715 8592 US (Washington D.C)
+        +1 312 626 6799 US (Chicago)
+Meeting ID: 913 1336 2264
+Find your local number: https://zoom.us/u/a5tgAYQeN
 
 ```
 
