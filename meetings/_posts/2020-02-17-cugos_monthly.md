@@ -1,10 +1,10 @@
 ---
 layout: meeting
-title: February 17th 2020, 6pm - Zoom Meeting
+title: February 17th 2021, 6pm - Zoom Meeting
 location: Zoom Meeting (connection details forthcoming)
 address:
 time: 6:00pm
-excerpt: February 17th 2020 CUGOS Monthly Meeting
+excerpt: February 17th 2021 CUGOS Monthly Meeting
 lat:
 lng:
 category: meetings
