@@ -20,7 +20,26 @@ notes: Zoom meeting details forthcoming
 ## Zoom Connection
 
 ```
-TBA
+Ariel Kadouri is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting
+https://carmera.zoom.us/j/91909716670?pwd=a2xlcmFLZC9KUjhJVi9GbVo3SVBDZz09
+
+Meeting ID: 919 0971 6670
+Passcode: 928692
+One tap mobile
++16465588656,,91909716670# US (New York)
++13017158592,,91909716670# US (Washington DC)
+
+Dial by your location
+        +1 646 558 8656 US (New York)
+        +1 301 715 8592 US (Washington DC)
+        +1 312 626 6799 US (Chicago)
+        +1 669 900 9128 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+Meeting ID: 919 0971 6670
+Find your local number: https://carmera.zoom.us/u/aejiApLGX0
 
 ```
 
