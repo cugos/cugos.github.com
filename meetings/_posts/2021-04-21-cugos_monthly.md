@@ -10,7 +10,7 @@ lng:
 category: meetings
 notes: Zoom meeting details forthcoming
 ---
-
+**[Daniel Dufour](https://github.com/danieljdufour)** will introduce [geotiff.io](https://geotiff.io/) and [geoblaze](https://geoblaze.io), two open-source projects about realizing the scalability and power of true server-free processing.  GeoBlaze is a blazing fast raster analysis engine written in pure JavaScript.  GeoTIFF.io is a completely client-side application that uses GeoBlaze and allows people to visualize and analyze GeoTIFFs.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-11-18-cugos_monthly.md) or reach out to hello@cugos.org
 
