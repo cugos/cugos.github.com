@@ -11,8 +11,9 @@ category: meetings
 notes: Zoom meeting details forthcoming
 ---
 
-**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-11-18-cugos_monthly.md) or reach out to hello@cugos.org
+**[Brandon Liu](https://twitter.com/bdon)** will talk about [Protomaps](https://protomaps.com/blog/new-way-to-make-maps), a new vector basemap system for the web. The end goal of Protomaps is to make custom OpenStreetMap cartography and map hosting dead simple. He’ll talk about how a few new components — a spatial database, a serverless file format and map renderer — fit into the overall picture. 
 
+**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-11-18-cugos_monthly.md) or reach out to hello@cugos.org
 
 ## Zoom Connection details will be posted here
 
