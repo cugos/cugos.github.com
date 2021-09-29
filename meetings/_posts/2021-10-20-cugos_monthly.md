@@ -11,7 +11,7 @@ category: meetings
 notes: Zoom meeting details forthcoming
 ---
 
-**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2020-11-18-cugos_monthly.md) or reach out to hello@cugos.org
+**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2021-10-20-cugos_monthly.md) or reach out to hello@cugos.org
 
 ## Zoom Connection details will be posted here
 
