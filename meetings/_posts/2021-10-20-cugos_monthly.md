@@ -37,7 +37,8 @@ Dial by your location
         +81 363 628 317 Japan
         +81 3 4578 1488 Japan
 Meeting ID: 929 7691 8339
-Find your local number: https://carmera.zoom.us/u/acoS9zFCba```
+Find your local number: https://carmera.zoom.us/u/acoS9zFCba
+```
 
 Reminder about some other cool open source and/or geo-related meetups in the area:
 
