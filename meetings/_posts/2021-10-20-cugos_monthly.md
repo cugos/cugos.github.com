@@ -15,11 +15,13 @@ notes: Zoom meeting details forthcoming
 
 ## Zoom Connection details will be posted here
 
+[https://carmera.zoom.us/j/92976918339?pwd=dTNmRlpkZkRYR01WZXQ5Vy9leFdkdz09](https://carmera.zoom.us/j/92976918339?pwd=dTNmRlpkZkRYR01WZXQ5Vy9leFdkdz09)
+
 ```
 Ariel Kadouri is inviting you to a scheduled Zoom meeting.
 
 Topic: CUGOS
-Time: Oct 20, 2021 06:00 PM Eastern Time (US and Canada)
+Time: Oct 20, 2021 06:00 PM Pacific Time (US and Canada) / 09:00 PM Eastern Time (US and Canada)
 
 Join Zoom Meeting
 https://carmera.zoom.us/j/92976918339?pwd=dTNmRlpkZkRYR01WZXQ5Vy9leFdkdz09
