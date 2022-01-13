@@ -13,6 +13,8 @@ notes: Zoom meeting details forthcoming
 
 **All** Elections! At this month's meeting we'll have 2022 board elections. If you're interested in learning more about what the board does checkout the [bylaws](https://cugos.org/about/bylaw/cugos_bylaws_2016.pdf) as well as past [meeting notes](https://cugos.org/about/). Feel free to reach out to hello@cugos.org with any questions.
 
+**[Scott Shawcroft](http://tannewt.org)** will talk about broadband mapping and the Seattle public disclosure process.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-01-19-cugos_monthly.md) or reach out to hello@cugos.org
 
 ## Zoom Connection details will be posted here
