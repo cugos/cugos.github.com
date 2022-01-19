@@ -20,6 +20,28 @@ notes: Zoom meeting details forthcoming
 ## Zoom Connection details will be posted here
 
 
+[https://carmera.zoom.us/j/97740641634?pwd=OGxHUVl2MTdTT25FMGE1cTZ1Y01FQT09](https://carmera.zoom.us/j/97740641634?pwd=OGxHUVl2MTdTT25FMGE1cTZ1Y01FQT09)
+```
+Join Zoom Meeting
+https://carmera.zoom.us/j/97740641634?pwd=OGxHUVl2MTdTT25FMGE1cTZ1Y01FQT09
+
+Meeting ID: 977 4064 1634
+Passcode: 533698
+One tap mobile
++16465189805,,97740641634# US (New York)
++12063379723,,97740641634# US (Seattle)
+
+Dial by your location
+        +1 646 518 9805 US (New York)
+        +1 206 337 9723 US (Seattle)
+        +1 669 219 2599 US (San Jose)
+        +81 3 4578 1488 Japan
+        +81 363 628 317 Japan
+Meeting ID: 977 4064 1634
+Find your local number: https://carmera.zoom.us/u/aduAP1DQPB
+```
+
+
 Reminder about some other cool open source and/or geo-related meetups in the area:
 
 [OpenStreetMap Seattle](https://www.meetup.com/OpenStreetMap-Seattle/)  
