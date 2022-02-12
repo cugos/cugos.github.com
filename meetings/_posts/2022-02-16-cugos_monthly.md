@@ -11,7 +11,7 @@ category: meetings
 notes: connection details forthcoming
 ---
 
-**[Christy Heaton](https://github.com/christyheaton)** will talk about the [iSeeTree](https://treemama.org/the-tech-treehouse/iseatree/) app.
+**[Christy Heaton](https://github.com/christyheaton)** will talk about the [iSeaTree](https://treemama.org/the-tech-treehouse/iseatree/) app.
 
 **Akash Bhave** will discuss the new DB2Vector tool that he and another developer built for [Clockwork Micro](https://www.clockworkmicro.com). He'll give a technical discussion about the challenges involved.
 
