@@ -15,6 +15,9 @@ notes: connection details forthcoming
 
 **Akash Bhave** will discuss the new DB2Vector tool that he and another developer built for [Clockwork Micro](https://www.clockworkmicro.com). He'll give a technical discussion about the challenges involved.
 
+**[Brian Sperlongano](https://github.com/ZeLonewolf)** will give an overview of the [OpenStreetMap Americana Style
+](https://github.com/ZeLonewolf/openstreetmap-americana) project, a vector tile OpenStreetMap styling project aiming to showcase OpenStreetMap's expressive detail while paying homage to the themes found in American atlases.
+
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-02-16-cugos_monthly.md) or reach out to hello@cugos.org
 
 ## Meeting details will be posted here
