@@ -22,6 +22,26 @@ notes: connection details forthcoming
 
 ## Meeting details will be posted here
 
+```
+Join Zoom Meeting
+https://carmera.zoom.us/j/94202143541?pwd=d1hNMTRVWXpYT1R4OFl0bmdjMy9sUT09
+
+Meeting ID: 942 0214 3541
+Passcode: 884895
+One tap mobile
++16465189805,,94202143541# US (New York)
++16692192599,,94202143541# US (San Jose)
+
+Dial by your location
+        +1 646 518 9805 US (New York)
+        +1 669 219 2599 US (San Jose)
+        +1 206 337 9723 US (Seattle)
+        +81 363 628 317 Japan
+        +81 3 4578 1488 Japan
+Meeting ID: 942 0214 3541
+Find your local number: https://carmera.zoom.us/u/almlpa70F
+```
+
 
 Reminder about some other cool open source and/or geo-related meetups in the area:
 
