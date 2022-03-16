@@ -18,19 +18,22 @@ Here you can find Martin's blog, aka [Dr.JTS (Java topology Suite)](http://lin-e
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-02-16-cugos_monthly.md) or reach out to hello@cugos.org
 
-## Meeting details will be posted here
+## Meeting details:
 
 For today we have a different link and online service (for logistical reasons):
 
 **Please connect via your browser to [https://join.me/terragisltd](https://join.me/terragisltd)**
 
-Note: in case you have any trouble connecting, optionally a desktop client can be downloaded (just like with zoom, gotomeeting and any other services each have their own)
+**Note: Overall there is absolutely no need to use the desktop client or even sign up for an account in order to connect !**
+
+However, in case you have any trouble connecting, optionally a desktop client can be downloaded 
+(just like the case with zoom, gotomeeting and any other services which each have their own)
 
 [for Windows](https://secure.join.me/Download.aspx?installer=win)
 
 [for Mac](https://secure.join.me/Download.aspx?installer=mac&webdownload=true)
 
-**There is absolutely no need to use the desktop client or even sign up for an account in order to connect !**
+
 
 ---
 
