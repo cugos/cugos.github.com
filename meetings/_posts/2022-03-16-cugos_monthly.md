@@ -20,19 +20,7 @@ Here you can find Martin's blog, aka [Dr.JTS (Java topology Suite)](http://lin-e
 
 ## Meeting details:
 
-For today we have a different link and online service (for logistical reasons):
-
-**Please connect via your browser to [https://join.me/terragisltd](https://join.me/terragisltd)**
-
-**Note: Overall there is absolutely no need to use the desktop client or even sign up for an account in order to connect !**
-
-However, in case you have any trouble connecting, optionally a desktop client can be downloaded 
-(just like the case with zoom, gotomeeting and any other services which each have their own)
-
-[for Windows](https://secure.join.me/Download.aspx?installer=win)
-
-[for Mac](https://secure.join.me/Download.aspx?installer=mac&webdownload=true)
-
+removed after meeting
 
 
 ---
