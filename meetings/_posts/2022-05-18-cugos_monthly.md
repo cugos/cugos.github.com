@@ -19,7 +19,8 @@ notes:
 
 ## Meeting details:
 
-We will use Google Meet for this meeting:  https://meet.google.com/hos-nknh-itt
+We will use Google Meet for this meeting:  [https://meet.google.com/hos-nknh-itt](https://meet.google.com/hos-nknh-itt)
+
 ...and are working on finding a space to resume in-person meetings, hopefully that will happen in June!
 
 
