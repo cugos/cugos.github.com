@@ -18,7 +18,7 @@ Real in person Meeting !
 
 **We** will disucss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings .
 
-**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introuduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-10-19-cugos_monthly.md) or reach out to us hello@cugos.org
+**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-10-19-cugos_monthly.md) or reach out to us hello@cugos.org
 
 ## Location
 
