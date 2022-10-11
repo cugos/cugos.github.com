@@ -8,7 +8,7 @@ excerpt: October 19th 2022 CUGOS Monthly Meeting
 lat:  47.6229
 lng: -122.3224
 category: meetings
-notes: Will find a near by bar/pub to socialize after our meeting has concluded ! Sorry no virtual access for this meeting for now, but as promiosed we will work hard to make this happen too in the future
+notes: Will find a near by bar/pub to socialize after our meeting has concluded ! Sorry no virtual access for this meeting for now, but as promised we will work hard to make this happen in the near future
 ---
 Real in person Meeting !
  
