@@ -14,6 +14,8 @@ Real in person Meeting !
  
 **[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will talk about map feature styles in QGIS. E.g. how to create a style library, create legend icons/shapes, how to share styles, and will also take a brief look into the QGIS 'style generator' awsomeness.
 
+Karsten will also share his experimental work on trying to produce better hillshades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/) . We can have an open discussion about tools and approaches others are taking for hillshades ...
+
 **Anyone** interested is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **We** will disucss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings .
