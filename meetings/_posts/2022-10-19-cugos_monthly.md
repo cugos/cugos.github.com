@@ -38,13 +38,14 @@ We had a nice meeting and great social geobeers afterwards. This feels great tha
 3. QGIS 'style generator'
 
      This is a style that can be applied to layers and can generate and alter geometries for visual display
-     QGIS projects with data and examples zipped
+     
+     *QGIS projects with data and examples zipped*
 
-    [Serveral General Purpose Styles - Seattle Tracts Map](http://www.terragis.net/docs/cugos/qgis_geometry_generator/geom_gen.zip)
+     [Serveral General Purpose Styles - Seattle Tracts Map](http://www.terragis.net/docs/cugos/qgis_geometry_generator/geom_gen.zip)
 
-    [CAD Style dimensions on features](http://www.terragis.net/docs/cugos/qgis_geometry_generator/dimensions.zip)
+     [CAD Style dimensions on features](http://www.terragis.net/docs/cugos/qgis_geometry_generator/dimensions.zip)
 
-    [Halftone Elevation Points World map](http://www.terragis.net/docs/cugos/qgis_geometry_generator/HalftoneElevationPoints.zip)
+     [Halftone Elevation Points World map](http://www.terragis.net/docs/cugos/qgis_geometry_generator/HalftoneElevationPoints.zip)
 
 ### Creation of Nicer Hill Shades
 Inspired by [The Wandering Cartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/)
