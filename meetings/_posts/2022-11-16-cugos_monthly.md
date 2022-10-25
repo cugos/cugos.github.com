@@ -10,7 +10,8 @@ lng: -122.3224
 category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded ! Sorry no virtual access for this meeting for now, but as promised we will work hard to make this happen in the near future
 ---
-Real in person Meeting !
+ 
+**[Peter Keum](https://github.com/keum)** will fill us in and summarize his recent visit to the [NACIS 2022 Conference](https://nacis2022.sched.com/). Be ready for some pointers in regards to nice catrography, tips & ticks, and more ...
  
 **[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on his experimental work on trying to produce better hillshades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/) ...
 
