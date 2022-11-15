@@ -11,13 +11,12 @@ category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded ! Sorry no virtual access for this meeting for now, but as promised we will work hard to make this happen in the near future
 ---
  
-**[Peter Keum](https://github.com/keum)** will fill us in and summarize his recent visit to the [NACIS 2022 Conference](https://nacis2022.sched.com/). Be ready for some pointers in regards to nice cartography, tips & ticks, and more ...
- 
-**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on his experimental work on trying to produce better hillshades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/) ...
+**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on his experimental work on trying to produce better hillshades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/)
+Karsten will also show an easy way to get familiar with gdal/ogr commands and advantage of these awsome tools for batch processing of raster and vector data.
 
 **Anyone** interested is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
-**We** will disucss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings .
+**We** will disucss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings. Big news is that with the help of **[Peter Keum](https://github.com/keum)** we have secured a venue at UW and are currently finalizing setting a date for April 2023. Next steps will be cordinating settings upa program (call fro presnetations), contact sponsors ...
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-10-19-cugos_monthly.md) or reach out to us hello@cugos.org
 
