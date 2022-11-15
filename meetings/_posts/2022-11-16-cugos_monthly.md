@@ -17,9 +17,9 @@ Karsten will also show an easy way to get familiar with gdal/ogr commands and sh
 
 **We** can collect input from participants (e.g. on the white board) about any projects/topics people are working on, and possible challenges they are facing. A group discussion can help everyone to learn (new) workflows, approaches and tools others are using.
 
-**We** will disucss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings. Big news is that with the help of **[Peter Keum](https://github.com/keum)** we have secured a venue at UW and are currently finalizing setting a date for April 2023. Next steps will be coordinating setting up a program (call for presentations), contacting sponsors etc.
+**We** will discuss plans for hosting a Spring Fling (mini conference) event in April 2023, and plan ahead for our next meetings. Big news is that with the help of **[Peter Keum](https://github.com/keum)** we have secured a venue at UW and are currently finalizing setting a date for April 2023. Next steps will be setting up a program (call for presentations), contacting sponsors etc.
 
-**Anyone** interested is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
+**Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2022-10-19-cugos_monthly.md) or reach out to us hello@cugos.org
 
