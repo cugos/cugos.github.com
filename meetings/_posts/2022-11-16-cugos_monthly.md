@@ -11,7 +11,7 @@ category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded ! Sorry no virtual access for this meeting for now, but as promised we will work hard to make this happen in the near future
 ---
  
-**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on his experimental work on trying to produce better hillshades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/)
+**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on his experimental work on trying to produce better hill shades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/)
 
 Karsten will also show an easy way to get familiar with gdal/ogr commands and show how one can take advantage of these awsome tools for batch processing of raster and vector data.
 
