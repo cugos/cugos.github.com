@@ -8,13 +8,12 @@ excerpt: December 21st 2022 CUGOS Monthly Meeting
 lat:  
 lng: 
 category: meetings
-notes: 
+notes: Last CUGOS meeting of the year - informal
 ---
  
 Join us for Holiday GeoBeers (joint with Seattle Maptime group) in a casual setting at Optimism Brewing Company (Capitol Hill near the intersection of Broadway and E Union) for some 'GeoBeers' !
 
-What to expect
-Good times with fellow mappers! Geo and non-geo talk!
+What to expect: Good times with fellow mappers! Geo and non-geo talk!
 
 What to bring:
 Yourself!
