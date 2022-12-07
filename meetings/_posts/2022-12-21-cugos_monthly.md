@@ -5,17 +5,17 @@ location: Optimism Brewing Company
 address: 1158 Broadway · Seattle, WA
 time: 6:00pm-8:00pm
 excerpt: December 21st 2022 CUGOS Monthly Meeting
-lat:  
-lng: 
+lat:  47.61296
+lng: -122.32052
 category: meetings
 notes: Last CUGOS meeting of the year - informal
 ---
  
 Join us for Holiday GeoBeers (joint with Seattle Maptime group) in a casual setting at Optimism Brewing Company (Capitol Hill near the intersection of Broadway and E Union) for some 'GeoBeers' !
 
-What to expect: Good times with fellow mappers! Geo and non-geo talk!
+**What to expect:** Good times with fellow mappers! Geo and non-geo talk!
 
-What to bring:
+**What to bring:**
 Yourself!
 
 We are looking forward to reconnecting with old friends and making new ones!
