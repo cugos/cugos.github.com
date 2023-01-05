@@ -19,6 +19,8 @@ notes: Zoom meeting details forthcoming
 
 ## Board Election results
 
+This was posted after the meeting for record keeping:
+
 Karsten Vennemann, Ranek Kiil and Brendan Farrell volunteered to be elected to the CUGOS board for the year 2022. In a membership vote all meeting participants (12 members) voted and unanimously accepted the three volunteers. Actual board positions will be determined in the next board meeting (in February).
 
 ## Zoom Connection details will be posted here
