@@ -10,10 +10,9 @@ lng: -122.3224
 category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded !
 ---
- 
-**We** can collect input from participants (e.g. on the white board) about any projects/topics people are working on, and possible challenges they are facing. A group discussion can help everyone to learn (new) workflows, approaches and tools others are using.
-
 **We** will have the '23 CUGOS board elections and dive into discussing plans for our two day Spring Fling (mini conference) event on April 21/22 2023, and plan ahead for our next meetings. 
+
+**We** can collect input from participants (e.g. on the white board) about any projects/topics people are working on, and possible challenges they are facing. A group discussion can help everyone to learn (new) workflows, approaches and tools others are using.
 
 **[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** will give an update on a QGIS map of his bike travels (and his experimental work on trying to produce better hill shades for cartography purposes [inspired by wanderingcartographer](https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/)
 
