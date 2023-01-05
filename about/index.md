@@ -30,7 +30,8 @@ Bylaws
 
 Current CUGOS board 
 =======
-(Elected on January 19th 2022, board positions determined in board meeting on Feb 9th 2022)
+Elected on January 19th 2022, board positions determined in [board meeting on Feb 9th 2022](https://cugos.org/notes/2022-02-09/)
+
 * President - [Karsten Vennemann](https://www.osgeo.org/member/vennemann/)
 * Vice President - Matt Stevenson 
 * Secretary - Brendan Farrell
