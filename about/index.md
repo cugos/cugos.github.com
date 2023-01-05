@@ -28,6 +28,14 @@ Bylaws
 =======
 * [Current Bylaws](bylaw/cugos_bylaws_2016.pdf){:target="_blank"}
 
+Current CUGOS board 
+=======
+(Elected on January 19th 2022, board positions determined in board meeting on Feb 9th 2022)
+* President - [Karsten Vennemann](https://www.osgeo.org/member/vennemann/)
+* Vice President - Matt Stevenson 
+* Secretary - Brendan Farrell
+* Treasurer - Ranek Kiil 
+
 Incorporation Documents
 =======
 * [Articles of Incorporation](inc/articles_of_incorporation.pdf){:target="_blank"}  
