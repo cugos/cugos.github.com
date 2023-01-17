@@ -17,6 +17,8 @@ This conference is a great opportunity to:
 We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register-url: "https://cugos.org"
+
+
 markers:
   -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
