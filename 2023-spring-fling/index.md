@@ -10,7 +10,7 @@ markers:
     lat: 47.653033
     lng: -122.305169
     icon: star
-    color: "#063970"
+    color: "#659948"
 schedule:
  -
     type: title
