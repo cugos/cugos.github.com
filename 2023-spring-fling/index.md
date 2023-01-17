@@ -27,6 +27,12 @@ markers:
 schedule:
  -
     type: title
+    title: Doors Open, <em>Steve & Heather Singh Gallery, 4th Floor Foyer</em>
+    time: 8:00 AM
+    Description: |
+      Sign in, get a name-tag, drink coffee, eat donuts, and meet new people.
+ -
+    type: title
     title: Geo-floodgates aka Doors Open, <em>Steve & Heather Singh Gallery, 4th Floor Foyer</em>
     time: 8:00 AM
     Description: |
