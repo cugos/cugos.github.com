@@ -14,7 +14,7 @@ notes: Will find a near by bar/pub to socialize after our meeting has concluded 
 
 **We** can collect input from participants (e.g. on the white board) about any projects/topics people are working on, and possible challenges they are facing. A group discussion can help everyone to learn (new) workflows, approaches and tools others are using.
 
-**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** talk about (semti-)automating data import from shape files to [PostGIS](http://www.postgis.net/) with [Bash shell scripts](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and a bit of Python (plus along the way write some configuration files to serve the data as [MapServer](https://mapserver.org/) WMS layers )
+**[Karsten Vennemann](https://www.linkedin.com/in/karstenvennemann/)** talk about (semi-)automating data import from shape files to [PostGIS](http://www.postgis.net/) with [Bash shell scripts](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and a bit of Python (plus along the way write some configuration files to serve the data as [MapServer](https://mapserver.org/) WMS layers )
 
 **[Lisa Enns](https://www.ennsanalytics.com)** will talk about using OSM and QGIS network analysis to discover what amenities are available within 15 minutes via shared and nonmotorized transportation.
 
