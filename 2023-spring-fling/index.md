@@ -1,5 +1,5 @@
 ---
-layout: event-2019
+layout: event-2023
 title: "2023 Spring Fling"
 event_date: "Friday April 21st and Saturday April 22nd 2023"
 event_time: "8:30 AM - 5:00 PM"
