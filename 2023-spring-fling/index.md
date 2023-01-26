@@ -1,7 +1,7 @@
 ---
 layout: event-2023
 title: "2023 Spring Fling"
-event_date: "Friday April 21st and Saturday April 22nd 2023"
+event_date: "Friday April 21st (main conference) and Saturday April 22nd (OSgeo and OSM Hackathon) 2023"
 event_time: "8:30 AM - 5:00 PM"
 event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting one-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region."
 markers:
