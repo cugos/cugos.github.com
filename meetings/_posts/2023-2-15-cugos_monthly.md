@@ -1,12 +1,12 @@
 ---
 layout: meeting
 title: February 15th 2023
-location: Capitol Hill Library Branch
-address: 425 Harvard Ave. E., Seattle, WA 98102
+location: West Seattle Library Branch
+address: 2306 42nd Ave. S.W. , Seattle, WA 98116
 time: 6:00pm-7:30pm
 excerpt: January 15th 2023 CUGOS Monthly Meeting
-lat:  47.6229
-lng: -122.3224
+lat:  47.5826
+lng: -122.3848
 category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded !
 ---
