@@ -10,7 +10,8 @@ lng: -122.3848
 category: meetings
 notes: Will find a near by bar/pub to socialize after our meeting has concluded !
 ---
-**We** will de discussing plans for our two day Spring Fling (mini conference) event on April 21/22 2023, and plan ahead for our next meetings. 
+**We** will de discussing plans for our two day Spring Fling (mini conference) event on April 21/22 2023, and plan ahead for our next meetings. The evolving event web page is at https://cugos.org/2023-spring-fling/ , a  Google form for CUGOS Spring Fling 2023 "Call for Proposals" is at 
+
 
 **We** can collect input from participants (e.g. on the white board) about any projects/topics people are working on, and possible challenges they are facing. A group discussion can help everyone to learn (new) workflows, approaches and tools others are using.
 
