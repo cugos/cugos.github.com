@@ -31,7 +31,6 @@ schedule:
     time: 8:30 AM
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
-
  -
     type: title
     title: Welcome, <em>Room TBD</em>
@@ -39,7 +38,6 @@ schedule:
     speaker: CUGOS volunteers
     description: |
         Welcome to the 2023 Spring Fling.
- 
  -
     type: Talk
     slides: 
@@ -50,14 +48,12 @@ schedule:
       TBD.
     description: |
         TBD.
-
  -
     type: title
     title: Day 2: Saturday April 22nd 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
         OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/>OpenSidewalks Project</a>. More information to be added here soon.
-
 event_sponsors_platinum:
   -
     image: /image/2023springfling/sponsor-inrix.png
@@ -67,24 +63,20 @@ event_sponsors_platinum:
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
     width: 192px
     link: https://www.osgeo.org
-
 event_sponsors_gold:
   -
     image: /image/2023springfling//image/2023springfling/sponsor-mgn.png
     width: 250px
     link: https://mgn.energy/
-
 event_sponsors_silver:
   -
     image: /image/2023springfling//image/2023springfling/sponsor-locatepress.png
     width: 250px
     link: https://mgn.energy/
-
   -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
     width: 192px
     link: https://www.osgeo.org
-
 event_sponsors_comm:
   -
     image: /image/2023springfling/sponsor-coregis.png
@@ -97,6 +89,5 @@ event_sponsors_comm:
   -
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 199px
-    link:  https://www.clockworkmicro.com7
-
+    link:  https://www.clockworkmicro.com
 ---
