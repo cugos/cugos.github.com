@@ -44,7 +44,7 @@ schedule:
     slides: 
     title: TBD, <em>Room TBD</em>
     time: 9:15 AM
-    speaker: TBD. Spoiler alert: it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
+    speaker: TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
     bio: |
       TBD.
     description: |
