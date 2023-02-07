@@ -26,7 +26,7 @@ schedule:
         If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
         <a href=" https://cugos.org/2017-spring-fling/">2017 Spring Fling</a> 
         <a href=" https://cugos.org/2019-fall-fling/">2019 Fall Fling</a> 
--
+ -
     type: title
     title: Geo-floodgates (aka doors) Open, <em></em>
     time: 8:30 AM
@@ -56,39 +56,40 @@ schedule:
     description: |
         OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/>OpenSidewalks Project</a>. More information to be added here soon.
 event_sponsors_platinum:
-  -
+ -
     image: /image/2023springfling/sponsor-inrix.png
     width: 250px
     link: http://inrix.com/
-  -
+ -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
     width: 192px
     link: https://www.osgeo.org
 event_sponsors_gold:
-  -
+ -
     image: /image/2023springfling//image/2023springfling/sponsor-mgn.png
     width: 250px
     link: https://mgn.energy/
 event_sponsors_silver:
-  -
+ -
     image: /image/2023springfling//image/2023springfling/sponsor-locatepress.png
     width: 250px
     link: https://mgn.energy/
-  -
+ -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
     width: 192px
     link: https://www.osgeo.org
 event_sponsors_comm:
-  -
+ -
     image: /image/2023springfling/sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
-  -
+ -
     image: /image/2023springfling/sponsor-terragis.png
     width: 260px
     link: http://www.terragis.net/       
-  -
+ -
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 199px
     link:  https://www.clockworkmicro.com
+
 ---
