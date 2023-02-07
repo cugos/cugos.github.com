@@ -4,7 +4,7 @@ title: "2023 Spring Fling"
 event_date: "Friday April 21st (main conference) and Saturday April 22nd (OSM Hackathon-OpenSidewalks Project) 2023"
 event_time: "8:30 AM - 4:00 PM"
 event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region. This page is describing the CUGOS part of the conference, note that it is jointly held in the same building and time as the 2023 <em>Open the Paths Conference</em>."
-event_register-url: "https://www.eventbrite.com/e/534136455517/preview/"
+event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
 markers:
   -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
@@ -19,7 +19,7 @@ schedule:
     time: 8:30 AM - 4:00 pm
     description: |
         We are currently putting together the program. If you are interested in giving a presentation head over to our
-        <a href="http://blog.cleverelephant.ca">"Call for proposals"</a> page. Note in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project).
+        <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1">"Call for proposals"</a> page. Note in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project).
         The final program will be announced here on April 21st. 
         
         If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
