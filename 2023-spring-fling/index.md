@@ -23,12 +23,10 @@ schedule:
         <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1">"Call for proposals"</a> page. Note in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project).
         The final program will be announced here on April 21st. 
         
-        If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
-        <a href=" https://cugos.org/2017-spring-fling/">2017 Spring Fling</a> 
-        <a href=" https://cugos.org/2019-fall-fling/">2019 Fall Fling</a> 
+        If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:  <a href=" https://cugos.org/2017-spring-fling/">2017 Spring Fling</a> and the <a href=" https://cugos.org/2019-fall-fling/">2019 Fall Fling</a> 
  -
     type: title
-    title: Geo-floodgates (aka doors) Open, <em></em>
+    title: Geo-floodgates (aka doors) Open
     time: 8:30 AM
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
@@ -45,38 +43,45 @@ schedule:
     title: TBD, <em>Room TBD</em>
     time: 9:15 AM
     speaker: TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
-    bio: |
-      TBD.
+    bio: |      
     description: |
-        TBD.
+ -
+    type: title
+    title: Friday Event Ends
+    time: 4:00 PM
  -
     type: title
     title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
         OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/>OpenSidewalks Project</a>. More information to be added here soon.
+ -
+    type: title
+    title: Saturday Event Ends
+    time: 4:00 PM
+
 event_sponsors_platinum:
  -
     image: /image/2023springfling/sponsor-inrix.png
-    width: 250px
+    width: 200px
     link: http://inrix.com/
  -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 192px
+    width: 180px
     link: https://www.osgeo.org
 event_sponsors_gold:
  -
-    image: /image/2023springfling//image/2023springfling/sponsor-mgn.png
+    image: /image/2023springfling/sponsor-mgn.png
     width: 250px
     link: https://mgn.energy/
 event_sponsors_silver:
  -
-    image: /image/2023springfling//image/2023springfling/sponsor-locatepress.png
+    image: /image/2023springfling/sponsor-locatepress.png
     width: 250px
     link: https://mgn.energy/
  -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 192px
+    width: 180px
     link: https://www.osgeo.org
 event_sponsors_comm:
  -
