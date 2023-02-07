@@ -16,7 +16,7 @@ markers:
 schedule:
  -
     type: title
-    title: Day 1: Friday April 21st 2023, <em>Room TBD</em>
+    title: Day 1 - Friday April 21st 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
         We are currently putting together the program. If you are interested in giving a presentation head over to our
@@ -51,7 +51,7 @@ schedule:
         TBD.
  -
     type: title
-    title: Day 2: Saturday April 22nd 2023, <em>Room TBD</em>
+    title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
         OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/>OpenSidewalks Project</a>. More information to be added here soon.
