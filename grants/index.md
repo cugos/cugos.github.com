@@ -1,6 +1,6 @@
 ---
 layout: about
-title: CUGOS Grants
+title: Grants
 weight: 7
 sidebar:
   - contact

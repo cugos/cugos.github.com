@@ -3,7 +3,7 @@ layout: event-2023
 title: "2023 Spring Fling"
 event_date: "Friday April 21st (main conference) and Saturday April 22nd (OSM Hackathon-OpenSidewalks Project) 2023"
 event_time: "8:30 AM - 4:00 PM"
-event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region. This page is describing the CUGOS part of the conference, note that it is jointly held in the same building and time as the 2023 <em>Open the Paths Conference</em>."
+event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region. This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
 markers:
@@ -28,8 +28,10 @@ schedule:
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
     time: 8:30 AM
+    speaker: CUGOS volunteers  
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
+
  -
     type: title
     title: Welcome, <em>Room TBD</em>
@@ -42,7 +44,7 @@ schedule:
     slides: 
     title: TBD, <em>Room TBD</em>
     time: 9:15 AM
-    speaker: TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
+    speaker: Keynote talk TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
     bio: |      
     description: |
  -
@@ -55,6 +57,7 @@ schedule:
     time: 8:30 AM - 4:00 pm
     description: |
         OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/>OpenSidewalks Project</a>. More information to be added here soon.
+ 
  -
     type: title
     title: Saturday Event Ends
@@ -67,7 +70,7 @@ event_sponsors_platinum:
     link: http://inrix.com/
  -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 180px
+    width: 120px
     link: https://www.osgeo.org
 event_sponsors_gold:
  -
@@ -77,11 +80,11 @@ event_sponsors_gold:
 event_sponsors_silver:
  -
     image: /image/2023springfling/sponsor-locatepress.png
-    width: 250px
+    width: 160px
     link: https://mgn.energy/
  -
     image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 180px
+    width: 120px
     link: https://www.osgeo.org
 event_sponsors_comm:
  -
@@ -90,7 +93,7 @@ event_sponsors_comm:
     link: http://coregis.net/
  -
     image: /image/2023springfling/sponsor-terragis.png
-    width: 260px
+    width: 240px
     link: http://www.terragis.net/       
  -
     image: /image/2023springfling/sponsor-clockworkmirco.png
