@@ -74,11 +74,12 @@ event_sponsors_gold:
     image: /image/2023springfling/sponsor-mgn.png
     width: 250px
     link: https://mgn.energy/
+
 event_sponsors_silver:
  -
     image: /image/2023springfling/sponsor-locatepress.png
     width: 160px
-    link: https://mgn.energy/
+    link: https://locatepress.com/
 
 event_sponsors_comm:
  -
