@@ -21,7 +21,7 @@ schedule:
     description: |
         We are currently putting together the program. If you are interested in giving a presentation head over to our
         <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1">"Call for proposals"</a> page. Note in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project).
-        The final program will be announced here on April 21st. 
+        The final program will be announced here on March 21st. 
         
         If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:  <a href="https://cugos.org/2017-spring-fling/">2017 Spring Fling</a> and the <a href="https://cugos.org/2019-fall-fling/">2019 Fall Fling</a>.
  -
@@ -48,6 +48,13 @@ schedule:
     bio: |      
     description: |
  -
+    type: title
+    title: TBD, <em>Room TBD</em
+    time: 9:45 AM
+    speaker: All talks TBD  
+    Description: |
+      If you are interested in giving a presentation head over to our <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1">"Call for proposals"</a> page. Note in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. 
+-
     type: title
     title: Friday Event Ends
     time: 4:00 PM
