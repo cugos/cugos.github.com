@@ -7,7 +7,7 @@ event_description: "Please join CUGOS, the UW Taskar Center for Accessible Techn
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
 markers:
-  -
+ -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
     lat: 47.653033
     lng: -122.305169
@@ -20,7 +20,11 @@ schedule:
     time: 8:30 AM - 4:00 pm
     description: |
         We are currently putting together the program. If you are interested in giving a presentation head over to our
-        <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1"><em>Call for proposals</em></a> page. Note that in case we would have an overwhelming number of submissions we might add a CUGOS presentation track to Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:  <a href="https://cugos.org/2017-spring-fling/">2017 Spring Fling</a> and the <a href="https://cugos.org/2019-fall-fling/">2019 Fall Fling</a>.
+        <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1"><em>Call for proposals</em></a> page. Note that in case we would have an overwhelming number of submissions we might add a CUGOS presentation track to Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
+        <ul>
+          <li><a href="https://cugos.org/2017-spring-fling/">2017 Spring Fling</a></li> 
+          <li><a href="https://cugos.org/2019-fall-fling/">2019 Fall Fling</a></li>
+        </ul>
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
@@ -43,7 +47,7 @@ schedule:
     speaker: Keynote talk TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
     bio: |      
     description: |
--
+ -
     type: title
     title: Friday Event Ends
     time: 4:00 PM
