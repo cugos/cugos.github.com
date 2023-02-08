@@ -33,7 +33,7 @@ schedule:
     title: Welcome, <em>Room TBD</em>
     time: 9:00 AM
     speaker: CUGOS volunteers
-    description: |
+    Description: |
         Welcome to the 2023 Spring Fling.
  -
     type: Talk
@@ -43,13 +43,6 @@ schedule:
     speaker: Keynote talk TBD. Spoiler alert - it looks like we might have <a href="http://blog.cleverelephant.ca">Paul Ramsey</a> on the hook for a keynote presentation.
     bio: |      
     description: |
- -
-    type: title
-    title: TBD, <em>Room TBD</em
-    time: 9:45 AM
-    speaker: All talks TBD  
-    Description: |
-      If you are interested in giving a presentation head over to our <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1">Call for proposals</a> page. Note that in case we would have an overwhelming number of submissions we might add a CUGOS presentation track on Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. 
 -
     type: title
     title: Friday Event Ends
