@@ -49,6 +49,14 @@ schedule:
     description: |
  -
     type: title
+    slides: 
+    title: All Talks TBD, <em>Room TBD</em>
+    time: 9:45 AM - 4:00 pm
+    speaker: TBD
+    bio: |      
+    description: |
+ -
+    type: title
     title: Friday Event Ends
     time: 4:00 PM
  -
