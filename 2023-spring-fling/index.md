@@ -68,10 +68,7 @@ event_sponsors_platinum:
     image: /image/2023springfling/sponsor-inrix.png
     width: 200px
     link: http://inrix.com/
- -
-    image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 120px
-    link: https://www.osgeo.org
+
 event_sponsors_gold:
  -
     image: /image/2023springfling/sponsor-mgn.png
@@ -82,10 +79,7 @@ event_sponsors_silver:
     image: /image/2023springfling/sponsor-locatepress.png
     width: 160px
     link: https://mgn.energy/
- -
-    image: https://www.osgeo.org/wp-content/uploads/cropped-osgeo-emblem-rgb-1-192x192.png
-    width: 120px
-    link: https://www.osgeo.org
+
 event_sponsors_comm:
  -
     image: /image/2023springfling/sponsor-coregis.png
