@@ -7,7 +7,7 @@ sidebar:
   - coc
 ---
 
-CUGOS Scholarship
+Scholarship
 =====
 
 ## We are in the process to establish a scholarship fund 
@@ -17,10 +17,10 @@ The overall idea is that each year CUGOS membership will vote to award one or mo
 
 The details of the award application process and selection of suitable students will need to be determined by the CUGOS board.
 
-CUGOS Open Source Software Development Grant
+OS Software Development Grant
 =======
 
-## We are in the process to establish a software development fund 
+## We are in the process to establish an open source software development fund 
 
 The details of this grant are still to be worked out and will need approval by the CUGOS board.
 The overall idea is that each year CUGOS membership will vote to award an Open Source Software Development Grant to suport sepcific, dedicated work in one or more for ongoing <a href"https://www.osgeo.org/projects/">OSGEO projects</a> (funding availaiblity permitting). 
