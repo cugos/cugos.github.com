@@ -6,10 +6,12 @@ event_time: "8:30 AM - 4:00 PM"
 event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Open Source Geospatial tools, data, and analysis in and beyond the Puget Sound region.
 This is the first post-pandemic CUGOS Fling, and will provide unprecedented opportunities for learning about open geospatial software and open data collaboration. The Spring Fling is designed for anyone with an interest in maps, open source software, or open data.
 This conference is a great opportunity to:
-+Learn about new mapping software
-+Find out how open geospatial tools can be used to solve a wide-range of real world problems
-+Discover how companies are integrating location into their products
-+Meet like-minded individuals using maps and data in new and exciting ways
+<ul>
+  <li>Learn about new mapping software</li> 
+  <li>Find out how open geospatial tools can be used to solve a wide-range of real world problems</li> 
+  <li>Discover how companies are integrating location into their products</li> 
+  <li>Meet like-minded individuals using maps and data in new and exciting ways</li> 
+</ul>
 We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
