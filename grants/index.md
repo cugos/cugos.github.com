@@ -13,7 +13,7 @@ Scholarship
 ## We are in the process of establishing a scholarship fund
 
 The details of this scholarship program are still being worked out and will need approval by the CUGOS board.
-The overall idea is that each year the CUGOS membership will vote to award one or more scholarship grants in support of ongoing <a href"https://www.osgeo.org/projects/">OSGEO projects</a> (based on funding availaiblity). Such projects might include but are not limited to:  QGIS, PostGIS, MapServer, GDAL/OGR and OpenLayers.
+The overall idea is that each year the CUGOS membership will vote to award one or more scholarship grants in support of ongoing <a href="https://www.osgeo.org/projects/">OSGEO projects</a> (based on funding availaiblity). Such projects might include but are not limited to:  QGIS, PostGIS, MapServer, GDAL/OGR and OpenLayers.
 
 The details of the scholarship application process and selection criteria for eligible students will be determined by the CUGOS board. Stay tuned for updates!
 
