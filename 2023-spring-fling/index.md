@@ -14,7 +14,8 @@ This conference is a great opportunity to:
 </ul>
 We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
-event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
+# event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
+event_register_soon: "Mark your calendars ! Registration will open on March 21st 2023"
 markers:
  -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
