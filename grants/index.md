@@ -20,7 +20,7 @@ The details of the scholarship application process and selection criteria for el
 OS Software Development Grant
 =======
 
-## We are in the process to establish an open source software development fund 
+## We are in the process of establishing an open source software development fund 
 
 The details of this scholarship program are still being worked out and will need approval by the CUGOS board.
 The overall idea is that each year CUGOS membership will vote to award an Open Source Software Development Grant to suport specific, dedicated work for one or more ongoing <a href="https://www.osgeo.org/projects/">OSGEO projects</a> (funding availablity permitting). 
