@@ -3,7 +3,14 @@ layout: event-2023
 title: "2023 Spring Fling"
 event_date: "Friday April 21st (main conference) and Saturday April 22nd (OSM Hackathon-OpenSidewalks Project) 2023"
 event_time: "8:30 AM - 4:00 PM"
-event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Pedestrian/Bike/Transit Access, Open Source Geospatial tools, data, and Social Justice in and beyond the Puget Sound region. This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
+event_description: "Please join CUGOS, the UW Taskar Center for Accessible Technology and local OpenStreetMap community for an exciting two-day meeting on Open Source Geospatial tools, data, and analysis in and beyond the Puget Sound region.
+This is the first post-pandemic CUGOS Fling, and will provide unprecedented opportunities for learning about open geospatial software and open data collaboration. The Spring Fling is designed for anyone with an interest in maps, open source software, or open data.
+This conference is a great opportunity to:
++Learn about new mapping software
++Find out how open geospatial tools can be used to solve a wide-range of real world problems
++Discover how companies are integrating location into their products
++Meet like-minded individuals using maps and data in new and exciting ways
+We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register-url: "https://cugos_spring_fling_2023_tickets.eventbrite.com"
 markers:
@@ -20,7 +27,7 @@ schedule:
     time: 8:30 AM - 4:00 pm
     description: |
         We are currently putting together the program. If you are interested in giving a presentation head over to our
-        <a href="https://docs.google.com/forms/d/1avaQk5vkQZ1AcP2JbCgrY4dvL5a8-EUd25IbjaA0Yas/edit?pli=1"><em>Call for proposals</em></a> page. Note that in case we would have an overwhelming number of submissions we might add a CUGOS presentation track to Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
+        <a href="https://forms.gle/fXFtj2hnG6PYyLuN9"><em>Call for proposals</em></a> page. In the event we receive an overwhelming number of submissions, we may add a CUGOS presentation track to Saturday April 22nd (which would run in parallel to the OSM Hackathon-OpenSidewalks Project). The final program will be announced here on March 21st. If in the meantime you are looking for inspiration on what to expect in our program you are welcome to check out the schedules of these previous CUGOS Fling events:
         <ul>
           <li><a href="https://cugos.org/2017-spring-fling/">2017 Spring Fling</a></li> 
           <li><a href="https://cugos.org/2019-fall-fling/">2019 Fall Fling</a></li>
