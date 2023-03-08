@@ -16,6 +16,8 @@ Our [Call for Presentations for the Spring Fling](https://forms.gle/fXFtj2hnG6PY
 
 **Matt Stevenson** will share a preview of his Spring Fling lightning talk about using R Studio to generate spatially balanced sampling sites for surveying the endangered Streaked Horned Lark in the Willamette Valley of Oregon.  
 
+**Karsten Vennemannn** will show a vareity of demos of a web mapping viewer (internally called *base viewer*) he has worked together with Eldan Goldenberg over the last 1.5 years that is based on Openlayers (compiled via Node package manager), MapServer and PostGIS.  
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
