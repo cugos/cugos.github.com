@@ -12,7 +12,7 @@ notes: We will adjourn to one of the many local breweries for a happy hour after
 ---
 **We** will de discussing plans for our two day Spring Fling (mini conference) event on April 21-22 2023, and plan ahead for our next meetings. The evolving event web page is at https://cugos.org/2023-spring-fling/.
 
-Our [Call for Presentations for the Spring Fling](https://forms.gle/fXFtj2hnG6PYyLuN9) is open until March 10. Please feel free to pass on to anyone you know who might want to give a talk!
+The official deadline for our [Call for Presentations for the Spring Fling](https://forms.gle/fXFtj2hnG6PYyLuN9) has passed on Friday March 10. However, if you have a topic you would want to present and need some extra days to submit an abstract just let us know. For the time being you can still submit proposals for talks/presentations via the web form. Please feel free to pass on to anyone you know who might want to give a talk!
 
 **Matt Stevenson** will share a preview of his Spring Fling lightning talk about using R Studio to generate spatially balanced sampling sites for surveying the endangered Streaked Horned Lark in the Willamette Valley of Oregon.  
 
