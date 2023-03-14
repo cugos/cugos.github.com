@@ -18,6 +18,8 @@ The official deadline for our [Call for Presentations for the Spring Fling](http
 
 **Karsten Vennemannn** will show a variety of live map demos (based on a web mapping viewer, internally called *base viewer*) he has worked on together with Eldan Goldenberg over the last 1.5 years. Base viewer is based on Openlayers (compiled via Node package manager), MapServer and PostGIS.  
 
+**Ivan Storck** will provide an update on the status of his work with [Washington Water Trails](https://www.wwta.org/water-trails/cascadia-marine-trail/) to update their maps and is seeking some ideas to help out this local non-profit. 
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
