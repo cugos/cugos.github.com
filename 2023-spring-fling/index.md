@@ -42,7 +42,7 @@ schedule:
     Description: |
         Welcome to the 2023 Spring Fling!
  -
-    type: Talk
+    type: Keynote
     slides: 
     title: I, For One, Welcome our New Overlords
     time: 9:10 AM
