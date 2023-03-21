@@ -26,18 +26,18 @@ schedule:
  -
     type: title
     title: Geo-floodgates aka doors open, come hell or high water
-    time: 8:30 - 9:00 AM
+    time: 8:30 AM
     room: Zillow
-    speaker:
+    speaker: All, Get a name tag, meet old and new friends, drink a coffee
     slides: 
     Description: |
         Get a name tag, meet old and new friends, drink a coffee
  -
     type: title
     title: Welcome
-    time: 9:00 - 9:10 AM
+    time: 9:00 AM
     room: Zillow
-    speaker: CUGOS volunteers
+    speaker: CUGOS volunteers, Welcome to the 2023 Spring Fling!
     slides: 
     Description: |
         Welcome to the 2023 Spring Fling!
@@ -45,7 +45,7 @@ schedule:
     type: Talk
     slides: 
     title: I, For One, Welcome our New Overlords
-    time: 9:10 - 9:40 AM
+    time: 9:10 AM
     room: Zillow
     speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
     bio: |
@@ -57,7 +57,7 @@ schedule:
     type: Talk
     slides: 
     title: Mapping 15-minute neighborhoods within Seattle
-    time: 9:40 - 10:00 AM
+    time: 9:40 AM
     room: Bezos
     speaker: Nathaniel Henry, <a href="https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a>
     bio: |
@@ -68,42 +68,55 @@ schedule:
  -
     type: Talk
     slides: 
-    title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
-    time: 10:00 - 10:20 AM
-    room: Zillow
-    speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
-    bio: |
-      I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
-    description: |
-      Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
-   
- -
- 
-    type: title
-    slides: 
-    title: "Break"
-    time: 10:20 - 10:30 AM
-    room:  Zillow
-    speaker: 
-    description: Short break, icebreakers with seatmates
- 
- -
-    type: Talk
-    slides: 
     title: The Allen Coral Atlas - monitoring coral reefs from space
-    time: 10:30 - 10:50 AM
+    time: 10:00 AM
     room: Bezos
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
      Eldan is a GIS consultant who mostly works on data processing and management pipelines using Python, PostGIS, GDAL and whatever else does the job.  He prioritises work with a clear positive social contribution, and his longest running project has been data ingestion and APIs for the Allen Coral Atlas.  Born in Istanbul, he spent many years in Southeastern England and Seattle, and now lives on Vancouver Island among the fishing grounds of the Songhees & Esquimalt First Nations.
     description: |
       The Allen Coral Atlas maps the world’s coral reefs and monitors their threats to provide actionable data and a shared understanding of coastal ecosystems.  Eldan will talk about the data inputs, how we process them and work with local researchers all over the world for QA, what we publish, and how it's used to serve real world conservation goals.
+ 
+ -
+ 
+    type: title
+    slides: 
+    title: "Break"
+    time: 10:20 AM
+    room:  Zillow
+    speaker: 
+    description: Short break, switch room
+    
+ -
+    type: Talk
+    slides: 
+    title: Big Data Techniques for Processsing Geospatial Trips and Derived Datasets at Scale
+    time: 10:30 AM
+    room: Bezos
+    speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
+    bio: |
+     Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions in transportation and mobility space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries. 
+    description: |
+      INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
+      
+ -
+    type: Talk
+    slides: 
+    title: Using Open Source software to create transportation trajectories
+    time: 10:50 AM
+    room: Bezos
+    speaker: Colleague of Trang , <a href="https://inrix.com/">Inrix</a>
+    bio: |
+     ABC is a XYZ at INRIX. She has worked. 
+    description: |
+      This talk gives an overview of.      
+ 
  -
  
     type: Lightning Talk
     slides: 
     title: A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles
-    time: 10:50 - 10:55 AM
+    time: 11:10 AM
     room: Bezos
     speaker: Diana Bonnarens, <a href="https://gis.usc.edu/online-programs/masters-geographic-information-science-and-technology/">University of Southern California</a>
     bio: |
@@ -115,7 +128,7 @@ schedule:
     type: Talk
     slides: 
     title: iSeaTree - Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
-    time: 10:55 AM - 11:15 AM
+    time: 11:15 AM
     room: Bezos
     speaker: Stephen Clemmer, <a href="https://www.democracylab.org/projects/502">iSeaTree / Democracy:Lab</a>
     bio: |
@@ -123,165 +136,23 @@ schedule:
     description: |
      iSeaTree' is a React-Native open source mobile application for helping new users identify, record, and track urban trees. It works with USFS’s iTree API to calculate the CO2, H2O, and air pollution benefits of USA & Canadian trees. In this presentation, Stephen will be introducing the recently released V4 app features which includes: a location-aware AI tool for identifying tree species, integration with the USFS iTreeAPI (which calculates tree benefits based on species, size, and location), and various game play features. 
   
- -
-   
+ -   
     type: Talk
     slides: 
     title: An interactive web based geo-spatial tool for Integration of urban Green and Blue Infrastructure
-    time: 11:15 - 11:35 AM
+    time: 11:35 AM
     room: Bezos
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
     description: |
       For the city of Stuttgart/Germany (and as a contribution to the nationally funded project INTERESS-I), a web-based tool has been developed that balances rain- and gray water drainage on the one hand, and vegetation water demand on the other. The tool combines GIS-balances of rain- and gray water harvest in a catchment area and a day-by-day calculation of water demand from different vegetation structures respective of local weather history, shading situation and soil water conditions. The tool shows the drought period length a specific water storage volume can bridge. Technically the tool implementation is based on OpenLayers, MapServer, GDAL, PHP, Python, R, and PostGIS.
- -
-    type: title
-    title: "Lunch"
-    time: 11:35 AM - 12:15 PM
-    speaker:
-    description:
- 
- -
- 
-    type: Talk
-    slides: 
-    title: Recent Development in JTS and GEOS
-    time: 12:15 - 12:35 PM
-    room: Bezos
-    speaker: Martin Davis, <a href="https://www.crunchydata.com/"></a>
-    bio: |
-     Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
-    description: |
-      This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
- -
- 
-    type: Lightning Talk
-    slides: 
-    title: QGIS with Python - Creating repeatable spatial analyses with limited python experience
-    time: 12:35 - 12:40 PM
-    room: Bezos
-    speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
-    bio: |
-     I’m a certified urban planner with over 15 years of experience in data analysis and visualization, with an emphasis on spatial data. In every job I’ve held, I became the default analyst for the team. From calculating energy efficiency savings at a manufacturing plant as a mechanical engineer to creating traffic safety infographics as an urban planner, data has always been my passion.
-    description: |
-      QGIS has a built-in python console that can be used with limited python knowledge. No separate python installation is needed. Spatial processes can be run using QGIS's GUI interface, and then copied to a python script to create repeatable, iterative processes in QGIS. This presentation will give you the basics you need to create python code and documentation that can be run reliably when inputs change, or sent to others for additional analysis.
- -
- 
-    type: Talk
-    slides: 
-    title: Cloud-optimized geo data formats and the Python ecosystem
-    time: 12:40 - 1:00 PM
-    room: Bezos
-    speaker: Emilio Mayorga, <a href="https://www.apl.uw.edu/">Applied Physics Laboratory, University of Washington</a>
-    bio: |
-     I am an environmental data scientist (or data engineer?) with a research background in oceanography and watershed science. I focus on systems, software and practices for the management and open dissemination of environmental data in marine and terrestrial applications. My work emphasizes collaborative approaches and tools (open source and open data) that engage diverse partners, and this work ranges from local (Pacific NW) to national and global applications.
-    description: |
-      Nowadays there are gobs of very large geospatial data of all sorts accessible in one form or another online. Many of us are both producers and consumers ourselves. But online accessibility alone doesn't necessarily translate to convenient, scalable access to data subsets; or fully leverage the potential of cloud-based processing. Also, data producers and distributors may face challenges in generating and hosting data in scalable and accessible formats, or even choosing such formats without having to adopt fully new tool sets. I will review the ecosystem of "cloud optimized" (or cloud native) geospatial formats that are gaining ground or have already done so, and discuss some of their common features that leverage web and cloud architectures. I will focus on data formats for analysis purposes rather than cartographic rendering proper, though  they're not mutually exclusive, strictly speaking. Finally, to make this much more tangible and because Python is what I do, I will discuss these formats in the context of Python libraries that support them, using live Jupyter notebook demos.
- 
- -
-    type: Talk
-    slides: 
-    title: Creating nicer hillshades for cartography using Raster Chunk Processing
-    time: 1:00 - 1:20 PM
-    room: Bezos
-    speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
-    bio: |
-     Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
-    description: |
-      Karsten will share his experimental work on trying to produce better hill shades for cartography purposes using Skymodels and a python utility called Raster Chunk Processing (RCP) https://gisjake.blogspot.com/2018/10/introducing-rasterchunkprocessingpy-aka.html. This talk is based and inspired by this post on wanderingcartographer: https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/
- -
-    type: title
-    slides: 
-    title: "Break"
-    time: 1:20 - 1:35 PM
-    room:  
-    speaker: 
-    description: Short break
- -
-    type: Talk
-    slides: 
-    title: PostGIS Fun Functions
-    time: 1:35 - 1:55 PM
-    room: Bezos
-    speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
-    bio: |
-     Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
-    description: |
-      There are literally hundreds of different spatial management and analysis functions in PostGIS, and it's impossible to talk about all of them, so this talk will focus on a few functions and query patterns, which you might not have seen before, but that you will definitely find useful!
- -
-    type: Talk
-    slides: 
-    title: Vector Tiles Directly from a PostGIS Database with db2vector
-    time: 1:55 - 2:15 PM
-    room: Bezos
-    speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
-    bio: |
-     I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
-    description: |
-      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox.
 
- -
-    type: Talk
-    slides: 
-    title: Using RStudio for Practical Geospatial Analysis
-    time: 2:15 - 2:35 PM
-    room: Bezos
-    speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
-    bio: |
-     I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
-    description: |
-      Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
-
- -
-    type: Lightning Talk
-    slides: 
-    title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
-    time: 2:35 - 2:40
-    room: Bezos
-    speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
-    bio: |
-      Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
-    description: |
-      The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.
- -
-    type: Talk
-    slides: 
-    title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
-    time: 2:40 - 3:00 PM
-    room: Bezos
-    speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
-    bio: |
-     Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
-    description: |
-      This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
- 
- -
- 
-    type: title
-    slides: 
-    title: "Break"
-    time: 3:00 - 3:15 PM
-    room:  
-    speaker: 
-    description: Short break
- 
- -
-    type: Talk
-    slides: 
-    title: Big Data Techniques for Processsing Geospatial Trips and Derived Datasets at Scale
-    time: 3:15 - 3:35 PM
-    room: Bezos
-    speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
-    bio: |
-     Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions in transportation and mobility space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries. 
-    description: |
-      INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
  -
     type: Lightning Talk
     slides: 
     title: From 2D to Spatial - My Data Journey and the Power of FOSS and Geospatial Technologies
-    time: 3:35 - 3:40 PM
+    time: 11:55 PM
     room: Bezos
     speaker: Kristen Narcisi, <a href="https://mgn.energy/">MicroGrid Networks LLC</a>
     bio: |
@@ -293,10 +164,148 @@ schedule:
       Today, as a data product manager at the same company, we continue to rely heavily on FOSS and geospatial technologies to monitor and understand the intricate NYC environmental/policy, real estate, and energy market. 
 
  -
+ 
+    type: Lightning Talk
+    slides: 
+    title: QGIS with Python - Creating repeatable spatial analyses with limited python experience
+    time: 12:00 PM
+    room: Bezos
+    speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
+    bio: |
+     I’m a certified urban planner with over 15 years of experience in data analysis and visualization, with an emphasis on spatial data. In every job I’ve held, I became the default analyst for the team. From calculating energy efficiency savings at a manufacturing plant as a mechanical engineer to creating traffic safety infographics as an urban planner, data has always been my passion.
+    description: |
+      QGIS has a built-in python console that can be used with limited python knowledge. No separate python installation is needed. Spatial processes can be run using QGIS's GUI interface, and then copied to a python script to create repeatable, iterative processes in QGIS. This presentation will give you the basics you need to create python code and documentation that can be run reliably when inputs change, or sent to others for additional analysis.
+      
+      
+ -
+    type: title
+    title: "Lunch"
+    time: 12:05 AM
+    speaker:
+    description:
+ 
+ -
+ 
+    type: Talk
+    slides: 
+    title: Recent Development in JTS and GEOS
+    time: 12:50 PM
+    room: Bezos
+    speaker: Martin Davis, <a href="https://www.crunchydata.com/"></a>
+    bio: |
+     Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
+    description: |
+      This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
+
+ -
+ 
+    type: Talk
+    slides: 
+    title: Cloud-optimized geo data formats and the Python ecosystem
+    time: 1:10 PM
+    room: Bezos
+    speaker: Emilio Mayorga, <a href="https://www.apl.uw.edu/">Applied Physics Laboratory, University of Washington</a>
+    bio: |
+     I am an environmental data scientist (or data engineer?) with a research background in oceanography and watershed science. I focus on systems, software and practices for the management and open dissemination of environmental data in marine and terrestrial applications. My work emphasizes collaborative approaches and tools (open source and open data) that engage diverse partners, and this work ranges from local (Pacific NW) to national and global applications.
+    description: |
+      Nowadays there are gobs of very large geospatial data of all sorts accessible in one form or another online. Many of us are both producers and consumers ourselves. But online accessibility alone doesn't necessarily translate to convenient, scalable access to data subsets; or fully leverage the potential of cloud-based processing. Also, data producers and distributors may face challenges in generating and hosting data in scalable and accessible formats, or even choosing such formats without having to adopt fully new tool sets. I will review the ecosystem of "cloud optimized" (or cloud native) geospatial formats that are gaining ground or have already done so, and discuss some of their common features that leverage web and cloud architectures. I will focus on data formats for analysis purposes rather than cartographic rendering proper, though  they're not mutually exclusive, strictly speaking. Finally, to make this much more tangible and because Python is what I do, I will discuss these formats in the context of Python libraries that support them, using live Jupyter notebook demos.
+ 
+ -
+    type: Talk
+    slides: 
+    title: PostGIS Fun Functions
+    time: 1:30 PM
+    room: Bezos
+    speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
+    bio: |
+     Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
+    description: |
+      There are literally hundreds of different spatial management and analysis functions in PostGIS, and it's impossible to talk about all of them, so this talk will focus on a few functions and query patterns, which you might not have seen before, but that you will definitely find useful!
+
+ -
+    type: title
+    slides: 
+    title: "Break"
+    time: 1:50 PM
+    room:  
+    speaker: 
+    description: Short break
+
+-
+    type: Talk
+    slides: 
+    title: Vector Tiles Directly from a PostGIS Database with db2vector
+    time: 2:00 PM
+    room: Bezos
+    speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
+    bio: |
+     I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
+    description: |
+      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox.
+
+ -
+    type: Talk
+    slides: 
+    title: Using RStudio for Practical Geospatial Analysis
+    time: 2:20 PM
+    room: Bezos
+    speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
+    bio: |
+     I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
+    description: |
+      Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
+
+ -
+    type: Talk
+    slides: 
+    title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
+    time: 2:40 PM
+    room: Bezos
+    speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
+    bio: |
+     Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
+    description: |
+      This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
+      
+ -
+    type: Lightning Talk
+    slides: 
+    title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
+    time: 3:00 PM
+    room: Bezos
+    speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
+    bio: |
+      Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
+    description: |
+      The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.     
+
+ -
+    type: Talk
+    slides: 
+    title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
+    time: 3:05 AM
+    room: Zillow
+    speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
+    bio: |
+      I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
+    description: |
+      Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
+
+ -
+ 
+    type: title
+    slides: 
+    title: "Break"
+    time: 3:00 PM
+    room:  
+    speaker: 
+    description: Short break
+ 
+ -
     type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
-    time: 3:40 - 4:00 PM
+    time: 3:40 PM
     room: Bezos
     speaker: Keenan Ganz, <a href="https://sites.uw.edu/rsgal">University of Washington RSGAL</a>
     bio: |
