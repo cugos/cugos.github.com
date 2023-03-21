@@ -180,7 +180,7 @@ schedule:
  -
     type: title
     title: "Lunch"
-    time: 12:05 AM
+    time: 12:05 PM
     speaker:
     description:
  
@@ -189,7 +189,7 @@ schedule:
     type: Talk
     slides: 
     title: Recent Development in JTS and GEOS
-    time: 12:50 PM
+    time: 12:55 PM
     room: Bezos
     speaker: Martin Davis, <a href="https://www.crunchydata.com/"></a>
     bio: |
@@ -202,7 +202,7 @@ schedule:
     type: Talk
     slides: 
     title: Cloud-optimized geo data formats and the Python ecosystem
-    time: 1:10 PM
+    time: 1:15 PM
     room: Bezos
     speaker: Emilio Mayorga, <a href="https://www.apl.uw.edu/">Applied Physics Laboratory, University of Washington</a>
     bio: |
@@ -214,7 +214,7 @@ schedule:
     type: Talk
     slides: 
     title: PostGIS Fun Functions
-    time: 1:30 PM
+    time: 1:35 PM
     room: Bezos
     speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
     bio: |
@@ -223,19 +223,10 @@ schedule:
       There are literally hundreds of different spatial management and analysis functions in PostGIS, and it's impossible to talk about all of them, so this talk will focus on a few functions and query patterns, which you might not have seen before, but that you will definitely find useful!
 
  -
-    type: title
-    slides: 
-    title: "Break"
-    time: 1:50 PM
-    room:  
-    speaker: 
-    description: Short break
-
- -
     type: Talk
     slides: 
     title: Vector Tiles Directly from a PostGIS Database with db2vector
-    time: 2:00 PM
+    time: 1:55 PM
     room: Bezos
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
     bio: |
@@ -244,10 +235,19 @@ schedule:
       We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox.
 
  -
+    type: title
+    slides: 
+    title: "Break"
+    time: 2:15 PM
+    room:  
+    speaker: 
+    description: Short break
+
+ -
     type: Talk
     slides: 
     title: Using RStudio for Practical Geospatial Analysis
-    time: 2:20 PM
+    time: 2:25 PM
     room: Bezos
     speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
     bio: |
@@ -259,7 +259,7 @@ schedule:
     type: Talk
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
-    time: 2:40 PM
+    time: 2:45 PM
     room: Bezos
     speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
     bio: |
@@ -271,7 +271,7 @@ schedule:
     type: Lightning Talk
     slides: 
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
-    time: 3:00 PM
+    time: 3:05 PM
     room: Bezos
     speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
     bio: |
@@ -283,7 +283,7 @@ schedule:
     type: Talk
     slides: 
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
-    time: 3:05 AM
+    time: 3:10 PM
     room: Zillow
     speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
     bio: |
@@ -292,26 +292,32 @@ schedule:
       Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
 
  -
- 
-    type: title
-    slides: 
-    title: "Break"
-    time: 3:10 PM
-    room:  
-    speaker: 
-    description: Short break
- 
- -
     type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
-    time: 3:20 PM
+    time: 3:30 PM
     room: Bezos
     speaker: Keenan Ganz, <a href="https://sites.uw.edu/rsgal">University of Washington RSGAL</a>
     bio: |
      Keenan Ganz (he/him) is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health. 
     description: |
       Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs. The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, has recently purchased state-of-the-art drones for use by all in the UW community. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography. This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
+      
+ -
+    type: title
+    title: Announcements and Conclusion!
+    time: 3:50 PM
+    room: Zillow
+    speaker: CUGOS volunteers, Annoucmenets and Conclusion!
+    slides: 
+    Description: |
+        Get a name tag, meet old and new friends, drink a coffee 
+        
+ -
+    type: title
+    title: Friday Event Ends
+    time: 4:00 PM        
+      
  -
     type: title
     title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
