@@ -347,6 +347,11 @@ event_sponsors_silver:
     width: 160px
     link: https://locatepress.com/
 
+ -
+    image: /image/2023springfling/sponsor-usgeocoder.png
+    width: 160px
+    link: https://usgeocoder.com/
+
 event_sponsors_comm:
  -
     image: /image/2023springfling/sponsor-coregis.png
