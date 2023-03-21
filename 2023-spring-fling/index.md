@@ -25,12 +25,12 @@ markers:
 schedule:
  -
     type: title
-    title: Welcome
-    time: 9:00 - 9:10 AM
+    title: Geo-floodgates aka doors open, come hell or high water
+    time: 8:30 - 9:00 AM
     room: Zillow
-    speaker: CUGOS volunteers
+    speaker: 
     Description: |
-        Welcome to the 2023 Spring Fling!
+        Get a name tag, meet old and new friends, drink a coffee
  -
     type: title
     title: Welcome
@@ -130,7 +130,7 @@ schedule:
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions. Karsten has been a frequent speaker at GIS conferences.
-      description: |
+    description: |
       For the city of Stuttgart/Germany (and as a contribution to the nationally funded project INTERESS-I), a web-based tool has been developed that balances rain- and gray water drainage on the one hand, and vegetation water demand on the other. The tool combines GIS-balances of rain- and gray water harvest in a catchment area and a day-by-day calculation of water demand from different vegetation structures respective of local weather history, shading situation and soil water conditions. The tool shows the drought period length a specific water storage volume can bridge. Technically the tool implementation is based on OpenLayers, MapServer, GDAL, PHP, Python, R, and PostGIS.
  -
     type: title
@@ -186,7 +186,7 @@ schedule:
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
     description: |
-     Karsten will share his experimental work on trying to produce better hill shades for cartography purposes using Skymodels and a python utility called Raster Chunk Processing (RCP) https://gisjake.blogspot.com/2018/10/introducing-rasterchunkprocessingpy-aka.html. This talk is based and inspired by this post on wanderingcartographer: https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/
+      Karsten will share his experimental work on trying to produce better hill shades for cartography purposes using Skymodels and a python utility called Raster Chunk Processing (RCP) https://gisjake.blogspot.com/2018/10/introducing-rasterchunkprocessingpy-aka.html. This talk is based and inspired by this post on wanderingcartographer: https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/
  -
     type: title
     slides: 
@@ -205,7 +205,7 @@ schedule:
     bio: |
      Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
     description: |
-     There are literally hundreds of different spatial management and analysis functions in PostGIS, and it's impossible to talk about all of them, so this talk will focus on a few functions and query patterns, which you might not have seen before, but that you will definitely find useful!
+      There are literally hundreds of different spatial management and analysis functions in PostGIS, and it's impossible to talk about all of them, so this talk will focus on a few functions and query patterns, which you might not have seen before, but that you will definitely find useful!
  -
     type: Talk
     slides: 
@@ -215,8 +215,8 @@ schedule:
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
     bio: |
      I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
-      description: |
-     We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox. 
+    description: |
+      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox. 
  -
     type: Lightning Talk
     slides: 
