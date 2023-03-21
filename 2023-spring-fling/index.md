@@ -22,8 +22,6 @@ markers:
     lng: -122.305169
     icon: star
     color: "#659948"
-
-
 schedule:
  -
     type: title
@@ -32,6 +30,15 @@ schedule:
     speaker: CUGOS volunteers  
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
+ -
+    type: title
+    title: Welcome
+    time: 9:00 - 9:10 AM
+    room: Zillow
+    speaker: CUGOS volunteers
+    Description: |
+        Welcome to the 2023 Spring Fling!
+ -
  -
     type: title
     title: Welcome
