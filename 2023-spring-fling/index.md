@@ -65,7 +65,7 @@ schedule:
     description: |
       I developed an interactive map of walking time to city amenities across every block of Seattle. In this talk, I will walk through a tutorial for creating a walking access map using FOSS and open data, then describe the public reaction to the map and its larger context in debates over the "15-minute city."
 
--
+ -
     type: Talk
     slides: 
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
