@@ -107,7 +107,7 @@ schedule:
     room: Bezos
     speaker: Steve Remias, <a href="https://inrix.com/">Inrix</a>
     bio: |
-     Revolutionizing Traffic Flow: Using Traffic Signal Performance Measures without Traditional Detection Methods
+     Steve Remias is currently the head of product strategy for signals at INRIX. Steve received his PhD from Purdue University and BSCE from Michigan State. Prior to joining INRIX he was an associate professor of civil engineering at Wayne State University in Detroit. His focus areas include traffic operations, probe vehicle data, traffic signal optimization, performance measurement, and using large data sets to solve transportation problems.
     description: |
       This talk will focus on improving traffic signals without using traditional detection methods by utilizing GPS data. The speaker will explain how Automated Traffic Signal Performance Measures (ATSPMs) can provide actionable insights about traffic conditions and signal timing, which can help optimize traffic flow. This approach has several benefits, including consistency, cost-effectiveness, and scalability.
       During the talk, a detection-free system using maps and GPS data will be covered to understand traffic flow. Additionally, the talk will discuss how maps can be used to graphically display solutions for engineers and practitioners, making information more accessible for those working in the transportation engineering and traffic management fields. The speaker will address challenges to this approach and provide practical solutions to overcome them. Real-world examples will be shared, providing valuable insights and practical knowledge.
