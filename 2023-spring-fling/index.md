@@ -182,7 +182,7 @@ schedule:
     title: Creating nicer hillshades for cartography using Raster Chunk Processing
     time: 1:00 - 1:20 PM
     room: Bezos
-    speaker:Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
+    speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions. Karsten has been a frequent speaker at GIS conferences. 
     description: |
@@ -196,12 +196,12 @@ schedule:
     speaker: 
     description: Short break
  -
-     type: Talk
+    type: Talk
     slides: 
     title: PostGIS Fun Functions
     time: 1:35 - 1:55 PM
     room: Bezos
-    speaker:Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
+    speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
     bio: |
      Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
     description: |
@@ -229,7 +229,7 @@ schedule:
     description: |
       The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.
  -
-     type: Talk
+    type: Talk
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
     time: 2:20 - 2:40 PM
@@ -240,7 +240,7 @@ schedule:
     description: |
       This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
  -
-     type: Talk
+    type: Talk
     slides: 
     title: Using RStudio for Practical Geospatial Analysis
     time: 2:40 - 3:00 PM
@@ -253,7 +253,7 @@ schedule:
  
  -
  
- type: title
+    type: title
     slides: 
     title: "Break"
     time: 3:00 - 3:15 PM
@@ -275,7 +275,7 @@ schedule:
  -
     type: Lightning Talk
     slides: 
-    title: From 2D to Spatial: My Data Journey and the Power of FOSS and Geospatial Technologies
+    title: From 2D to Spatial - My Data Journey and the Power of FOSS and Geospatial Technologies
     time: 3:35 - 3:40 PM
     room: Bezos
     speaker: Kristen Narcisi, <a href="https://mgn.energy/">MicroGrid Networks LLC</a>
@@ -283,12 +283,12 @@ schedule:
      Recent grad in Biomedical Informatics. Data Product Manager for renewable energy development company in NYC. 
     description: |
       As a student studying biomedical informatics, I was taught the importance of data-driven approaches to understanding and combatting disease outbreaks. However, I found that while we were taught how to translate data into simple graphs, we were not exposed to anything beyond that visually that would really bring the analysis to life. This sparked my interest in exploring geospatial analysis in my free time using the python library folium.
-     My journey into the world of GIS took off when I landed a research internship in the renewable energy sector. Here, I worked at a development company that leveraged FOSS and geospatial data to make better business decisions. This experience was eye-opening, and I found myself drawn to the power of spatial data analysis.
-     I seized the opportunity to write my dissertation on the spatial correlations between rezoned districts and remediation sites, tying in the significance of leveraging spatial data to public health. This research allowed me to gain valuable insights into how FOSS and geospatial technologies can be utilized to address complex real-world issues on a public/community level.
-     Today, as a data product manager at the same company, we continue to rely heavily on FOSS and geospatial technologies to monitor and understand the intricate NYC environmental/policy, real estate, and energy market. 
+      My journey into the world of GIS took off when I landed a research internship in the renewable energy sector. Here, I worked at a development company that leveraged FOSS and geospatial data to make better business decisions. This experience was eye-opening, and I found myself drawn to the power of spatial data analysis.
+      I seized the opportunity to write my dissertation on the spatial correlations between rezoned districts and remediation sites, tying in the significance of leveraging spatial data to public health. This research allowed me to gain valuable insights into how FOSS and geospatial technologies can be utilized to address complex real-world issues on a public/community level.
+      Today, as a data product manager at the same company, we continue to rely heavily on FOSS and geospatial technologies to monitor and understand the intricate NYC environmental/policy, real estate, and energy market. 
 
  -
-     type: Talk
+    type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
     time: 3:40 - 4:00 PM
@@ -297,17 +297,13 @@ schedule:
     bio: |
      Keenan Ganz (he/him) is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health. 
     description: |
-      Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs.
-     The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, has recently purchased state-of-the-art drones for use by all in the UW community. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography.
-     This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
-     
+      Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs. The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, has recently purchased state-of-the-art drones for use by all in the UW community. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography. This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
  -
- 
     type: title
     title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
-      OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. More information to be added here soon.
+      OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. More information to be added here soon.     
  -
     type: title
     title: Saturday Event Ends
