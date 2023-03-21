@@ -16,14 +16,19 @@ We welcome all students, professionals, map lovers, coders, and anyone with a pa
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
 event_register_soon: "Mark your calendars ! Registration will open on March 21st 2023"
 markers:
- -
+  -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
     lat: 47.653033
     lng: -122.305169
     icon: star
     color: "#659948"
-
 schedule:
+ -
+    type: title
+    title: Doors Open, <em>Steve & Heather Singh Gallery, 4th Floor Foyer</em>
+    time: 8:00 AM
+    Description: |
+      Sign in, get a name-tag, drink coffee, eat donuts, and meet new people.
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
