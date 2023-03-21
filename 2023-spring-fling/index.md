@@ -47,7 +47,7 @@ schedule:
     title: I, For One, Welcome our New Overlords
     time: 9:10 AM
     room: Zillow
-    speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
+    speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
       Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. 
     description: |
@@ -102,14 +102,14 @@ schedule:
  -
     type: Talk
     slides: 
-    title: Using Open Source software to create transportation trajectories
+    title: TBD
     time: 10:50 AM
     room: Bezos
     speaker: Colleague of Trang , <a href="https://inrix.com/">Inrix</a>
     bio: |
-     ABC is a XYZ at INRIX. She has worked. 
+     TBD. ABC is a XYZ at INRIX. She has worked. 
     description: |
-      This talk gives an overview of.      
+      TBD. This talk gives an overview of 123.      
  
  -
  
@@ -191,7 +191,7 @@ schedule:
     title: Recent Development in JTS and GEOS
     time: 12:55 PM
     room: Bezos
-    speaker: Martin Davis, <a href="https://www.crunchydata.com/"></a>
+    speaker: Martin Davis,  <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://lin-ear-th-inking.blogspot.com/">Blog</a>
     bio: |
      Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
     description: |
@@ -216,7 +216,7 @@ schedule:
     title: PostGIS Fun Functions
     time: 1:35 PM
     room: Bezos
-    speaker: Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
+    speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
      Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
     description: |
@@ -265,7 +265,7 @@ schedule:
     bio: |
      Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
     description: |
-      This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
+      This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: <a href="https://bit.ly/3kBn63l">Techniques for Processing Large Data Sets</a>" ) and 2012 ("<a href="https://bit.ly/3kygYcc">R, PostGIS, and Sweave: Reproducible Research</a>" ).
       
  -
     type: Lightning Talk
@@ -273,7 +273,7 @@ schedule:
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
     time: 3:05 PM
     room: Bezos
-    speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
+    speaker: Matt Stevenson, <a href="https://www.coregis.net">CORE GIS</a>
     bio: |
       Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
     description: |
