@@ -22,15 +22,15 @@ markers:
     lng: -122.305169
     icon: star
     color: "#659948"
-schedule: 
- -
+schedule:
+  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
     time: 8:30 - 9:00 AM
     speaker: CUGOS volunteers  
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
- -
+  -
     type: title
     title: Welcome
     time: 9:00 - 9:10 AM
@@ -38,7 +38,7 @@ schedule:
     speaker: CUGOS volunteers
     Description: |
         Welcome to the 2023 Spring Fling!
- -
+  -
     type: Talk
     slides: 
     title: I, For One, Welcome our New Overlords
