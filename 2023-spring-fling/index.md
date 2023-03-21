@@ -102,14 +102,16 @@ schedule:
  -
     type: Talk
     slides: 
-    title: TBD
+    title: Revolutionizing Traffic Flow - Using Traffic Signal Performance Measures without Traditional Detection Methods
     time: 10:50 AM
     room: Bezos
-    speaker: Colleague of Trang , <a href="https://inrix.com/">Inrix</a>
+    speaker: Steve Remias, <a href="https://inrix.com/">Inrix</a>
     bio: |
-     TBD. ABC is a XYZ at INRIX. She has worked. 
+     Revolutionizing Traffic Flow: Using Traffic Signal Performance Measures without Traditional Detection Methods
     description: |
-      TBD. This talk gives an overview of 123.      
+      This talk will focus on improving traffic signals without using traditional detection methods by utilizing GPS data. The speaker will explain how Automated Traffic Signal Performance Measures (ATSPMs) can provide actionable insights about traffic conditions and signal timing, which can help optimize traffic flow. This approach has several benefits, including consistency, cost-effectiveness, and scalability.
+      During the talk, a detection-free system using maps and GPS data will be covered to understand traffic flow. Additionally, the talk will discuss how maps can be used to graphically display solutions for engineers and practitioners, making information more accessible for those working in the transportation engineering and traffic management fields. The speaker will address challenges to this approach and provide practical solutions to overcome them. Real-world examples will be shared, providing valuable insights and practical knowledge.
+      If you're interested in using GPS data to measure and improve traffic flow, this talk will provide some good ideas. Overall, it will offer guidance for those interested in innovative methods to optimize traffic flow and improve transportation systems.     
  
  -
  
