@@ -305,10 +305,10 @@ schedule:
       
  -
     type: title
-    title: Announcements and Conclusion!
+    title: Announcements
     time: 3:50 PM
     room: Zillow
-    speaker: CUGOS volunteers, Annoucmenets and Conclusion!
+    speaker: CUGOS volunteers, Announcements and Conclusion!
     slides: 
     Description: |
         Get a name tag, meet old and new friends, drink a coffee 
