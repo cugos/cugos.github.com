@@ -99,7 +99,7 @@ schedule:
     room: Bezos
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
-     Eldan is a GIS consultant who mostly works on data processing and management pipelines using Python, PostGIS, GDAL and whatever else does the job.  He prioritises work with a clear positive social contribution, and his longest running project has been data ingestion and APIs for the Allen Coral Atlas.  Born in İstanbul, he spent many years in Southeastern England and Seattle, and now lives on Vancouver Island among the fishing grounds of the Songhees & Esquimalt First Nations.
+     Eldan is a GIS consultant who mostly works on data processing and management pipelines using Python, PostGIS, GDAL and whatever else does the job.  He prioritises work with a clear positive social contribution, and his longest running project has been data ingestion and APIs for the Allen Coral Atlas.  Born in Istanbul, he spent many years in Southeastern England and Seattle, and now lives on Vancouver Island among the fishing grounds of the Songhees & Esquimalt First Nations.
     description: |
       The Allen Coral Atlas maps the world’s coral reefs and monitors their threats to provide actionable data and a shared understanding of coastal ecosystems.  Eldan will talk about the data inputs, how we process them and work with local researchers all over the world for QA, what we publish, and how it's used to serve real world conservation goals.
  -
@@ -157,7 +157,7 @@ schedule:
     bio: |
      Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
     description: |
-      This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
+      This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
  -
  
     type: Lightning Talk
@@ -235,7 +235,7 @@ schedule:
       Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
     description: |
       The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.
- - 
+ -
      type: Talk
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
@@ -294,7 +294,7 @@ schedule:
      I seized the opportunity to write my dissertation on the spatial correlations between rezoned districts and remediation sites, tying in the significance of leveraging spatial data to public health. This research allowed me to gain valuable insights into how FOSS and geospatial technologies can be utilized to address complex real-world issues on a public/community level.
      Today, as a data product manager at the same company, we continue to rely heavily on FOSS and geospatial technologies to monitor and understand the intricate NYC environmental/policy, real estate, and energy market. 
 
- - 
+ -
      type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
@@ -308,7 +308,7 @@ schedule:
      The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, has recently purchased state-of-the-art drones for use by all in the UW community. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography.
      This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
      
- - 
+ -
  
     type: title
     title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
