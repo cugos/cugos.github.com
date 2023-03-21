@@ -27,7 +27,7 @@ schedule:
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
-    time: 8:30 AM
+    time: 8:30 - 9:00 AM
     speaker: CUGOS volunteers  
     Description: |
       Sign in, get a name-tag, drink coffee, and meet new people.
@@ -51,18 +51,10 @@ schedule:
     description: |
 	The tension between the capital cost of acquiring open source software ($0) and the operational cost of producing it (larger than zero) has been a topic of discussion almost from the start of the movement. Each era of open source has generated new canonical examples of how production is to be supported (selling magnetic tapes! consulting! open core, closed core, apple core!) and the story continues to unfold. Is open source doomed? Is it the future? What should users do? Predictions are hard, particularly about the future, but this talk will attempt the feat.
  -
-    type: title
-    slides: 
-    title: "Break"
-    time: 9:40 - 9:50 AM
-	room:  Zillow
-    speaker: 
-    description: Short break, icebreakers with seatmates
- -
     type: Talk
     slides: 
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
-    time: 9:50 - 10:20 AM
+    time: 9:40 - 10:00 AM
 	room: Zillow
     speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
     bio: |
@@ -71,19 +63,10 @@ schedule:
 	Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
 		
  -
-    type: title
-    slides: 
-    title: "Break/Switch Rooms"
-    time: 10:20 - 10:30 AM
-	room:  Zillow-->Bezos
-    speaker: 
-    description: Short break, move from Zillow to Bezos
- -
-
 	type: Talk
     slides: 
     title: Mapping 15-minute neighborhoods within Seattle
-    time: 10:30 - 10:50 AM
+    time: 10:00 - 10:20 AM
 	room: Bezos
     speaker: Nathaniel Henry, <a href="https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a>
     bio: |
@@ -92,11 +75,20 @@ schedule:
 	 I developed an interactive map of walking time to city amenities across every block of Seattle. In this talk, I will walk through a tutorial for creating a walking access map using FOSS and open data, then describe the public reaction to the map and its larger context in debates over the "15-minute city."
 
  -
-
+ 
+    type: title
+    slides: 
+    title: "Break"
+    time: 10:20 - 10:30 AM
+	room:  Zillow
+    speaker: 
+    description: Short break, icebreakers with seatmates
+ 
+ -
 	type: Talk
     slides: 
     title: The Allen Coral Atlas: monitoring coral reefs from space
-    time: 10:50 - 11:10 AM
+    time: 10:30 - 10:50 AM
 	room: Bezos
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
@@ -108,7 +100,7 @@ schedule:
 	type: Lightning Talk
     slides: 
     title: A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles
-    time: 11:10 - 11:15 AM
+    time: 10:50 - 10:55 AM
 	room: Bezos
     speaker: Diana Bonnarens, <a href="https://gis.usc.edu/online-programs/masters-geographic-information-science-and-technology/">University of Southern California</a>
     bio: |
@@ -120,7 +112,7 @@ schedule:
 	type: Talk
     slides: 
     title: iSeaTree: Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
-    time: 11:15 AM - 11:35 AM
+    time: 10:55 AM - 11:15 AM
 	room: Bezos
     speaker: Stephen Clemmer, <a href="https://www.democracylab.org/projects/502">iSeaTree / Democracy:Lab</a>
     bio: |
@@ -133,7 +125,7 @@ schedule:
 	type: Talk
     slides: 
     title: An interactive web based geo-spatial tool for Integration of urban Green and Blue Infrastructure
-    time: 11:35 - 11:55 AM
+    time: 11:15 - 11:35 AM
 	room: Bezos
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
@@ -143,7 +135,7 @@ schedule:
  -
     type: title
     title: "Lunch"
-    time: 11:55 AM - 1:00 PM
+    time: 11:35 AM - 12:15 PM
     speaker:
     description:
  
@@ -152,7 +144,7 @@ schedule:
 	type: Talk
     slides: 
     title: Recent Development in JTS and GEOS
-    time: 1:00 - 1:20 PM
+    time: 12:15 - 12:35 PM
 	room: Bezos
     speaker: Martin Davis, <a href="https://www.crunchydata.com/"></a>
     bio: |
@@ -164,7 +156,7 @@ schedule:
 	type: Lightning Talk
     slides: 
     title: QGIS with Python: Creating repeatable spatial analyses with limited python experience
-    time: 1:20 - 1:25 PM
+    time: 12:35 - 12:40 PM
 	room: Bezos
     speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
     bio: |
@@ -176,7 +168,7 @@ schedule:
 	type: Talk
     slides: 
     title: Cloud-optimized geo data formats and the Python ecosystem
-    time: 1:25 - 1:45 PM
+    time: 12:40 - 1:00 PM
 	room: Bezos
     speaker: Emilio Mayorga, <a href="https://www.apl.uw.edu/">Applied Physics Laboratory, University of Washington</a>
     bio: |
@@ -188,7 +180,7 @@ schedule:
 	type: Talk
     slides: 
     title: Creating nicer hillshades for cartography using Raster Chunk Processing
-    time: 1:45 - 2:05 PM
+    time: 1:00 - 1:20 PM
 	room: Bezos
     speaker:Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
@@ -199,7 +191,7 @@ schedule:
     type: title
     slides: 
     title: "Break"
-    time: 2:05 - 2:20 PM
+    time: 1:20 - 1:35 PM
 	room:  
     speaker: 
     description: Short break
@@ -207,7 +199,7 @@ schedule:
  	type: Talk
     slides: 
     title: PostGIS Fun Functions
-    time: 2:20 - 2:40 PM
+    time: 1:35 - 1:55 PM
 	room: Bezos
     speaker:Paul Ramsey, <a href="http://blog.cleverelephant.ca">Crunchy Data</a>
     bio: |
@@ -218,7 +210,7 @@ schedule:
 	type: Talk
     slides: 
     title: Vector Tiles Directly from a PostGIS Database with db2vector
-    time: 2:40 - 3:00 PM
+    time: 1:55 - 2:15 PM
 	room: Bezos
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
     bio: |
@@ -229,7 +221,7 @@ schedule:
 	type: Lightning Talk
     slides: 
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
-    time: 3:00 - 3:05
+    time: 2:15 - 2:20
 	room: Bezos
     speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
     bio: |
@@ -240,7 +232,7 @@ schedule:
  	type: Talk
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
-    time: 3:05 - 3:25 PM
+    time: 2:20 - 2:40 PM
 	room: Bezos
     speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
     bio: |
@@ -251,7 +243,7 @@ schedule:
  	type: Talk
     slides: 
     title: Using RStudio for Practical Geospatial Analysis
-    time: 3:25 - 3:45 PM
+    time: 2:40 - 3:00 PM
 	room: Bezos
     speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
     bio: |
@@ -264,7 +256,7 @@ schedule:
  type: title
     slides: 
     title: "Break"
-    time: 3:45 - 4:00 PM
+    time: 3:00 - 3:15 PM
 	room:  
     speaker: 
     description: Short break
@@ -273,7 +265,7 @@ schedule:
 	type: Talk
     slides: 
     title: Creating geospatial trips from GPS data
-    time: 4:00 - 4:20 PM
+    time: 3:15 - 3:35 PM
 	room: Bezos
     speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
     bio: |
@@ -281,10 +273,10 @@ schedule:
     description: |
 	 INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
  -
-	type: Talk
+	type: Lightning Talk
     slides: 
     title: From 2D to Spatial: My Data Journey and the Power of FOSS and Geospatial Technologies
-    time: 4:20 - 4:25 PM
+    time: 3:35 - 3:40 PM
 	room: Bezos
     speaker: Kristen Narcisi, <a href="https://mgn.energy/">MicroGrid Networks LLC</a>
     bio: |
@@ -299,7 +291,7 @@ schedule:
  	type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
-    time: 4:25 - 4:45 PM
+    time: 3:40 - 4:00 PM
 	room: Bezos
     speaker: Keenan Ganz, <a href="https://sites.uw.edu/rsgal">University of Washington RSGAL</a>
     bio: |
