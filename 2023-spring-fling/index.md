@@ -22,6 +22,8 @@ markers:
     lng: -122.305169
     icon: star
     color: "#659948"
+
+
 schedule:
  -
     type: title
