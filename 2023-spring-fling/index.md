@@ -184,9 +184,9 @@ schedule:
     room: Bezos
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
-     Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions. Karsten has been a frequent speaker at GIS conferences. 
+     Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
     description: |
-      Karsten will share his experimental work on trying to produce better hill shades for cartography purposes using Skymodels and a python utility called Raster Chunk Processing (RCP) https://gisjake.blogspot.com/2018/10/introducing-rasterchunkprocessingpy-aka.html. This talk is based and inspired by this post on wanderingcartographer: https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/
+     Karsten will share his experimental work on trying to produce better hill shades for cartography purposes using Skymodels and a python utility called Raster Chunk Processing (RCP) https://gisjake.blogspot.com/2018/10/introducing-rasterchunkprocessingpy-aka.html. This talk is based and inspired by this post on wanderingcartographer: https://wanderingcartographer.wordpress.com/tag/raster-chunk-processing/
  -
     type: title
     slides: 
