@@ -219,7 +219,20 @@ schedule:
     bio: |
      I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
     description: |
-      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox. 
+      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox.
+
+ -
+    type: Talk
+    slides: 
+    title: Using RStudio for Practical Geospatial Analysis
+    time: 2:40 - 3:00 PM
+    room: Bezos
+    speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
+    bio: |
+     I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
+    description: |
+      Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
+
  -
     type: Lightning Talk
     slides: 
@@ -242,17 +255,6 @@ schedule:
      Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
     description: |
       This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
- -
-    type: Talk
-    slides: 
-    title: Using RStudio for Practical Geospatial Analysis
-    time: 2:40 - 3:00 PM
-    room: Bezos
-    speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
-    bio: |
-     I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
-    description: |
-      Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
  
  -
  
