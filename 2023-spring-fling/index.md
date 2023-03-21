@@ -225,7 +225,7 @@ schedule:
     type: Talk
     slides: 
     title: Using RStudio for Practical Geospatial Analysis
-    time: 2:40 - 3:00 PM
+    time: 2:15 - 2:35 PM
     room: Bezos
     speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
     bio: |
@@ -237,7 +237,7 @@ schedule:
     type: Lightning Talk
     slides: 
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
-    time: 2:15 - 2:20
+    time: 2:35 - 2:40
     room: Bezos
     speaker: Matt Stevenson, <a href="https://www.coregis.net"></a>
     bio: |
@@ -248,7 +248,7 @@ schedule:
     type: Talk
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
-    time: 2:20 - 2:40 PM
+    time: 2:40 - 3:00 PM
     room: Bezos
     speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
     bio: |
