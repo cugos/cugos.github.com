@@ -86,7 +86,7 @@ schedule:
  -
     type: Talk
     slides: 
-    title: The Allen Coral Atlas: monitoring coral reefs from space
+    title: The Allen Coral Atlas - monitoring coral reefs from space
     time: 10:30 - 10:50 AM
     room: Bezos
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
