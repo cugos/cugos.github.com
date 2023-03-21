@@ -110,7 +110,7 @@ schedule:
  
     type: Talk
     slides: 
-    title: iSeaTree: Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
+    title: iSeaTree - Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
     time: 10:55 AM - 11:15 AM
     room: Bezos
     speaker: Stephen Clemmer, <a href="https://www.democracylab.org/projects/502">iSeaTree / Democracy:Lab</a>
@@ -129,7 +129,7 @@ schedule:
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions. Karsten has been a frequent speaker at GIS conferences.
-    description: |
+      description: |
       For the city of Stuttgart/Germany (and as a contribution to the nationally funded project INTERESS-I), a web-based tool has been developed that balances rain- and gray water drainage on the one hand, and vegetation water demand on the other. The tool combines GIS-balances of rain- and gray water harvest in a catchment area and a day-by-day calculation of water demand from different vegetation structures respective of local weather history, shading situation and soil water conditions. The tool shows the drought period length a specific water storage volume can bridge. Technically the tool implementation is based on OpenLayers, MapServer, GDAL, PHP, Python, R, and PostGIS.
  -
     type: title
@@ -149,7 +149,7 @@ schedule:
     bio: |
      Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
     description: |
-     This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
+      This talk gives a overview of the JTS Topology Suite and GEOS geometry libraries, and describes recently-added and upcoming functionality.  It discusses geometric functions such as Concave Hulls, Triangulations, and operations on Polygonal Coverages including validation, union and simplification.
  -
  
     type: Lightning Talk
@@ -173,7 +173,7 @@ schedule:
     bio: |
      I am an environmental data scientist (or data engineer?) with a research background in oceanography and watershed science. I focus on systems, software and practices for the management and open dissemination of environmental data in marine and terrestrial applications. My work emphasizes collaborative approaches and tools (open source and open data) that engage diverse partners, and this work ranges from local (Pacific NW) to national and global applications.
     description: |
-     Nowadays there are gobs of very large geospatial data of all sorts accessible in one form or another online. Many of us are both producers and consumers ourselves. But online accessibility alone doesn't necessarily translate to convenient, scalable access to data subsets; or fully leverage the potential of cloud-based processing. Also, data producers and distributors may face challenges in generating and hosting data in scalable and accessible formats, or even choosing such formats without having to adopt fully new tool sets. I will review the ecosystem of "cloud optimized" (or cloud native) geospatial formats that are gaining ground or have already done so, and discuss some of their common features that leverage web and cloud architectures. I will focus on data formats for analysis purposes rather than cartographic rendering proper, though  they're not mutually exclusive, strictly speaking. Finally, to make this much more tangible and because Python is what I do, I will discuss these formats in the context of Python libraries that support them, using live Jupyter notebook demos.
+      Nowadays there are gobs of very large geospatial data of all sorts accessible in one form or another online. Many of us are both producers and consumers ourselves. But online accessibility alone doesn't necessarily translate to convenient, scalable access to data subsets; or fully leverage the potential of cloud-based processing. Also, data producers and distributors may face challenges in generating and hosting data in scalable and accessible formats, or even choosing such formats without having to adopt fully new tool sets. I will review the ecosystem of "cloud optimized" (or cloud native) geospatial formats that are gaining ground or have already done so, and discuss some of their common features that leverage web and cloud architectures. I will focus on data formats for analysis purposes rather than cartographic rendering proper, though  they're not mutually exclusive, strictly speaking. Finally, to make this much more tangible and because Python is what I do, I will discuss these formats in the context of Python libraries that support them, using live Jupyter notebook demos.
  
  -
     type: Talk
@@ -214,7 +214,7 @@ schedule:
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
     bio: |
      I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
-    description: |
+      description: |
      We present db2vector, a simple tool that allows users to create vector tile endpoints from PostGIS databases. The tool abstracts several layers so that a user can edit a simple sql query to extract the desired data in the desired format and publish a vector tile endpoint. The endpoint can then be used as a source for Leaflet, MapLibre, OpenLayers or MapBox. 
  -
     type: Lightning Talk
@@ -226,7 +226,7 @@ schedule:
     bio: |
       Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
     description: |
-     The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.
+      The Streaked Horned Lark is a ground-nesting bird that is listed as Endangered in Washington State and Threatened by the US Fish & Wildlife Service. We are providing mapping and analytical support to ornithologists and field biologists who are working to survey larks in the Willamette Valley of Oregon. In this lighting talk we will explain how we used the grts algorithm in the spsurvey library of Rstudio to produce a spatially balanced sampling frame using unequal inclusion probabilities based on estimated habitat suitability within each 200m sampling circle.
  - 
      type: Talk
     slides: 
@@ -235,9 +235,9 @@ schedule:
     room: Bezos
     speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
     bio: |
-     Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency. 
+     Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
     description: |
-     This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
+      This presentation will explain and demonstrate the use of R Markdown to create self-contained HTML files containing code and results of geospatial analyses done within R and PostGIS. We will cover the basic parts of the R Markdown RMD (source code) format and how to generate the HTML, and including tabular, graphical, and map outputs (using Leaflet). The session will include a brief lecture followed by a live demonstration. This follows on previous sessions from 2011 ("R, PostgreSQL, and PostGIS: Techniques for Processing Large Data Sets", https://bit.ly/3kBn63l) and 2012 ("R, PostGIS, and Sweave: Reproducible Research", https://bit.ly/3kygYcc).
  -
      type: Talk
     slides: 
@@ -248,7 +248,7 @@ schedule:
     bio: |
      I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
     description: |
-     Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
+      Using publicly available data on Hospitals in the U.S., I will go over some simple analytics concepts in RStudio and then show how these can be combined into a Shiny application that is freely hosted on Shinyapps.io.
  
  -
  
@@ -263,14 +263,14 @@ schedule:
  -
     type: Talk
     slides: 
-    title: Creating geospatial trips from GPS data
+    title: Big Data Techniques for Processsing Geospatial Trips and Derived Datasets at Scale
     time: 3:15 - 3:35 PM
     room: Bezos
     speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
     bio: |
      Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions in transportation and mobility space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries. 
     description: |
-     INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
+      INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
  -
     type: Lightning Talk
     slides: 
@@ -281,7 +281,7 @@ schedule:
     bio: |
      Recent grad in Biomedical Informatics. Data Product Manager for renewable energy development company in NYC. 
     description: |
-     As a student studying biomedical informatics, I was taught the importance of data-driven approaches to understanding and combatting disease outbreaks. However, I found that while we were taught how to translate data into simple graphs, we were not exposed to anything beyond that visually that would really bring the analysis to life. This sparked my interest in exploring geospatial analysis in my free time using the python library folium.
+      As a student studying biomedical informatics, I was taught the importance of data-driven approaches to understanding and combatting disease outbreaks. However, I found that while we were taught how to translate data into simple graphs, we were not exposed to anything beyond that visually that would really bring the analysis to life. This sparked my interest in exploring geospatial analysis in my free time using the python library folium.
      My journey into the world of GIS took off when I landed a research internship in the renewable energy sector. Here, I worked at a development company that leveraged FOSS and geospatial data to make better business decisions. This experience was eye-opening, and I found myself drawn to the power of spatial data analysis.
      I seized the opportunity to write my dissertation on the spatial correlations between rezoned districts and remediation sites, tying in the significance of leveraging spatial data to public health. This research allowed me to gain valuable insights into how FOSS and geospatial technologies can be utilized to address complex real-world issues on a public/community level.
      Today, as a data product manager at the same company, we continue to rely heavily on FOSS and geospatial technologies to monitor and understand the intricate NYC environmental/policy, real estate, and energy market. 
@@ -296,7 +296,7 @@ schedule:
     bio: |
      Keenan Ganz (he/him) is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health. 
     description: |
-     Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs.
+      Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs.
      The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, has recently purchased state-of-the-art drones for use by all in the UW community. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography.
      This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
      
@@ -306,19 +306,17 @@ schedule:
     title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
     time: 8:30 AM - 4:00 pm
     description: |
-        OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. More information to be added here soon.
+      OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. More information to be added here soon.
  -
     type: title
     title: Saturday Event Ends
     time: 4:00 PM
 
-event_sponsors_platinum:
+event_sponsors_gold:
  -
     image: /image/2023springfling/sponsor-inrix.png
     width: 200px
     link: http://inrix.com/
-
-event_sponsors_gold:
  -
     image: /image/2023springfling/sponsor-mgn.png
     width: 250px
