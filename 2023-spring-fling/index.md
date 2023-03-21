@@ -52,23 +52,12 @@ schedule:
       Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. 
     description: |
       The tension between the capital cost of acquiring open source software ($0) and the operational cost of producing it (larger than zero) has been a topic of discussion almost from the start of the movement. Each era of open source has generated new canonical examples of how production is to be supported (selling magnetic tapes! consulting! open core, closed core, apple core!) and the story continues to unfold. Is open source doomed? Is it the future? What should users do? Predictions are hard, particularly about the future, but this talk will attempt the feat.
- -
-    type: Talk
-    slides: 
-    title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
-    time: 9:40 - 10:00 AM
-    room: Zillow
-    speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
-    bio: |
-      I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
-    description: |
-      Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
-        
+      
  -
     type: Talk
     slides: 
     title: Mapping 15-minute neighborhoods within Seattle
-    time: 10:00 - 10:20 AM
+    time: 9:40 - 10:00 AM
     room: Bezos
     speaker: Nathaniel Henry, <a href="https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a>
     bio: |
@@ -76,6 +65,18 @@ schedule:
     description: |
       I developed an interactive map of walking time to city amenities across every block of Seattle. In this talk, I will walk through a tutorial for creating a walking access map using FOSS and open data, then describe the public reaction to the map and its larger context in debates over the "15-minute city."
 
+-
+    type: Talk
+    slides: 
+    title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
+    time: 10:00 - 10:20 AM
+    room: Zillow
+    speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
+    bio: |
+      I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
+    description: |
+      Among a plethora of methods that aim to develop scalable Gaussian Process (GP) based analysis of geospatial data, Nearest neighbor Gaussian Process (NNGP) has established itself as one of the front runners with its multifaceted applications. Following Vecchia's approximation, NNGP likelihood is decomposed into product of lower dimensional likelihoods with fixed number of nearest neighbors for each location. This product form facilitates embarrassingly parallel implementation of NNGP, that is responsible for its widespread uptake. We present the R package BRISC, that has been tailored to harness the power of parallelizability of NNGP in multicore setup. BRISC utilizes the NNGP formulation to obtain a sparse approximation of the Cholesky factor of the precision matrix of the full GP. BRISC exploits this sparsity structure for parallelizable implementation of estimation, prediction, bootstrap-based inference of spatial parameters, simulation of large spatial data from GP, and prediction in spatial probit models. BRISC is also utilized in spatial machine learning for non-linear estimation of means in GP with Random Forests. We conclude with an application of BRISC in Transcriptomic Data.
+   
  -
  
     type: title
@@ -131,7 +132,7 @@ schedule:
     room: Bezos
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
-     Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions. Karsten has been a frequent speaker at GIS conferences.
+     Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
     description: |
       For the city of Stuttgart/Germany (and as a contribution to the nationally funded project INTERESS-I), a web-based tool has been developed that balances rain- and gray water drainage on the one hand, and vegetation water demand on the other. The tool combines GIS-balances of rain- and gray water harvest in a catchment area and a day-by-day calculation of water demand from different vegetation structures respective of local weather history, shading situation and soil water conditions. The tool shows the drought period length a specific water storage volume can bridge. Technically the tool implementation is based on OpenLayers, MapServer, GDAL, PHP, Python, R, and PostGIS.
  -
