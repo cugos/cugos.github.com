@@ -22,8 +22,8 @@ markers:
     lng: -122.305169
     icon: star
     color: "#659948"
-schedule:
 
+schedule:
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
