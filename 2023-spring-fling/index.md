@@ -22,13 +22,7 @@ markers:
     lng: -122.305169
     icon: star
     color: "#659948"
-schedule:
- -
-    type: title
-    title: Doors Open, <em>Steve & Heather Singh Gallery, 4th Floor Foyer</em>
-    time: 8:00 AM
-    Description: |
-      Sign in, get a name-tag, drink coffee, eat donuts, and meet new people.
+schedule: 
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
