@@ -23,7 +23,6 @@ markers:
     icon: star
     color: "#659948"
 schedule:
-
  -
     type: title
     title: Geo-floodgates (aka doors) open, come hell or high water
