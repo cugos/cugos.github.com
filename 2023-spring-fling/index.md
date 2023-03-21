@@ -39,7 +39,6 @@ schedule:
     Description: |
         Welcome to the 2023 Spring Fling!
  -
- -
     type: title
     title: Welcome
     time: 9:00 - 9:10 AM
