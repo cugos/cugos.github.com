@@ -48,7 +48,7 @@ schedule:
     bio: |
       Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
     description: |
-    The tension between the capital cost of acquiring open source software ($0) and the operational cost of producing it (larger than zero) has been a topic of discussion almost from the start of the movement. Each era of open source has generated new canonical examples of how production is to be supported (selling magnetic tapes! consulting! open core, closed core, apple core!) and the story continues to unfold. Is open source doomed? Is it the future? What should users do? Predictions are hard, particularly about the future, but this talk will attempt the feat.
+      The tension between the capital cost of acquiring open source software ($0) and the operational cost of producing it (larger than zero) has been a topic of discussion almost from the start of the movement. Each era of open source has generated new canonical examples of how production is to be supported (selling magnetic tapes! consulting! open core, closed core, apple core!) and the story continues to unfold. Is open source doomed? Is it the future? What should users do? Predictions are hard, particularly about the future, but this talk will attempt the feat.
  -
     type: Talk
     slides: 
