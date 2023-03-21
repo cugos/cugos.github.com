@@ -85,7 +85,7 @@ schedule:
     time: 10:20 AM
     room:  Zillow
     speaker: 
-    description: Short break, switch room
+    description: Short break, icebreakers with seatmates, switch room
     
  -
     type: Talk
@@ -296,7 +296,7 @@ schedule:
     type: title
     slides: 
     title: "Break"
-    time: 3:00 PM
+    time: 3:10 PM
     room:  
     speaker: 
     description: Short break
@@ -305,7 +305,7 @@ schedule:
     type: Talk
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
-    time: 3:40 PM
+    time: 3:20 PM
     room: Bezos
     speaker: Keenan Ganz, <a href="https://sites.uw.edu/rsgal">University of Washington RSGAL</a>
     bio: |
