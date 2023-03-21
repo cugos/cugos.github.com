@@ -231,7 +231,7 @@ schedule:
     speaker: 
     description: Short break
 
--
+ -
     type: Talk
     slides: 
     title: Vector Tiles Directly from a PostGIS Database with db2vector
