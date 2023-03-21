@@ -25,13 +25,6 @@ markers:
 schedule:
  -
     type: title
-    title: Geo-floodgates (aka doors) open, come hell or high water
-    time: 8:30 - 9:00 AM
-    speaker: CUGOS volunteers  
-    Description: |
-      Sign in, get a name-tag, drink coffee, and meet new people.
- -
-    type: title
     title: Welcome
     time: 9:00 - 9:10 AM
     room: Zillow
@@ -127,7 +120,7 @@ schedule:
     description: |
      iSeaTree' is a React-Native open source mobile application for helping new users identify, record, and track urban trees. It works with USFS’s iTree API to calculate the CO2, H2O, and air pollution benefits of USA & Canadian trees. In this presentation, Stephen will be introducing the recently released V4 app features which includes: a location-aware AI tool for identifying tree species, integration with the USFS iTreeAPI (which calculates tree benefits based on species, size, and location), and various game play features. 
   
-   -
+ -
    
     type: Talk
     slides: 
@@ -162,7 +155,7 @@ schedule:
  
     type: Lightning Talk
     slides: 
-    title: QGIS with Python: Creating repeatable spatial analyses with limited python experience
+    title: QGIS with Python - Creating repeatable spatial analyses with limited python experience
     time: 12:35 - 12:40 PM
     room: Bezos
     speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
