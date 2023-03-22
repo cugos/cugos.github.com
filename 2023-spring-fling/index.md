@@ -14,7 +14,8 @@ event_description: "Please join CUGOS, the UW Taskar Center for Accessible Techn
   </ul>
   We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information. This page is describing the CUGOS part of the conference, note that the Spring Fling is jointly held in the same building and time with the <em>2023 Open the Paths Conference</em>."
 event_location: "Univ. of Washington, Seattle, WA. Bill & Melinda Gates Center for CS & Engineering(CSE2)"
-event_register_soon: "Mark your calendars ! A registration link be added here in the evening on March 22 2023"
+event_register_soon: Register below online until April 20, 2023. Once tickets are sold out, you will be placed on the waitlist and will be notified in case additional tickets become available.
+event_register-url: https://www.eventbrite.com/e/2023-spring-fling-tickets-534136455517
 markers:
  -
     name: Univ. of Washington, Seattle. Bill & Melina Gates Center for CS & Engineering(CSE2)
