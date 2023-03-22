@@ -125,7 +125,7 @@ schedule:
      I am currently a Master’s Student in the Geographic Information Science and Technology (GIST) Program at the University of Southern California’s Spatial Science Institute. I am interested in all things spatial, but I am particularly excited about cartography and remote sensing.
     description: |
       I am currently researching the relationship between tree cover and socio-economic conditions in Los Angeles and how that relationship has changed over the course of the Million Trees Los Angeles (MTLA) tree planting initiative. This talk will include some parts of my research workflow, which includes a liberal use of the Wayback Machine. The talk will also include an overview of the Google Earth Engine code which uses NAIP and Sentinel-2 imagery to classify urban land cover.
-      
+
  -
  
     type: Talk
@@ -353,15 +353,24 @@ event_sponsors_silver:
     width: 160px
     link: https://usgeocoder.com/
 
+
+event_sponsors_bronze:
+
+ -
+    image: /image/2023springfling/sponsor-brightrain.png
+    width: 240px
+    link: http://www.terragis.net/     
+ -
+    image: /image/2023springfling/sponsor-terragis.png
+    width: 240px
+    link: https://brightrain.com/     
+
 event_sponsors_comm:
  -
     image: /image/2023springfling/sponsor-coregis.png
     width: 175px
     link: http://coregis.net/
- -
-    image: /image/2023springfling/sponsor-terragis.png
-    width: 240px
-    link: http://www.terragis.net/       
+  
  -
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 199px
