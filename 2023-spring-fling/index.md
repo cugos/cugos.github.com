@@ -373,7 +373,7 @@ event_sponsors_comm:
   
  -
     image: /image/2023springfling/sponsor-clockworkmirco.png
-    width: 199px
+    width: 240px
     link:  https://www.clockworkmicro.com
 
 ---
