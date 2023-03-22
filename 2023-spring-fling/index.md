@@ -90,7 +90,7 @@ schedule:
  -
     type: Talk
     slides: 
-    title: Big Data Techniques for Processsing Geospatial Trips and Derived Datasets at Scale
+    title: Big Data Techniques for Processing Geospatial Trips and Derived Datasets at Scale
     time: 10:30 AM
     room: Bezos
     speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
@@ -359,11 +359,11 @@ event_sponsors_bronze:
  -
     image: /image/2023springfling/sponsor-brightrain.png
     width: 220px
-    link: http://www.terragis.net/     
+    link:  https://brightrain.com/     
  -
     image: /image/2023springfling/sponsor-terragis.png
     width: 240px
-    link: https://brightrain.com/     
+    link: http://www.terragis.net/
 
 event_sponsors_comm:
  -
