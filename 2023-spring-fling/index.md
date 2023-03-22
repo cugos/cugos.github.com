@@ -358,7 +358,7 @@ event_sponsors_bronze:
 
  -
     image: /image/2023springfling/sponsor-brightrain.png
-    width: 220px
+    width: 200px
     link:  https://brightrain.com/     
  -
     image: /image/2023springfling/sponsor-terragis.png
