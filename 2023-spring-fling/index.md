@@ -350,7 +350,7 @@ event_sponsors_silver:
 
  -
     image: /image/2023springfling/sponsor-usgeocoder.png
-    width: 160px
+    width: 200px
     link: https://usgeocoder.com/
 
 
@@ -358,7 +358,7 @@ event_sponsors_bronze:
 
  -
     image: /image/2023springfling/sponsor-brightrain.png
-    width: 240px
+    width: 220px
     link: http://www.terragis.net/     
  -
     image: /image/2023springfling/sponsor-terragis.png
