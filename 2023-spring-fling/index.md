@@ -356,7 +356,7 @@ event_sponsors_silver:
 
  -
     image: /image/2023springfling/sponsor-crunchydata.png
-    width: 360px
+    width: 280px
     link: https://www.crunchydata.com/
 
 
@@ -385,7 +385,7 @@ event_sponsors_comm:
     
  -
     image: /image/2023springfling/sponsor-soundgis.png
-    width: 240px
+    width: 180px
     link:  http://www.soundgis.com/
 
 ---
