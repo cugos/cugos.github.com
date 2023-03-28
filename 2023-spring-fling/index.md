@@ -354,6 +354,12 @@ event_sponsors_silver:
     width: 200px
     link: https://usgeocoder.com/
 
+ -
+    image: /image/2023springfling/sponsor-crunchydata.png
+    width: 360px
+    link: https://www.crunchydata.com/
+
+
 
 event_sponsors_bronze:
 
@@ -376,5 +382,10 @@ event_sponsors_comm:
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 240px
     link:  https://www.clockworkmicro.com
+    
+ -
+    image: /image/2023springfling/sponsor-soundgis.png
+    width: 240px
+    link:  http://www.soundgis.com/
 
 ---
