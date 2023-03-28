@@ -385,7 +385,7 @@ event_sponsors_comm:
     
  -
     image: /image/2023springfling/sponsor-soundgis.png
-    width: 180px
+    width: 140px
     link:  http://www.soundgis.com/
 
 ---
