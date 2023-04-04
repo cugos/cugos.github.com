@@ -417,18 +417,11 @@ event_sponsors_comm:
  -
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 240px
-    link:  https://www.clockworkmicro.com
-<<<<<<< Updated upstream
-    
- -
-    image: /image/2023springfling/sponsor-soundgis.png
-    width: 140px
-=======
+    link:  https://www.clockworkmicro.com    
  
  -
     image: /image/2023springfling/sponsor-soundgis.png
-    width: 240px
->>>>>>> Stashed changes
+    width: 140px
     link:  http://www.soundgis.com/
 
 ---
