@@ -302,13 +302,13 @@ schedule:
     speaker: CUGOS volunteers
     bio: |            
         Conclusion of the 2023 Spring Fling. Announcements for the OpenSidewalks event on Saturday.
--
+ -
     type: title
     title: Friday Event Ends
     time: 4:00 PM
     speaker: CUGOS volunteers
     bio: |            
-        Where we go to socialize now !
+        Where we go to socialize now.
  -
     type: title
     title: Day 2 - Saturday April 22nd 2023, Welcome Back
