@@ -314,29 +314,39 @@ schedule:
     type: title
     title: OpenSidewalks mapping 101
     room: Bezos
+    speaker: OpenSidewalks team and volunteers
     time: 9:45 AM
+    Description: |
+        Getting ready to map
  -
     type: title
     title: A short data + accessibility interest survey
     room: Bezos
+    speaker: OpenSidewalks team and volunteers    
     time: 10:20 AM
+    Description: |
+        Interest survey
  -
     type: title
     title: Local mapping teams showcase 1
     room: Bezos
+    speaker: OpenSidewalks team and volunteers   
     time: 10:30 AM
     Description: |
         Code for the Carolinas presenting their effort in Raleigh et al 
  -
     type: title
-    title: OpenSidewalks Tasking manager- how to and practice
+    title: OpenSidewalks Tasking manager
+    speaker: OpenSidewalks team and volunteers   
     room: Bezos
     time: 11:15 AM
+    Description: |
+         How to and practice
  -
     type: title
     title: "Lunch"
     time: 12:30 PM
-    speaker:
+    speaker: All participants
     description: |
         Sorry there is no CUGOS supplied lunch today.
  -
@@ -345,6 +355,8 @@ schedule:
     room: Bezos
     time: 1:30 PM
     speaker: Katherine Chacon Martinez, effort leader in Quito, Ecuador 
+    Description: |
+        Showcase
 
  -
     type: title
@@ -358,12 +370,14 @@ schedule:
     title: Active mapping and Q&A
     room: Bezos
     time: 2:45 PM
+    speaker: OpenSidewalks team and volunteers    
     description: |
         and how to handle different crossing scenarios–already mapped, and the validation process.      
  -
     type: title
     title: Saturday Event Ends
     time: 4:00 PM
+    speaker: OpenSidewalks team and volunteers
     description: |
         End of day, update to DemocracyLab.
 
@@ -404,7 +418,7 @@ event_sponsors_bronze:
     width: 240px
     link: http://www.terragis.net/
  -
-    image: /image/2023springfling/sponsor-allenais.png
+    image: /image/2023springfling/sponsor-allenai.png
     width: 200px
     link: https://allenai.org/
 
