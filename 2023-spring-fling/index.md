@@ -308,7 +308,7 @@ schedule:
     time: 4:00 PM
     speaker: CUGOS volunteers
     bio: |            
-        Where we go to socialize now.
+        Announcement where we go for happy hour and to socialize now.
  -
     type: title
     title: Day 2 - Saturday April 22nd 2023, Welcome Back
@@ -373,7 +373,7 @@ schedule:
     room: Bezos
     time: 2:15 PM
     bio: |
-        and How to organize local mapping teams.
+        and how to organize local mapping teams.
  -
     type: title
     title: Active mapping and Q&A
