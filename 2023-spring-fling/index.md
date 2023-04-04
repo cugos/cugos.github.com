@@ -31,7 +31,7 @@ schedule:
     room: Zillow
     speaker: All, Get a name tag, meet old and new friends, drink a coffee
     slides: 
-    Description: |
+    description: |
         Get a name tag, meet old and new friends, drink a coffee
  -
     type: title
@@ -40,7 +40,7 @@ schedule:
     room: Zillow
     speaker: CUGOS volunteers, Welcome to the 2023 Spring Fling!
     slides: 
-    Description: |
+    description: |
         Welcome to the 2023 Spring Fling!
  -
     type: Keynote
@@ -307,7 +307,7 @@ schedule:
     room: Zillow
     speaker: OpenSidewalks team and volunteers, Announcements
     slides: 
-    Description: |
+    bio: |
         Get ready for the OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. Remote mappers join via the Democracy Lab platform 
 
  -
@@ -316,7 +316,7 @@ schedule:
     room: Bezos
     speaker: OpenSidewalks team and volunteers
     time: 9:45 AM
-    Description: |
+    bio: |
         Getting ready to map
  -
     type: title
@@ -324,7 +324,7 @@ schedule:
     room: Bezos
     speaker: OpenSidewalks team and volunteers    
     time: 10:20 AM
-    Description: |
+    bio: |
         Interest survey
  -
     type: title
@@ -332,7 +332,7 @@ schedule:
     room: Bezos
     speaker: OpenSidewalks team and volunteers   
     time: 10:30 AM
-    Description: |
+    bio: |
         Code for the Carolinas presenting their effort in Raleigh et al 
  -
     type: title
@@ -340,14 +340,14 @@ schedule:
     speaker: OpenSidewalks team and volunteers   
     room: Bezos
     time: 11:15 AM
-    Description: |
+    bio: |
          How to and practice
  -
     type: title
     title: "Lunch"
     time: 12:30 PM
     speaker: All participants
-    description: |
+    bio: |
         Sorry there is no CUGOS supplied lunch today.
  -
     type: title
@@ -355,7 +355,7 @@ schedule:
     room: Bezos
     time: 1:30 PM
     speaker: Katherine Chacon Martinez, effort leader in Quito, Ecuador 
-    Description: |
+    bio: |
         Showcase
 
  -
@@ -363,7 +363,7 @@ schedule:
     title: Collaborative live mapping in the Tasking Manager 
     room: Bezos
     time: 2:15 PM
-    descripthion: |
+    bio: |
         and How to organize local mapping teams.
  -
     type: title
@@ -371,14 +371,14 @@ schedule:
     room: Bezos
     time: 2:45 PM
     speaker: OpenSidewalks team and volunteers    
-    description: |
+    bio: |
         and how to handle different crossing scenarios–already mapped, and the validation process.      
  -
     type: title
     title: Saturday Event Ends
     time: 4:00 PM
     speaker: OpenSidewalks team and volunteers
-    description: |
+    bio: |
         End of day, update to DemocracyLab.
 
 event_sponsors_gold:
@@ -419,7 +419,7 @@ event_sponsors_bronze:
     link: http://www.terragis.net/
  -
     image: /image/2023springfling/sponsor-allenai.png
-    width: 200px
+    width: 260px
     link: https://allenai.org/
 
 event_sponsors_comm:
