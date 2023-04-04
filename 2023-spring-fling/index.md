@@ -356,10 +356,16 @@ event_sponsors_silver:
 
  -
     image: /image/2023springfling/sponsor-crunchydata.png
+<<<<<<< Updated upstream
     width: 280px
     link: https://www.crunchydata.com/
 
 
+=======
+    width: 360px
+    link: https://www.crunchydata.com/
+
+>>>>>>> Stashed changes
 
 event_sponsors_bronze:
 
@@ -382,10 +388,17 @@ event_sponsors_comm:
     image: /image/2023springfling/sponsor-clockworkmirco.png
     width: 240px
     link:  https://www.clockworkmicro.com
+<<<<<<< Updated upstream
     
  -
     image: /image/2023springfling/sponsor-soundgis.png
     width: 140px
+=======
+ 
+ -
+    image: /image/2023springfling/sponsor-soundgis.png
+    width: 240px
+>>>>>>> Stashed changes
     link:  http://www.soundgis.com/
 
 ---
