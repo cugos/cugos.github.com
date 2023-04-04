@@ -297,7 +297,7 @@ schedule:
               
  -
     type: title
-    title: Conclusion adn Announcements
+    title: Conclusion and Announcements
     time: 3:50 PM
     speaker: CUGOS volunteers
     bio: |            
