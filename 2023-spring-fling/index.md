@@ -173,9 +173,9 @@ schedule:
     type: title
     title: "Lunch"
     time: 12:05 PM
-    speaker:
-    description:
- 
+    speaker: All participants
+    bio: |
+        Eat pizza, meet old and new friends, or join a birds of a feather session.
  -
  
     type: Talk
@@ -232,8 +232,9 @@ schedule:
     title: "Break"
     time: 2:15 PM
     room:  
-    speaker: 
-    description: Short break
+    speaker: All participants
+    bio: |
+        Short break.
 
  -
     type: Talk
