@@ -390,16 +390,8 @@ event_sponsors_silver:
 
  -
     image: /image/2023springfling/sponsor-crunchydata.png
-<<<<<<< Updated upstream
     width: 280px
     link: https://www.crunchydata.com/
-
-
-=======
-    width: 360px
-    link: https://www.crunchydata.com/
-
->>>>>>> Stashed changes
 
 event_sponsors_bronze:
 
