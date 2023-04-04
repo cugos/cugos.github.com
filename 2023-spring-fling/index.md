@@ -46,7 +46,7 @@ schedule:
     type: Keynote
     slides: 
     title: I, For One, Welcome our New Overlords
-    time: 9:10 AM
+    time: 9:25 AM
     room: Zillow
     speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
@@ -57,20 +57,8 @@ schedule:
  -
     type: Talk
     slides: 
-    title: Mapping 15-minute neighborhoods within Seattle
-    time: 9:40 AM
-    room: Bezos
-    speaker: Nathaniel Henry, <a href="https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a>
-    bio: |
-     I am a geographer and public health researcher who uses spatial analysis to illuminate health inequalities. As a member of the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, I serve as a research lead for international mapping studies of maternal and child health. My current work is split between (1) understanding the spatial determinants of health outcomes within cities, and (2) developing open-source software for spatial statistical modeling.
-    description: |
-      I developed an interactive map of walking time to city amenities across every block of Seattle. In this talk, I will walk through a tutorial for creating a walking access map using FOSS and open data, then describe the public reaction to the map and its larger context in debates over the "15-minute city."
-
- -
-    type: Talk
-    slides: 
     title: The Allen Coral Atlas - monitoring coral reefs from space
-    time: 10:00 AM
+    time: 9:55 AM
     room: Bezos
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
@@ -83,7 +71,7 @@ schedule:
     type: title
     slides: 
     title: "Break"
-    time: 10:20 AM
+    time: 10:15 AM
     room:  Zillow
     speaker: 
     description: Short break, icebreakers with seatmates, switch room
@@ -306,17 +294,7 @@ schedule:
      Keenan Ganz (he/him) is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health. 
     description: |
       Unoccupied aerial vehicle (UAV, aka drone) photography is a core technique in remote sensing: the precise measurement of environmental data to inform management decisions. However, amid growing industry demand for UAV operators, academic interest in applications of UAV photography, and growing enrollment in remote sensing courses at UW, most students do not have access to UAVs. The UW Geospatial Club, in partnership with the Precision Forestry Cooperative, intends to purchase state-of-the-art drones for use by all in the UW community pending a current Student Technology Fee proposal. We include a heavy-lift enterprise UAV, the DJI Matrice 300, as well as a lightweight, operator-friendly UAV, the DJI Mavic 3E. We also include two specialized cameras for the Matrice 300: the FLIR Vue TZ20-R thermal camera, and the Zenmuse L1 LiDAR/RGB unit. This equipment serves a variety of use-cases, from senior researchers with prior UAV experience to undergraduate students wanting to explore UAV photography. This talk will describe the technical specs of the equipment and highlight use cases for UW practitioners. Logistical considerations for flying drones, including the FAA Part 107 license, restricted airspace, liability insurance, and flight plans will be discussed.
-      
- -
-    type: title
-    title: Announcements
-    time: 3:50 PM
-    room: Zillow
-    speaker: CUGOS volunteers, Announcements and Conclusion!
-    slides: 
-    Description: |
-        Get a name tag, meet old and new friends, drink a coffee 
-        
+              
  -
     type: title
     title: Friday Event Ends
@@ -324,14 +302,70 @@ schedule:
       
  -
     type: title
-    title: Day 2 - Saturday April 22nd 2023, <em>Room TBD</em>
-    time: 8:30 AM - 4:00 pm
+    title: Day 2 - Saturday April 22nd 2023, Welcome Back
+    time: 9:00 AM
+    room: Zillow
+    speaker: OpenSidewalks team and volunteers, Announcements
+    slides: 
+    Description: |
+        Get ready for the OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. Remote mappers join via the Democracy Lab platform 
+
+ -
+    type: title
+    title: OpenSidewalks mapping 101
+    room: Bezos
+    time: 9:45 AM
+ -
+    type: title
+    title: A short data + accessibility interest survey
+    room: Bezos
+    time: 10:20 AM
+ -
+    type: title
+    title: Local mapping teams showcase 1
+    room: Bezos
+    time: 10:30 AM
+    Description: |
+        Code for the Carolinas presenting their effort in Raleigh et al 
+ -
+    type: title
+    title: OpenSidewalks Tasking manager- how to and practice
+    room: Bezos
+    time: 11:15 AM
+ -
+    type: title
+    title: "Lunch"
+    time: 12:30 PM
+    speaker:
     description: |
-      OpenStreetMap (OSM) Hackathon with the <a href="https://tcat.cs.washington.edu/opensidewalks-2/">OpenSidewalks Project</a>. More information to be added here soon.     
+        Sorry there is no CUGOS supplied lunch today.
+ -
+    type: title
+    title: Local mapping teams showcase 2 
+    room: Bezos
+    time: 1:30 PM
+    speaker: Katherine Chacon Martinez, effort leader in Quito, Ecuador 
+
+ -
+    type: title
+    title: Collaborative live mapping in the Tasking Manager 
+    room: Bezos
+    time: 2:15 PM
+    descripthion: |
+        and How to organize local mapping teams.
+ -
+    type: title
+    title: Active mapping and Q&A
+    room: Bezos
+    time: 2:45 PM
+    description: |
+        and how to handle different crossing scenarios–already mapped, and the validation process.      
  -
     type: title
     title: Saturday Event Ends
     time: 4:00 PM
+    description: |
+        End of day, update to DemocracyLab.
 
 event_sponsors_gold:
  -
@@ -377,6 +411,10 @@ event_sponsors_bronze:
     image: /image/2023springfling/sponsor-terragis.png
     width: 240px
     link: http://www.terragis.net/
+ -
+    image: /image/2023springfling/sponsor-allenais.png
+    width: 200px
+    link: https://allenai.org/
 
 event_sponsors_comm:
  -
