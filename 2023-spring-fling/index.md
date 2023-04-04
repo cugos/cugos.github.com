@@ -29,19 +29,16 @@ schedule:
     title: Geo-floodgates aka doors open, come hell or high water
     time: 8:30 AM
     room: Zillow
-    speaker: All, Get a name tag, meet old and new friends, drink a coffee
+    speaker: All
     slides: 
     bio: |
         Get a name tag, meet old and new friends, drink a coffee
  -
     type: title
-    title: Welcome
+    title: Welcome to the 2023 Spring Fling!
     time: 9:00 AM
     room: Zillow
-    speaker: CUGOS volunteers, Welcome to the 2023 Spring Fling!
-    slides: 
-    bio: |
-        Welcome to the 2023 Spring Fling!
+    speaker: CUGOS volunteers
  -
     type: Keynote
     slides: 
@@ -73,7 +70,7 @@ schedule:
     title: "Break"
     time: 10:15 AM
     room:  Zillow
-    speaker: All
+    speaker: All, CUGOS volunteers
     bio: Short break, icebreakers with seatmates, switch room
     
  -
