@@ -31,7 +31,7 @@ schedule:
     room: Zillow
     speaker: All, Get a name tag, meet old and new friends, drink a coffee
     slides: 
-    description: |
+    bio: |
         Get a name tag, meet old and new friends, drink a coffee
  -
     type: title
@@ -40,7 +40,7 @@ schedule:
     room: Zillow
     speaker: CUGOS volunteers, Welcome to the 2023 Spring Fling!
     slides: 
-    description: |
+    bio: |
         Welcome to the 2023 Spring Fling!
  -
     type: Keynote
@@ -73,8 +73,8 @@ schedule:
     title: "Break"
     time: 10:15 AM
     room:  Zillow
-    speaker: 
-    description: Short break, icebreakers with seatmates, switch room
+    speaker: All
+    bio: Short break, icebreakers with seatmates, switch room
     
  -
     type: Talk
