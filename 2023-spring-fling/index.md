@@ -40,7 +40,7 @@ schedule:
     room: Zillow
     speaker: CUGOS volunteers
     bio: |
-        Introduction, overview of schedule, mention of sponsors, raffle prizes, and birds of a feather sessions
+        Introduction, logistics and overview of schedule, mention of sponsors, raffle prizes, and birds of a feather sessions
  -
     type: Keynote
     slides: 
