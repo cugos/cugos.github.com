@@ -126,6 +126,9 @@ nav {
 .sf-schedule-speaker {
   color: #999;
 }
+.sf-schedule-room{
+  color: #331584;
+}
 .sf-schedule-block p {
   margin: 0;
 }
@@ -183,8 +186,9 @@ nav {
         <p>⚡ Lightning Talk</p>
         {% endif %}
         <p><span class="sf-schedule-title">{{ item.title }}</span>,{% if item.slides %} <a href="{{ item.slides }}">Slides</a>{% endif %}<br>
-        {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
-        <span class="sf-schedule-description">{{ item.bio }}</span></p><br>
+          {% if item.room %}<span class="sf-schedule-room">{{ item.room }}</span><br>{% endif %}
+          {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
+          <span class="sf-schedule-description">{{ item.bio }}</span></p><br>
         <span class="sf-schedule-description">{{ item.description }}</span></p>
       </div>
     </div>
