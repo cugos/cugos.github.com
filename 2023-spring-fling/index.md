@@ -277,7 +277,7 @@ schedule:
     slides: 
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
     time: 3:10 PM
-    room: Zillow
+    room: Bezos (G04 on first floor)
     speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
     bio: |
       I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
