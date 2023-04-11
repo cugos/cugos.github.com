@@ -28,7 +28,7 @@ schedule:
     type: title
     title: Geo-floodgates aka doors open, come hell or high water
     time: 8:30 AM
-    room: Zillow Commons, 4th Floor Auditorium,
+    room: Foyer and hallway outside of Bezos (G04 on first floor)
     speaker: All
     slides: 
     bio: |
@@ -37,7 +37,7 @@ schedule:
     type: title
     title: Welcome to the 2023 Spring Fling!
     time: 9:00 AM
-    room: Zillow Commons, 4th Floor Auditorium,
+    room: Bezos (G04 on first floor)
     speaker: CUGOS volunteers
     bio: |
         Introduction, logistics and overview of schedule, mention of sponsors, raffle prizes, and birds of a feather sessions
@@ -46,7 +46,7 @@ schedule:
     slides: 
     title: I, For One, Welcome our New Overlords
     time: 9:25 AM
-    room: Zillow Commons, 4th Floor Auditorium,
+    room: Bezos (G04 on first floor)
     speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
       Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. 
@@ -58,7 +58,7 @@ schedule:
     slides: 
     title: The Allen Coral Atlas - monitoring coral reefs from space
     time: 9:55 AM
-    room: Zillow Commons, 4th Floor Auditorium,
+    room: Bezos (G04 on first floor)
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
      Eldan is a GIS consultant who mostly works on data processing and management pipelines using Python, PostGIS, GDAL and whatever else does the job.  He prioritises work with a clear positive social contribution, and his longest running project has been data ingestion and APIs for the Allen Coral Atlas.  Born in Istanbul, he spent many years in Southeastern England and Seattle, and now lives on Vancouver Island among the fishing grounds of the Songhees & Esquimalt First Nations.
@@ -71,9 +71,9 @@ schedule:
     slides: 
     title: "Break"
     time: 10:15 AM
-    room:  Moving from Zillow to Bezos (G04 on first floor)
-    speaker: All, CUGOS volunteers
-    bio: Short break, icebreakers with seatmates, switch room
+    room:  Foyer and hallway outside of Bezos (G04 on first floor)
+    speaker: All, CUGOS volunteers, Coffee Break  
+    bio: Short coffee break, icebreakers with seatmates
     
  -
     type: Talk
@@ -175,7 +175,7 @@ schedule:
     speaker: All participants
     room: Gallery outside of Bezos (G04 on first floor)
     bio: |
-        Eat pizza, meet old and new friends, or join a birds of a feather session.
+        Eat pizza, meet old and new friends, or join a birds of a feather (BOF) session.
  -
  
     type: Talk
