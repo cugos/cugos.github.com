@@ -28,7 +28,7 @@ schedule:
     type: title
     title: Geo-floodgates aka doors open, come hell or high water
     time: 8:30 AM
-    room: Foyer and hallway outside of Bezos (G04 on first floor)
+    room: Foyer and hallway outside of Bezos (G04 on the first floor)
     speaker: All
     slides: 
     bio: |
@@ -37,7 +37,7 @@ schedule:
     type: title
     title: Welcome to the 2023 Spring Fling!
     time: 9:00 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: CUGOS volunteers
     bio: |
         Introduction, logistics and overview of schedule, mention of sponsors, raffle prizes, and birds of a feather sessions
@@ -46,7 +46,7 @@ schedule:
     slides: 
     title: I, For One, Welcome our New Overlords
     time: 9:25 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
       Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. 
@@ -58,7 +58,7 @@ schedule:
     slides: 
     title: The Allen Coral Atlas - monitoring coral reefs from space
     time: 9:55 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Eldan Goldenberg, <a href="https://www.allencoralatlas.org/">Allen Coral Atlas</a>
     bio: |
      Eldan is a GIS consultant who mostly works on data processing and management pipelines using Python, PostGIS, GDAL and whatever else does the job.  He prioritises work with a clear positive social contribution, and his longest running project has been data ingestion and APIs for the Allen Coral Atlas.  Born in Istanbul, he spent many years in Southeastern England and Seattle, and now lives on Vancouver Island among the fishing grounds of the Songhees & Esquimalt First Nations.
@@ -71,7 +71,7 @@ schedule:
     slides: 
     title: "Break"
     time: 10:15 AM
-    room:  Foyer and hallway outside of Bezos (G04 on first floor)
+    room:  Foyer and hallway outside of Bezos (G04 on the first floor)
     speaker: All, CUGOS volunteers, Coffee Break  
     bio: Short coffee break, icebreakers with seatmates
     
@@ -80,7 +80,7 @@ schedule:
     slides: 
     title: Big Data Techniques for Processing Geospatial Trips and Derived Datasets at Scale
     time: 10:30 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
     bio: |
      Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions in transportation and mobility space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries. 
@@ -92,7 +92,7 @@ schedule:
     slides: 
     title: Revolutionizing Traffic Flow - Using Traffic Signal Performance Measures without Traditional Detection Methods
     time: 10:50 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Steve Remias, <a href="https://inrix.com/">Inrix</a>
     bio: |
      Steve Remias is currently the head of product strategy for signals at INRIX. Steve received his PhD from Purdue University and BSCE from Michigan State. Prior to joining INRIX he was an associate professor of civil engineering at Wayne State University in Detroit. His focus areas include traffic operations, probe vehicle data, traffic signal optimization, performance measurement, and using large data sets to solve transportation problems.
@@ -107,7 +107,7 @@ schedule:
     slides: 
     title: A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles
     time: 11:10 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Diana Bonnarens, <a href="https://gis.usc.edu/online-programs/masters-geographic-information-science-and-technology/">University of Southern California</a>
     bio: |
      I am currently a Master’s Student in the Geographic Information Science and Technology (GIST) Program at the University of Southern California’s Spatial Science Institute. I am interested in all things spatial, but I am particularly excited about cartography and remote sensing.
@@ -120,7 +120,7 @@ schedule:
     slides: 
     title: iSeaTree - Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
     time: 11:15 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Stephen Clemmer, <a href="https://www.democracylab.org/projects/502">iSeaTree / Democracy:Lab</a>
     bio: |
      Stephen Clemmer is a software developer and recent graduate of Code Fellows' program in Advanced Full-Stack Software Development with JavaScript. His professional experience includes project management, product management, and team leadership. Stephen is one of the MANY contributors working on DemocracyLab's 'iSeaTree' project.
@@ -132,7 +132,7 @@ schedule:
     slides: 
     title: An interactive web based geo-spatial tool for Integration of urban Green and Blue Infrastructure
     time: 11:35 AM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
     bio: |
      Karsten Vennemann is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, Terra GIS based in Seattle. He teaches classes in Open Source GIS and a good portion of this consulting work involves creating and supporting Open Source based Web GIS solutions.
@@ -144,7 +144,7 @@ schedule:
     slides: 
     title: From 2D to Spatial - My Data Journey and the Power of FOSS and Geospatial Technologies
     time: 11:55 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Kristen Narcisi, <a href="https://mgn.energy/">MicroGrid Networks LLC</a>
     bio: |
      Recent grad in Biomedical Informatics. Data Product Manager for renewable energy development company in NYC. 
@@ -158,9 +158,9 @@ schedule:
  
     type: Lightning Talk
     slides: 
-    title: QGIS with Python - Creating repeatable spatial analyses with limited python experience
+    title: QGIS with Python - Creating repeatable spatial analyses with limited Python experience
     time: 12:00 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
     bio: |
      I’m a certified urban planner with over 15 years of experience in data analysis and visualization, with an emphasis on spatial data. In every job I’ve held, I became the default analyst for the team. From calculating energy efficiency savings at a manufacturing plant as a mechanical engineer to creating traffic safety infographics as an urban planner, data has always been my passion.
@@ -173,7 +173,7 @@ schedule:
     title: "Lunch"
     time: 12:05 PM
     speaker: All participants
-    room: Gallery outside of Bezos (G04 on first floor)
+    room: Gallery outside of Bezos (G04 on the first floor)
     bio: |
         Eat pizza, meet old and new friends, or join a birds of a feather (BOF) session.
  -
@@ -182,7 +182,7 @@ schedule:
     slides: 
     title: Recent Development in JTS and GEOS
     time: 12:55 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Martin Davis,  <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://lin-ear-th-inking.blogspot.com/">Blog</a>
     bio: |
      Martin Davis is a geospatial software developer based in Victoria BC.  He has a long involvement with geospatial software development.  He is the originator of the JTS Topology Suite geometry library, and continues to actively develop it.  In the past he has worked on GeoServer and OpenJUMP.  He is a current contributor to the GEOS and PostGIS projects. 
@@ -195,7 +195,7 @@ schedule:
     slides: 
     title: Cloud-optimized geo data formats and the Python ecosystem
     time: 1:15 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Emilio Mayorga, <a href="https://www.apl.uw.edu/">Applied Physics Laboratory, University of Washington</a>
     bio: |
      I am an environmental data scientist (or data engineer?) with a research background in oceanography and watershed science. I focus on systems, software and practices for the management and open dissemination of environmental data in marine and terrestrial applications. My work emphasizes collaborative approaches and tools (open source and open data) that engage diverse partners, and this work ranges from local (Pacific NW) to national and global applications.
@@ -207,7 +207,7 @@ schedule:
     slides: 
     title: PostGIS Fun Functions
     time: 1:35 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Paul Ramsey, <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://blog.cleverelephant.ca">Blog</a>
     bio: |
      Paul Ramsey is an open source programmer and educator. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee.
@@ -219,7 +219,7 @@ schedule:
     slides: 
     title: Vector Tiles Directly from a PostGIS Database with db2vector
     time: 1:55 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
     bio: |
      I received a PhD in Applied Math in 2008 from UC Davis and then was a researcher at TU Berlin, TU Munich and Caltech. In 2014 I started HowLoud, to build a national environmental noise map. That project was my introduction to geospatial work. In 2021 I started Clockwork Micro to offer geospatial microservices.
@@ -231,7 +231,7 @@ schedule:
     slides: 
     title: "Break"
     time: 2:15 PM
-    room: Gallery outside of Bezos (G04 on first floor)
+    room: Gallery outside of Bezos (G04 on the first floor)
     speaker: All participants
     bio: |
         Short break.
@@ -241,7 +241,7 @@ schedule:
     slides: 
     title: Using RStudio for Practical Geospatial Analysis
     time: 2:25 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
     bio: |
      I am a Solutions Engineer at Posit PBC, formerly "RStudio".  My background is predominantly in code-based spatial analysis and data engineering using Python, R, PostGIS and a bunch of other Open Source tools.  I have worked in the software industry on spatial data processing toolchains since 2005.  I am inspired by what can be accomplished by working within a set of constraints.  Give me a good basic set of tools which can be chained together, over a fancy Unicorn, any day.   
@@ -253,7 +253,7 @@ schedule:
     slides: 
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
     time: 2:45 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Phil Hurvitz, <a href="https://csde.washington.edu/">UW CSDE</a>
     bio: |
      Phil Hurvitz is a research scientist at the UW Center for Studies in Demography and Ecology (CSDE), where he directs the UW Data Collaborative, consults for CSDE affiliates and students, and works on a variety of extramurally funded research projects. Phil hods a PhD in urban design and planning from the UW and does. research on the relationship between built environment and health-related behaviors using objective data and open-source tools, focusing on reproducibility and transparency.
@@ -265,7 +265,7 @@ schedule:
     slides: 
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
     time: 3:05 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Matt Stevenson, <a href="https://www.coregis.net">CORE GIS</a>
     bio: |
       Matt specializes in cartography, spatial analysis, web mapping, conservation planning, and GIS project management. He works primarily with government agencies and non-profits focused on conservation and restoration. Matt has twentyfive years of experience using GIS to convey complex spatial information with striking cartography and eye-catching graphics. He holds a B.S. in Public Planning from Northern Arizona University and a Masters in Urban Planning from the University of Washington.
@@ -277,7 +277,7 @@ schedule:
     slides: 
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
     time: 3:10 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Arkajyoti Saha, <a href="https://stat.uw.edu/">Department of Statistics, University of Washington</a>
     bio: |
       I am a UW data science postdoctoral fellow in the Department of Statistics at University of Washington, with Daniela Witten and Jacob Bien. I am also affiliated with the Simons Collaboration on Computational Biogeochemical Modeling of Marine Ecosystems. I received my Ph.D. from the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health advised by Nilanjan Chatterjee and Abhirup Datta. I completed my M.Stat & B.Stat from Indian Statistical Institute, Kolkata prior to that.
@@ -289,7 +289,7 @@ schedule:
     slides: 
     title: Drone-based LiDAR and Thermography for the UW Community
     time: 3:30 PM
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: Keenan Ganz, <a href="https://sites.uw.edu/rsgal">University of Washington RSGAL</a>
     bio: |
      Keenan Ganz (he/him) is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health. 
@@ -323,7 +323,7 @@ schedule:
  -
     type: title
     title: OpenSidewalks mapping 101
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: OpenSidewalks team and volunteers
     time: 9:45 AM
     bio: |
@@ -331,7 +331,7 @@ schedule:
  -
     type: title
     title: A short data + accessibility interest survey
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: OpenSidewalks team and volunteers    
     time: 10:20 AM
     bio: |
@@ -339,7 +339,7 @@ schedule:
  -
     type: title
     title: Local mapping teams showcase 1
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     speaker: OpenSidewalks team and volunteers   
     time: 10:30 AM
     bio: |
@@ -348,7 +348,7 @@ schedule:
     type: title
     title: OpenSidewalks Tasking manager
     speaker: OpenSidewalks team and volunteers   
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     time: 11:15 AM
     bio: |
          How to and practice
@@ -362,7 +362,7 @@ schedule:
  -
     type: title
     title: Local mapping teams showcase 2 
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     time: 1:30 PM
     speaker: Katherine Chacon Martinez, effort leader in Quito, Ecuador 
     bio: |
@@ -371,14 +371,14 @@ schedule:
  -
     type: title
     title: Collaborative live mapping in the Tasking Manager 
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     time: 2:15 PM
     bio: |
         and how to organize local mapping teams.
  -
     type: title
     title: Active mapping and Q&A
-    room: Bezos (G04 on first floor)
+    room: Bezos (G04 on the first floor)
     time: 2:45 PM
     speaker: OpenSidewalks team and volunteers    
     bio: |
