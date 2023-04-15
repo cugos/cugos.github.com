@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+alert_text: "The 2023 Spring Fling is on April 21st - Register Now!"
+alert_url: /2023-spring-fling
 extra_js: /static/js/feed.js
 ---
 
