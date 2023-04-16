@@ -131,7 +131,7 @@ schedule:
  -   
     type: Talk
     slides: 
-    title: An interactive web based toolfor integration of urban Green and Blue Infrastructure
+    title: An interactive web based toolfor integration of urban Green and Blue Infrastructure
     time: 11:35 AM
     room: Bezos (G04 on the first floor)
     speaker: Karsten Vennemann, <a href="https://www.terragis.net/">TerraGIS</a>
