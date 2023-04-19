@@ -82,11 +82,12 @@ schedule:
     title: Big Data Techniques for Processing Geospatial Trips and Derived Datasets at Scale
     time: 10:30 AM
     room: Bezos (G04 on the first floor)
-    speaker: Trang Nguyen, <a href="https://inrix.com/">Inrix</a>
+    speaker: Trang Nguyen and Devon Simpson <a href="https://inrix.com/">Inrix</a>
     bio: |
-     Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions in transportation and mobility space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries. 
+     Devon Simpson is a technical program manager at INRIX with a background in data analytics and visualization for large data. At INRIX she focuses on the visualization and analysis of safety for Vision Zero efforts. Trang Nguyen is a lead software developer at INRIX. She has worked on building data-driven analytic solutions using trips data in the transportation, mobility and financial services space. In her work, she utilizes cloud-based infrastructure on AWS, OpenStreetMaps, as well as a variety of opensource geospatial tools and libraries such as JTS and Apache Sedona.
+. 
     description: |
-      INRIX processes over .5 TB raw GPS points sourced by connected car providers and mobile apps into trips and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities and governments along with retail businesses, who use the data to gain insights on travel demand, mobility trends, among other use cases. This talk gives an overview of some of the evolving technologies that INRIX has used over the years to process, store and retrieve data that is geospatial in nature at big data scale.
+      INRIX processes over 2 TB raw GPS points sourced daily by connected car providers and mobile apps into trips, visits and vehicle trajectories. The data is used to drive downstream SaaS product tooling and data analytics sold to cities, governments, and retail businesses. This talk gives an overview of how data analytics built on top of trips data can be used to provide insights on travel demand and mobility, safety risk scores and other use cases. We will discuss some of the challenges and dive into technology stack needed to process spatial and temporal data at scale.
       
  -
     type: Talk
