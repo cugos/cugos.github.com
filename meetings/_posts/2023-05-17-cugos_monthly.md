@@ -1,12 +1,12 @@
 ---
 layout: meeting
 title: May 17th 2023
-location: University of Washington, TBD
-address: TBD
+location: Bloedel Hall Room 292, University of Washington
+address: Seattle, WA 98195
 time: 6:00pm-7:30pm
 excerpt: May 17, 2023 CUGOS Monthly Meeting
-lat: 47.653807
-lng: -122.307835
+lat: 47.65137
+lng: -122.30795
 category: meetings
 notes: We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
