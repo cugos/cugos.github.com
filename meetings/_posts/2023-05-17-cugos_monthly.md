@@ -10,6 +10,7 @@ lng: -122.30795
 category: meetings
 notes: We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
+**Joey Hulbert** will talk about Open analyses of open data: learning from community efforts to map the dieback of western redcedar. Joey is a postdoc at WSU based in Tacoma/Puyallup. He and the team has been studying the dieback of western redcedar trees throughout the PNW with the incredible help of many community scientists, using iNaturalist. Now, with nearly 2,200 mapped trees, we are (re)starting some spatial analyses and looking for more collaborators to test some spatial hypotheses. We aim to complete the analyses as openly as possible and welcome anyone to contribute. 
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
