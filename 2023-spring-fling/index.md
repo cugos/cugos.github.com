@@ -106,7 +106,7 @@ schedule:
  
     type: Lightning Talk
     slides: 
-    title: <a href="https://docs.google.com/presentation/d/1pAI4kInM50Buc4UtI3UkkDvv4Jj5o5vL5qEpsm58LDo/edit?usp=sharing">A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles</a>
+    title: <a href="presentations/Diana_Bonnarens_MTLA_Presentation_CUGOS_SF_2023.pdf">A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles</a>
     time: 11:10 AM
     room: Bezos (G04 on the first floor)
     speaker: Diana Bonnarens, <a href="https://gis.usc.edu/online-programs/masters-geographic-information-science-and-technology/">University of Southern California</a>
@@ -159,7 +159,7 @@ schedule:
  
     type: Lightning Talk
     slides: 
-    title: <a href="presentations/Lisa Enns CUGOS QGIS with Python.pptx">QGIS with Python - Creating repeatable spatial analyses with limited Python experience</a>
+    title: <a href="presentations/Lisa_Enns_CUGOS_QGIS_with_Python.pptx">QGIS with Python - Creating repeatable spatial analyses with limited Python experience</a>
     time: 12:00 PM
     room: Bezos (G04 on the first floor)
     speaker: Lisa Enns, <a href="https://www.ennsanalytics.com/">Enns Analytics</a>
@@ -181,7 +181,7 @@ schedule:
  
     type: Talk
     slides: 
-    title: <a href="presentations/Martin Davis Recent Development in JTS and GEOS.pptx">Recent Developments in JTS and GEOS</a>
+    title: <a href="presentations/Martin_Davis_Recent_Development_in_JTS_and_GEOS.pdf">Recent Developments in JTS and GEOS</a>
     time: 12:55 PM
     room: Bezos (G04 on the first floor)
     speaker: Martin Davis,  <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://lin-ear-th-inking.blogspot.com/">Blog</a>
@@ -218,7 +218,7 @@ schedule:
  -
     type: Talk
     slides: 
-    title: <a href="https://docs.google.com/presentation/d/1mkCPcVUf6DksVsL-QXg1ToJBFDOiAJiUhGibQ-ZdSyA/edit?usp=sharing">Vector Tiles Directly from a PostGIS Database with db2vector</a>
+    title: <a href="presentations/Brendan_Farrell_Vector_Tiles_CUGOS_Spring_Fling.pdf">Vector Tiles Directly from a PostGIS Database with db2vector</a>
     time: 1:55 PM
     room: Bezos (G04 on the first floor)
     speaker: Brendan Farrell, <a href="https://www.clockworkmicro.com/">Clockwork Micro</a>
@@ -240,7 +240,7 @@ schedule:
  -
     type: Talk
     slides: 
-    title: <a href="presentations/Roger Andre RStudio for Practical Geospatial Analysis.pdf">Using RStudio for Practical Geospatial Analysis</a>
+    title: <a href="presentations/Roger_Andre_RStudio_for_Practical_Geospatial_Analysis.pdf">Using RStudio for Practical Geospatial Analysis</a>
     time: 2:25 PM
     room: Bezos (G04 on the first floor)
     speaker: Roger Andre, <a href="https://posit.co/">Posit PBC</a>
@@ -264,7 +264,7 @@ schedule:
  -
     type: Lightning Talk
     slides: 
-    title: <a href="presentations/Matt Stevenson - STHL, RStudio, and GRTS Spring Fling 2023.pptx">Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds</a>
+    title: <a href="presentations/Matt_Stevenson_STHL_RStudio_and_GRTS_Spring_Fling_2023.pdf">Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds</a>
     time: 3:05 PM
     room: Bezos (G04 on the first floor)
     speaker: Matt Stevenson, <a href="https://www.coregis.net">CORE GIS</a>
