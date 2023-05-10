@@ -44,7 +44,7 @@ schedule:
         Introduction, logistics and overview of schedule, mention of sponsors, raffle prizes, and birds of a feather sessions
  -
     type: Keynote
-    slides: 
+    slides: https://www.youtube.com/watch?v=RN7SSj5LB6k
     title: I, For One, Welcome our New Overlords
     time: 9:25 AM
     room: Bezos (G04 on the first floor)
@@ -56,7 +56,7 @@ schedule:
       
  -
     type: Talk
-    slides: 
+    slides: Eldan_Goldenberg_20230421_cugos_allencoralatlas.pptx
     title: The Allen Coral Atlas - monitoring coral reefs from space
     time: 9:55 AM
     room: Bezos (G04 on the first floor)
@@ -78,7 +78,7 @@ schedule:
     
  -
     type: Talk
-    slides: 
+    slides: Trang_Devon_INRIX_CUGOS-TripsPresentation.pptx
     title: Big Data Techniques for Processing Geospatial Trips and Derived Datasets at Scale
     time: 10:30 AM
     room: Bezos (G04 on the first floor)
@@ -90,7 +90,7 @@ schedule:
       
  -
     type: Talk
-    slides: 
+    slides: steve_remias_20230419_CUGOS_Signals.pptx
     title: Revolutionizing Traffic Flow - Using Traffic Signal Performance Measures without Traditional Detection Methods
     time: 10:50 AM
     room: Bezos (G04 on the first floor)
@@ -105,7 +105,7 @@ schedule:
  -
  
     type: Lightning Talk
-    slides: 
+    slides: Diana_Bonnarens_MTLA_Presentation_CUGOS_SF_2023.pdf
     title: A Spatiotemporal Analysis of Environmental and Social Conditions in Parks Prioritized by Million Trees Los Angeles
     time: 11:10 AM
     room: Bezos (G04 on the first floor)
@@ -118,7 +118,7 @@ schedule:
  -
  
     type: Talk
-    slides: 
+    slides: stephen_clemmer_iSeaTree_Presentation_CUGOS_04192023.pptx
     title: iSeaTree - Quantifying & Tracking Urban Forestry Benefits with Open Data and Open Software
     time: 11:15 AM
     room: Bezos (G04 on the first floor)
@@ -130,7 +130,7 @@ schedule:
   
  -   
     type: Talk
-    slides: 
+    slides: Karsten_Vennemann_BG_Tool.pdf
     title: An interactive web based tool for integration of urban Green and Blue Infrastructure
     time: 11:35 AM
     room: Bezos (G04 on the first floor)
@@ -142,7 +142,7 @@ schedule:
 
  -
     type: Lightning Talk
-    slides: 
+    slides: CUGOS_Presentation_Narcisi.pptx
     title: From 2D to Spatial - My Data Journey and the Power of FOSS and Geospatial Technologies
     time: 11:55 PM
     room: Bezos (G04 on the first floor)
@@ -158,7 +158,7 @@ schedule:
  -
  
     type: Lightning Talk
-    slides: 
+    slides: Lisa_Enns_CUGOS_QGIS_with_Python.pptx
     title: QGIS with Python - Creating repeatable spatial analyses with limited Python experience
     time: 12:00 PM
     room: Bezos (G04 on the first floor)
@@ -180,8 +180,8 @@ schedule:
  -
  
     type: Talk
-    slides: 
-    title: Recent Development in JTS and GEOS
+    slides: Martin_Davis_Recent_Development_in_JTS_and_GEOS.pdf
+    title: Recent Developments in JTS and GEOS
     time: 12:55 PM
     room: Bezos (G04 on the first floor)
     speaker: Martin Davis,  <a href="https://www.crunchydata.com">Crunchy Data</a> and <a href="http://lin-ear-th-inking.blogspot.com/">Blog</a>
@@ -217,7 +217,7 @@ schedule:
 
  -
     type: Talk
-    slides: 
+    slides: Brendan_Farrell_Vector_Tiles_CUGOS_Spring_Fling.pdf
     title: Vector Tiles Directly from a PostGIS Database with db2vector
     time: 1:55 PM
     room: Bezos (G04 on the first floor)
@@ -239,7 +239,7 @@ schedule:
 
  -
     type: Talk
-    slides: 
+    slides: Roger_Andre_RStudio_for_Practical_Geospatial_Analysis.pdf
     title: Using RStudio for Practical Geospatial Analysis
     time: 2:25 PM
     room: Bezos (G04 on the first floor)
@@ -251,7 +251,7 @@ schedule:
 
  -
     type: Talk
-    slides: 
+    slides: http://gis.washington.edu/phurvitz/presentations/2023/cugos_2023/
     title: Using R Markdown to create self-documenting research reports, including geospatial analysis and tabular, graphical, and map outputs
     time: 2:45 PM
     room: Bezos (G04 on the first floor)
@@ -263,7 +263,7 @@ schedule:
       
  -
     type: Lightning Talk
-    slides: 
+    slides: Matt_Stevenson_STHL_RStudio_and_GRTS_Spring_Fling_2023.pdf
     title: Using GRTS in RStudio to Build a Sampling Frame for Endangered Birds
     time: 3:05 PM
     room: Bezos (G04 on the first floor)
@@ -275,7 +275,7 @@ schedule:
 
  -
     type: Talk
-    slides: 
+    slides: Arkajyoti_Saha_BRISC_in_R.pdf
     title: Embarrassingly parallel large-scale geospatial analysis with Nearest Neighbor Gaussian Processes using the BRISC R-package
     time: 3:10 PM
     room: Bezos (G04 on the first floor)
@@ -287,7 +287,7 @@ schedule:
 
  -
     type: Talk
-    slides: 
+    slides: Keenan_Ganz_DroneLidar.pptx
     title: Drone-based LiDAR and Thermography for the UW Community
     time: 3:30 PM
     room: Bezos (G04 on the first floor)
