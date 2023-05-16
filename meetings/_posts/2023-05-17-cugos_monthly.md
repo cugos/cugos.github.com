@@ -8,7 +8,7 @@ excerpt: May 17, 2023 CUGOS Monthly Meeting
 lat: 47.65137
 lng: -122.30795
 category: meetings
-notes: We will adjourn to the College Inn Pub for a happy hour after the meeting!
+notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 **Joey Hulbert** will talk about Open analyses of open data: learning from community efforts to map the dieback of western red cedar. Joey is a postdoc at WSU based in Tacoma/Puyallup. He and the team has been studying the dieback of western red cedar trees throughout the PNW with the incredible help of many community scientists, using iNaturalist. Now, with nearly 2,200 mapped trees, we are (re)starting some spatial analyses and looking for more collaborators to test some spatial hypotheses. We aim to complete the analyses as openly as possible and welcome anyone to contribute. 
 
