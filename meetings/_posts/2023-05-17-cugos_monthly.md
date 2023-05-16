@@ -12,6 +12,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ---
 **Joey Hulbert** will talk about Open analyses of open data: learning from community efforts to map the dieback of western red cedar. Joey is a postdoc at WSU based in Tacoma/Puyallup. He and the team has been studying the dieback of western red cedar trees throughout the PNW with the incredible help of many community scientists, using iNaturalist. Now, with nearly 2,200 mapped trees, we are (re)starting some spatial analyses and looking for more collaborators to test some spatial hypotheses. We aim to complete the analyses as openly as possible and welcome anyone to contribute. 
 
+**We** will have a short recap about our Spring-Fling last month, plan for next meetings, collect input on all your favorite topics you would like to hear about in our meetings, and discuss the idea of establishing CUGOS (sofware/student) grants .
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-05-17-cugos_monthly.md) or reach out to us hello@cugos.org
