@@ -12,7 +12,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ---
 **Nathaniel Henry** will talk about **Mapping 15-minute neighborhoods within Seattle**. Nathan is a geographer and public health researcher who uses spatial analysis to illuminate health inequalities. As a member of the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, I serve as a research lead for international mapping studies of maternal and child health. My current work is split between (1) understanding the spatial determinants of health outcomes within cities, and (2) developing open-source software for spatial statistical modeling.
 
-**We** will have a dicussion about coming up with new topics for our meetings in teh Fall and preparing a workshop style meetign about cartography.
+**We** will have a dicussion about coming up with new topics for our meetings in the Fall and about preparing a workshop-style or maptime-style meeting about cartography.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
