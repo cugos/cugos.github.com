@@ -12,6 +12,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ---
 **Keenan Ganz** will talk about **thermal modeling with LiDAR** data from NSF NEON. Keenan is a PhD student in the Remote Sensing and Geospatial Analysis Laboratory at UW. He studies canopy temperature in conifer forests at multiple scales: in situ thermometers, drone thermography, and satellite imagery. Keenan is interested in developing software to refine canopy temperature measurements, and in using these data to monitor forest health.
 
+Qingyue Li will present a data visualization and mapping project she is currently working on, entitled "Carbs on the Coast.
+
 **Karsten Vennemann** will share some notes on efficiently obtaining and consolidating US Census bloc and bloc group data (including disaggregated US election results from 2016,2018 and 2020).
 
 **We** will have a dicussion about coming up with new topics for our meetings in October and November.
