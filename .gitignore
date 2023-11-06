@@ -2,3 +2,10 @@ _site
 *~
 src/node_modules/
 .DS_Store
+*.vsidx
+.vs/cugos.github.com/FileContentIndex/6700c4bb-c6e4-40b9-8123-162a661c9a27.vsidx
+.vs/cugos.github.com/v17/.wsuo
+*.sqlite
+.vs/cugos.github.com/FileContentIndex/6700c4bb-c6e4-40b9-8123-162a661c9a27.vsidx
+.vs/cugos.github.com/FileContentIndex/6700c4bb-c6e4-40b9-8123-162a661c9a27.vsidx
+.vs/slnx.sqlite

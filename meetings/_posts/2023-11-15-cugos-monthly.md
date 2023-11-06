@@ -10,7 +10,7 @@ lng: -122.30795
 category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
-**Anthony Stewart**, has been studying carbon storage in wetlands, and will talk about his work to inventory how much carbon is stored in Washington's soils.
+**Anthony Stewart**, has dedicated his research to the study of carbon storage in wetlands and will be presenting his initial findings on quantifying the amount of carbon sequestered in the soils of Washington.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
