@@ -2,7 +2,7 @@
 layout: meeting
 title: December 20 2023
 location: Stoup Brewing Company
-address: 1158 Broadway · Seattle, WA
+address: 1158 Broadway, Seattle, WA
 time: 6:00pm-7:30pm
 excerpt: December 20, 2023 CUGOS Monthly Meeting
 lat:  47.61296
