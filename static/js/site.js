@@ -77,6 +77,8 @@ function buildMapMarker(elem, markers) {
   var layer = L.tileLayer(url);
   var map = L.mapbox.map(elem.id).addLayer(layer);
 
+  map.attributionControl.addAttribution(` © <a href="http://www.clockworkmicro.com/">CWM</a>, <a href="http://www.openstreetmap.org/copyright">OSM</a>, <a href="https://www.naturalearthdata.com/">Nat. Earth</a>`);
+
   if (!markers) {
     var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
     map.setView(coordinates, 12);
