@@ -14,7 +14,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **All** Elections! At this month's meeting we'll have 2024 board elections. If you're interested in learning more about what the board does checkout the [bylaws](https://cugos.org/about/bylaw/cugos_bylaws_2016.pdf) as well as past [meeting notes](https://cugos.org/about/). Feel free to reach out to hello@cugos.org with any questions.
 
-**Karsten Vennemannn** will do a 30-45 minute mini-workshop on PostGRESQL/PostGIS.  
+**Karsten Vennemannn** will do a 30-45 minute mini-workshop on PostgreSQL/PostGIS.  
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
