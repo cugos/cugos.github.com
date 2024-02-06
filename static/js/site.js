@@ -73,11 +73,15 @@ function buildMapMarker(elem, markers) {
 
   L.mapbox.accessToken = 'pk.eyJ1IjoiY3Vnb3MiLCJhIjoidGNnSlBNTSJ9.qPHDxAemDindkSskKNv90g';
 
+  var url = 'https://maps.clockworkmicro.com/streets/v1/raster/{z}/{x}/{y}?x-api-key=QTAgfbPHPESSEpqPEGtk8PdMXpsUnld2Dzy53jh8';
+  var layer = L.tileLayer(url);
+  var map = L.mapbox.map(elem.id).addLayer(layer);
 
-  var map;
+  map.attributionControl.addAttribution(` © <a href="http://www.clockworkmicro.com/">CWM</a>, <a href="http://www.openstreetmap.org/copyright">OSM</a>, <a href="https://www.naturalearthdata.com/">Nat. Earth</a>`);
+
   if (!markers) {
     var coordinates = [elem.getAttribute('data-latitude'), elem.getAttribute('data-longitude')];
-    map = L.mapbox.map(elem.id).addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11')).setView(coordinates, 12);
+    map.setView(coordinates, 12);
     var marker = L.marker(coordinates, {
       icon: L.mapbox.marker.icon({
         'marker-size': 'large',
@@ -87,7 +91,7 @@ function buildMapMarker(elem, markers) {
     }).addTo(map);
     if (elem.getAttribute('data-popup')) marker.bindPopup(elem.getAttribute('data-popup'));
   } else {
-    map = L.mapbox.map(elem.id).addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11')).setView([0,0], 3);
+    map.setView([0,0], 3);
     var group = L.mapbox.featureLayer();
     for (var l = 0; l < markers.length; l++) {
       var mark = createMarker(markers[l]);
