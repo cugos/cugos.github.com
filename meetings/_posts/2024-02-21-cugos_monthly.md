@@ -10,11 +10,11 @@ lng: -122.30795
 category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
-**We** will de discussing plans for a possible special CUGOS, workshop Spring or Fall Fling (mini conference) in 2024, and plan ahead for our next meetings. 
+**We** will de discussing plans for a possible special CUGOS Workshop, a Spring (unlikely) or Fall Fling (mini conference) in 2024, and plan ahead for our next meetings. 
 
 **All** Elections! At this month's meeting we'll have 2024 board elections. If you're interested in learning more about what the board does checkout the [bylaws](https://cugos.org/about/bylaw/cugos_bylaws_2016.pdf) as well as past [meeting notes](https://cugos.org/about/). Feel free to reach out to hello@cugos.org with any questions.
 
-**Karsten Vennemann** will show how to create a custom user interface with QT5 to add to a QGIS python plug-in.
+**Karsten Vennemann** will show how to create a custom user interface with Qt designer that one can use in a QGIS Python plug-in.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
