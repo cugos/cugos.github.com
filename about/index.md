@@ -30,12 +30,16 @@ Bylaws
 
 Current CUGOS board 
 =======
-Elected in the monthly CUGOS meeting [on January 18th 2023](https://cugos.org/meetings/2023-01-18/) and board positions determined. Short initial [board meeting the same day](https://cugos.org/notes/2023-01-18/)
+Elected in the monthly CUGOS meeting [on February 20th 2024](https://cugos.org/meetings/2024-02-21/) . Board positions were determined in the [board meeting on March 11th 2024 ](https://cugos.org/notes/2023-03-11/)
 
 * President - [Karsten Vennemann](https://www.osgeo.org/member/vennemann/)
-* Vice President - Matt Stevenson 
-* Secretary - Qingyue Li 
-* Treasurer - Ranek Kiil 
+* Vice President - Christy Heaton
+* Secretary - Keenan Ganz
+* Treasurer - Nat Henry
+* Board member at large - Ben Silver
+* Board member at large - Matt Stevenson
+* Board member at large - Ranek Kiil
+* Board member at large - Qingyue Li
 
 Incorporation Documents
 =======
