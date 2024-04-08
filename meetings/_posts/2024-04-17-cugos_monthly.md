@@ -11,6 +11,8 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
+[Lisa Enns](https://www.ennsanalytics.com/) will present on using R for census data pulls. We'll start with a brief overview of the different types of census surveys and geography types so you have a better idea of what survey to use for different analyses. We'll then explore some basic R code and a few additional resources to use when looking into census data.
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/main/meetings/_posts/2024-4-17-cugos_monthly.md) or reach out to us hello@cugos.org
