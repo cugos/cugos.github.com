@@ -11,7 +11,7 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
-**Aaron Schechter** will present on his current mapping projects.
+**[Aaron Schechter](https://amschechter.github.io/)** will present on his current mapping projects.
 
 **[Christy Heaton](https://christyheaton.github.io/)** will talk about using the Python [Streamlit](https://streamlit.io/) library to make dashboards with maps.
 
