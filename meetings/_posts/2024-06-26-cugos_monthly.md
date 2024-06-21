@@ -8,12 +8,14 @@ excerpt: June 26, 2024 CUGOS Monthly Meeting
 lat: 47.65137
 lng: -122.30795
 category: meetings
-notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let it. We will adjourn to the College Inn Pub for a happy hour after the meeting!
+notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
 **[Aaron Schechter](https://amschechter.github.io/)** will present on his current mapping projects.
 
 **[Christy Heaton](https://christyheaton.github.io/)** will talk about using the Python [Streamlit](https://streamlit.io/) library to make dashboards with maps.
+
+**Fred Lott** will talk about some initial steps in a project to convert hiking tracks to music.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
