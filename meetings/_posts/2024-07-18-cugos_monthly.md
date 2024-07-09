@@ -5,8 +5,8 @@ location: Bale Breaker & Yonder Cider Taproom
 address: 826 NW 49th St, Seattle, WA 98107
 time: 6:00pm-8:00pm
 excerpt: July 18, 2024 CUGOS GeoBeers
-lat: 47.6652461
-lng: -122.3863201
+lat: 47.66519164002905
+lng: -122.3675796
 category: meetings
 notes:
 ---
