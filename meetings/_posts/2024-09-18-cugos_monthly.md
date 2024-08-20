@@ -11,7 +11,7 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
-**Brendan Farrell** of **[Clockwork Micro]**(https://www.clockworkmicro.com/) will share observations from his year working in GIS in Paris. He'll discuss open data, the IGN (French equivalent of the USGS) and one of his favorites: Le Salon International de l'Agriculture.
+**Brendan Farrell** of **[Clockwork Micro](https://www.clockworkmicro.com/)** will share observations from his year working in GIS in Paris. He'll discuss open data, the IGN (French equivalent of the USGS) and one of his favorites: Le Salon International de l'Agriculture.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
