@@ -1,21 +1,19 @@
 ---
 layout: meeting
-title: September 18th 2024
+title: October 16th 2024
 location: Bloedel Hall Room 292, University of Washington
 address: Seattle, WA 98195
 time: 6:00pm-7:30pm
-excerpt: September 18, 2024 CUGOS Monthly Meeting
+excerpt: October 16, 2024 CUGOS Monthly Meeting
 lat: 47.65137
 lng: -122.30795
 category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
-**Brendan Farrell** of **[Clockwork Micro](https://www.clockworkmicro.com/)** will share observations from his year working in GIS in Paris. He'll discuss open data, the IGN (French equivalent of the USGS) and one of his favorites: Le Salon International de l'Agriculture.
+**Richard Greenwood** of **[Greenwood Mapping](https://greenwoodmap.com)** will share insights from his 30-year career, starting as a land surveyor and evolving into a GIS professional specializing in open-source solutions. He has developed and supported more than a dozen County-focused MapServers in Idaho and Wyoming. These online maps are powered by his custom web mapping platform, built on MapServer, OpenLayers, and PostGIS. The maps provide public access to geographic data and legal documents, and are essential tools supporting county tax assessors, treasurers, and clerks in their daily work.
 
-**[Karsten Vennemann](https://www.terragis.net)** will showcase a [web-based Land Evaluation Tool](http://declare.terragis.net) designed to assess land suitability for cultivating crops such as maize, cassava, and cotton in Northern Benin and Northern Ghana. This tool is an integral component of the [DeClaRe project](https://www.uni-kassel.de/forschung/declare/home) ("Decision Support for Strengthening Land Resilience in the Face of Global Challenges"). DeClaRe is an interdisciplinary agricultural science initiative, and this tool contributes to a broader decision support system (DSS) aimed at enhancing land use, management, and policy development.
-
-**[Keenan Ganz](https://s-kganz.github.io/)** will demo NASA's `earthaccess` package, a Python API for querying and downloading remote sensing products. We will also talk about strategies for working with large geospatial datasets in Python.
+**Christy Heaton** will briefly talk about the [30 Day Map Challenge](https://30daymapchallenge.com/) coming up next month.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
