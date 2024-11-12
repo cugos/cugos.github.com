@@ -13,6 +13,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **Several CUGOS members** will share their maps from the [#30DayMapChallenge](https://30daymapchallenge.com/).
 
+**Michael Babb** will describe how NetworkX and GeoPandas can be used to identify the discontinuities in Seattle streets.
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/main/meetings/_posts/2024-06-26-cugos_monthly.md) or reach out to us hello@cugos.org
