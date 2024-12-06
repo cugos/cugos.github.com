@@ -10,7 +10,7 @@ lng: -122.32052
 category: meetings
 notes: Last CUGOS meeting of the year - informal
 ---
-Join us for Holiday GeoBeers (joint with Seattle Maptime group) in a casual setting at Stoup (formerly Optimism) Brewing Company (Capitol Hill near the intersection of Broadway and E Union) !
+Join us for Holiday GeoBeers in a casual setting at Stoup (formerly Optimism) Brewing Company (Capitol Hill near the intersection of Broadway and E Union) !
 
 **What to expect:** Good times with fellow mappers! Geo and non-geo talk!
 
