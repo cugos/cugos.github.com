@@ -28,40 +28,40 @@ Bylaws
 =======
 * [Current Bylaws](bylaw/cugos_bylaws_2016.pdf){:target="_blank"}
 
-Current CUGOS board 
+Current CUGOS board
 =======
 Elected in the monthly CUGOS meeting [January 15th 2025](https://cugos.org/meetings/2025-01-15/). Board positions were determined in the [board meeting on February 3rd 2025](https://cugos.org/notes/2025-02-03/)
 
 * President - Christy Heaton
 * Vice President - Matt Stevenson
 * Secretary - Keenan Ganz
-* Treasurer - Nat Henry
+* Treasurer - [Nat Henry](https://henryspatialanalysis.com)
 * Board member at large - Ben Silver
 * Board member at large - [Karsten Vennemann](https://www.osgeo.org/member/vennemann/)
 
 Incorporation Documents
 =======
-* [Articles of Incorporation](inc/articles_of_incorporation.pdf){:target="_blank"}  
-* [Amendment to Arcitles of Incorporation - 2013](inc/cugos_amend_articles_of_inc_090313.pdf){:target="_blank"}  
-* [IRS EIN Number](inc/cugos-ein.pdf){:target="_blank"}  
-* [IRS 501c6 Exemption Approval Letter](inc/cugos_exemption_approval_letter.pdf){:target="_blank"}  
-* [CUGOS w9](inc/cugos_w9.pdf){:target="_blank"}  
+* [Articles of Incorporation](inc/articles_of_incorporation.pdf){:target="_blank"}
+* [Amendment to Arcitles of Incorporation - 2013](inc/cugos_amend_articles_of_inc_090313.pdf){:target="_blank"}
+* [IRS EIN Number](inc/cugos-ein.pdf){:target="_blank"}
+* [IRS 501c6 Exemption Approval Letter](inc/cugos_exemption_approval_letter.pdf){:target="_blank"}
+* [CUGOS w9](inc/cugos_w9.pdf){:target="_blank"}
 
 IRS Annual Reports
 =======
-* [990 - 2018](inc/990-N-2018.pdf){:target="_blank"} 
-* [990 - 2015](inc/990-N-2015-Rec.png){:target="_blank"}  
-* [990 - 2013](inc/990-N-2013-Rec.png){:target="_blank"}  
+* [990 - 2018](inc/990-N-2018.pdf){:target="_blank"}
+* [990 - 2015](inc/990-N-2015-Rec.png){:target="_blank"}
+* [990 - 2013](inc/990-N-2013-Rec.png){:target="_blank"}
 
 Financial Reports
 =======
-* [Balance Sheet - 2015](bank/cugos_bs_2015.pdf){:target="_blank"}  
-* [P&L - 2015](bank/cugos_pl_2015.pdf){:target="_blank"}  
-* [Balance Sheet - 2014](bank/cugos_bs_2014.pdf){:target="_blank"}  
-* [P&L - 2014](bank/cugos_pl_2014.pdf){:target="_blank"}  
-* [Balance Sheet - 2013](bank/cugos_bs_2013.pdf){:target="_blank"}  
-* [P&L - 2013](bank/cugos_pl_2013.pdf){:target="_blank"}  
-* [Balance Sheet - 2012](bank/cugos_bs_2012.pdf){:target="_blank"}  
-* [P&L - 2012](bank/cugos_pl_2012.pdf){:target="_blank"}  
-* [Balance Sheet - 2011](bank/cugos_bs_2011.pdf){:target="_blank"}  
-* [P&L - 2011](bank/cugos_pl_2011.pdf){:target="_blank"}  
+* [Balance Sheet - 2015](bank/cugos_bs_2015.pdf){:target="_blank"}
+* [P&L - 2015](bank/cugos_pl_2015.pdf){:target="_blank"}
+* [Balance Sheet - 2014](bank/cugos_bs_2014.pdf){:target="_blank"}
+* [P&L - 2014](bank/cugos_pl_2014.pdf){:target="_blank"}
+* [Balance Sheet - 2013](bank/cugos_bs_2013.pdf){:target="_blank"}
+* [P&L - 2013](bank/cugos_pl_2013.pdf){:target="_blank"}
+* [Balance Sheet - 2012](bank/cugos_bs_2012.pdf){:target="_blank"}
+* [P&L - 2012](bank/cugos_pl_2012.pdf){:target="_blank"}
+* [Balance Sheet - 2011](bank/cugos_bs_2011.pdf){:target="_blank"}
+* [P&L - 2011](bank/cugos_pl_2011.pdf){:target="_blank"}
