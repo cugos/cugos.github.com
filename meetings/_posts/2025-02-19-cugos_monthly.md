@@ -13,7 +13,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **Nat Henry** will present about his work as an expert witness evaluating maps in the court case _Seattle-King County Coalition on Homelessness v. Burien_.
 
-**Matt Stevenson** will discuss an idea for a CUGOS group project related to data preservation.
+**Matt Stevenson** will discuss an idea for a CUGOS group project related to data preservation. [Slides here] (https://docs.google.com/presentation/d/1AqGTtF1mWRGYwvaCrmEUGqrQpTMezkCaokpBjZrAX04/edit?usp=sharing).
 
 **Everyone**---gauging group interest and discussion about a potential fall conference!
 
