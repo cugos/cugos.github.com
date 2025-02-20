@@ -9,7 +9,7 @@
 0. Fork the `cugos.github.com` repository<br/>
 ![fork it](image/fork_it.png)
 
-0. When prompted, fork it to your account<br/>
+0. When prompted, choose your own account as the new fork owner, and leave "Copy the main branch only" checked.<br/>
 ![fork it to you](image/fork_it_to_you.png)
 
 0. You will be redirected to your forked repository page<br/>
@@ -18,7 +18,7 @@
 0. We want to add our profile to the `people` directory<br/>
 ![people](image/people.png)
 
-0. First copying the URL that we will use to clone our forked repository<br/>
+0. First click the "Code" dropdown, and copy the URL that we will use to clone our forked repository<br/>
 ![clone_repo](image/clone_repo.png)
 
 0. Then in a bash shell on your computer find a good working directory. Clone your forked respository and follow the rest of the edit, commit, push and pull request workflow below. FYI: you will need to install `git` on your computer<br/>
@@ -47,7 +47,7 @@ $ cd people/_posts/
 
 Copy the lastest profile and swap it out with your information. Use [bboxfinder](http://bboxfinder.com) to find your coordinates if necessary<br/>
 ```bash
-$ cp 2015-06-19-aaron-racicot.markdown 2015-06-20-first-last.mardown
+$ cp 2018-11-10-ranek_kiil.markdown 2025-02-20-tim-johns.markdown
 ---
  
 title: < your name >
@@ -64,7 +64,7 @@ excerpt: < your description >
 
 `git` add the file to staging<br/>
 ```bash
-$ git add 2015-06-20-first-last.mardown
+$ git add 2025-02-20-<first>-<last>.markdown
 ```
 
 `git` commit the file with a commit message<br/>
@@ -77,7 +77,7 @@ $ git commit -m "adding myself, because CUGOS rocks"
 $ git push origin add_my_profile # or whatever your branch name is 
 ```
 
-Then go back to the GitHub page of your forked repository, change to the master branch and refresh. You should see something like:<br/>
+Then go back to the GitHub page of your forked repository, change to the main branch and refresh. You should see something like:<br/>
 ![pull_request](image/pull_request.png)
 
 Click that green button. Now add a commit message
