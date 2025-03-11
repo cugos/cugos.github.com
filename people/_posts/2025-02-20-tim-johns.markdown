@@ -2,7 +2,7 @@
 title: Tim Johns
 category: people
 lng: -122.337107
-lat: 47.821732
+lat: 47.821731
 image: https://avatars.githubusercontent.com/u/1420814
 github: TimJohns
 permalink: /people/tim-johns
