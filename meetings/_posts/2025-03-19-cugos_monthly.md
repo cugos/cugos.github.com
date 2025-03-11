@@ -11,6 +11,10 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
 
+[Lisa Enns](https://www.ennsanalytics.com/) will share a fun campground map update. There will be MANY dog pictures. She'll also share something a little more useful, the WorldPop dataset. WorldPop is a more accurate way to quantify population at a local scale and Lisa will share a use case that estimated the number of people with certain types of health insurance within driving distances of pharmacies.
+
+Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be present, visiting from New York City! He'll share an update on pedestrian related OpenStreetMap activies in [New York City.](https://wiki.openstreetmap.org/wiki/New_York_City)
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
