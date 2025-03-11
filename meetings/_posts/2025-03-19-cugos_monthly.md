@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: February 19th 2025
+title: March 19th 2025
 location: Bloedel Hall Room 292, University of Washington
 address: Seattle, WA 98195
 time: 6:00pm-7:30pm
@@ -10,12 +10,6 @@ lng: -122.30795
 category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to the College Inn Pub for a happy hour after the meeting!
 ---
-
-**Nat Henry** will present about his work as an expert witness evaluating maps in the court case _Seattle-King County Coalition on Homelessness v. Burien_.
-
-**Matt Stevenson** will discuss an idea for a CUGOS group project related to data preservation. [Slides here.](https://docs.google.com/presentation/d/1AqGTtF1mWRGYwvaCrmEUGqrQpTMezkCaokpBjZrAX04/edit?usp=sharing)
-
-**Everyone**---gauging group interest and discussion about a potential fall conference!
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
