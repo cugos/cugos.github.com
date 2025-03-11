@@ -4,6 +4,7 @@ title: People
 weight: 6
 extra_js:
   - /static/js/people.js
+use_leaflet: true
 ---
 
 <script>
@@ -14,9 +15,7 @@ var peopleGeoJson = {
     {
       "type": "Feature",
       "properties": {
-        'title': '{{ person.title }}',
-        'marker-color': '#3f75a2',
-        'marker-symbol': 'pitch'
+        'title': '{{ person.title }}'
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +24,8 @@ var peopleGeoJson = {
           {{ person.lat }}
         ]
       }
-    },{% endfor %}
+    },
+    {% endfor %}
   ]
 };
 </script>
@@ -33,7 +33,8 @@ var peopleGeoJson = {
 <div id="people-map"></div>
 
 <div id="people-list" class="cf">
-  {% for person in site.categories.people %}
+  {% assign people_sorted = site.categories.people | sort: "title" %}
+  {% for person in people_sorted %}
   <a href="https://github.com/{{ person.github }}" class="person" data-title="{{ person.title }}" id="{{ person.github }}" style="background-image:url({{ person.image }});"></a>
   {% endfor %}
 </div>
