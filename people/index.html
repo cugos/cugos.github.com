@@ -15,7 +15,8 @@ var peopleGeoJson = {
     {
       "type": "Feature",
       "properties": {
-        'title': '{{ person.title }}'
+        'title': '{{ person.title }}',
+        'href': '#{{person.github}}'
       },
       "geometry": {
         "type": "Point",
@@ -31,10 +32,15 @@ var peopleGeoJson = {
 </script>
 
 <div id="people-map"></div>
-
+<h1>People</h1>
 <div id="people-list" class="cf">
   {% assign people_sorted = site.categories.people | sort: "title" %}
   {% for person in people_sorted %}
-  <a href="https://github.com/{{ person.github }}" class="person" data-title="{{ person.title }}" id="{{ person.github }}" style="background-image:url({{ person.image }});"></a>
+    <div class="person-holder">
+      <h4 class="person-title">{{ person.title }}</h4>
+      <a href="https://github.com/{{ person.github }}"
+        class="person" id="{{ person.github }}"
+        style="background-image:url({{ person.image }});"></a>
+    </div>
   {% endfor %}
 </div>

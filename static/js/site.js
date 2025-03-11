@@ -52,21 +52,6 @@ $(document).ready(function(){
 
   }
 
-  /* PERSON HOVER
-   * This builds a tooltip when the user hovers on a person in /people
-   *
-   */
-  var tooltip = null;
-  $('.person').on('mouseover', function(){
-    tooltip = document.createElement('div');
-    tooltip.className = 'tooltip';
-    tooltip.innerHTML = $(this).attr('data-title');
-    $(this).append(tooltip);
-  });
-  $('.person').on('mouseout', function(){
-    $('.tooltip').remove();
-  });
-
 });
 
 function buildMapMarker(elem, markers) {
