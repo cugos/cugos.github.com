@@ -21,7 +21,9 @@ $(document).ready(function(){
     iconSize: [25, 25],
     shadowUrl: '/image/logos/logo-shadow-50px.png',
     shadowSize: [25, 25],
-    shadowAnchor: [11, 11]
+    shadowAnchor: [11, 11],
+    iconAnchor: [12.5, 12.5],
+    tooltipAnchor: [0, -10]
   });
   var person_layer = L
     .geoJSON(
