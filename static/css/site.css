@@ -420,20 +420,30 @@ nav {
 
 /* PEOPLE */
 #people-map {
-  height:400px;
+  height: 50vh;
+  max-height: 400px;
   width:100%;
   margin-bottom:1em;
   background-color:#c0c0c0;
 }
+.person-holder {
+  position: relative;
+  display: inline-block;
+  margin: 3px 6px;
+}
+.person-title {
+  font-size: 85%;
+  margin: 0;
+  text-align: center;
+}
 .person {
-  position:relative;
-  display:inline-block;
+  position: relative;
+  display: inline-block;
   width:160px;
   height:160px;
-  background-color:#c0c0c0;
+  background-color: #f6f6f6;
   background-size: cover;
   background-position: center center;
-  margin:6px;
 }
 .tooltip {
   position: absolute;
