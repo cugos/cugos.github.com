@@ -13,7 +13,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 [Lisa Enns](https://www.ennsanalytics.com/) will share a fun campground map update. There will be MANY dog pictures. She'll also share something a little more useful, the WorldPop dataset. WorldPop is a more accurate way to quantify population at a local scale and Lisa will share a use case that estimated the number of people with certain types of health insurance within driving distances of pharmacies.
 
-Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be present, visiting from New York City! He'll share an update on pedestrian related OpenStreetMap activies in [New York City.](https://wiki.openstreetmap.org/wiki/New_York_City).
+Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be present, visiting from New York City! He'll share an update on pedestrian related OpenStreetMap activies in [New York City.](https://wiki.openstreetmap.org/wiki/New_York_City)
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
