@@ -15,6 +15,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be present, visiting from New York City! He'll share an update on pedestrian related OpenStreetMap activies in [New York City.](https://wiki.openstreetmap.org/wiki/New_York_City)
 
+[Reily Love](https://www.linkedin.com/in/reilylove/) will share a his experience as a [Climatebase](https://climatebase.org/) Career Accelerator Cohort member last spring as well as information about [San Francisco](https://www.sfclimateweek.org/) and [PNW](https://pnwclimateweek.org/) Climate Weeks. 
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
