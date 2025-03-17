@@ -21,7 +21,7 @@ Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be p
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
-**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/master/meetings/_posts/2023-3-15-cugos_monthly.md) or reach out to us hello@cugos.org
+**[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/main/meetings/_posts/2025-03-19-cugos_monthly.md) or reach out to us hello@cugos.org
 
 ## Reminder
 
