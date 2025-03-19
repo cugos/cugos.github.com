@@ -19,6 +19,8 @@ Former CUGOS board member [Ariel Kadouri](https://arielsartistry.com/) will be p
 
 [Reily Love](https://www.linkedin.com/in/reilylove/) will share a his experience as a [Climatebase](https://climatebase.org/) Career Accelerator Cohort member last spring as well as information about [San Francisco](https://www.sfclimateweek.org/) and [PNW](https://pnwclimateweek.org/) Climate Weeks. 
 
+If there's time, [Emilio Mayorga](https://github.com/emiliom/) will briefly describe the use of the Python [HoloViz stack](https://holoviz.org) to create custom online dashboards that allow multi-faceted exploration of data from autonomous, depth-profiling platforms in the ocean (the [Argo program](https://argo.ucsd.edu) is the best example of these data). I could turn this into a more extended dive (pun intended) into the innards of the HoloViz packages for this type of data, at the *next* CUGOS meeting.
+
 [Gabe O'Leary](https://goleary.com/) will introduce himself and briefly talk about his latest spatial project, [TerraLog](https://terralog.app/).
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
