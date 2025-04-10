@@ -18,6 +18,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **Stu Sutherland** will give a quick presentation about his research into the problem of deleted public datasets that was [discussed](https://docs.google.com/presentation/d/1AqGTtF1mWRGYwvaCrmEUGqrQpTMezkCaokpBjZrAX04/edit?usp=sharing) at the February CUGOS meeting, including an update on work being done by some of the global teams actively tackling that project.
 
+**[Karsten Vennemann](https://www.terragis.net)** will present a fresh version of his South America bicycle tour map (created entirely in QGIS) as a 36 by 54 inch poster plot and will gather feedback for improvements.
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/main/meetings/_posts/2025-04-16-cugos_monthly.md) or reach out to us hello@cugos.org
