@@ -13,7 +13,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **[Keenan Ganz](s-kganz.github.io)** will talk about forecasting forest mortality and doing machine learning with remote sensing data.
 
-**[Christy Heaton](christyheaton.github.io)** will give an update on Summer plans and upcoming events at Cugos!
+**[Christy Heaton](christyheaton.github.io)** will give an update on the Cugos Fall Fling and Summer picnic!
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
