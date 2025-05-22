@@ -12,7 +12,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ---
 
 
-**[Emilio Mayorga](https://github.com/emiliom/)** will follow up on his [March meeting](https://cugos.org/meetings/2025-03-19/) presentation to drill into the use of the Python [HoloViz stack](https://holoviz.org) to create online dashboards (including [this one](https://squid-test1.azurewebsites.net)) for multi-faceted exploration of data from autonomous, depth-profiling platforms in the ocean. The [Argo program](https://argo.ucsd.edu) is the best example of this data type.
+**[Emilio Mayorga](https://github.com/emiliom/)** will follow up on his [March meeting](https://cugos.org/meetings/2025-03-19/) presentation to drill into the use of the Python [HoloViz stack](https://holoviz.org) to create online dashboards (including [this one](https://squid-test1.azurewebsites.net)) for multi-faceted exploration of data from autonomous, depth-profiling platforms in the ocean. The [Argo program](https://argo.ucsd.edu) is the best example of this data type. *2025-05-21: And [here are my presentation materials](https://github.com/emiliom/cugos_em/tree/main/2025april), including the Jupyter notebook used in presentation mode, an exported HTML file, and a link a viewable form of the HTML file.*
 
 **Doug Beyerlein** will describe his project [PublicStairs.com](http://PublicStairs.com), a website dedicated to the discovery and documentation of major outdoor public stairways anywhere in the world. Doug is seeking technical assistance to help revive his website maps, which were lost when the [CommunityWalk](https://www.communitywalk.com/) platform folded in 2021.
 
