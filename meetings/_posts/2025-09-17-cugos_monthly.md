@@ -20,8 +20,7 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ## Reminder
 
 about some other cool open source and/or geo-related meetups in the area:
-
-[OpenStreetMap Seattle](https://www.meetup.com/OpenStreetMap-Seattle/)
-[Puget Sound QGIS Users](https://www.meetup.com/Puget-Sound-QGIS-Users-Group/)
-[Seattle Postgres Users](https://www.meetup.com/Seattle-Postgres/)
-[Maptime Seattle](https://www.meetup.com/MaptimeSEA/)
+- [OpenStreetMap Seattle](https://www.meetup.com/OpenStreetMap-Seattle/)
+- [Puget Sound QGIS Users](https://www.meetup.com/Puget-Sound-QGIS-Users-Group/)
+- [Seattle Postgres Users](https://www.meetup.com/Seattle-Postgres/)
+- [Maptime Seattle](https://www.meetup.com/MaptimeSEA/)
