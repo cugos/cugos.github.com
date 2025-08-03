@@ -2,7 +2,7 @@
 layout: event-2023
 title: "Cugos Fall Fling 2025"
 event_date: "Friday, November 14, 2025"
-event_description: "Join CUGOS for our annual Fall Fling! A full day of open source geospatial talks, networking, and community. Details and CFP coming soon."
+event_description: "Join CUGOS for our 2025 Fall Fling! A full day of open source geospatial talks, networking, and community. Details and CFP coming soon."
 ---
 
 <div class="spring-fling-header">
