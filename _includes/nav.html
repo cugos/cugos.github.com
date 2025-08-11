@@ -4,7 +4,15 @@
     <button id="menu-expand"><i class="fa fa-bars"></i></button>
     <ul id="menu">
       {% for weight in (0..10) %}{% for p in site.pages %}{% if p.weight == weight %}
-      <li class="{% if p.url == page.url %}active{% endif %} {{ p.nav_class }}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+      <li class="{% if p.url == page.url %}active{% endif %} {{ p.nav_class }}">
+        <a href="{{ p.url }}">
+          {% if p.title_small %}
+            {{ p.title_small }}
+          {% else %}
+            {{ p.title }}
+          {% endif %}
+        </a>
+      </li>
       {% endif %}{% endfor %}{% endfor %}
     </ul>
   </div>
