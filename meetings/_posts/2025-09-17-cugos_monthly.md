@@ -11,9 +11,9 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
-**[Christy Heaton](christyheaton.github.io)** will give an update on the Cugos Fall Fling and the [30DayMapChallenge](https://30daymapchallenge.com/) coming up in November!
+**[Christy Heaton](https://christyheaton.github.io/)** will give an update on the Cugos Fall Fling and the [30DayMapChallenge](https://30daymapchallenge.com/) coming up in November!
 
-**[Aaron Schechter](amschechter.github.io)** will give a presentation about some python mapping he has been doing recently! Will he be prepared? Only time will tell.
+**[Aaron Schechter](https://amschechter.github.io/)** will give a presentation about some python mapping he has been doing recently! Will he be prepared? Only time will tell.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
