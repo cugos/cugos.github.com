@@ -8,6 +8,12 @@ event_date: "Friday, November 14, 2025"
 event_time: "9 AM to 5 PM"
 event_location: "University of Washington, Seattle"
 markers: ~
+
+event_sponsors_gold:
+  -
+    image: /image/2025fallfling/esa.png
+    width: 150px
+    link: https://esassoc.com/
 ---
 
 <div class="spring-fling-announcement" style="font-size:1.2em; background:#f8e71c; color:#1a1a1a; border:2px solid #f5a623;">
