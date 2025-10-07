@@ -16,7 +16,7 @@ event_description: |
   <p>We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.</p>
 
   <p><b>Our Call for Presentations is open now!</b> Scroll down for more info.</p>
-event_date: "Friday, November 15, 2025"
+event_date: "Friday, November 14, 2025"
 event_time: "9 AM to 5 PM"
 event_location: "Maple Hall Great Room, University of Washington, Seattle"
 
