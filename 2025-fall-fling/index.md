@@ -67,7 +67,7 @@ event_sponsors_friends:
 ---
 
 <div class="spring-fling-announcement" style="font-size:1.2em; background:#f8e71c; color:#1a1a1a; padding: 1em; border:2px solid #f5a623; text-align:center;">
-  <strong>🎉 CFP IS OPEN THROUGH OCTOBER 14! 🎉</strong><br>
+  <strong>🎉 CFP IS OPEN THROUGH OCTOBER 15! 🎉</strong><br>
   Want to present at CUGOS 2025 Fall Fling? <br>
   <a href="http://bit.ly/fall-fling" target="_blank" style="font-weight:bold; color:#0D56D9;">Submit your talk here &rarr;</a>
   <br>Share your ideas, inspire the community, and be part of an amazing day!
