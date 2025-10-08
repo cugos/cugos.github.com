@@ -58,6 +58,9 @@ event_sponsors_comm:
   - image: /image/2025fallfling/sponsor-henryspatialanalysis.png
     width: 150px
     link: https://henryspatialanalysis.com/
+  - image: /image/2025fallfling/sponsor-locatepress.png
+    width: 175px
+    link: https://locatepress.com/
 
 event_sponsors_friends:
   - image: /image/2025fallfling/sponsor-uw-libraries.png
