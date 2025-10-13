@@ -17,6 +17,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **[Gene Martin](http://www.genemartin.us/home.html)** will host a research focus group, investigating knowledge coordination in organizational interoperability and hopes to ground truth some ideas with the group.
 
+**[Keenan Ganz](https://s-kganz.github.io/)** will present on using Python to prepare flight path animations in Google Earth.
+
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
 **[@you](http://cugos.org/people/)** Introduce yourself! Or re-introduce yourself! Please tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. [Add yourself here.](https://github.com/cugos/cugos.github.com/blob/main/meetings/_posts/2025-04-16-cugos_monthly.md) or reach out to us hello@cugos.org
