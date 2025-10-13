@@ -66,6 +66,9 @@ event_sponsors_friends:
   - image: /image/2025fallfling/sponsor-uw-libraries.png
     width: 225px
     link: https://lib.uw.edu/
+  - image: /image/2025fallfling/sponsor-epri.svg
+    width: 200px
+    link: https://epri.com/
 
 ---
 
