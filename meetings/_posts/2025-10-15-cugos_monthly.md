@@ -13,7 +13,9 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **[Christy Heaton](https://christyheaton.github.io/)** will give an update on the Cugos Fall Fling and the [30DayMapChallenge](https://30daymapchallenge.com/) coming up in November!
 
-**Ethan Espie** will share his Python script which web-scrapes the pages of current baseball players on [MLB.com](https://www.mlb.com/), to get their birth places, and then for each team plots the players on a world map.
+**Ethan Espie** will share his Python script which web-scrapes the pages of current baseball players on [MLB.com](https://www.mlb.com/) to get their birth places. And then plots the players for each team on a world map.
+
+**[Gene Martin](http://www.genemartin.us/home.html)** will host a research focus group, investigating knowledge coordination in organizational interoperability and hopes to ground truth some ideas with the group.
 
 **Anyone** is invited to share (their own or news about any interesting) small or large geospatial projects. As always any geo-questions are encouraged and will gladly be discussed within the group.
 
