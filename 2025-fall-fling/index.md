@@ -20,6 +20,9 @@ event_date: "Friday, November 14, 2025"
 event_time: "9 AM to 5 PM"
 event_location: "Maple Hall Great Room, University of Washington, Seattle"
 
+event_register-url: https://www.eventbrite.com/e/cugos-2025-fall-fling-tickets-1815333745099
+
+
 markers:
  -  name: "<strong>Maple Hall</strong><br/>University of Washington<br/>1135 NE Campus Pkwy<br/>Seattle, WA 98105"
     lat: 47.65590055854541
