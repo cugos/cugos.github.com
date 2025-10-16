@@ -17,7 +17,6 @@ h3,
 p {
   font-family: Consolas,"PT Mono",Menlo,Courier,monospace;
   font-size: 18px;
-  line-height: 1.4em;
 }
 p a {
   color: #0D56D9;
@@ -29,11 +28,11 @@ nav {
   background: transparent;
 }
 .fall-fling-header {
-  padding: 10em 0 3em;
-  background: #5ba858 !important;
+  padding: 10em 1em 3em;
+  background: #B81C3A !important;
   text-align: left;
   color: #f6f6f6;
-  border-bottom: 20px solid #2c5627;
+  border-bottom: 20px solid #805c5a;
 }
 .fall-fling-header h1 {
   font-size: 3em;
@@ -108,6 +107,10 @@ nav {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+.sf-schedule-right p {
+  line-height: 130%;
+  margin: 0 0 3px 0;
+}
 .sf-schedule-time {
   border-bottom: 2px solid white;
 }
@@ -122,6 +125,10 @@ nav {
   font-size: 0.85em;
   line-height: 0;
 }
+.sf-schedule-bio {
+  font-size: 85%;
+  color: #444;
+}
 .sf-description.talk {}
 .sf-schedule-speaker {
   color: #999;
@@ -129,9 +136,7 @@ nav {
 .sf-schedule-room {
   color: #28086d;
 }
-.sf-schedule-block p {
-  margin: 0;
-}
+
 @media screen and (min-width:41em) {
   .sf-schedule-block { margin-bottom: 1em; }
   .sf-schedule-left { float: left; padding: 1em; width: 15%; text-align: right; }
@@ -200,11 +205,12 @@ nav {
           {% elsif item.type == "Lightning Talk" %}
           <p>⚡ Lightning Talk</p>
           {% endif %}
-          <p><span class="sf-schedule-title">{{ item.title }}</span>{% if item.slides %}, <a href="{{ item.slides }}">Slides</a>{% endif %}<br>
-          {% if item.room %}<span class="sf-schedule-room">{{ item.room }}</span><br>{% endif %}
-          {% if item.speaker %}<span class="sf-schedule-speaker">{{ item.speaker }}</span><br>{% endif %}
-          <span class="sf-schedule-description">{{ item.bio }}</span></p><br>
-          <span class="sf-schedule-description">{{ item.description }}</span></p>
+          <p class="sf-schedule-title">{{ item.title }}</p>
+          {% if item.slides %}<p class="sf-schedule-slides"><a href="{{ item.slides }}">Slides</a></p>{% endif %}
+          {% if item.room %}<p class="sf-schedule-room">{{ item.room }}</p>{% endif %}
+          {% if item.speaker %}<p class="sf-schedule-speaker">{{ item.speaker }}</p>{% endif %}
+          <p class="sf-schedule-bio">{{ item.bio }}</p><br/>
+          <p class="sf-schedule-description">{{ item.description }}</p>
         </div>
       </div>
       {% endfor %}
