@@ -78,6 +78,15 @@ schedule:
       Modern LLMs such as ChatGPT and Claude can be effective partners as you assemble and analyze open source geodata, but you need to keep them on a short leash and maintain an understanding of the problem you're trying to solve. We will review case studies you can apply to your work today. You will learn how to use LLMs to construct scripts for data download, webscraping, and data cleanup; to update an obsolete codebase; and to understand the legacy code you just inherited and add features and automated tests. We will look at some LLM blind alleys and explore how to recover from them. Code examples are in Python, C++, Mapserver, and Swift.
 
   - type: Talk
+    title: Workflows and tips for creating nice cartography with QGIS
+    time: ~
+    speaker: Karsten Vennemann | <a href="http://terragis.net/">Terra GIS</a>
+    bio: |
+      <strong>Karsten Vennemann</strong> is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, <strong>Terra GIS</strong>, based in Seattle. He teaches classes in Open Source GIS and a good portion of his consulting work involves creating and supporting Open Source based Web GIS solutions.
+    description: |
+      For the last 3 years, I have been working on my personal cartography project: a poster-size map featuring an adventurous 3,000 km bicycle trip from the town of Copacabana at Lake Titicaca, Bolivia to the city of Mendoza in northern Argentina with my son in 2022. The cartography project often stalled due to time constraints over the 3 years, but finally I am ready to cross the finish line with a finished poster-size map measuring 36 by 54 inches, printed at a scale of 1:750,000. I will feature the map and take you on a journey showing how the map was created, which data was used and how it was processed, touching on a variety of tools in QGIS and sharing what I learned while demonstrating the techniques and workflows used for specific cartographic styles, advanced workflows, and innovative approaches to create the poster. The techniques developed for this personal project can be generalized into broader cartographic approaches that I will explain, making them applicable to other mapping projects and demonstrating how personal cartographic challenges can lead to generally useful workflows and design approaches.
+
+  - type: Talk
     title: "Mapping the Invisible Grid: Powering Renewable Energy Development with Open Source GIS"
     time: ~
     speaker: Kristen Narcisi | <a href="https://www.mgn.energy/">MicroGrid Networks</a>
@@ -95,16 +104,27 @@ schedule:
     bio: |
       <strong>Matt Stevenson</strong> is Principal at <strong>CORE GIS</strong>, where he specializes in cartography, spatial analysis, remote sensing, conservation planning, and web mapping. He works primarily with nonprofits and government agencies focused on conservation, natural resources, and public policy.
     description: |
-      eRoadMAP is an interactive webmap designed to estimate the power and energy needs for electrifying transportation in the USA at the local level, covering light–, medium–, and heavy–duty vehicles. eRoadMAP helps users identify areas where multiple customers cluster around one or two feeders, fostering proactive discussions between utilities and customers for effective infrastructure planning. Users can view both Energy and Power requirements for near-term electrification needs (projected to 2030) at multiple scales, animate the time series of projections, include or exclude long-haul trucks, filter the number of MWh/Day, and show a variety of reference layers including load capacity, charging stations, truck stops, and demographic characteristics. We used H3 hexagons, Mapbox, Postgis, pg_tileserv, and GitHub to create the map, and will explain how we built it and share lessons learned over multiple phases of design, development, testing and deployment.
+      <a href="https://eroadmap.epri.com/">eRoadMAP</a> is an interactive webmap designed to estimate the power and energy needs for electrifying transportation in the USA at the local level, covering light–, medium–, and heavy–duty vehicles. eRoadMAP helps users identify areas where multiple customers cluster around one or two feeders, fostering proactive discussions between utilities and customers for effective infrastructure planning. Users can view both Energy and Power requirements for near-term electrification needs (projected to 2030) at multiple scales, animate the time series of projections, include or exclude long-haul trucks, filter the number of MWh/Day, and show a variety of reference layers including load capacity, charging stations, truck stops, and demographic characteristics. We used H3 hexagons, Mapbox, Postgis, pg_tileserv, and GitHub to create the map, and will explain how we built it and share lessons learned over multiple phases of design, development, testing and deployment.
 
-  - type: Talk
-    title: Workflows and tips for creating nice cartography with QGIS
+  - type: Lightning Talk
+    title: Access Service Area Lookup
     time: ~
-    speaker: Karsten Vennemann | <a href="http://terragis.net/">Terra GIS</a>
+    speaker: Katia Montgomery | <a href="https://kingcounty.gov/en/dept/metro">King County Metro</a>
     bio: |
-      <strong>Karsten Vennemann</strong> is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, <strong>Terra GIS</strong>, based in Seattle. He teaches classes in Open Source GIS and a good portion of his consulting work involves creating and supporting Open Source based Web GIS solutions.
+      <strong>Katia Montgomery</strong> is a Transportation Planner III with <strong>King County Metro</strong>'s Accessible Services, focused on GIS, Python automation, and SQL analysis for paratransit. She has built tools and web maps that make Access service areas clearer for riders and decision-makers, and is currently developing a Rasa-based Access Assistant to deliver fast, policy-accurate answers.
     description: |
-      For the last 3 years, I have been working on my personal cartography project: a poster-size map featuring an adventurous 3,000 km bicycle trip from the town of Copacabana at Lake Titicaca, Bolivia to the city of Mendoza in northern Argentina with my son in 2022. The cartography project often stalled due to time constraints over the 3 years, but finally I am ready to cross the finish line with a finished poster-size map measuring 36 by 54 inches, printed at a scale of 1:750,000. I will feature the map and take you on a journey showing how the map was created, which data was used and how it was processed, touching on a variety of tools in QGIS and sharing what I learned while demonstrating the techniques and workflows used for specific cartographic styles, advanced workflows, and innovative approaches to create the poster. The techniques developed for this personal project can be generalized into broader cartographic approaches that I will explain, making them applicable to other mapping projects and demonstrating how personal cartographic challenges can lead to generally useful workflows and design approaches.
+      The <a href="https://metrotransit.net/access/service-map/">Access Service Area Web Map</a> is a public, mobile-friendly map that allows riders, caregivers, and staff to quickly check whether an address is within the paratransit service area for a specific day and time. Behind the scenes, I automated GIS workflows in ArcGIS Pro/Python to generate and publish up-to-date service-area polygons that reflect real operating days and hours (including late-night windows that cross midnight). Users can search an address and see clear "in/out" results. The map has reduced call volume, sped up eligibility checks, and made service boundaries more transparent for the community.
+
+  - type: Lightning Talk
+    title: Visualizing Oregon’s Maternal Care Access
+    time: ~
+    speaker: <a href="https://www.meghanbausone.com/">Meghan Bausone</a> | <a href="https://digitalcorpspdx.org/">PDX Digital Corps</a>
+    bio: |
+      <strong>Meghan Bausone</strong> is a designer who focuses on the intersection of design, technology, and maternal health by leveraging research and design strategy to innovate maternal healthcare experiences at a systems level. She is currently pursuing a Doctor of Design (DDes) at NC State’s College of Design, where her research explores maternal health systems in rural communities.
+    description: |
+      Across rural America, families face growing challenges accessing basic maternal health care. In some areas, expectant parents must drive hours for prenatal visits or to deliver at a hospital or birth center. These "maternal care deserts" contribute to poor outcomes, including higher rates of maternal and infant complications and mortality. The situation is worsening. Since 2010, more than 500 hospitals in the U.S. have closed their obstetric units, leaving half of all rural hospitals without maternity services.
+      <br/><br/>
+      The Portland Digital Corps, in partnership with Oregon State University’s Uplift Lab, developed a prototype mapping tool to visualize maternal health resources across Oregon. The map highlights where care currently exists and how the closure of at-risk locations affects nearby communities. Completed as part of a volunteer-led four-week sprint, this project demonstrates how accessible, open-source mapping tools using publicly available data can empower public health advocates, researchers, and community leaders. By visualizing data clearly, local stakeholders can strengthen funding proposals, inform policy, and advocate for systemic changes to improve care coverage.
 
   - type: Talk
     title: Model-Based Geostatistics
@@ -113,7 +133,7 @@ schedule:
     bio: |
       <strong>Dr. Nat Henry</strong> is a professional geographer and the Director of <strong>Henry Spatial Analysis</strong>. His public health and urban mobility work has been featured in Nature, The Lancet, Bloomberg CityLab, and on the front pages of The New York Times and The Seattle Times.
     description: |
-      Model-based geostatistics (MBG) can be a powerful framework for understanding spatial data, but the difficulty of setting up these models has inhibited their widespread use. This talk introduces model-based geostatistics using the open-source "mbg" package in R. Using examples from public health and transportation planning, we will explore different approaches to spatial regression, link our outcomes to underlying spatial predictors, and highlight the importance of model validation in the age of AI.
+      Model-based geostatistics can be a powerful framework for understanding spatial data, but the difficulty of setting up these models has inhibited their widespread use. This talk introduces model-based geostatistics using the open-source <a href="https://henryspatialanalysis.github.io/mbg/">mbg</a> package in R. Using examples from public health and transportation planning, we will explore different approaches to spatial regression, link our outcomes to underlying spatial predictors, and highlight the importance of model validation in the age of AI.
 
   - type: Talk
     title: Identifying environmental drivers of Aedes aegypti and Aedes albopictus abundance in the Dallas-Fort Worth metroplex using Random Forest modeling
@@ -135,6 +155,14 @@ schedule:
     description: |
       Tree death is normal and even healthy for forests. However, climate change is increasing the frequency and severity of excess tree mortality caused by drought and wood-boring insects. Understanding why mortality happens would serve several forest management objectives. This presentation will examine our ability to forecast drought and insect-induced tree mortality from remote sensing products, evaluate the role of autocorrelation in this phenomenon, and chart a path for improved understanding of forest loss.
 
+  - type: Talk
+    title: Reviewing coupled GPS and accelerometry data with R-Shiny and FOSS
+    time: ~
+    speaker: Phil Hurvitz | GeoScience Research Labs, LLC
+    bio: |
+      <strong>Phil Hurvitz</strong> is a geographic information scientist with over 3 decades of experience working in GIS. He is currently employed by the <strong>WA Office of Financial Management</strong> as a Senior Data Scientist in Forecasting and Research Systems (not doing GIS work!). Phil is also principal of <strong>GeoScience Resarch Labs, LLC</strong>, working on projects integrating spatially explicit data with health outcomes. He holds degrees from Seattle University (BA) and the University of Washington (master of forest resources, PhD in urban design and planning).
+    description: |
+      In a project testing different physical therapy interventions applied to children with cerebral palsy, we simultaneously collected global positioning system (GPS) and StepWatch accelerometry step count data. The resultant data included 8,033,460 accelerometry records and 6,969,902 GPS records. Data were integrated into a PostGIS database, with data joined by common time stamp. The research team needed a way to review data to determine which data, if any, to censor from the final analytic data set based on unusual locations. We created an app using R-Shiny and Leaflet to display the GPS and accelerometry data on a basemap, allowing the research team to review data interactively on a day-by-day basis. This provided an easy to use and efficient interface for reviewing a large data set. The presentation will include a description of methodology and a live demonstration of the application.
 
   - type: Lightning Talk
     title: So You Want to Revive Your Local Maptime Chapter?
