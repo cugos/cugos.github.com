@@ -5,17 +5,14 @@ title_small: "2025 Fall Fling"
 title: "CUGOS 2025 Fall Fling"
 event_description: |
   <p>Join CUGOS for our 2025 Fall Fling! This conference is a great opportunity to:</p>
-
   <ul>
     <li>Find out how open geospatial tools can be used to solve a wide-range of real world problems</li>
     <li>Learn about new mapping software</li>
     <li>Discover how companies are integrating location into their products</li>
     <li>Meet like-minded individuals using maps and data in new and exciting ways</li>
   </ul>
-
   <p>We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.</p>
 
-  <p><b>Our Call for Presentations is open now!</b> Scroll down for more info.</p>
 event_date: "Friday, November 14, 2025"
 event_time: "9 AM to 5 PM"
 event_location: "Maple Hall Great Room, University of Washington, Seattle"
