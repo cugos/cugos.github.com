@@ -114,6 +114,22 @@ nav {
 .sf-schedule-time {
   border-bottom: 2px solid white;
 }
+.sf-schedule-section-title {
+  display: flex;
+  align-items: center;
+  font-weight: 900;
+  color: #B81C3A;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
+.sf-schedule-section-title::before, .sf-schedule-section-title::after {
+  content: "";
+  flex: 1;
+  border-bottom: 2px solid black;
+  margin: 0 10px;
+}
+
 .sf-schedule-title {
   font-weight: 900;
   color: #B81C3A;
@@ -197,15 +213,19 @@ nav {
         </div>
         <div class="sf-schedule-right">
           {% if item.type == "Talk" %}
-          <p>🎤️ Talk</p>
+            <p>🎤️ Talk</p>
           {% elsif item.type == "Keynote" %}
-          <p>💡 Keynote</p>
+            <p>💡 Keynote</p>
           {% elsif item.type == "Workshop" %}
-          <p>🛠 Workshop</p>
+            <p>🛠 Workshop</p>
           {% elsif item.type == "Lightning Talk" %}
-          <p>⚡ Lightning Talk</p>
+            <p>⚡ Lightning Talk</p>
           {% endif %}
-          <p class="sf-schedule-title">{{ item.title }}</p>
+          {% if item.type == "Section Title" %}
+            <p class="sf-schedule-section-title">{{ item.title }}</p>
+          {% else %}
+            <p class="sf-schedule-title">{{ item.title }}</p>
+          {% endif %}
           {% if item.slides %}<p class="sf-schedule-slides"><a href="{{ item.slides }}">Slides</a></p>{% endif %}
           {% if item.room %}<p class="sf-schedule-room">{{ item.room }}</p>{% endif %}
           {% if item.speaker %}<p class="sf-schedule-speaker">{{ item.speaker }}</p>{% endif %}

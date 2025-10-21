@@ -30,7 +30,7 @@ markers:
 
 schedule:
   - type: title
-    title: DOORS OPEN
+    title: Doors open
     time: 8:45 AM
     speaker: All attendees
     description: |
@@ -42,6 +42,9 @@ schedule:
     speaker: CUGOS Volunteers
     description: |
       Introduction, logistics, raffle prizes
+
+  - type: Section Title
+    title: "Session: Big ideas in OSGeo"
 
   - type: Keynote
     title: "Beyond Civic Tech: Public Mechanics Starts at Home"
@@ -64,6 +67,9 @@ schedule:
   - type: title
     title: ☕ Coffee break
     time: 10:15 AM
+
+  - type: Section Title
+    title: "Session: Practical mapmaking"
 
   - type: Talk
     title: Web maps, 2 ways with Streamlit and Pyscript
@@ -107,6 +113,9 @@ schedule:
     title: ☕ Quick break
     time: 11:50 AM
 
+  - type: Section Title
+    title: "Morning lightning talks"
+
   - type: Lightning Talk
     title: So You Want to Revive Your Local Maptime Chapter?
     time: 11:55 AM
@@ -147,6 +156,9 @@ schedule:
     title: Lunch
     time: 12:15 PM
     description: Catered on-site
+
+  - type: Section Title
+    title: "Session: Applied geodata"
 
   - type: Talk
     title: "Mapping the Invisible Grid: Powering Renewable Energy Development with Open Source GIS"
@@ -190,6 +202,9 @@ schedule:
     title: ☕ Coffee break
     time: 2:25 PM
 
+  - type: Section Title
+    title: "Afternoon lightning talks"
+
   - type: Lightning Talk
     title: Great Data Products
     time: 2:40 PM
@@ -218,6 +233,9 @@ schedule:
       Across rural America, families face growing challenges accessing basic maternal health care. In some areas, expectant parents must drive hours for prenatal visits or to deliver at a hospital or birth center. These "maternal care deserts" contribute to poor outcomes, including higher rates of maternal and infant complications and mortality. The situation is worsening. Since 2010, more than 500 hospitals in the U.S. have closed their obstetric units, leaving half of all rural hospitals without maternity services.
       <br/><br/>
       The Portland Digital Corps, in partnership with Oregon State University’s Uplift Lab, developed a prototype mapping tool to visualize maternal health resources across Oregon. The map highlights where care currently exists and how the closure of at-risk locations affects nearby communities. Completed as part of a volunteer-led four-week sprint, this project demonstrates how accessible, open-source mapping tools using publicly available data can empower public health advocates, researchers, and community leaders. By visualizing data clearly, local stakeholders can strengthen funding proposals, inform policy, and advocate for systemic changes to improve care coverage.
+
+  - type: Section Title
+    title: "Session: Spatial prediction"
 
   - type: Talk
     title: Model-Based Geostatistics
