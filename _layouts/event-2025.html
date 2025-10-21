@@ -209,8 +209,8 @@ nav {
           {% if item.slides %}<p class="sf-schedule-slides"><a href="{{ item.slides }}">Slides</a></p>{% endif %}
           {% if item.room %}<p class="sf-schedule-room">{{ item.room }}</p>{% endif %}
           {% if item.speaker %}<p class="sf-schedule-speaker">{{ item.speaker }}</p>{% endif %}
-          <p class="sf-schedule-bio">{{ item.bio }}</p><br/>
-          <p class="sf-schedule-description">{{ item.description }}</p>
+          {% if item.bio %}<p class="sf-schedule-bio">{{ item.bio }}</p><br/>{% endif %}
+          {% if item.description %}<p class="sf-schedule-description">{{ item.description }}</p>{% endif %}
         </div>
       </div>
       {% endfor %}
