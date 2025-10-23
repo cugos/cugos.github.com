@@ -316,6 +316,9 @@ event_sponsors_friends:
   - image: /image/2025fallfling/sponsor-cwu-geography.jpg
     width: 175px
     link: https://www.cwu.edu/academics/geography/
+  - image: /image/2025fallfling/sponsor-cng.svg
+    width: 150px
+    link: https://cloudnativegeo.org/
   - image: /image/2025fallfling/sponsor-epri.svg
     width: 200px
     link: https://epri.com/
