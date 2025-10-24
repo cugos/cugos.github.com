@@ -198,16 +198,25 @@ schedule:
     description: |
       Forest monitoring relies on accurately locating preestablished plots, but permanent markers are often prohibited or unreliable. LiDAR technology offers a virtual alternative, enabling precise plot navigation without monumentation. A mobile application can leverage LiDAR scans to help operators align virtual plots with real-world features for improved inventory accuracy, enabling field operators to locate plot centers using LiDAR-derived virtual plots. The application will support scan annotation, offline viewing, and augmented reality-based navigation. Field testing will assess accuracy and usability to refine the tool for operational deployment. A prototype iPad app was developed with three core functions: downloading LiDAR scans, annotating scans offline, and projecting scans in augmented reality. Accuracy and usability were evaluated with field testing in real-world conditions. A LiDAR-based iPad application enables accurate virtual plot relocation, eliminating the need for permanent markers. Field testing will assess precision and ease of use, providing a proof of concept for integrating LiDAR into forest inventory and monitoring workflows.
 
+  - type: Talk
+    title: "HexMAPP: Broadband Market Analysis with Open Geospatial Data and Cloud Scale Processing"
+    time: 2:25 PM
+    speaker: Catherine Crook | <a href="https://www.quantaservices.com/companies/quanta-telecom-solutions">Quanta Services</a>
+    bio: |
+      <strong>Catherine Crook</strong> is Senior Program Manager at <strong>Quanta Services</strong>, where she leads development of the HexMAPP geospatial analytics platform. She has over 18 years of experience using spatial data and cloud technologies to support infrastructure planning and data-driven decision making.
+    description: |
+      HexMAPP is a geospatial analytics platform that evaluates broadband infrastructure feasibility across the United States. It combines open geospatial datasets such as FCC Broadband Data Collection, US Census TIGER/ACS, and OpenStreetMap road networks to produce market analyses. Boundaries for analysis are provided by customers when available, and when they are not, HexMAPP uses open-source tools to acquire and process accurate city boundaries. Built on PostGIS hosted via Crunchy Data and supported by scalable processing in Google BigQuery and containerized services, HexMAPP integrates open-source database technology with cloud scale computing. Our four-person team validates all inputs, manages data pipelines, and performs the spatial and financial analytics that power the platform. We also build and maintain the interactive maps in Foursquare Studio and ensure they run reliably from beginning to end. These outputs are rendered in the proprietary HexMAPP application built and supported by our team. This presentation will provide an overview without disclosing proprietary workflows.
+
   - type: title
     title: ☕ Coffee break
-    time: 2:25 PM
+    time: 2:45 PM
 
   - type: Section Title
     title: "Afternoon lightning talks"
 
   - type: Lightning Talk
     title: Great Data Products
-    time: 2:40 PM
+    time: 3:00 PM
     speaker: Jed Sundwall | <a href="https://radiant.earth/">Radiant Earth</a> and <a href="https://techsontexts.net/">Techs on Texts</a>
     bio: |
       <strong>Jed Sundwall</strong> works at the intersection of data, product development, cloud computing, economics, and policy. He has taught at the <strong>Yale Jackson School of Global Affairs</strong>, is a technical fellow at the <strong>Taylor Geospatial Engine</strong>, and advises the <strong>Flickr Foundation</strong>. Before joining <strong>Radiant Earth</strong>, he created the AWS Open Data Program. He also produces <strong>Techs on Texts</strong>, a podcast about the intersection of literature and technology.
@@ -216,7 +225,7 @@ schedule:
 
   - type: Lightning Talk
     title: Illuminating Historic US Energy Use
-    time: 2:45 PM
+    time: 3:05 PM
     speaker: Emily Spahn | <a href="https://doublestopconsulting.com/">Double Stop Consulting</a>
     bio: |
       <strong>Emily Spahn</strong> is a data scientist and software developer with a background in environmental engineering. She provides technical solutions in the areas of data, environment, and computing through <strong>Double Stop Consulting</strong>.
@@ -225,7 +234,7 @@ schedule:
 
   - type: Lightning Talk
     title: Visualizing Oregon’s Maternal Care Access
-    time: 2:50 PM
+    time: 3:10 PM
     speaker: <a href="https://www.meghanbausone.com/">Meghan Bausone</a> | <a href="https://digitalcorpspdx.org/">PDX Digital Corps</a>
     bio: |
       <strong>Meghan Bausone</strong> is a designer who focuses on the intersection of design, technology, and maternal health by leveraging research and design strategy to innovate maternal healthcare experiences at a systems level. She is currently pursuing a Doctor of Design (DDes) at NC State’s College of Design, where her research explores maternal health systems in rural communities.
@@ -239,7 +248,7 @@ schedule:
 
   - type: Talk
     title: Model-Based Geostatistics
-    time: 2:55 PM
+    time: 3:15 PM
     speaker: <a href="https://nathenry.com/">Nat Henry</a> | <a href="https://henryspatialanalysis.com/">Henry Spatial Analysis</a>
     bio: |
       <strong>Dr. Nat Henry</strong> is a professional geographer and the Director of <strong>Henry Spatial Analysis</strong>. His public health and urban mobility work has been featured in Nature, The Lancet, Bloomberg CityLab, and on the front pages of The New York Times and The Seattle Times.
@@ -248,7 +257,7 @@ schedule:
 
   - type: Talk
     title: "Dead trees and where to find them: predicting forest mortality in the western United States"
-    time: 3:15 PM
+    time: 3:35 PM
     speaker: Keenan Ganz | University of Washington
     bio: |
       <strong>Keenan Ganz</strong> is a PhD student in the <strong>UW School of Environmental and Forest Sciences</strong>. He uses remote sensing data to study how forests respond to drought.
@@ -257,7 +266,7 @@ schedule:
 
   - type: Talk
     title: Identifying environmental drivers of <i>Aedes aegypti</i> and <i>Aedes albopictus</i> abundance in the Dallas-Fort Worth metroplex using Random Forest modeling
-    time: 3:35 PM
+    time: 3:55 PM
     speaker: Nathanial O'Dell | UW Department of Epidemiology
     bio: |
       <strong>Nathanial O'Dell</strong> is a second year Epidemiology MPH student in the <strong>UW School of Public Health</strong>. His work revolves around using spatiotemporal data to describe trends in vector ecology, specifically as it pertains to <i>Aedes aegypti</i> in the United States.
@@ -268,7 +277,7 @@ schedule:
 
   - type: Talk
     title: Estimating Structurally Complex Forests in Western Washington with Remote Sensing
-    time: 3:55 PM
+    time: 4:15 PM
     speaker: Ethan Spahn | <a href="https://dnr.wa.gov/">WA State Department of Natural Resources</a>
     bio: |
       <strong>Ethan Spahn</strong> works as the WA State Forest Biometrician for the <strong>WA State Department of Natural Resources</strong>. His background is in remote sensing algorithm development.
@@ -277,7 +286,7 @@ schedule:
 
   - type: title
     title: Conclusion and Announcements
-    time: 4:15 PM
+    time: 4:35 PM
     speaker: CUGOS volunteers
     description: |
         Conclusion of the 2025 CUGOS Fall Fling, announcement of raffle winners and happy hour location
