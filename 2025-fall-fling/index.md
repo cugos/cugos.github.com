@@ -278,9 +278,9 @@ schedule:
   - type: Talk
     title: Estimating Structurally Complex Forests in Western Washington with Remote Sensing
     time: 4:15 PM
-    speaker: Ethan Spahn | <a href="https://dnr.wa.gov/">WA State Department of Natural Resources</a>
+    speaker: Ethan Hughes | <a href="https://dnr.wa.gov/">WA State Department of Natural Resources</a>
     bio: |
-      <strong>Ethan Spahn</strong> works as the WA State Forest Biometrician for the <strong>WA State Department of Natural Resources</strong>. His background is in remote sensing algorithm development.
+      <strong>Ethan Hughes</strong> works as the WA State Forest Biometrician for the <strong>WA State Department of Natural Resources</strong>. His background is in remote sensing algorithm development.
     description: |
       The Washington State Department of Natural Resources (DNR) is tasked with identifying, mapping, and projecting structurally complex forest (SCF) conditions across its westside forest lands. This work uses DNR’s remotely-sensed forest inventory system (RS-FRIS)—a height-driven dataset based on aerial photogrammetry— and ground truth plots to train, test, and apply models that classify forestland as SCF or not. This study has two main objectives: (1) assess whether models developed from RS-FRIS could reliably detect SCF across DNR-managed forest lands in western Washington, and (2) compare these RS-FRIS-derived results with other mapping efforts using different methodologies. Over 2200 field plots were sampled to train and test the SCF model. Results indicated RS-FRIS metrics ascribing canopy layers and a measure of mean tree diameter were most effective in identifying SCF from simpler forest structures. The final SCF forest model has a balanced accuracy of 81±1% and predicts 345k acres (23% of Western WA DNR forest lands) as SCF.
 
