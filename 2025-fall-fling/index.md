@@ -103,7 +103,7 @@ schedule:
   - type: Talk
     title: Using LLMs to enhance your FOSS geodata workflow
     time: 11:30 AM
-    speaker: Hal Mueller
+    speaker: <a href="https://halmueller.com/">Hal Mueller</a>
     bio: |
       <strong>Hal Mueller</strong> fell into the FOSS4G world in grad school when he used an early version of GRASS to generate habitat datasets for predator/prey modeling. He keeps one foot in the FOSS4G data world and one foot in the Apple ecosystem, incorporating geodata into applications for iPhone, Vision Pro, and web.
     description: |
