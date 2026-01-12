@@ -15,6 +15,8 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **🎉 Several CUGOS members will share their maps from the [#30DayMapChallenge](https://30daymapchallenge.com/) — come see what everyone made! 🎉**
 
+**[Karsten Vennemann](https://www.terragis.net)** will present selected work from the **[DecLaRe project](https://www.uni-kassel.de/forschung/declare/home.html)** (Decision Support for Strengthening Land Resilience in the Face of Global Challenges) in West Africa, including a decision support system for agricultural crop land suitability and related tools developed for Benin and Ghana. **[Demo site](https://declare.terragis.net/)**.
+
 **We'll also hold elections** at this meeting.
 
 **Anyone** is invited to share a map or project. Questions? hello@cugos.org
