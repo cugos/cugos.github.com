@@ -11,11 +11,11 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in. If you see nobody around and can't access, call the phone number posted at the door to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
-**Note:** Instead of a regular meeting in December we're meeting at **Stoup Capitol Hill** at **6:00pm on December 17**.
-
 **🎉 Several CUGOS members will share their maps from the [#30DayMapChallenge](https://30daymapchallenge.com/) — come see what everyone made! 🎉**
 
 **[Karsten Vennemann](https://www.terragis.net)** will present selected work from the **[DecLaRe project](https://www.uni-kassel.de/forschung/declare/home.html)** (Decision Support for Strengthening Land Resilience in the Face of Global Challenges) in West Africa, including a decision support system for agricultural crop land suitability and related tools developed for Benin and Ghana. **[Demo site](https://declare.terragis.net/)**.
+
+**[Stephanie May](https://mizmay.com)** will follow up on her talk in September 2025. Thanks to everyone who provided feedback, here's the workshop she presented [at FOSS4G International](https://talks.osgeo.org/foss4g-2025/talk/review/8TBBTUTZYXAZKEPUMPSEUFQQJWFP7PYC) in Auckland, NZ in November, titled "Standalone Web Maps: No Platform Required".
 
 **We'll also hold elections** at this meeting.
 
