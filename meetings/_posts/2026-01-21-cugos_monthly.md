@@ -21,3 +21,18 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **Anyone** is invited to share a map or project. Questions? hello@cugos.org
 
+🎉 **Congratulations to our newly elected board members!** 🎉
+
+There were 23 members present at this meeting. Each candidate briefly stated what they wanted to accomplish on the board before a vote was taken. A candidate was elected if at least 50% of those attending voted affirmative. The voting record was (for/against/abstain):
+
+ - Stephanie May: 21/0/2
+ - Christy Heaton: 21/0/2
+ - Karsten Vennemann: 21/0/2
+ - Nat Henry: 21/0/2
+ - Reily Love: 23/0/0
+ - David Askov: 23/0/0
+ - Ethan Espie: 23/0/0
+ - Stephen Mangum: 23/0/0
+
+All candidates reached the 50% threshold, so all were elected. A future board meeting will determine who has a named position and who is an at-large member.
+
