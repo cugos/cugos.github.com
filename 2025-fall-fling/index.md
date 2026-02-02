@@ -5,7 +5,7 @@ title_small: "2025 Fall Fling"
 title: "CUGOS 2025 Fall Fling"
 event_description: |
   <p>
-    The 2025 Fall Fling was a one-day conference organized by CUGOS and held at the University of Washington in Seattle on November 14, 2025. Open to all, the event welcomed two dozen experts from around the country to share how open source geospatial tools and open data are used to solve a wide range of real world problems. You can watch the full playlist of talks <a href="" target="_blank">on Youtube</a>.
+    The 2025 Fall Fling was a one-day conference organized by CUGOS and held at the University of Washington in Seattle on November 14, 2025. Open to all, the event welcomed two dozen experts from around the country to share how open source geospatial tools and open data are used to solve a wide range of real world problems. You can watch the full playlist of talks <a href="https://www.youtube.com/playlist?list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F" target="_blank">on Youtube</a>.
   </p>
   <p>Many thanks to everyone who helped make this event possible:</p>
   <ul>
