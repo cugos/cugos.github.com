@@ -4,44 +4,45 @@ weight: 1
 title_small: "2025 Fall Fling"
 title: "CUGOS 2025 Fall Fling"
 event_description: |
-  <p>Join CUGOS for our 2025 Fall Fling! This conference is a great opportunity to:</p>
+  <p>
+    The 2025 Fall Fling was a one-day conference organized by CUGOS and held at the University of Washington in Seattle on November 14, 2025. Open to all, the event welcomed two dozen experts from around the country to share how open source geospatial tools and open data are used to solve a wide range of real world problems. You can watch the full playlist of talks <a href="" target="_blank">on Youtube</a>.
+  </p>
+  <p>Many thanks to everyone who helped make this event possible:</p>
   <ul>
-    <li>Find out how open geospatial tools can be used to solve a wide-range of real world problems</li>
-    <li>Learn about new mapping software</li>
-    <li>Discover how companies are integrating location into their products</li>
-    <li>Meet like-minded individuals using maps and data in new and exciting ways</li>
+    <li>Organizers: Keenan Ganz, Christy Heaton, Nat Henry, Karsten Vennemann, Matt Stevenson</li>
+    <li>Volunteers: Ranek Kiil, Fred Lott, Ia Iakobashvili</li>
+    <li>Sponsors: See the full list <a href="#sponsors">below</a>!</li>
   </ul>
-  <p>We welcome all students, professionals, map lovers, coders, and anyone with a passion for learning about spatial information.</p>
 
-event_date: "Friday, November 14, 2025"
-event_time: "9 AM to 5 PM"
-event_location: "Maple Hall Great Room, University of Washington, Seattle"
+event_date: ~
+event_time: ~
+event_location: ~
 
-event_register-url: https://www.eventbrite.com/e/cugos-2025-fall-fling-tickets-1815333745099
+event_register-url: ~
 
 
-markers:
- -  name: "<strong>Maple Hall</strong><br/>University of Washington<br/>1135 NE Campus Pkwy<br/>Seattle, WA 98105"
-    lat: 47.65590055854541
-    lng: -122.3160408010431
-    icon: star
-    color: "#f8a029"
+# markers:
+#  -  name: "<strong>Maple Hall</strong><br/>University of Washington<br/>1135 NE Campus Pkwy<br/>Seattle, WA 98105"
+#     lat: 47.65590055854541
+#     lng: -122.3160408010431
+#     icon: star
+#     color: "#f8a029"
 
 
 schedule:
-  - type: title
-    title: Doors open
-    time: 8:45 AM
-    speaker: All attendees
-    description: |
-      Get a name tag, meet old and new friends, drink a coffee
+  # - type: title
+  #   title: Doors open
+  #   time: 8:45 AM
+  #   speaker: All attendees
+  #   description: |
+  #     Get a name tag, meet old and new friends, drink a coffee
 
-  - type: title
-    title: Welcome to the 2025 Fall Fling!
-    time: 9:15 AM
-    speaker: CUGOS Volunteers
-    description: |
-      Introduction, logistics, raffle prizes
+  # - type: title
+  #   title: Welcome to the 2025 Fall Fling!
+  #   time: 9:15 AM
+  #   speaker: CUGOS Volunteers
+  #   description: |
+  #     Introduction, logistics, raffle prizes
 
   - type: Section Title
     title: "Session: Big ideas in OSGeo"
@@ -49,6 +50,7 @@ schedule:
   - type: Keynote
     title: "Beyond Civic Tech: Public Mechanics Starts at Home"
     time: 9:25 AM
+    video: https://www.youtube.com/watch?v=hnAScuK-oMo&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=1
     speaker: <a href="https://www.ronbronson.design/">Ron Bronson</a>
     bio: |
       <strong>Ron Bronson</strong> brings a unique mix of service design, delivery leadership, and critical urbanism to public sector technology. He led large-scale digital delivery teams in government, most recently at <strong>18F</strong>, and this year launched the all-volunteer <strong>Portland Digital Corps</strong>. He also teaches in the Urban Technology program at the <strong>University of Michigan</strong>.
@@ -58,15 +60,16 @@ schedule:
   - type: Talk
     title: "OpenStreetMap in the hands of students: experiences from CWU"
     time: 9:55 AM
+    video: https://www.youtube.com/watch?v=N8PtY-aqi28&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=2
     speaker: <a href="https://www.cwu.edu/about/directory/geography/sterling-quinn.php">Sterling Quinn</a> | Central Washington University
     bio: |
       <strong>Dr. Sterling Quinn</strong> is an associate professor in the Geography Department at <strong>Central Washington University</strong>. He is interested in the politics of online maps and the human factors that surround FOSS development and adoption. He has published academic papers on the social influences behind crowdsourced projects like OpenStreetMap and Mapillary. Dr. Quinn's commentary has appeared in NPR Marketplace, Al Jazeera, and the Los Angeles Times, and he has been a regular speaker at FOSS4G.
     description: |
       The university classroom can be a place where people get their first introduction to OpenStreetMap (OSM) in an environment where they can receive guidance and feedback about their work. Academic and extracurricular activities with OSM provide students an opportunity to think critically about the crowdsourced data model and ways to add features that offer a high social value to the map. This presentation will share some ways that OSM has been incorporated into the Geography curriculum at Central Washington University (CWU). This includes training students on how to edit OSM, as well as involving students in research that uses, inventories, and builds OSM. We will also show how student coursework and events increased the richness of OSM data in under-mapped communities in the Pacific Northwest.
 
-  - type: title
-    title: ☕ Coffee break
-    time: 10:15 AM
+  # - type: title
+  #   title: ☕ Coffee break
+  #   time: 10:15 AM
 
   - type: Section Title
     title: "Session: Practical mapmaking"
@@ -74,6 +77,7 @@ schedule:
   - type: Talk
     title: Web maps, 2 ways with Streamlit and Pyscript
     time: 10:30 AM
+    video: https://www.youtube.com/watch?v=YCB513gt8tg&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=3
     speaker: Christy Heaton | Woven by Toyota
     bio: |
       <strong>Christy Heaton</strong> is a software engineer with over a decade of experience in Geographic Information Systems (GIS). As president of <strong>CUGOS</strong> (Cascadia Users of Geospatial Open Source), she champions the use of open-source tools for spatial analysis and advocates for Python in geospatial development.
@@ -83,6 +87,7 @@ schedule:
   - type: Talk
     title: "Why I made Sourdough: a new vector tile schema for OpenStreetMap"
     time: 10:50 AM
+    video: https://www.youtube.com/watch?v=cwW64JP7J1U&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=4
     speaker: <a href="https://www.jakelow.com/">Jake Low</a> | <a href="https://openstreetmap.us/">OpenStreetMap US</a>
     bio: |
       <strong>Jake Low</strong> is a software developer and mapmaker based in Seattle. He currently works at <strong>OpenStreetMap US</strong>, supporting MapRoulette, OSMCha, and other community tools. In his spare time, he enjoys hiking and mapping trails in OSM.
@@ -92,6 +97,7 @@ schedule:
   - type: Talk
     title: Workflows and tips for creating nice cartography with QGIS
     time: 11:10 AM
+    video: https://www.youtube.com/watch?v=y5QE-DUcxYw&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=5
     speaker: Karsten Vennemann | <a href="http://terragis.net/">Terra GIS</a>
     bio: |
       <strong>Karsten Vennemann</strong> is a GIS professional with a background in Geography and Soil Science. His work mostly focuses on GIS in the context of natural resources, sustainable development and social justice. In 2007 he started his own company, <strong>Terra GIS</strong>, based in Seattle. He teaches classes in Open Source GIS and a good portion of his consulting work involves creating and supporting Open Source based Web GIS solutions.
@@ -103,15 +109,16 @@ schedule:
   - type: Talk
     title: Using LLMs to enhance your FOSS geodata workflow
     time: 11:30 AM
+    video: https://www.youtube.com/watch?v=cs4czlhgD-0&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=6
     speaker: <a href="https://halmueller.com/">Hal Mueller</a>
     bio: |
       <strong>Hal Mueller</strong> fell into the FOSS4G world in grad school when he used an early version of GRASS to generate habitat datasets for predator/prey modeling. He keeps one foot in the FOSS4G data world and one foot in the Apple ecosystem, incorporating geodata into applications for iPhone, Vision Pro, and web.
     description: |
       Modern LLMs such as ChatGPT and Claude can be effective partners as you assemble and analyze open source geodata, but you need to keep them on a short leash and maintain an understanding of the problem you're trying to solve. We will review case studies you can apply to your work today. You will learn how to use LLMs to construct scripts for data download, webscraping, and data cleanup; to update an obsolete codebase; and to understand the legacy code you just inherited and add features and automated tests. We will look at some LLM blind alleys and explore how to recover from them. Code examples are in Python, C++, Mapserver, and Swift.
 
-  - type: title
-    title: ☕ Quick break
-    time: 11:50 AM
+  # - type: title
+  #   title: ☕ Quick break
+  #   time: 11:50 AM
 
   - type: Section Title
     title: "Morning lightning talks"
@@ -119,6 +126,7 @@ schedule:
   - type: Lightning Talk
     title: So You Want to Revive Your Local Maptime Chapter?
     time: 11:55 AM
+    video: https://www.youtube.com/watch?v=KGdZUj-zItk&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=7
     speaker: Diana Bonnarens | <a href="https://maptimesea.github.io/">MaptimeSEA</a>
     bio: |
       <strong>Diana Bonnarens</strong> (she/her) supports strategic planning at the <strong>Washington State Department of Transportation</strong>, where she applies GIS to analyze and guide long-term facility needs. She holds a Master’s in Geographic Information Science and Technology from USC’s Spatial Sciences Institute and a B.S. in Geology from the University of Washington, fueling her enthusiasm for remote sensing, cartography, and spatial storytelling. Diana relaunched and leads the organizing of <strong>MaptimeSEA</strong> events, fostering an inclusive, hands-on mapping community in the Seattle area.
@@ -128,6 +136,7 @@ schedule:
   - type: Lightning Talk
     title: Access Service Area Lookup
     time: 12:00 PM
+    video: https://www.youtube.com/watch?v=NYAJZXBA6ew&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=8
     speaker: Katia Montgomery | <a href="https://kingcounty.gov/en/dept/metro">King County Metro</a>
     bio: |
       <strong>Katia Montgomery</strong> is a Transportation Planner III with <strong>King County Metro</strong>'s Accessible Services, focused on GIS, Python automation, and SQL analysis for paratransit. She has built tools and web maps that make Access service areas clearer for riders and decision-makers, and is currently developing a Rasa-based Access Assistant to deliver fast, policy-accurate answers.
@@ -137,6 +146,7 @@ schedule:
   - type: Lightning Talk
     title: QGIS for Cadastral Management
     time: 12:05 PM
+    video: https://www.youtube.com/watch?v=wKFZjTyN8js&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=9
     speaker: Steven Cowley | <a href="https://www.hse-us.com/">Heintz Surveying and Engineering</a>
     bio: |
       <strong>Steven Cowley</strong> is a GIS Analyst with over twenty years of experience in the public and private sectors. His area of concentration has been cadastral GIS and often bridges the gap between GIS, Land Surveying and Civil Engineering professionals.
@@ -146,16 +156,17 @@ schedule:
   - type: Lightning Talk
     title: The answer to navigating by foot power
     time: 12:10 PM
+    video: https://www.youtube.com/watch?v=poZnskKZDb4&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=10
     speaker: Nathan Proudfoot | <a href="https://publish.obsidian.md/natfoot/Home">NATFOOT</a>
     bio: |
       <strong>Nathan Proudfoot</strong> is the most prolific Open Street Map editor from the PNW. He is the lead cog at National Association of Travel Fostering Outdoor Opportunities and Trails or <strong>NATFOOT</strong>. He was previously a Google Map Maker Advocate.
     description: |
       This talk describe a FOSS project to unify and expand foot-powered navigation to the masses through marked routes for bicycles and people on foot. The routing standard is taken from the Czech routing system and is the answer to get more people outdoors.
 
-  - type: title
-    title: Lunch
-    time: 12:15 PM
-    description: Catered on-site
+  # - type: title
+  #   title: Lunch
+  #   time: 12:15 PM
+  #   description: Catered on-site
 
   - type: Section Title
     title: "Session: Applied geodata"
@@ -163,6 +174,7 @@ schedule:
   - type: Talk
     title: "Mapping the Invisible Grid: Powering Renewable Energy Development with Open Source GIS"
     time: 1:05 PM
+    video: https://www.youtube.com/watch?v=iFVb-4FGlKw&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=11
     speaker: Kristen Narcisi | <a href="https://www.mgn.energy/">MicroGrid Networks</a>
     bio: |
       <strong>Kristen Narcisi</strong> is Head of Data at <strong>MicroGrid Networks</strong>, a renewable-energy developer and operator focused on advancing battery storage and grid modernization in New York City. Her work bridges data science, GIS, and infrastructure planning, with a focus on using open-source tools to digitize and understand the electric grid. With a background in biomedical informatics, Kristen specializes in transforming fragmented data into actionable insight, supporting both renewable energy development and community engagement around clean energy projects.
@@ -174,6 +186,7 @@ schedule:
   - type: Talk
     title: Electrifying Transportation with eRoadMAP
     time: 1:25 PM
+    video: https://www.youtube.com/watch?v=Sb93LzKgW9c&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=12
     speaker: Matt Stevenson | <a href="https://coregis.net/">CORE GIS</a>
     bio: |
       <strong>Matt Stevenson</strong> is Principal at <strong>CORE GIS</strong>, where he specializes in cartography, spatial analysis, remote sensing, conservation planning, and web mapping. He works primarily with nonprofits and government agencies focused on conservation, natural resources, and public policy.
@@ -183,6 +196,7 @@ schedule:
   - type: Talk
     title: Reviewing coupled GPS and accelerometry data with R-Shiny and FOSS
     time: 1:45 PM
+    video: https://www.youtube.com/watch?v=H6ojJrX8Z-U&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=13
     speaker: Phil Hurvitz | GeoScience Research Labs, LLC
     bio: |
       <strong>Phil Hurvitz</strong> is a geographic information scientist with over 3 decades of experience working in GIS. He is currently employed by the <strong>WA Office of Financial Management</strong> as a Senior Data Scientist in Forecasting and Research Systems (not doing GIS work!). Phil is also principal of <strong>GeoScience Resarch Labs, LLC</strong>, working on projects integrating spatially explicit data with health outcomes. He holds degrees from Seattle University (BA) and the University of Washington (master of forest resources, PhD in urban design and planning).
@@ -192,6 +206,7 @@ schedule:
   - type: Talk
     title: Virtual Plot Alignment for Forest Monitoring
     time: 2:05 PM
+    video: https://www.youtube.com/watch?v=nvKPeXlqWJg&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=14
     speaker: Rachel Deininger | <a href="https://depts.washington.edu/flame/">UW FLAME Lab</a>
     bio: |
       <strong>Rachel Deininger</strong> is a LiDAR analyst in the <strong>Fire, Landscape, and Adaptive Management Lab</strong> at the University of Washington. Her work focuses on using terrestrial LiDAR to study forests.
@@ -201,15 +216,16 @@ schedule:
   - type: Talk
     title: "HexMAPP: Broadband Market Analysis with Open Geospatial Data and Cloud Scale Processing"
     time: 2:25 PM
+    video: https://www.youtube.com/watch?v=Q_2BZ9inCDI&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=15
     speaker: Catherine Crook | <a href="https://www.quantaservices.com/companies/quanta-telecom-solutions">Quanta Services</a>
     bio: |
       <strong>Catherine Crook</strong> is Senior Program Manager at <strong>Quanta Services</strong>, where she leads development of the HexMAPP geospatial analytics platform. She has over 18 years of experience using spatial data and cloud technologies to support infrastructure planning and data-driven decision making.
     description: |
       HexMAPP is a geospatial analytics platform that evaluates broadband infrastructure feasibility across the United States. It combines open geospatial datasets such as FCC Broadband Data Collection, US Census TIGER/ACS, and OpenStreetMap road networks to produce market analyses. Boundaries for analysis are provided by customers when available, and when they are not, HexMAPP uses open-source tools to acquire and process accurate city boundaries. Built on PostGIS hosted via Crunchy Data and supported by scalable processing in Google BigQuery and containerized services, HexMAPP integrates open-source database technology with cloud scale computing. Our four-person team validates all inputs, manages data pipelines, and performs the spatial and financial analytics that power the platform. We also build and maintain the interactive maps in Foursquare Studio and ensure they run reliably from beginning to end. These outputs are rendered in the proprietary HexMAPP application built and supported by our team. This presentation will provide an overview without disclosing proprietary workflows.
 
-  - type: title
-    title: ☕ Coffee break
-    time: 2:45 PM
+  # - type: title
+  #   title: ☕ Coffee break
+  #   time: 2:45 PM
 
   - type: Section Title
     title: "Afternoon lightning talks"
@@ -217,6 +233,7 @@ schedule:
   - type: Lightning Talk
     title: Great Data Products
     time: 3:00 PM
+    video: https://www.youtube.com/watch?v=dECG6_8lh30&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=16
     speaker: Jed Sundwall | <a href="https://radiant.earth/">Radiant Earth</a> and <a href="https://techsontexts.net/">Techs on Texts</a>
     bio: |
       <strong>Jed Sundwall</strong> works at the intersection of data, product development, cloud computing, economics, and policy. He has taught at the <strong>Yale Jackson School of Global Affairs</strong>, is a technical fellow at the <strong>Taylor Geospatial Engine</strong>, and advises the <strong>Flickr Foundation</strong>. Before joining <strong>Radiant Earth</strong>, he created the AWS Open Data Program. He also produces <strong>Techs on Texts</strong>, a podcast about the intersection of literature and technology.
@@ -226,6 +243,7 @@ schedule:
   - type: Lightning Talk
     title: Illuminating Historic US Energy Use
     time: 3:05 PM
+    video: https://www.youtube.com/watch?v=0pDTuJ3ACbo&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=17
     speaker: Emily Spahn | <a href="https://doublestopconsulting.com/">Double Stop Consulting</a>
     bio: |
       <strong>Emily Spahn</strong> is a data scientist and software developer with a background in environmental engineering. She provides technical solutions in the areas of data, environment, and computing through <strong>Double Stop Consulting</strong>.
@@ -235,6 +253,7 @@ schedule:
   - type: Lightning Talk
     title: Visualizing Oregon’s Maternal Care Access
     time: 3:10 PM
+    video: https://www.youtube.com/watch?v=23cXtJU8cus&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=18
     speaker: <a href="https://www.meghanbausone.com/">Meghan Bausone</a> | <a href="https://digitalcorpspdx.org/">PDX Digital Corps</a>
     bio: |
       <strong>Meghan Bausone</strong> is a designer who focuses on the intersection of design, technology, and maternal health by leveraging research and design strategy to innovate maternal healthcare experiences at a systems level. She is currently pursuing a Doctor of Design (DDes) at NC State’s College of Design, where her research explores maternal health systems in rural communities.
@@ -249,6 +268,7 @@ schedule:
   - type: Talk
     title: Model-Based Geostatistics
     time: 3:15 PM
+    video: https://www.youtube.com/watch?v=F0VhbmkRA-Q&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=19
     speaker: <a href="https://nathenry.com/">Nat Henry</a> | <a href="https://henryspatialanalysis.com/">Henry Spatial Analysis</a>
     bio: |
       <strong>Dr. Nat Henry</strong> is a professional geographer and the Director of <strong>Henry Spatial Analysis</strong>. His public health and urban mobility work has been featured in Nature, The Lancet, Bloomberg CityLab, and on the front pages of The New York Times and The Seattle Times.
@@ -258,6 +278,7 @@ schedule:
   - type: Talk
     title: "Dead trees and where to find them: predicting forest mortality in the western United States"
     time: 3:35 PM
+    video: https://www.youtube.com/watch?v=H8UHLIq0Ybg&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=20
     speaker: Keenan Ganz | University of Washington
     bio: |
       <strong>Keenan Ganz</strong> is a PhD student in the <strong>UW School of Environmental and Forest Sciences</strong>. He uses remote sensing data to study how forests respond to drought.
@@ -267,6 +288,7 @@ schedule:
   - type: Talk
     title: Identifying environmental drivers of <i>Aedes aegypti</i> and <i>Aedes albopictus</i> abundance in the Dallas-Fort Worth metroplex using Random Forest modeling
     time: 3:55 PM
+    video: https://www.youtube.com/watch?v=_DLGovFM3RM&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=21
     speaker: Nathanial O'Dell | UW Department of Epidemiology
     bio: |
       <strong>Nathanial O'Dell</strong> is a second year Epidemiology MPH student in the <strong>UW School of Public Health</strong>. His work revolves around using spatiotemporal data to describe trends in vector ecology, specifically as it pertains to <i>Aedes aegypti</i> in the United States.
@@ -278,18 +300,19 @@ schedule:
   - type: Talk
     title: Estimating Structurally Complex Forests in Western Washington with Remote Sensing
     time: 4:15 PM
+    video: https://www.youtube.com/watch?v=Eye8N_lyaYg&list=PLOGHIiOJVqag5fJ7CfAikccCUh7ABsz9F&index=22
     speaker: Ethan Hughes | <a href="https://dnr.wa.gov/">WA State Department of Natural Resources</a>
     bio: |
       <strong>Ethan Hughes</strong> works as the WA State Forest Biometrician for the <strong>WA State Department of Natural Resources</strong>. His background is in remote sensing algorithm development.
     description: |
       The Washington State Department of Natural Resources (DNR) is tasked with identifying, mapping, and projecting structurally complex forest (SCF) conditions across its westside forest lands. This work uses DNR’s remotely-sensed forest inventory system (RS-FRIS)—a height-driven dataset based on aerial photogrammetry— and ground truth plots to train, test, and apply models that classify forestland as SCF or not. This study has two main objectives: (1) assess whether models developed from RS-FRIS could reliably detect SCF across DNR-managed forest lands in western Washington, and (2) compare these RS-FRIS-derived results with other mapping efforts using different methodologies. Over 2200 field plots were sampled to train and test the SCF model. Results indicated RS-FRIS metrics ascribing canopy layers and a measure of mean tree diameter were most effective in identifying SCF from simpler forest structures. The final SCF forest model has a balanced accuracy of 81±1% and predicts 345k acres (23% of Western WA DNR forest lands) as SCF.
 
-  - type: title
-    title: Conclusion and Announcements
-    time: 4:35 PM
-    speaker: CUGOS volunteers
-    description: |
-        Conclusion of the 2025 CUGOS Fall Fling, announcement of raffle winners and happy hour location
+  # - type: title
+  #   title: Conclusion and Announcements
+  #   time: 4:35 PM
+  #   speaker: CUGOS volunteers
+  #   description: |
+  #       Conclusion of the 2025 CUGOS Fall Fling, announcement of raffle winners and happy hour location
 
 event_sponsors_gold:
   - image: /image/2025fallfling/sponsor-esa.png
