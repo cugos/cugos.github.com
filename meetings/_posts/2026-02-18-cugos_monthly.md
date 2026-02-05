@@ -13,4 +13,6 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **[Nat Henry](https://nathenry.com/)** will lead a discussion about how CUGOS can better serve its members and reach new people. Please bring your ideas for brainstorming! We will follow up this discussion with a group-wide survey after the meeting.
 
+**[Matt Kenny](https://github.com/mattmakesmaps)** will share a workshop his team put together on Spatial Data Science workflows in the cloud, and [some thoughts](https://mattmakesmaps.com/blog/2026-02-03-Running-A-Python-Workshop/) on best practices for running a Python workshop in general.
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
