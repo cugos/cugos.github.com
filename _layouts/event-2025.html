@@ -51,6 +51,9 @@ nav {
   color: #1F3C3D;
   background: #DCF81F;
 }
+.fall-fling-header a {
+  color: #ffcc00;
+}
 
 .fall-fling-nav {
   text-align: center;
@@ -145,6 +148,11 @@ nav {
   font-size: 85%;
   color: #444;
 }
+.sf-schedule-slides, .sf-schedule-video {
+  color: #333;
+  font-weight: 400;
+}
+
 .sf-description.talk {}
 .sf-schedule-speaker {
   color: #999;
@@ -175,13 +183,14 @@ nav {
     {% if page.announcement %}<div class="fall-fling-announcement">{{ page.announcement }}</div>{% endif %}
     <p>{{ page.event_description }}</p>
     <p>
-      <strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>
-      <strong>Where?</strong> {{ page.event_location }}<br>
-      <strong>How?</strong>
-      {% if page.event_register-url %}
-        <a class="fall-fling-register" href="{{ page.event_register-url }}">Register here!</a><br>
-      {% else %}
-        <i>Event registration opens soon!</i>
+      {% if page.event_date %}<strong>When?</strong> {{ page.event_date }}, {{ page.event_time }}<br>{% endif %}
+      {% if page.event_location %}<strong>Where?</strong> {{ page.event_location }}<br>{% endif %}
+      {% if page.date %}<strong>How?</strong>
+        {% if page.event_register-url %}
+          <a class="fall-fling-register" href="{{ page.event_register-url }}">Register here!</a><br>
+        {% else %}
+          <i>Event registration opens soon!</i>
+        {% endif %}
       {% endif %}
     </p>
   </div>
@@ -197,7 +206,7 @@ nav {
     <a href="#schedule">Schedule</a>
   {% endif %}
   <a href="#sponsors">Sponsors</a>
-  <a href="#volunteer">Volunteer</a>
+  <!-- <a href="#volunteer">Volunteer</a> -->
   <a href="#location">Location</a>
   <a href="/code-of-conduct" target="_blank">Code of Conduct</a>
 </div>
@@ -224,11 +233,22 @@ nav {
           {% if item.type == "Section Title" %}
             <p class="sf-schedule-section-title">{{ item.title }}</p>
           {% else %}
-            <p class="sf-schedule-title">{{ item.title }}</p>
+            <p class="sf-schedule-title">
+              {{ item.title }}
+              {% if item.slides %}
+                <span class="sf-schedule-slides">|
+                  <a href="{{ item.slides }}" target="_blank">Slides</a>
+                </span>
+              {% endif %}
+              {% if item.video %}
+                <span class="sf-schedule-video">|
+                  <a href="{{ item.video }}" target="_blank">Recording</a>
+                </span>
+              {% endif %}
+            </p>
           {% endif %}
-          {% if item.slides %}<p class="sf-schedule-slides"><a href="{{ item.slides }}">Slides</a></p>{% endif %}
-          {% if item.room %}<p class="sf-schedule-room">{{ item.room }}</p>{% endif %}
           {% if item.speaker %}<p class="sf-schedule-speaker">{{ item.speaker }}</p>{% endif %}
+          {% if item.room %}<p class="sf-schedule-room">{{ item.room }}</p>{% endif %}
           {% if item.bio %}<p class="sf-schedule-bio">{{ item.bio }}</p><br/>{% endif %}
           {% if item.description %}<p class="sf-schedule-description">{{ item.description }}</p>{% endif %}
         </div>
@@ -267,17 +287,17 @@ nav {
       {% include event-sponsor.html sponsors=page.event_sponsors_friends title="Friends of the Fling" color="text-bronze" %}
     {% endif %}
 
-    <p style="padding-top: 2em;">Interested in sponsoring this event? Send us a message at <a href="mailto:hello@cugos.org">hello@cugos.org</a>.</p>
+    <!-- <p style="padding-top: 2em;">Interested in sponsoring this event? Send us a message at <a href="mailto:hello@cugos.org">hello@cugos.org</a>.</p> -->
 
   </div>
 </section>
 
-<section id="volunteer" class="fall-fling-section">
+<!-- <section id="volunteer" class="fall-fling-section">
   <div class="container">
     <span class="fall-fling-section-header">Volunteer</span>
     <p>We are a small team of CUGOS regulars focused on putting together a great event for the broader geospatial community. Interested in helping out? Send us a message at <a href="mailto:hello@cugos.org">hello@cugos.org</a>.</p>
   </div>
-</section>
+</section> -->
 
 <section id="location" class="fall-fling-section white">
   <div class="container">
