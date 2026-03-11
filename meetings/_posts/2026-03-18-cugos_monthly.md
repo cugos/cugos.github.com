@@ -23,4 +23,6 @@ By popular demand, we are doing **lightning talks** this month! Here's how it wo
 
 ## Lightning talk topics
 
-_Coming soon!_
+ * [Keenan Ganz](https://s-kganz.github.io/): the USFS TreeMap dataset and the "missing link" between tabular and raster data.
+
+_More coming soon!_
