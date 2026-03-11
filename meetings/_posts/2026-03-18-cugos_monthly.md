@@ -23,6 +23,8 @@ By popular demand, we are doing **lightning talks** this month! Here's how it wo
 
 ## Lightning talk topics
 
- * [Keenan Ganz](https://s-kganz.github.io/): the USFS TreeMap dataset and the "missing link" between tabular and raster data.
+ * [Keenan Ganz](https://s-kganz.github.io/): the USFS TreeMap dataset and the "missing link" between tabular and raster data
+ * [Stephen Mangum](https://www.stephenmangum.com/): working with QGIS print layouts
+ * [Nat Henry](https://nathenry.com/): Measuring turnover in OpenStreetMap points of interest using changesets
 
 _More coming soon!_
