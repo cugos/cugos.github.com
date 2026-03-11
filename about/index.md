@@ -30,13 +30,14 @@ Bylaws
 
 Current CUGOS board
 =======
-Elected in the monthly CUGOS meeting [January 15th 2025](https://cugos.org/meetings/2025-01-15/). Board positions were determined in the [board meeting on February 3rd 2025](https://cugos.org/notes/2025-02-03/)
+Elected in the monthly CUGOS meeting [January 21th 2026](https://cugos.org/meetings/2026-01-21/). Board positions were determined in the [board meeting on February 4th 2026](https://cugos.org/notes/2026-02-04/)
 
-* President - Christy Heaton
-* Vice President - Matt Stevenson
-* Secretary - Keenan Ganz
-* Treasurer - [Nat Henry](https://henryspatialanalysis.com)
-* Board member at large - Ben Silver
+* President - [Nat Henry](https://henryspatialanalysis.com)
+* Vice President - Stephen Mangum
+* Secretary - David Askov
+* Treasurer - Ethan Espie
+* Board member at large - Reily Love
+* Board member at large - Stephanie May
 * Board member at large - [Karsten Vennemann](https://www.osgeo.org/member/vennemann/)
 
 Incorporation Documents
