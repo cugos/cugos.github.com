@@ -27,6 +27,7 @@ By popular demand, we are doing **lightning talks** this month! Here's how it wo
  * [Stephen Mangum](https://www.stephenmangum.com/): working with QGIS print layouts
  * [Nat Henry](https://nathenry.com/): Measuring turnover in OpenStreetMap points of interest using changesets
  * [Karsten Vennemann](https://www.terragis.net/): PostGIS is Cool – A Few Ways to Use It Like a Geo Ninja.
- * [Anthony Lukach](https://alukach.com): applying nuanced auth policies to STAC APIs 
+ * [Anthony Lukach](https://alukach.com): applying nuanced auth policies to STAC APIs
+ * [Ryan Small](https://github.com/foundatron/octopusgarden): Software Dark Factories
 
 _More coming soon!_
