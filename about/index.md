@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-weight: 7
+weight: 2
 sidebar:
   - contact
   - coc
