@@ -264,6 +264,49 @@ nav {
   }
 }
 
+/* DROPDOWN */
+#menu .dropdown-menu {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#menu .dropdown-menu li {
+  padding-left: 1.6em;
+}
+@media screen and (min-width:41em) {
+  #menu li.dropdown {
+    position: relative;
+  }
+  #menu .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #3f75a2;
+    padding: 0.4em 0;
+    min-width: 7em;
+    z-index: 100;
+  }
+  #menu li.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  #menu .dropdown-menu li {
+    display: block;
+    padding: 0 0.8em;
+  }
+  #menu .dropdown-menu li a {
+    display: block;
+    white-space: nowrap;
+    border-bottom: none;
+    text-align: center;
+  }
+  #menu .dropdown-menu li:hover a {
+    border-bottom: none;
+    font-weight: 900;
+  }
+}
+
 
 /* HOMEPAGE */
 .home .cugos-svg {
