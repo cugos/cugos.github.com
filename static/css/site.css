@@ -242,7 +242,8 @@ nav {
   #menu {
     margin:0;
     padding:0;
-    display: inline-block;
+    display: flex;
+    align-items: center;
     float: right;
   }
   #menu-expand {
