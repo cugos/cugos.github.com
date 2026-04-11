@@ -16,7 +16,8 @@
 
         {% comment %} Additionally, if weight = 5, add the past flings dropdown menu {% endcomment %}
         {% if weight == 5 %}
-          <li class="dropdown {% if page.url contains 'fling' %}active{% endif %}">
+          {% assign fling_urls = site.flings | map: 'url' %}
+          <li class="dropdown {% if fling_urls contains page.url %}active{% endif %}">
             <a>Flings <i class="fa fa-caret-down"></i></a>
             <ul class="dropdown-menu">
               {% for fling in site.flings %}
