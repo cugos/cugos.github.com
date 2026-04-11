@@ -17,7 +17,7 @@
         {% comment %} Additionally, if weight = 5, add the past flings dropdown menu {% endcomment %}
         {% if weight == 5 %}
           <li class="dropdown {% if page.url contains 'fling' %}active{% endif %}">
-            <a href="/2025-fall-fling/">Flings <i class="fa fa-caret-down"></i></a>
+            <a>Flings <i class="fa fa-caret-down"></i></a>
             <ul class="dropdown-menu">
               {% for fling in site.flings %}
               <li><a href="{{ fling.url }}">{{ fling.year }}</a></li>
