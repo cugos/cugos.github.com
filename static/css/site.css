@@ -216,7 +216,7 @@ nav {
   padding:.6em 0;
   border-bottom: 2px solid transparent;
 }
-#menu li:hover a {
+#menu li:not(.dropdown):hover a {
   border-bottom: 2px solid white;
 }
 #menu li.active a {
