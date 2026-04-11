@@ -219,7 +219,7 @@ nav {
 #menu li:not(.dropdown):hover a {
   border-bottom: 2px solid white;
 }
-#menu li.active a {
+#menu li.active > a {
   font-weight:900;
 }
 
