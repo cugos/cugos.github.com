@@ -30,7 +30,7 @@ Bylaws
 
 Current CUGOS board
 =======
-Elected in the monthly CUGOS meeting [January 21th 2026](https://cugos.org/meetings/2026-01-21/). Board positions were determined in the [board meeting on February 4th 2026](https://cugos.org/notes/2026-02-04/)
+Elected in the monthly CUGOS meeting [January 21th 2026](https://cugos.org/meetings/2026-01-21/). Board positions were determined in the [board meeting on February 4th 2026](https://cugos.org/notes/2026-02-04/). You can also read the notes from our [April 8th 2026 board meeting](https://cugos.org/notes/2026-04-08/).
 
 * President - [Nat Henry](https://henryspatialanalysis.com)
 * Vice President - Stephen Mangum
