@@ -14,7 +14,7 @@ projects:
     title: Bboxfinder
     description: Find your bounding box!
     url: http://bboxfinder.com/
-    github: https://github.com/aaronr/bboxfinder.com
+    github: https://github.com/cugos/bboxfinder.com
  -
     title: Dropchop
     description: Turf.js Playground
