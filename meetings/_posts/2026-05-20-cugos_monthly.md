@@ -12,4 +12,6 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 ---
 **[Keenan Ganz](https://s-kganz.github.io)** will talk about converting an archive of radar imagery from a legacy storage format (NetCDF) to a cloud-optimized format (Zarr). This will be a 201-level follow-up to last month's talk about cloud-native geospatial, with more details on chunking, I/O rates, and of course, dead trees.
 
+**[Dusty Pilkington](https://github.com/pilkingtongeospatial/)** will present [VoterMap](https://github.com/pilkingtongeospatial/voter_map), an all-in-one map interface for accessing voter information.
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
