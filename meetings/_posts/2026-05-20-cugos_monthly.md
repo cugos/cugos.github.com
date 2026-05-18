@@ -14,4 +14,6 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **[Dusty Pilkington](https://github.com/pilkingtongeospatial/)** will present [VoterMap](https://github.com/pilkingtongeospatial/voter_map), an all-in-one map interface for accessing voter information.
 
+**[Jared Hwang](https://jared-hwang.github.io/)**, UW PhD student, will present BikeButler ([project page](https://makeabilitylab.cs.washington.edu/project/bikebutler/), [demo](https://bikebutler.cs.washington.edu/)), a tool for generating personalized, context-sensitive bike routes.
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
