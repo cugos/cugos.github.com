@@ -3,17 +3,31 @@
     <a id="brand-logo" href="/">CUGOS {% include cugos-svg-logo.html %}</a>
     <button id="menu-expand"><i class="fa fa-bars"></i></button>
     <ul id="menu">
-      {% for weight in (0..10) %}{% for p in site.pages %}{% if p.weight == weight %}
-      <li class="{% if p.url == page.url %}active{% endif %} {{ p.nav_class }}">
-        <a href="{{ p.url }}">
-          {% if p.title_small %}
-            {{ p.title_small }}
-          {% else %}
-            {{ p.title }}
+      {% for weight in (0..10) %}
+        {% for p in site.pages %}
+          {% if p.weight == weight %}
+            <li class="{% if p.url == page.url %}active{% endif %} {{ p.nav_class }}">
+              <a href="{{ p.url }}">
+                {% if p.title_small %}{{ p.title_small }}{% else %}{{ p.title }}{% endif %}
+              </a>
+            </li>
           {% endif %}
-        </a>
-      </li>
-      {% endif %}{% endfor %}{% endfor %}
+        {% endfor %}{% comment %} End page loop {% endcomment %}
+
+        {% comment %} Additionally, if weight = 5, add the past flings dropdown menu {% endcomment %}
+        {% if weight == 5 %}
+          {% assign fling_urls = site.flings | map: 'url' %}
+          <li class="dropdown {% if fling_urls contains page.url %}active{% endif %}">
+            <a>Flings <i class="fa fa-caret-down"></i></a>
+            <ul class="dropdown-menu">
+              {% for fling in site.flings %}
+              <li><a href="{{ fling.url }}">{{ fling.year }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endif %} {% comment %} End of fling loop {% endcomment %}
+
+      {% endfor %} {% comment %} End weight loop {% endcomment %}
     </ul>
   </div>
 </nav>

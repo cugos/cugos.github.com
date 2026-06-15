@@ -7,3 +7,16 @@ future: true
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year-:month-:day/
+flings:
+  - year: 2025
+    url: /2025-fall-fling/
+  - year: 2023
+    url: /2023-spring-fling/
+  - year: 2019
+    url: /2019-fall-fling/
+  - year: 2017
+    url: /2017-spring-fling/
+  - year: 2016
+    url: /2016-spring-fling/
+  - year: 2015
+    url: /2015-spring-fling/

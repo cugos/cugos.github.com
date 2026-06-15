@@ -1,43 +1,30 @@
-cugos.github.com
-================
+# cugos.github.com
 
 The CUGOS website source. *Your home away from home.*
 
-## Contributing
+## Community
 
-**Editing Content**   
-All of our meeting updates and blog posts are curated through these files. Check out [the wiki](https://github.com/cugos/cugos.github.com/wiki/Editing-The-Website) for details on how the website works and how to edit or add content.
+Join us on [Slack](https://join.slack.com/t/cugos/shared_invite/enQtNjcwMjIyNDg3MjY4LWM2NzY1NjAwZmNmZGU3ZjFkYjNhZjdjYjY2NWI4NGJkY2I4OGE2MDJjZTRmNDkwMjM2MTRiZGIyMThkMzNiYWU) for questions, discussion, and updates.
 
-**Site Development**   
-The site is built on [Jekyll](http://jekyllrb.com/) and [Github Pages](https://pages.github.com/), while the template files, [JavaScript](https://github.com/cugos/cugos.github.com/tree/master/js), and [CSS](https://github.com/cugos/cugos.github.com/blob/master/css/site.css) are all hand-rolled by the members of CUGOS.
+## Adding Yourself to a Meeting Agenda
 
-If you're interested in helping out with the development of the site, please feel free to fork and edit locally before creating a pull-request. The following steps assume you have [Jekyll 2.0 installed](http://jekyllrb.com/docs/installation/) (including jekyll-sitemap, perhaps by: *gem install jekyll-sitemap*) and running properly on your machine. *Note: If you'd like edit access to this repository to skip the forking and pulling process, send an email to **hello@cugos.org** and we'll get you set up!*
+Meeting agendas live in [`meetings/_posts/`](https://github.com/cugos/cugos.github.com/tree/main/meetings/_posts). Files are named `YYYY-MM-DD-meeting.md` and sorted by date, the most recent is at the bottom.
 
-1. **[Fork](https://github.com/cugos/cugos.github.com/fork)** this repository into your own working repo
-1. **Clone** your newly created repository into your local machine
-1. **Navigate** into the newly created `cugos.github.com` directory.
-1. **Run jekyll**, which will serve the site at `localhost:4000` and watch for changes.
-1. **Commit** and **push** your changes to your forked repository
-1. Create a **pull request** to merge your changes into the cugos master repository!
-1. Have a beer!
+1. Open the current month's meeting file and click the pencil (edit) icon
+2. Add your name, topic, or agenda item using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+3. Add a short commit message describing your change and click **Commit changes**
 
-Command line steps after forking the repository:
+Click **Commit changes...** and GitHub will walk you through how to open a pull request.
 
-```
-git clone https://github.com/YOUR-USERNAME/cugos.github.com.git
-cd cugos.github.com
-jekyll serve --watch
-```
+To join the CUGOS GitHub organization and skip the fork step in the future, reach out on Slack or email [hello@cugos.org](mailto:hello@cugos.org).
 
-*...make changes...*   
+## Site Development
 
-```
-git add --all
-git commit -m 'YOUR COMMIT MESSAGE'
-git push origin master
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local setup and the full contribution workflow.
 
-*Create a pull request between your repository and this repository.*
+## Code of Conduct
+
+All contributors are expected to follow the [CUGOS Code of Conduct](https://cugos.org/code-of-conduct).
 
 ## Attribution
 
@@ -46,5 +33,3 @@ git push origin master
 * Jekyll
 * jQuery
 * [Homepage Mountains](https://flic.kr/p/5UJi5S) photo by [Jeff P](https://www.flickr.com/photos/jeffpang/) | CC Attribution 2.0 Generic[*](https://creativecommons.org/licenses/by/2.0/)
-
-:+1:

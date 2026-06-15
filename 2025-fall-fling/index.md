@@ -1,6 +1,6 @@
 ---
 layout: event-2025
-weight: 1
+weight: ~
 title_small: "2025 Fall Fling"
 title: "CUGOS 2025 Fall Fling"
 event_description: |
