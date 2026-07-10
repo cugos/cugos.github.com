@@ -11,4 +11,6 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in at the entrance near the bike shelter at the northwest corner of the building. If you see nobody around and can't access, ping the CUGOS Slack to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
+**[Michael Vaux](https://www.linkedin.com/in/michael-vaux-a17696103/)** will discuss his recent work identifying salmon from drones in Alaska 🐟
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
