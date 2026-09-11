@@ -1,14 +1,14 @@
 ---
 layout: meeting
 title: September 16th, 2026
-location: Bloedel Hall Room 292, University of Washington
-address: Seattle, WA 98195
+location: Seattle Public Library, Greenlake Branch
+address: Seattle, WA 98115
 time: 6:00pm-7:30pm
 excerpt: September 16th, 2026 CUGOS Monthly Meeting
-lat: 47.65137
-lng: -122.30795
+lat: 47.681502
+lng: -122.326664
 category: meetings
-notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in at the entrance near the bike shelter at the northwest corner of the building. If you see nobody around and can't access, ping the CUGOS Slack to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
+notes: 1 km walk from Roosevelt Station and also accessible from 65 and 45 bus routes. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
 **[Michael Vaux](https://www.linkedin.com/in/michael-vaux-a17696103/)** will discuss his recent work identifying salmon from drones in Alaska 🐟
