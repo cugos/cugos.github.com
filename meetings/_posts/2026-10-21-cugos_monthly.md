@@ -15,4 +15,6 @@ notes: The building is locked after 5pm. Someone will be there 5-10 minutes unti
 
 **Aaron Schechter** will talk about his upcoming [Maptime](https://maptimeseattle.org/) presentation, a tutorial on data analysis and mapping in Python using a Vehicle Miles Traveled dataset. 
 
+**Over ten ferry operators run in the Salish Sea**, and none of them map the others. This talk by [Ivan Storck](https://ivanstorck.com) covers a single open-source [map](https://salishseaferrymap.com) of all 37 routes: hand-curated GeoJSON, MapLibre, OSM, and live WSF vessels. It also gets into what's still hard, like routing lines over water and getting to print. Code and data are on GitHub, and [contributions](https://github.com/ivanoats/Salish-Sea-Ferry-Map) are welcome.
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
