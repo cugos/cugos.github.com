@@ -38,4 +38,6 @@ This is a work in progress, and Adam wants your help. Poke holes in it and help 
 
 *Architecture docs and more details will be posted before the meeting.*
 
+[Keenan Ganz](s-kganz.github.io) will also present some recent tinkering on serving virtual zarr stores of data from the soon-to-be-deorbited MODIS instruments.
+
 **[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
