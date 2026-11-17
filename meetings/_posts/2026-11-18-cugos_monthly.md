@@ -11,6 +11,12 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in at the entrance near the bike shelter at the northwest corner of the building. If you see nobody around and can't access, ping the CUGOS Slack to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
+<div markdown="1" style="border:2px solid #75a23f; border-left-width:8px; border-radius:4px; padding:2px 1.2em; margin:0 0 1.5em 0;">
+
+**New: everything for this talk is in one place.** Go to **[mapsimple.org/cugos](https://mapsimple.org/cugos)** to get a free access key, open the demo, read the architecture docs, and find the slides after the meeting.
+
+</div>
+
 **Ask an AI how many miles of road your county maintains and you'll get one confident number. Ask a GIS professional and you'll get "well, it depends."**
 
 [Adam Cabrera](https://www.linkedin.com/in/adam-cabrera) will share an early look at GeoProof and ProofSimple, two open-source projects in the [MapSimple](https://mapsimple.org/) suite that tackle this in a way one person can set up, deploy, and keep running.
@@ -35,8 +41,6 @@ This is a work in progress, and Adam wants your help. Poke holes in it and help 
 
 - **[FuseSimple](https://github.com/MapSimple-Org/FuseSimple-Public)** drops a free PMTiles basemap underneath your existing Esri MapView. Your feature layers, widgets, popups, and auth all still work. You just stop paying for basemap tile credits. One import, one function call. Live demos: [King County parcels](https://fusesimple.mapsimple.org/demos/king-county.html), [PNW power plant clustering](https://fusesimple.mapsimple.org/demos/clustering.html), [LA Metro buses in real time](https://fusesimple.mapsimple.org/demos/la-buses.html).
 - **[FeedSimple](https://github.com/MapSimple-Org/ExB-Simple-Public)** is an Experience Builder widget that connects a [live feed](https://feed-quakes.mapsimple.org/) to your map.
-
-*Architecture docs and more details will be posted before the meeting.*
 
 [Keenan Ganz](s-kganz.github.io) will also present some recent tinkering on serving virtual zarr stores of data from the soon-to-be-deorbited MODIS instruments.
 
