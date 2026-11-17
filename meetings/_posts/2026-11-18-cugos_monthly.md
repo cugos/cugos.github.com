@@ -11,11 +11,22 @@ category: meetings
 notes: The building is locked after 5pm. Someone will be there 5-10 minutes until 6pm to let us in at the entrance near the bike shelter at the northwest corner of the building. If you see nobody around and can't access, ping the CUGOS Slack to be let in. We will adjourn to a nearby pub for a happy hour after the meeting!
 ---
 
-<div markdown="1" style="border:2px solid #75a23f; border-left-width:8px; border-radius:4px; padding:2px 1.2em; margin:0 0 1.5em 0;">
+Join us on Wednesday! We have a fun agenda lined up:
+- Ethan Espie will share some highlights from FOSS4G-NA 🌎
+- Adam Cabrera will share a sneak peek of two MapSimple tools that automatically check the provenance and accuracy of geospatial data 🔍
+- Doctor [Keenan Ganz](s-kganz.github.io) will present some recent tinkering on serving virtual zarr stores of data from the soon-to-be-deorbited MODIS instruments 🌠
+- If anyone has been doing the #30DayMapChallenge, bring some of your favorites so we can ooh and ahh over them 🎨
+
+**[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
+
+Other announcements:
+- The Q4 CUGOS Board Meeting is happening November 19, 2026 at 4 pm, meeting location and invite goes out via the Google Group
+- Stay tuned and RSVP for our December social next month ❄️
+- We're starting up planning for a 2027 Spring Fling. If anyone is interested in joining the planning committee, please let Nat Henry or Ethan Espie know!
+
+More info from Adam Cabrera of MapSimple about what they've got going on:
 
 **New: everything for this talk is in one place.** Go to **[mapsimple.org/cugos](https://mapsimple.org/cugos)** to get a free access key, open the demo, read the architecture docs, and find the slides after the meeting.
-
-</div>
 
 **Ask an AI how many miles of road your county maintains and you'll get one confident number. Ask a GIS professional and you'll get "well, it depends."**
 
@@ -41,7 +52,3 @@ This is a work in progress, and Adam wants your help. Poke holes in it and help 
 
 - **[FuseSimple](https://github.com/MapSimple-Org/FuseSimple-Public)** drops a free PMTiles basemap underneath your existing Esri MapView. Your feature layers, widgets, popups, and auth all still work. You just stop paying for basemap tile credits. One import, one function call. Live demos: [King County parcels](https://fusesimple.mapsimple.org/demos/king-county.html), [PNW power plant clustering](https://fusesimple.mapsimple.org/demos/clustering.html), [LA Metro buses in real time](https://fusesimple.mapsimple.org/demos/la-buses.html).
 - **[FeedSimple](https://github.com/MapSimple-Org/ExB-Simple-Public)** is an Experience Builder widget that connects a [live feed](https://feed-quakes.mapsimple.org/) to your map.
-
-[Keenan Ganz](s-kganz.github.io) will also present some recent tinkering on serving virtual zarr stores of data from the soon-to-be-deorbited MODIS instruments.
-
-**[@you](/people/)** Introduce yourself! Or re-introduce yourself! Tell us about something cool you are working on, playing with, or otherwise inspires or puzzles you. To get on the agenda, you can [edit this page](https://github.com/cugos/cugos.github.com?tab=readme-ov-file#contributing), or send us an email: [hello@cugos.org](mailto:hello@cugos.org)
